@@ -5,7 +5,6 @@
   },
   "deploy": {
     "startCommand": "markitdown-mcp --http --host 0.0.0.0 --port 3001",
-    "healthcheckPath": "/",
     "restartPolicyType": "ON_FAILURE"
   }
 }
