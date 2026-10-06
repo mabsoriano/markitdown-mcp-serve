@@ -14,3 +14,4 @@
 | 2026-10-06 | Instagram (transcripción C) | apify/instagram-reel-scraper | fLJ5lRO8DOedbkrHT | MLRyGbWsBWdPCdpxv | 3 reels | ~$0.39 USD | ✅ Terminada |
 | 2026-10-06 | Facebook (transcripción C) | automation-lab/facebook-video-transcript-extractor | pIU3exL6AyzwVcGJS | Q0vrkotTQt1ptNyZh | 14 reels | ~$0.34 USD | ⛔ Cortada por Apify: límite mensual de uso alcanzado · se guardaron 4 de 14 |
 | 2026-10-06 | Facebook (transcripción C) | automation-lab/facebook-video-transcript-extractor | rDe5fyPKKtTgqOHi3 | cvNmk8354GQjrQMZQ | 13 reels | ~$0.32 USD | ⛔ Cortada por Apify: límite mensual de uso alcanzado · se guardaron 6 de 13 |
+| 2026-10-06 | TikTok (transcripción C) | vidIQ · watch_shortform_content (no es Apify) | 15 jobs | — | 15 videos | 150 créditos vidIQ ($0 extra) | ✅ Terminada · transcripción + primeros 3 s + texto en pantalla |
