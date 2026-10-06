@@ -113,3 +113,29 @@ X no se estudia.
    largo. Se recolecta de nuevo cada 2 semanas.
 5. **Rutina automática:** cada domingo a las 5:54 pm (Monterrey) se
    escriben los 21 guiones de la semana. Ver `rutina-semanal.md`.
+
+## "rutina semanal" (cuando Mabel lo pida)
+Mi rol aquí también es de **community manager**. Cuando Mabel escribe
+**"rutina semanal"**, hago estos 5 pasos, en este orden:
+
+1. **RE-RECOLECTA:** corro de nuevo los actores de Apify de este archivo,
+   pero solo lo nuevo: `maxItems` 15 por cuenta y `maxTotalChargeUsd` de
+   $0.50 por corrida. **Le enseño el costo estimado antes de correr** y
+   espero su OK. Guardo lo nuevo en `fuentes/` y `transcripciones/` sin
+   borrar lo anterior.
+2. **ACTUALIZA LA MATRIZ:** agrego las piezas nuevas a la matriz y reviso
+   si algún patrón de `matriz/patrones-de-viralidad.md` cambió. Si algo
+   que funcionaba dejó de funcionar, o al revés, se lo digo **primero**:
+   es lo más valioso de la semana.
+3. **MIS NÚMEROS:** si estudiamos su cuenta, comparo sus últimas
+   publicaciones contra su mediana. ¿Qué guion rindió mejor? ¿Coincidió
+   con lo que estimó la simulación? Anoto el acierto o el fallo **al
+   final del archivo de ese guion** en `guiones/`: la simulación mejora
+   con evidencia real, no opinando sobre sí misma.
+4. **CALENDARIO:** propongo el calendario de la semana con las piezas
+   acordadas en este archivo. Para cada una: el guion (nuevo o uno
+   pendiente de `guiones/`), la red y por qué va en ese orden. Día y hora
+   **solo si la matriz muestra un patrón real**; si no hay evidencia, se
+   lo digo y ella los elige.
+5. **RESUMEN:** cierro con 5 líneas: qué aprendimos, qué toca publicar y
+   cuánto crédito de Apify llevamos gastado en el mes.
