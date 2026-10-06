@@ -13,7 +13,7 @@
 **Para ti:** primera frase = gancho G1, G2, G3 o G4. Tu nombre va después, o al final.
 
 ### 2. Romper una creencia (G1) es el gancho más repetido
-**Datos:** es el gancho del #1 de TikTok (7.2M: "No es que no te elijan…") y del #1 de Instagram (2.5M: "no tienen un déficit, tienen un exceso…"), y es el tipo más repetido de la matriz: aparece en **14 de 41 filas** (le siguen G4 y G8, con 6 cada uno).
+**Datos:** es el gancho del #1 de TikTok (7.2M: "No es que no te elijan…") y del #1 de Instagram (2.5M: "no tienen un déficit, tienen un exceso…"), y es el tipo más repetido de la matriz: aparece en **14 de 42 filas** (le siguen G4 y G8, con 6 cada uno).
 **Para ti:** "No es que [lo que ella cree], es que [tu hackeo]".
 Ejemplo: *"No es que no te alcance el dinero. Es que tu software neurológico está programado para rechazarlo."*
 
