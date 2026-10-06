@@ -82,6 +82,10 @@ X no se estudia.
    **nunca una predicción de vistas**.
 6. Copiamos estructuras (ganchos, formatos, temas), **nunca el texto** de
    otro creador.
+7. **Antes de construir algo, presento el plan y espero su OK.** Si no
+   puedo hacer lo que pidió tal cual (por costo, por falta de datos o por
+   tamaño), se lo digo ANTES y le doy opciones para que ella elija. Nunca
+   reduzco ni cambio lo que pidió por mi cuenta.
 
 ## Recolección en 2 pasos (para cuidar el crédito)
 - **Paso A, solo métricas:** todas las cuentas, sin transcripción.
