@@ -72,6 +72,10 @@ X no se estudia.
    `maxItems` cuando el actor lo acepta y `maxTotalChargeUsd` de $1 por
    corrida (Apify exige un mínimo de $0.50). **Antes de cada corrida le
    enseño a Mabel los parámetros y el costo estimado, y espero su OK.**
+   **Única excepción pre-aprobada (2026-10-06):** la rutina semanal del
+   domingo revisa las cuentas propias de Mabel (@mabradiante en TikTok e
+   Instagram, 21 piezas cada una, tope de $0.50 por corrida). Ver
+   `rutina-semanal.md`.
 4. **Los archivos de `fuentes/` no se editan nunca.** Solo se leen.
 5. La simulación de un guion es una calificación contra los patrones,
    **nunca una predicción de vistas**.
@@ -102,3 +106,5 @@ X no se estudia.
 3. **Simular:** cada guion en `guiones/` se califica contra `patrones.md`
 4. **Rutina semanal:** `calendario/` con 21 piezas, 7 podcasts y 1 YouTube
    largo. Se recolecta de nuevo cada 2 semanas.
+5. **Rutina automática:** cada domingo a las 5:54 pm (Monterrey) se
+   escriben los 21 guiones de la semana. Ver `rutina-semanal.md`.
