@@ -40,7 +40,7 @@ entrenamiento, psicología barata.
 - 3 piezas diarias = 21 a la semana.
 - Cada pieza va a TikTok (prioridad 1), Reels de Instagram, Reels de
   Facebook y Shorts de YouTube, con un texto distinto para cada red.
-- Podcast en Spotify: 1 episodio diario con las 3 piezas del día, más una
+- Podcast en Spotify y canal de YouTube: "Las Fórmulas Cuánticas para Hackear tu Mente y la Matrix". 1 episodio diario con las 3 piezas del día, más una
   intro y un cierre.
 - YouTube largo: 1 por semana (domingo) con lo mejor de la semana.
 - **Días de grabación:** domingo (cuando llegan los guiones), lunes y martes.
