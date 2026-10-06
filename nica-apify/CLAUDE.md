@@ -56,7 +56,7 @@ entrenamiento, psicología barata.
 | TikTok    | @soylizadebri               | clockworks/tiktok-scraper         |
 | TikTok    | @manifestadoras             | clockworks/tiktok-scraper         |
 | Instagram | @danielacorreaup            | apify/instagram-scraper (posts) y apify/instagram-reel-scraper (reels) |
-| Instagram | @paola.a.botto              | igual que arriba                  |
+| Instagram | @paola.a.botto (restringida +18: no se puede leer) | — |
 | Instagram | @quantumquip                | igual que arriba                  |
 | Facebook  | PsicoespacioVe              | apify/facebook-posts-scraper      |
 | YouTube   | @GiselleBaumet              | streamers/youtube-scraper         |
