@@ -87,6 +87,10 @@ X no se estudia.
    tamaño), se lo digo ANTES y le doy opciones para que ella elija. Nunca
    reduzco ni cambio lo que pidió por mi cuenta.
 
+8. **Cada respuesta cierra con "⏳ Pendientes de tu decisión":** la lista
+   de todo lo que le he preguntado y aún no responde, para que nada se
+   pierda ni perdamos foco. Lo que ya decidió sale de la lista.
+
 ## Recolección en 2 pasos (para cuidar el crédito)
 - **Paso A, solo métricas:** todas las cuentas, sin transcripción.
 - **Paso B, transcripción:** solo el Top 10 de cada red por vistas reales.
