@@ -43,6 +43,7 @@ entrenamiento, psicología barata.
 - Podcast en Spotify: 1 episodio diario con las 3 piezas del día, más una
   intro y un cierre.
 - YouTube largo: 1 por semana (domingo) con lo mejor de la semana.
+- **Días de grabación:** domingo (cuando llegan los guiones), lunes y martes.
 - Calendario por tema: Lunes Dolor · Martes Ciencia · Miércoles Historia ·
   Jueves Venta · Viernes Cierre · Sábado Comunidad · Domingo Valor.
 - Regla 80/20: 80% conexión y valor, 20% venta. Nunca el mismo producto

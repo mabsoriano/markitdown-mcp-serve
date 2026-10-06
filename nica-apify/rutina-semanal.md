@@ -11,6 +11,6 @@
    - Se guarda en `fuentes/propias/<fecha>-<red>.json`. Son archivos nuevos: nunca se edita uno existente.
 3. **Analiza qué le funcionó a Mabel** esa semana y lo agrega a `matriz/mis-resultados.md`: sus 3 mejores y sus 3 peores piezas, y qué patrón siguió cada una.
 4. **Escribe los 21 guiones** de la semana (3 por día) en `guiones/`, cada uno calificado con la tabla de `patrones.md`. Se repite lo que le funcionó a ella y se ajusta lo que no.
-5. **Arma el calendario** `calendario/semana-<lunes>.md`: las 21 piezas, 7 podcasts y 1 YouTube largo.
+5. **Arma el calendario** `calendario/semana-<lunes>.md`: las 21 piezas, 7 podcasts, 1 YouTube largo y el plan de grabación (domingo, lunes y martes).
 6. **Le deja la semana en Google Drive** en un documento fácil de leer en el celular, y le avisa al celular.
 7. **Cada 2 semanas** propone la nueva recolección de la competencia (~$1.20 USD). **No la corre**: solo la propone y espera el OK.
