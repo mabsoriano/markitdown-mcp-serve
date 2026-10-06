@@ -1,0 +1,5 @@
+# Una cuenta por línea: red  usuario
+# Redes válidas: tiktok, instagram
+# Ejemplo (borra el # y pon a tu competencia real):
+# tiktok    nombredelacuenta
+# instagram nombredelacuenta
