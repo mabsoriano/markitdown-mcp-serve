@@ -1,5 +1,8 @@
 # Una cuenta por línea: red  usuario
-# Redes válidas: tiktok, instagram
-# Ejemplo (borra el # y pon a tu competencia real):
-# tiktok    nombredelacuenta
-# instagram nombredelacuenta
+tiktok    mabradiante
+tiktok    transformacion_acelerada
+tiktok    soylizadebri
+tiktok    manifestadoras
+instagram danielacorreaup
+instagram paola.a.botto
+instagram quantumquip
