@@ -67,8 +67,10 @@ y 5 ni el Recorrido Completo hasta que estén terminados.
 - **Pendiente de la web:** el botón "Quiero hackear mi Matrix" cambiará más
   adelante por un producto o fórmula que resuelva el problema. NAIA se ajusta
   al final, cuando los 5 niveles estén listos.
-- **Hueco de producto:** relaciones no tiene un producto propio, y es el tema
-  más viral del nicho.
+- **Producto nuevo de relaciones (aprobado 2026-10-07, en construcción):**
+  **Querido Ex: 7 días para cortar el enganche y volver a ti · $599**. Ver
+  `productos/querido-ex/`. Cuando esté a la venta, sustituye a Alter Ego en
+  la fila 💔 Relaciones (con OK de Mabel). Hasta entonces, no se vende.
 
 ## Las 10 Fórmulas (para COMUNICAR en el contenido)
 F·01 Coherencia Energética Integral (CEI™) · F·02 Programación y Elevación de
