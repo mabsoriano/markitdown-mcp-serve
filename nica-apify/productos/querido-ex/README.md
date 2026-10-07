@@ -1,6 +1,6 @@
 # Querido Ex: 7 días para cortar el enganche y volver a ti
 
-**Estado:** 🛠️ En construcción · aprobado por Mabel el 2026-10-07
+**Estado:** 🛠️ En construcción · aprobado por Mabel el 2026-10-06
 **Precio:** $599 MXN · producto de entrada para el problema 💔 Relaciones
 **Siguiente escalón:** Nivel 1 DESPERTAR ($2,000)
 

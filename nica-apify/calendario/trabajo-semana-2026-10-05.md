@@ -1,10 +1,11 @@
-# Tu trabajo de esta semana · 7 al 11 de octubre
+# Tu trabajo de esta semana · 6 al 11 de octubre
 
 > Una tarea grande por día. Cabe en tus 4 horas. Marca ✅ cuando termines.
 
 | Día | Tu tarea | Tiempo aprox. | Archivo |
 |---|---|---|---|
-| **Miércoles 7 (hoy)** | Grabar las 6 piezas de **jueves y viernes**. Si ayer no grabaste martes y miércoles, empieza por las de miércoles (Relaciones). | 1.5–2 h | `guiones/2026-10-08_*` y `2026-10-09_*` |
+| **Martes 6 (hoy, en la noche)** | Grabar las 6 piezas de **martes y miércoles**. | 1.5–2 h | `guiones/2026-10-06_*` y `2026-10-07_*` |
+| **Miércoles 7** | Grabar las 6 piezas de **jueves y viernes**. | 1.5–2 h | `guiones/2026-10-08_*` y `2026-10-09_*` |
 | **Jueves 8** | Grabar las 6 piezas de **sábado y domingo** + el **YouTube largo**. | 2–3 h | `guiones/2026-10-10_*`, `2026-10-11_*` y `calendario/semana-2026-10-05.md` |
 | **Viernes 9** | **Querido Ex, sesión 1:** grabar audios 0, 1, 2 y 3. | ≈ 45 min | `productos/querido-ex/00` a `03` |
 | **Sábado 10** | **Querido Ex, sesión 2:** grabar audios 4, 5, 6 y 7. | ≈ 45 min | `productos/querido-ex/04` a `07` |
