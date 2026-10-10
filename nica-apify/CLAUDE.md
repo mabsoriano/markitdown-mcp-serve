@@ -105,6 +105,17 @@ MICROHERRAMIENTA → REVELACIÓN → CTA**
 - **Ritual → experiencia → comprensión → práctica**, nunca "el universo lo
   hará por ti".
 
+- **Ajustes por la matriz de competencia (aprobados 2026-10-10):**
+  1. Cada pieza lleva **LISTA DE 3** (señales, razones o pasos) y un **DATO real** (estudio o
+     famoso verificable, dicho sin prometer resultados).
+  2. Todas llevan **HACKEO para hacer conmigo** (decreto, ritual o técnica, repetido 3 veces).
+  3. **TÍTULO DEL REEL** en mayúsculas: texto grande en pantalla los primeros 3 s y portada.
+  4. Duración: **TikTok 1:30 a 3 min** (versión completa); Reels y Shorts, corte de 60 a 90 s
+     con gancho + guardar + lista + hackeo + comenta.
+  5. **TU HISTORIA** va entre [corchetes]: la llena Mabel. Nunca invento su biografía.
+  6. Entrega siempre en **Excel** (no en MD): calendario, guion por tiempos, copy, hashtags,
+     título, competencia y patrones.
+
 **Dos audiencias:**
 - **A, la del ritual:** "dime qué hago". Entra por la microherramienta.
 - **B, la avanzada:** "ya sé de energía, metafísica, neuro y biohacking,
