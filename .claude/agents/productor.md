@@ -141,3 +141,8 @@ atribución que indique la sesión.
 - Grok: SIN conexión (ni directa ni por vidIQ). El avatar se hace en ElevenLabs.
 - Armado del video: vidIQ compose (clips + voz + textos en pantalla → MP4), cuesta
   1 crédito de vidIQ por cada 4 s. Plan actual: 150 créditos al mes. Estimar siempre antes.
+- Costo medido (2026-10-11, estimate sin cobrar): 1 video avatar de ~72 s con creatify-aurora
+  720p + voz "Mab" = ~62,157 créditos ElevenLabs (~12.43 USD). OmniHuman no acepta audios
+  de más de 30 s. Mabel autorizó 2 videos con avatar por semana. Usar formato 9:16.
+- Foto de referencia: la de Mabel con el libro (fondo blanco). Ojo: el texto del libro en
+  esa foto está deformado por la IA; preferir una foto sin texto visible.
