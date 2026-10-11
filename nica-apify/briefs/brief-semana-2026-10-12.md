@@ -1,15 +1,15 @@
 # Brief semanal · 12 al 18 de octubre de 2026
 
 > De: Estratega de campañas · Para: Mabel → NICA
-> Es el primer brief (no hay briefs anteriores en esta carpeta). Los 21 guiones de esta semana ya existen en `guiones/2026-10-12_*` a `2026-10-18_*`: **no se reescriben, solo se ajustan los CTA de venta** (reutilizar antes de crear).
+> Es el primer brief (no hay briefs anteriores en esta carpeta). Actualizado el domingo 11 con los números que capturó Mabel en el tablero. Los 21 guiones de esta semana ya existen en `guiones/2026-10-12_*` a `2026-10-18_*`: **no se reescriben, solo se ajustan los CTA de venta** (reutilizar antes de crear).
 
 ## Diagnóstico de la semana pasada (5 al 11 de octubre)
 
-1. **Ventas:** s/d. El tablero "Números de Mabradiante" no tiene ninguna semana capturada (ventas Hotmart, clics de Linktree y leads de NAIA: s/d).
-2. **Publicación:** de las 18 piezas planeadas, en TikTok solo aparece **1 publicada** (viernes 9 a las 23:13, "Durante años creí que tenía ansiedad…": 178 vistas). Antes de esa, 1 el lunes 5 (240 vistas). El cuello de botella hoy no es el producto: es que el contenido no está saliendo.
-3. **Alcance TikTok (lun 5 a vie 9):** 1,939 vistas de la cuenta, contra 3,929 de la semana anterior (‑51%). Visitas al perfil: 38 (antes 106). Sábado 10 y domingo 11: s/d (TikTok aún no los entrega).
-4. **Clics al link del perfil:** 2 en toda la semana (antes 3). Con ese tráfico no puede haber ventas: primero hay que volver a publicar diario y en buen horario.
-5. **Seguidores:** 76,295 → 76,304 (+9; la semana anterior +43). Instagram, Facebook y YouTube: s/d (no están conectados en Windsor).
+1. **Ventas: $499 MXN** — 1 venta de *Activa tu despertar* ($499). Los demás productos: 0. NAIA: 0 registros. Web: 0. Meta mensual $300,000: vamos en 0.2%.
+2. **Publicación:** de las 18 piezas planeadas, en TikTok solo aparecen **2 publicadas** (lunes 5: 240 vistas; viernes 9 a las 23:13, "Durante años creí que tenía ansiedad…": 178 vistas). El cuello de botella no es el producto: es que el contenido no está saliendo.
+3. **Alcance TikTok (lun 5 a vie 9):** 1,939 vistas de la cuenta, contra 3,929 de la semana anterior (‑51%). Visitas al perfil: 38 (antes 106). Clics al link desde TikTok: 2.
+4. **Lo que sí funcionó: el podcast.** El episodio "Activación del ADN Millonario" tuvo **7,223 impresiones y 438 reproducciones** en Spotify, más que cualquier video de TikTok de la semana (178–240 vistas). Linktree registró **14 clics** en total (TikTok solo explica 2): el resto vino de otros lados, probablemente del podcast.
+5. **Seguidores:** TikTok 76,300 (+9) · Instagram 1,512 · Facebook 1,500 · YouTube 176 · WhatsApp 115 · Email: s/d (aperturas sin capturar). Novedad: ya quedó lista la web principal **www.mabradiante.com**.
 
 ## 1. Semana
 Lunes 12 al domingo 18 de octubre de 2026.
@@ -20,7 +20,9 @@ Lunes 12 al domingo 18 de octubre de 2026.
 Por qué:
 - Es la **puerta de entrada más barata**: con tan poco tráfico (2 clics a la semana), lo primero es lograr la primera compra, no el ticket alto.
 - La ansiedad y la mente que no para conectan con **tu historia de TDAH** (el tema que más rinde en el nicho: 13x).
-- La única pieza que salió la semana pasada ya fue de ansiedad ("Comenta MENTE"): damos continuidad al mismo mensaje.
+- La última pieza que salió la semana pasada ya fue de ansiedad ("Comenta MENTE"): damos continuidad al mismo mensaje.
+- La venta de *Activa tu despertar* ($499) confirma que el precio de entrada sí se compra. Una sola venta todavía no es tendencia; no cambiamos de foco por ella.
+- **Candidato para la semana del 19:** ADN Millonario ($750), si el podcast vuelve a ser lo que más jala (438 reproducciones esta semana).
 - Las competidoras que venden bien repiten **una sola oferta** con la misma palabra por 1 a 3 semanas. Esta semana los guiones venden 6 productos distintos (uno por día): eso dispersa.
 
 ## 3. Días y piezas de venta (máximo 1 por día)
@@ -66,11 +68,11 @@ Esta semana **no se activan anuncios** (pendiente de tu OK). Si los apruebas, NI
 |---|---|---|
 | Piezas publicadas en TikTok | 21 de 21 | Antes de pensar en ads, resolver la grabación (ver pendientes) |
 | Vistas de la cuenta TikTok | ≥ 4,000 (volver al nivel de hace 2 semanas) | Revisar horario y ganchos |
-| Clics al link del perfil | ≥ 15 | Mover el producto más arriba en el video / reforzar CTA |
-| Ventas Querida Ansiedad | **3 ventas = $1,197 MXN** | Si hay clics pero 0 ventas: revisar la página de venta |
+| Clics de Linktree | ≥ 25 (semana pasada: 14) | Mover el producto más arriba en el video / reforzar CTA |
+| Ventas | **3 de Querida Ansiedad = $1,197 MXN** (semana pasada: $499 en total) | Si hay clics pero 0 ventas: revisar la página de venta |
 | Comentarios "MENTE" | ≥ 20 | Indica interés aunque no compren |
 
-Para medir, Mabel captura el domingo en el tablero: ventas por producto (Hotmart), clics de Linktree y leads de NAIA.
+Para medir, Mabel captura el domingo en el tablero: ventas por producto (Hotmart), clics de Linktree, leads de NAIA, aperturas de email y reproducciones del podcast.
 
 ## 11. Prueba de la semana (una sola)
 **Horario.** Las 3 piezas de venta se publican entre **19:00 y 20:00 h** (Monterrey); el resto como siempre. Comparamos sus vistas contra las de 23:00 h. En tus datos, de 18 a 21 h rinden 6.3x y de 22 a 5 h solo 0.5x.
@@ -81,6 +83,7 @@ Para medir, Mabel captura el domingo en el tablero: ventas por producto (Hotmart
 1. **¿Semana foco con Querida Ansiedad?** Sí / no. Si dices sí, NICA cambia el CTA de 6 guiones (lunes 3, miércoles 3, jueves 3, viernes 3, sábado 3 y domingo 2) sin tocar el resto.
 2. **¿Qué pasó con la publicación la semana pasada?** Solo salió 1 de 18 piezas. ¿Fue falta de tiempo para grabar, o se grabaron y no se subieron? De eso depende la meta de esta semana (si 21 es mucho, bajamos a 1 al día).
 3. **Meta Ads / TikTok promocionado:** no se activa nada. Propuesta para cuando lo quieras: prueba de $100 MXN al día por 5 días ($500 MXN en total) con el creativo A. ¿Lo autorizas o esperamos a publicar diario primero? (Mi recomendación: esperar 1 semana.)
-4. **Llenar el tablero de números** (ventas, clics de Linktree, leads de NAIA) cada domingo: hoy está vacío y todo sale s/d.
-5. **Conectar Instagram, Facebook y YouTube en Windsor** para medir esas redes (gratis, solo dar permiso).
-6. Pendientes que siguen abiertos del plan: papel de MENTOR BNQ™ ($222/mes), cuándo vender niveles 3‑5, ManyChat, y cuándo abrir la Certificación BNQ™.
+4. **Aperturas de email:** el tablero no las tiene esta semana. ¿Las capturas el próximo domingo? (Sin eso no sabemos si vale la pena rescatar la lista.)
+5. **Podcast:** ¿reutilizamos el episodio de ADN Millonario como 3 clips cortos en TikTok el lunes? Sin grabar nada nuevo.
+6. **Conectar Instagram, Facebook y YouTube en Windsor** para medir esas redes (gratis, solo dar permiso).
+7. Pendientes que siguen abiertos del plan: papel de MENTOR BNQ™ ($222/mes), cuándo vender niveles 3‑5, ManyChat, y cuándo abrir la Certificación BNQ™.
