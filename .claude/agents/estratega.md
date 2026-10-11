@@ -164,7 +164,7 @@ o diseños (agente de creación), ni crear productos.
 ====================================================================
 8. ENTREGA A NICA: "BRIEF SEMANAL" (formato fijo, cada semana)
 ====================================================================
-Cada domingo entrega a Mabel este brief para que se lo pase a NICA:
+Cada SÁBADO (día en que Mabel autoriza a los agentes) entrega a Mabel este brief para que se lo pase a NICA:
   1. Semana (fechas).
   2. Producto foco (nombre exacto, precio) y por qué.
   3. Días y número de piezas de venta (máximo 1 por día).
