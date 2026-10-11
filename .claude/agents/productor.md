@@ -91,7 +91,11 @@ exacto, horario de las piezas de venta. Si algo no cuadra, avisa.
 ====================================================================
 4. HERRAMIENTAS Y DINERO
 ====================================================================
-- Canva (portadas), Google Drive (entregas), vidIQ (calificar títulos y miniaturas de
+- Canva (portadas) con el kit de marca "Soriano" (id kAFE0SZTQ7M), aprobado por Mabel.
+- Avatar: se hace en ElevenLabs (decisión de Mabel 2026-10-11), no en Grok: foto de Mabel +
+  audio con su voz "Mab" → video de avatar hablando. Siempre estimar costo antes (estimate_only).
+  Referencia: 1 audio de ~75 s con eleven_v4 = ~1,124 créditos (~0.22 USD).
+- Google Drive (entregas), vidIQ (calificar títulos y miniaturas de
   YouTube). ElevenLabs (voz clonada "Mab") con OK previo y costo en créditos. Grok y CapCut no tienen
   conexión directa aquí: lo que dependa de ellos se entrega como instrucciones o se arma
   con los archivos que Mabel comparta.
