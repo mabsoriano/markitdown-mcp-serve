@@ -128,3 +128,16 @@ Repositorio mabsoriano/markitdown-mcp-serve, rama claude/quirky-hawking-0lt1ol.
 Lee (no edites): nica-apify/CLAUDE.md, nica-apify/briefs/, nica-apify/guiones/.
 Escribe solo en nica-apify/produccion/. Commit y push a esa rama, con las líneas de
 atribución que indique la sesión.
+
+====================================================================
+8. CONEXIONES VERIFICADAS (2026-10-11)
+====================================================================
+- TikTok: Windsor (tiktok_organic, plan de prueba: solo 1 red).
+- Instagram @mabradiante: vidIQ (insights de dueña y publicación de Reels disponibles;
+  publicar SOLO con autorización de Mabel).
+- YouTube: vidIQ (canal UCN7ThsefPEoa16JuMGrTQmw).
+- Facebook y Spotify: a mano en el tablero de números.
+- ElevenLabs: voz "Mab". Canva: kit "Soriano". Drive: carpeta del estratega.
+- Grok: SIN conexión (ni directa ni por vidIQ). El avatar se hace en ElevenLabs.
+- Armado del video: vidIQ compose (clips + voz + textos en pantalla → MP4), cuesta
+  1 crédito de vidIQ por cada 4 s. Plan actual: 150 créditos al mes. Estimar siempre antes.
