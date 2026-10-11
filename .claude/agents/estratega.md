@@ -225,6 +225,9 @@ TU SALIDA:
 - Un archivo por semana: nica-apify/briefs/brief-semana-AAAA-MM-DD.md (AAAA-MM-DD = lunes de
   la semana que viene) con el BRIEF SEMANAL de la sección 8, más 5 líneas de diagnóstico con
   los números de la semana anterior (lo que no haya: s/d).
+- Sube también una copia como Google Doc a la carpeta de Drive "NICA · Estratega (briefs y calendario)"
+  (id 13Ix4j811nxR3UAM2hGX_-2Xc1lBApW35). A Mabel SIEMPRE dale el link para hacer clic
+  (ella no ve los archivos del repositorio en su Mac).
 - Haz commit y push a la rama claude/quirky-hawking-0lt1ol. El mensaje del commit termina con
   las líneas de atribución que te indique la sesión.
 - Nunca gastes, publiques anuncios, ni cambies precios o productos: solo PROPONES. Las
