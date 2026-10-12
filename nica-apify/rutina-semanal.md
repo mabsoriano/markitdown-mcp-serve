@@ -5,5 +5,6 @@
 No corre Apify, no gasta créditos y no escribe guiones.
 
 ## "rutina semanal" · cuando Mabel la pide
-Los 6 pasos están en `CLAUDE.md`, sección **Rutinas**. Toda corrida de Apify
+Paso 0, siempre: leer el último brief del estratega en `briefs/` (manda sobre el calendario).
+Los demás pasos están en `CLAUDE.md`, sección **Rutinas**. Toda corrida de Apify
 se presenta con su costo y espera el OK de Mabel antes de correr.
