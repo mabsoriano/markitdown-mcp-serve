@@ -1,0 +1,60 @@
+{
+ "work": "martes",
+ "avatar": "media/mar_avatar.mp4",
+ "voz": "media/mar_resto.mp3",
+ "foto": "mabel-blazer.jpg",
+ "salida": "reel-martes13-ansiedad.mp4",
+ "titulo": "3 SEÑALES DE ANSIEDAD\nQUE CREES QUE SON\nTU PERSONALIDAD",
+ "gancho": "No eres intensa ni exagerada.\nHay 3 señales de ansiedad\nque la mayoría confunde\ncon su forma de ser.",
+ "frases": [
+  {
+   "t": "Guárdalo y compártelo con alguien a quien siempre le dicen: relájate.",
+   "pantalla": "Guárdalo y compártelo con alguien\na quien siempre le dicen «relájate»"
+  },
+  {
+   "t": "Estas son las tres señales.",
+   "pantalla": "LAS 3 SEÑALES",
+   "tarjeta": true
+  },
+  {
+   "t": "Uno: necesitas tener todo bajo control, y un cambio de planes te desarma.",
+   "pantalla": "1\nNecesitas tener todo\nbajo control",
+   "tarjeta": true
+  },
+  {
+   "t": "Dos: imaginas la peor versión de todo, para estar preparada.",
+   "pantalla": "2\nImaginas la peor\nversión de todo",
+   "tarjeta": true
+  },
+  {
+   "t": "Tres: te cuesta descansar sin sentir culpa.",
+   "pantalla": "3\nTe cuesta descansar\nsin sentir culpa",
+   "tarjeta": true
+  },
+  {
+   "t": "Cuando notes una de estas tres señales, ponle nombre en voz baja: esto es mi alarma, no la realidad.",
+   "pantalla": "Ponle nombre en voz baja:\n«esto es mi alarma, no la realidad»"
+  },
+  {
+   "t": "Luego pregúntate: ¿qué es lo que sí está pasando ahora mismo?",
+   "pantalla": "¿Qué es lo que SÍ está\npasando ahora mismo?"
+  },
+  {
+   "t": "Repite conmigo: esto es mi alarma, no la realidad. Esto es mi alarma, no la realidad. Esto es mi alarma, no la realidad.",
+   "pantalla": "Repite conmigo:\nESTO ES MI ALARMA,\nNO LA REALIDAD",
+   "tarjeta": true
+  },
+  {
+   "t": "Tú no eres ansiosa. Tienes una alarma que nadie te enseñó a apagar.",
+   "pantalla": "Tú no eres ansiosa.\nTienes una alarma que nadie\nte enseñó a apagar."
+  },
+  {
+   "t": "Comenta ALARMA y dime cuál de las tres te pasa más.",
+   "pantalla": "Comenta ALARMA\n¿cuál de las 3 te pasa más?"
+  },
+  {
+   "t": "Y sígueme para más hackeos para tu mente.",
+   "pantalla": "Sígueme para más\nhackeos para tu mente"
+  }
+ ]
+}
