@@ -1,5 +1,7 @@
 # Brief semanal · 19 al 25 de octubre de 2026
 
+> ⚠️ **BORRADOR ADELANTADO (hecho el lunes 12 de octubre).** El brief vigente de esta semana es `brief-semana-2026-10-12.md` (Querida Ansiedad). Este borrador se actualiza el sábado 17 con los números reales del 12 al 18 antes de pasárselo a NICA. NICA: no lo uses todavía.
+
 > De: Estratega de campañas · Para: Mabel → NICA
 > Semana 2 de 4 del calendario de ofertas (`briefs/calendario-ofertas-oct-nov-2026.md`). Continúa el brief del 12 al 18 (Querida Ansiedad).
 > Los guiones del 19 al 25 todavía no existen: NICA los escribe con este brief. Reutilizar antes de crear: el episodio del podcast "Activación del ADN Millonario" es la base de la semana.
