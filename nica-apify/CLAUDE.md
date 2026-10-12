@@ -190,6 +190,14 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
 - **Domingo (automática):** solo un **recordatorio** a Mabel para pedir su
   "rutina semanal". No gasta ni escribe guiones.
 - **"rutina semanal" (cuando Mabel la pide, domingo tarde-noche):**
+  0. **LEE EL BRIEF DEL ESTRATEGA (siempre, antes de armar guiones):** el
+     archivo más reciente `briefs/brief-semana-AAAA-MM-DD.md` (lo deja el
+     agente estratega cada sábado) y `briefs/calendario-ofertas-*.md`. Lo que
+     diga el brief vigente **manda** sobre el calendario por problema de este
+     archivo: producto foco, días y número de piezas de venta, cierre exacto
+     de cada pieza de venta, CTA ("el link está en mi perfil"), dolores y
+     ángulos de autoridad. Si no hay brief de la semana, se lo digo a Mabel y
+     NO invento producto foco: armo la semana sin venta y lo marco pendiente.
   1. **RE-RECOLECTA:** corro de nuevo los actores de este archivo, solo lo
      nuevo: `maxItems` 15 por cuenta y `maxTotalChargeUsd` de $0.50 por
      corrida. **Le enseño el costo antes de correr** y espero su OK. Guardo
