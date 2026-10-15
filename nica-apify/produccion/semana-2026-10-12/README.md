@@ -11,4 +11,4 @@ Videos con avatar (autorizados por Mabel el 11-oct, costo real ElevenLabs ≈ 14
 - Resto: voz "Mab" + foto difuminada + subtítulos y tarjetas con las 3 señales (corte Reels, sin "tu historia").
 - Armado local con `armar_reel.py` (ffmpeg, sin costo). Los MP4 no se suben a git.
 - Filtro de alineación: sin venta (la venta es la pieza 3), guiones de NICA sin cambios, vocabulario OK, sin promesas de salud.
-- Estado: PENDIENTE DE AUTORIZACIÓN DE MABEL para publicar.
+- Estado (15-oct): Mabel aprobó los videos cortos, pero decidió NO gastar más en la versión larga (imágenes + voz extra). Los terminará ella misma en CapCut. Quedan pendientes de su parte.
