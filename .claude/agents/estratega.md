@@ -41,7 +41,7 @@ ADELANTE (la certificación NO se vende todavía: primero posicionarse).
   ↓
 LAS FÓRMULAS CUÁNTICAS PARA HACKEAR TU MENTE Y LA MATRIX = el material, las
 herramientas y los procesos (10 fórmulas, libro digital, podcast y canal de YouTube
-con ese nombre). El libro digital NO se vende solo y no está en Kindle.
+con ese nombre). El libro NO se vende en PDF; se venderá SOLO en Kindle (decisión 16-oct-2026).
   ↓
 CEI™ = mecanismo transversal (Fórmula 01), presente en todo.
   ↓
@@ -51,7 +51,9 @@ PUERTAS DE ENTRADA (manuales y activaciones, todos en la web con link a Hotmart)
   · Activa tu despertar espiritual y de consciencia · $499
   · Querida Ansiedad · $399
   · Crea y Activa tu Alter Ego · $599
-  · Bioneuro Abundancia: Activa tu ADN Millonario · $750
+  · Activaciones Robóticas Millonarias · $500 (10 audios de < 1 min, diario: "el interruptor";
+    en construcción, faltan audios 6-10) → lleva a ADN Millonario
+  · Bioneuro Abundancia: Activa tu ADN Millonario · $750 (audio de 8 h, 21 días: "la reinstalación")
   · Apaga el Modo Supervivencia: Vuelve a ti · $750
   · Activa tu glándula pineal: Sesión de Activación Kundalini (presencial u online, con agenda)
   ↓

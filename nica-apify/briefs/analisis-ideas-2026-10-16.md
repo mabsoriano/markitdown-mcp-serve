@@ -36,5 +36,10 @@ Hoy el problema es convertir, no falta de productos. Orden recomendado (uno a la
 3. Libro en PDF en Hotmart después.
 
 ## ⏳ Pendientes de decisión de Mabel (sábado)
-1. ¿Robóticas como entrada antes de ADN Millonario (escalera)? ¿Precio $500, más bajo o combo?
-2. ¿Se cambia la decisión de no vender el libro solo?
+- Resueltos el 16-oct (ver abajo).
+
+## ✅ Decisiones de Mabel (16-oct-2026)
+- **Precios se quedan igual:** Activaciones Robóticas Millonarias $500 · ADN Millonario $750.
+- Diferencia para comunicar: Robóticas = **el interruptor** (10 audios < 1 min, diario, en el momento) · ADN Millonario = **la reinstalación** (audio de 8 h, 21 días). Escalera: Robóticas → ADN Millonario.
+- **Libro:** NO se vende en PDF. Se venderá **solo en Kindle**.
+- Robóticas: faltan audios 6-10 y publicarlo (viene de la conversación "Ideas de un millón de dólares").
