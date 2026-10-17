@@ -231,5 +231,7 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
 - `transcripciones/<red>-<AAAA-MM-DD>-<titulo-corto>.md`, con las métricas
   arriba.
 - `guiones/<AAAA-MM-DD>_<dia>_<1|2|3>.md`, cada uno con su simulación.
+- `youtube/<AAAA-MM-DD>_youtube_<1|2>.md`: los 2 YouTube de la semana (ver `youtube/README.md`:
+  mismo audio para YouTube y podcast, hecho en ElevenLabs con la voz "Mab").
 - `calendario/semana-<AAAA-MM-DD>.md`
 - `matriz/matriz-contenido-viral.md` y `matriz/patrones-de-viralidad.md`
