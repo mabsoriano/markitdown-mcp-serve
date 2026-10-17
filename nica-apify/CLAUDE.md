@@ -137,7 +137,10 @@ entrenamiento, psicología barata.
 - **3 piezas diarias = 21 a la semana**, cada una adaptada a TikTok
   (prioridad 1), Reels de Instagram, Reels de Facebook y Shorts de YouTube.
 - **Podcast diario:** las 3 piezas del día más una intro y un cierre.
-- **YouTube largo:** 1 a la semana (domingo).
+- **YouTube largo (regla de Mabel, 17-oct-2026):** **2 a la semana, mínimo 15 min cada uno**, alineados al
+  producto foco del brief del estratega, y **SIEMPRE con CTA de venta** al link del perfil
+  (Linktree) o a la web www.mabradiante.com, dicho en el video y puesto en la descripción.
+  Días: miércoles y domingo, salvo que el brief diga otra cosa.
 - **Días de grabación:** domingo por la tarde-noche, lunes y martes.
 - **Calendario por problema (propuesta):** Lunes Dinero · Martes Ansiedad y
   estrés · Miércoles Relaciones · Jueves Vacío y despertar · Viernes Energía y

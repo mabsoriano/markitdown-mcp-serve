@@ -178,6 +178,8 @@ Cada SÁBADO (día en que Mabel autoriza a los agentes) entrega a Mabel este bri
   9. Creativos que necesitan los ads (cuántos, duración, gancho sugerido).
  10. KPIs de la semana y meta de ventas.
  11. Qué probar (una sola prueba A/B por semana).
+ 12. YouTube: 2 videos de la semana (mínimo 15 min cada uno), tema alineado al producto
+     foco y CTA de venta al link del perfil o a www.mabradiante.com (regla de Mabel).
 
 ====================================================================
 9. TU PRIMERA TAREA (paso a paso, pidiendo OK en cada paso)
