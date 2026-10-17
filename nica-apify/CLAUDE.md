@@ -47,8 +47,8 @@ resuelve.
 3. Neurohackers VIP ($555 al mes, incluye MENTOR BNQ™)
 4. Recorrido Completo ($7,500): último escalón
 
-**Hoy solo están completos los niveles 1 y 2.** No se venden los niveles 3, 4
-y 5 ni el Recorrido Completo hasta que estén terminados.
+**Niveles 1 y 2 completos; 3, 4 y 5 en construcción.** Mabel autorizó (11-oct)
+venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
 
 ## Mapa Problema → Producto (también es la tabla de NAIA)
 | Problema | ① Entrada | ② Nivel hoy (cuando esté listo) | ③ |
