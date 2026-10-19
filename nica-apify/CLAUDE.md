@@ -166,6 +166,10 @@ Cuando Mabel diga **el tema del día** (ej. "abundancia", "soltar el miedo"):
    - Cambia cada día según el tema. Sin promesas de salud. Venta solo si el brief la marca
      ese día (1 línea suave antes del cierre).
 3. Mabel graba y sube portada + audio a WhatsApp.
+4. **Si pide el audio con voz genérica (gratis):** guion en `whatsapp/audios/AAAA-MM-DD_<tema>.txt`
+   (una frase por línea; número solo = pausa en segundos, 1.5 a 1.8 para que repitan) y
+   `python3 whatsapp/audio.py guion.txt salida.mp3` → MP3 con voz de mujer en español latino
+   (Google, gratis). Meta: 30 s a 1 min. En la firma escribir "arroba mabradiante".
 
 ## Cuentas que estudiamos
 | Red | Cuenta | Herramienta de Apify |
