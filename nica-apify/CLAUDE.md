@@ -151,13 +151,17 @@ entrenamiento, psicología barata.
 ## Audio diario de WhatsApp (comunidad, aprobado 19-oct-2026)
 Cuando Mabel diga **el tema del día** (ej. "abundancia", "soltar el miedo"):
 1. **Portada:** `python3 whatsapp/portada.py "Nombre de la activación" [AAAA-MM-DD]` →
-   PNG 800×800 en `whatsapp/portadas/` (fondo #07070F, oro #C9A84C, título blanco,
-   estrellas y luna, fecha "19 de octubre, 2026", firma "@mabradiante · Método BNQ™").
-   Se la mando con SendUserFile.
-2. **Guion para grabar con su voz (45 a 80 s, ~110 a 180 palabras):**
-   - INTRO (5 s): "Hola, mi neurohacker. Hoy es [fecha] y esta es tu activación de [tema]."
-   - ACTIVACIÓN (30 a 60 s): respiración corta → reencuadre de 1 frase → decreto o
-     visualización **repetido 3 veces** → sensación en el cuerpo.
+   PNG 800×800 en `whatsapp/portadas/`. Usa SU imagen base (`whatsapp/base-portada.jpg`:
+   Mabel, dorado, flor de la vida). Solo cambia el título de arriba; abajo siempre
+   "LAS FÓRMULAS CUÁNTICAS PARA HACKEAR TU MENTE Y LA MATRIX" + logo del átomo +
+   "BNQ METHOD". **Sin lunas, sin fecha.** Se la mando con SendUserFile.
+2. **Guion para grabar con su voz (30 s a 1 min, ~70 a 140 palabras):**
+   - INTRO (5 s): "Hola, mi neurohacker. Esta es tu activación de [tema]."
+   - HACKEO (20 a 45 s): **mano en el pecho y "repite conmigo"**. Declaraciones en
+     primera persona de HACKEO, no relajación: "Hoy hackeo mi escasez. Hackeo mis
+     memorias. Hackeo mis pactos de lealtad. Hackeo mi memoria celular y mi
+     subconsciente…" + la nueva instrucción ("Hoy instalo…"). Respiración solo 1 vez,
+     corta. Repetir la frase clave 3 veces.
    - CIERRE (5 s): "Lo que no se activa, no cambia. Soy Mabel, @mabradiante, Método BNQ™."
    - Cambia cada día según el tema. Sin promesas de salud. Venta solo si el brief la marca
      ese día (1 línea suave antes del cierre).

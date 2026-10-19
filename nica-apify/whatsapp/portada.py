@@ -1,44 +1,77 @@
 """Portada diaria (800x800 PNG) para el audio de WhatsApp de @mabradiante.
 
+Usa la imagen base de Mabel (base-portada.jpg): cambia el título de arriba y
+pone abajo el logo con "Las Fórmulas Cuánticas para Hackear tu Mente y la
+Matrix · BNQ METHOD".
+
 Uso:  python3 portada.py "Nombre de la activación" [AAAA-MM-DD]
 Sale en whatsapp/portadas/AAAA-MM-DD_<nombre>.png
 """
-import math, random, re, sys, unicodedata
+import re, sys, unicodedata
 from datetime import date
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
-FONDO, ORO, BLANCO, MORADO = (7, 7, 15), (201, 168, 76), (255, 255, 255), (91, 44, 160)
-MESES = ["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio",
-         "agosto", "septiembre", "octubre", "noviembre", "diciembre"]
-F = "/usr/share/fonts/truetype/dejavu/"
-S, K = 800, 2          # tamaño final y supermuestreo (bordes suaves)
-W = S * K
+AQUI = Path(__file__).parent
+BASE = AQUI / "base-portada.jpg"
+SERIF = "/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf"
+N = 1024                       # se trabaja al tamaño de la base y se reduce a 800
+TOPE, PIE = 315, 700           # zona del título (0..TOPE) y del pie (PIE..N)
+PIE_TEXTO = ["LAS FÓRMULAS CUÁNTICAS", "PARA HACKEAR TU", "MENTE Y LA MATRIX"]
 
 
-def fuente(nombre, px):
-    return ImageFont.truetype(F + nombre, px * K)
+def degradado_oro(w, h):
+    g = Image.new("RGB", (1, h))
+    paradas = [(0, (255, 244, 205)), (0.45, (232, 196, 110)), (0.7, (201, 168, 76)), (1, (140, 100, 35))]
+    for y in range(h):
+        t = y / max(h - 1, 1)
+        for (a, ca), (b, cb) in zip(paradas, paradas[1:]):
+            if a <= t <= b:
+                k = (t - a) / (b - a)
+                g.putpixel((0, y), tuple(int(ca[i] + (cb[i] - ca[i]) * k) for i in range(3)))
+                break
+    return g.resize((w, h))
 
 
-def ancho(d, txt, f, esp=0):
-    return d.textlength(txt, font=f) + esp * K * max(len(txt) - 1, 0)
+def texto_oro(img, lineas, tamanos, y, interlineado=1.05):
+    """Escribe líneas centradas en oro con sombra; devuelve la y final."""
+    capa = Image.new("L", img.size, 0)
+    d = ImageDraw.Draw(capa)
+    for linea, px in zip(lineas, tamanos):
+        f = ImageFont.truetype(SERIF, px)
+        x = (N - d.textlength(linea, font=f)) / 2
+        d.text((x, y), linea, font=f, fill=255)
+        y += px * interlineado
+    sombra = capa.filter(ImageFilter.GaussianBlur(6)).point(lambda v: min(255, v * 2))
+    oscuro = Image.new("RGB", img.size, (25, 12, 0))
+    img.paste(oscuro, (4, 6), sombra)
+    borde = capa.filter(ImageFilter.MaxFilter(5))
+    img.paste(Image.new("RGB", img.size, (70, 40, 5)), (0, 0), borde)
+    img.paste(degradado_oro(N, N), (0, 0), capa)
+    return y
 
 
-def centrado(d, y, txt, f, color, esp=0):
-    x = (W - ancho(d, txt, f, esp)) / 2
-    if not esp:
-        d.text((x, y), txt, font=f, fill=color)
-        return
-    for c in txt:
-        d.text((x, y), c, font=f, fill=color)
-        x += d.textlength(c, font=f) + esp * K
+def suavizar_franja(img, y0, y1, desde_arriba):
+    """Cubre una franja con la misma imagen muy difuminada (brillo dorado)."""
+    difusa = img.filter(ImageFilter.GaussianBlur(80))
+    mascara = Image.new("L", img.size, 0)
+    d = ImageDraw.Draw(mascara)
+    transicion = 55
+    for y in range(N):
+        if desde_arriba:
+            v = 255 if y < y1 - transicion else max(0, int(255 * (y1 - y) / transicion))
+        else:
+            v = 255 if y > y0 + transicion else max(0, int(255 * (y - y0) / transicion))
+        d.line((0, y, N, y), fill=v)
+    img.paste(difusa, (0, 0), mascara)
 
 
-def partir(d, txt, f, maximo):
+def partir(titulo, f, maximo):
+    d = ImageDraw.Draw(Image.new("L", (1, 1)))
     lineas, actual = [], ""
-    for p in txt.split():
+    for p in titulo.split():
         prueba = (actual + " " + p).strip()
-        if ancho(d, prueba, f) <= maximo or not actual:
+        if d.textlength(prueba, font=f) <= maximo or not actual:
             actual = prueba
         else:
             lineas.append(actual)
@@ -46,71 +79,37 @@ def partir(d, txt, f, maximo):
     return lineas + [actual]
 
 
-def portada(titulo, dia):
-    rnd = random.Random(dia.toordinal())          # mismo día = mismas estrellas
-    img = Image.new("RGB", (W, W), FONDO)
-
-    # Resplandor morado al centro
-    brillo = Image.new("RGB", (W, W), FONDO)
-    g = ImageDraw.Draw(brillo)
-    for r in range(int(W * 0.55), 0, -6 * K):
-        t = 1 - r / (W * 0.55)
-        c = tuple(int(FONDO[i] + (MORADO[i] - FONDO[i]) * t ** 2 * 0.55) for i in range(3))
-        g.ellipse((W / 2 - r, W * 0.52 - r, W / 2 + r, W * 0.52 + r), fill=c)
-    img = brillo.filter(ImageFilter.GaussianBlur(40 * K))
+def atomo(img, cx, cy, r):
     d = ImageDraw.Draw(img, "RGBA")
+    oro = (232, 196, 110, 255)
+    for ang in (0, 60, 120):
+        orb = Image.new("RGBA", (r * 2 + 8, r * 2 + 8), (0, 0, 0, 0))
+        ImageDraw.Draw(orb).ellipse((4, r * 0.62 + 4, r * 2 + 4, r * 1.38 + 4), outline=oro, width=3)
+        orb = orb.rotate(ang, resample=Image.BICUBIC)
+        img.paste(orb, (cx - r - 4, cy - r - 4), orb)
+    d.ellipse((cx - r * 0.22, cy - r * 0.22, cx + r * 0.22, cy + r * 0.22), fill=(255, 236, 170, 255))
 
-    # Estrellas y partículas
-    for _ in range(170):
-        x, y = rnd.uniform(0, W), rnd.uniform(0, W)
-        r = rnd.choice([0.6, 0.8, 1, 1, 1.4, 2]) * K
-        col = ORO if rnd.random() < 0.3 else BLANCO
-        d.ellipse((x - r, y - r, x + r, y + r), fill=col + (rnd.randint(70, 230),))
-    for _ in range(6):                             # destellos de 4 puntas
-        x, y, L = rnd.uniform(60, W - 60) * 1, rnd.uniform(60, W - 60), rnd.uniform(7, 13) * K
-        if W * 0.2 < y < W * 0.8 and W * 0.15 < x < W * 0.85:
-            continue
-        d.line((x - L, y, x + L, y), fill=ORO + (200,), width=K)
-        d.line((x, y - L, x, y + L), fill=ORO + (200,), width=K)
 
-    # Anillo dorado y luna creciente
-    R = W * 0.40
-    d.ellipse((W / 2 - R, W * 0.52 - R, W / 2 + R, W * 0.52 + R), outline=ORO + (90,), width=K)
-    R2 = R + 10 * K
-    d.ellipse((W / 2 - R2, W * 0.52 - R2, W / 2 + R2, W * 0.52 + R2), outline=ORO + (35,), width=K)
-    lx, ly, lr = W / 2, 92 * K, 26 * K
-    d.ellipse((lx - lr, ly - lr, lx + lr, ly + lr), fill=ORO)
-    d.ellipse((lx - lr + 13 * K, ly - lr - 6 * K, lx + lr + 13 * K, ly + lr - 6 * K), fill=FONDO)
-
-    # Etiqueta
-    centrado(d, 170 * K, "ACTIVACIÓN DEL DÍA", fuente("DejaVuSans.ttf", 15), ORO, esp=5)
+def portada(titulo):
+    img = Image.open(BASE).convert("RGB")
+    suavizar_franja(img, 0, TOPE, desde_arriba=True)
+    suavizar_franja(img, PIE, N, desde_arriba=False)
 
     # Título: lo más grande que quepa en 3 líneas
     txt = titulo.strip().upper()
-    for px in range(76, 30, -2):
-        f = fuente("DejaVuSans-Bold.ttf", px)
-        lineas = partir(d, txt, f, W * 0.72)
-        if len(lineas) <= 3 and all(ancho(d, l, f) <= W * 0.72 for l in lineas):
+    for px in range(118, 40, -2):
+        lineas = partir(txt, ImageFont.truetype(SERIF, px), N * 0.88)
+        if len(lineas) <= 3 and px * 1.05 * len(lineas) <= TOPE - 40:
             break
-    alto = px * K * 1.18
-    y = W * 0.50 - alto * len(lineas) / 2
-    for l in lineas:
-        centrado(d, y, l, f, BLANCO)
-        y += alto
+    alto = px * 1.05 * len(lineas)
+    texto_oro(img, lineas, [px] * len(lineas), (TOPE - 25 - alto) / 2 + 10)
 
-    # Separador con rombo
-    yS = y + 26 * K
-    d.line((W / 2 - 120 * K, yS, W / 2 - 14 * K, yS), fill=ORO, width=K)
-    d.line((W / 2 + 14 * K, yS, W / 2 + 120 * K, yS), fill=ORO, width=K)
-    r = 6 * K
-    d.polygon([(W / 2, yS - r), (W / 2 + r, yS), (W / 2, yS + r), (W / 2 - r, yS)], fill=ORO)
+    # Pie: frase del libro + logo + BNQ METHOD
+    y = texto_oro(img, PIE_TEXTO, [48, 48, 48], PIE + 45, interlineado=1.0)
+    atomo(img, N // 2, int(y + 30), 26)
+    texto_oro(img, ["BNQ METHOD"], [32], y + 64)
 
-    # Fecha y firma
-    fecha = f"{dia.day} de {MESES[dia.month - 1]}, {dia.year}"
-    centrado(d, yS + 22 * K, fecha, fuente("DejaVuSerif.ttf", 24), (235, 225, 200))
-    centrado(d, W - 70 * K, "@mabradiante · Método BNQ™", fuente("DejaVuSans-Bold.ttf", 20), ORO)
-
-    return img.resize((S, S), Image.LANCZOS)
+    return img.resize((800, 800), Image.LANCZOS)
 
 
 def slug(t):
@@ -122,7 +121,7 @@ if __name__ == "__main__":
     if len(sys.argv) < 2:
         sys.exit('Uso: python3 portada.py "Nombre de la activación" [AAAA-MM-DD]')
     dia = date.fromisoformat(sys.argv[2]) if len(sys.argv) > 2 else date.today()
-    sal = Path(__file__).parent / "portadas" / f"{dia.isoformat()}_{slug(sys.argv[1])}.png"
+    sal = AQUI / "portadas" / f"{dia.isoformat()}_{slug(sys.argv[1])}.png"
     sal.parent.mkdir(exist_ok=True)
-    portada(sys.argv[1], dia).save(sal, "PNG")
+    portada(sys.argv[1]).save(sal, "PNG")
     print(sal)
