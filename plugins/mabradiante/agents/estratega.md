@@ -52,7 +52,8 @@ PUERTAS DE ENTRADA (manuales y activaciones, todos en la web con link a Hotmart)
   · Querida Ansiedad · $399
   · Crea y Activa tu Alter Ego · $599
   · Activaciones Robóticas Millonarias · $500 (10 audios de < 1 min, diario: "el interruptor";
-    en construcción, faltan audios 6-10) → lleva a ADN Millonario
+    A LA VENTA desde 19-oct, los 10 audios listos. Caja web: "1 minuto para salir de la escasez".
+    Hotmart: https://hotmart.com/es/marketplace/productos/activaciones-roboticas-millonarias-10-audios-para-recibir-dinero-con-facilidad/Q108030809L) → lleva a ADN Millonario
   · Bioneuro Abundancia: Activa tu ADN Millonario · $750 (audio de 8 h, 21 días: "la reinstalación")
   · Apaga el Modo Supervivencia: Vuelve a ti · $750
   · Activa tu glándula pineal: Sesión de Activación Kundalini (presencial u online, con agenda)

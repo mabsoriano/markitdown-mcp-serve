@@ -58,7 +58,7 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
 | ✨ Bloqueo energético: drenada o estancada | Sesión de Activación Kundalini | N2 ACTIVA | VIP $555 |
 | 😰 Ansiedad: mente acelerada, insomnio | Querida Ansiedad · $399 | N2 ACTIVA (→ N3 PRACTICA) | VIP $555 |
 | 🔋 Cansancio y salud: modo supervivencia | Apaga el Modo Supervivencia · $750 | N2 ACTIVA (→ N3 PRACTICA) | VIP $555 |
-| 💰 Dinero: escasez, deudas | ADN Millonario (Bioneuro Abundancia) · $750 | N1 DESPERTAR (→ N4 SALTA) | VIP $555 |
+| 💰 Dinero: escasez, deudas | Activaciones Robóticas Millonarias · $500 ("el interruptor") → ADN Millonario (Bioneuro Abundancia) · $750 ("la reinstalación") | N1 DESPERTAR (→ N4 SALTA) | VIP $555 |
 | 🎯 Metas: no avanzo | Crea y Activa tu Alter Ego · $599 | N1 DESPERTAR (→ N5 COMUNIDAD) | VIP $555 |
 | 🔥 Todo: nada funciona | — | N1 y N2 | **VIP $555** |
 

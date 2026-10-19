@@ -10,7 +10,7 @@
 - Miniatura YouTube: 1280×720 (16:9) · Mabel confirma si es miniatura o banner 2560×1440
 - Base para anuncios: 600×800 vertical (3:4) · Mabel confirma si es 600×800 vertical u 800×600 horizontal (sugerencia: 1080×1350, 4:5, la que más usa Meta en feed)
 
-**Activaciones Robóticas Millonarias ($500):** en construcción (faltan audios 6–10). No lleva campaña hasta que esté a la venta. Cuando salga: "el interruptor" → lleva a ADN Millonario ("la reinstalación").
+**Activaciones Robóticas Millonarias ($500):** ✅ A LA VENTA (19-oct, los 10 audios listos). Título web: "1 minuto para salir de la escasez". Descripción: "10 audios de menos de 1 minuto para hackear tu programa de escasez justo antes de cobrar, pagar o vender." Hotmart: https://hotmart.com/es/marketplace/productos/activaciones-roboticas-millonarias-10-audios-para-recibir-dinero-con-facilidad/Q108030809L. Rol: "el interruptor" → lleva a ADN Millonario ("la reinstalación").
 **Querido Ex ($599):** en construcción, no se vende.
 
 ## 1. Bioneuro Abundancia: Activa tu ADN Millonario · $750 MXN pago único
