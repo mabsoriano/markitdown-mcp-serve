@@ -148,6 +148,21 @@ entrenamiento, psicología barata.
 - **Regla 80/20:** de las 3 piezas diarias, máximo 1 lleva venta directa.
 - **Nunca el mismo producto dos días seguidos.**
 
+## Audio diario de WhatsApp (comunidad, aprobado 19-oct-2026)
+Cuando Mabel diga **el tema del día** (ej. "abundancia", "soltar el miedo"):
+1. **Portada:** `python3 whatsapp/portada.py "Nombre de la activación" [AAAA-MM-DD]` →
+   PNG 800×800 en `whatsapp/portadas/` (fondo #07070F, oro #C9A84C, título blanco,
+   estrellas y luna, fecha "19 de octubre, 2026", firma "@mabradiante · Método BNQ™").
+   Se la mando con SendUserFile.
+2. **Guion para grabar con su voz (45 a 80 s, ~110 a 180 palabras):**
+   - INTRO (5 s): "Hola, mi neurohacker. Hoy es [fecha] y esta es tu activación de [tema]."
+   - ACTIVACIÓN (30 a 60 s): respiración corta → reencuadre de 1 frase → decreto o
+     visualización **repetido 3 veces** → sensación en el cuerpo.
+   - CIERRE (5 s): "Lo que no se activa, no cambia. Soy Mabel, @mabradiante, Método BNQ™."
+   - Cambia cada día según el tema. Sin promesas de salud. Venta solo si el brief la marca
+     ese día (1 línea suave antes del cierre).
+3. Mabel graba y sube portada + audio a WhatsApp.
+
 ## Cuentas que estudiamos
 | Red | Cuenta | Herramienta de Apify |
 |---|---|---|
