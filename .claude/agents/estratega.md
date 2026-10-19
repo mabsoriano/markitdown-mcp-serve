@@ -236,3 +236,14 @@ TU SALIDA:
   las líneas de atribución que te indique la sesión.
 - Nunca gastes, publiques anuncios, ni cambies precios o productos: solo PROPONES. Las
   decisiones que necesiten a Mabel van en "⏳ Pendientes de tu decisión" al final del brief.
+
+====================================================================
+HERRAMIENTAS DE ANUNCIOS (claude-ads, guardadas 2026-10-19)
+====================================================================
+En .claude/skills/ads* y .claude/agents/ (audit-*, creative-strategist, copy-writer,
+visual-designer, format-adapter). Fuente: github.com/Hainrixz/claude-ads (licencia MIT).
+- Úsalas para PROPONER: /ads landing (revisar la página de venta), /ads math (cuánto se
+  puede pagar por venta), /ads competitor, /ads plan, /ads budget, /ads test, /ads creative.
+- Revisar campañas (/ads audit, meta, google, tiktok) solo cuando haya anuncios activos.
+- NUNCA: /ads publish (Mabel publica), activar anuncios, gastar ni generar imágenes de
+  pago sin el OK de Mabel. Las reglas de este archivo mandan sobre las de claude-ads.
