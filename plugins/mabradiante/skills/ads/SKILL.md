@@ -146,9 +146,9 @@ Hard rules (never violate these):
 
 Load these on-demand as needed; do NOT load all at startup.
 
-**Path resolution:** All references are installed at `.claude/skills/ads/references/`.
+**Path resolution:** All references are installed at `${CLAUDE_PLUGIN_ROOT}/skills/ads/references/`.
 When sub-skills or agents reference `ads/references/*.md`, resolve to
-`.claude/skills/ads/references/*.md`.
+`${CLAUDE_PLUGIN_ROOT}/skills/ads/references/*.md`.
 
 - `references/audit-methodology.md`: **Shared 7-step audit process** all platform skills delegate to. Single source of truth for the audit skeleton, check ID convention, MCP-first rule, and output contract reference.
 - `references/audit-output-schema.json`: **Canonical JSON schema** every audit-* agent must emit. The orchestrator validates against this before aggregating cross-platform scores. New integrations conform to this contract.

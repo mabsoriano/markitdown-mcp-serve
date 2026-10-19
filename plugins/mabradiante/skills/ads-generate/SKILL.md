@@ -59,7 +59,7 @@ Then skip to Step 5.
 
 ### Step 3: Read Provider Config
 
-Load `.claude/skills/ads/references/image-providers.md` to confirm:
+Load `${CLAUDE_PLUGIN_ROOT}/skills/ads/references/image-providers.md` to confirm:
 - Active provider pricing (show user the cost estimate)
 - Rate limits for current tier
 - Batch API availability
@@ -67,11 +67,11 @@ Load `.claude/skills/ads/references/image-providers.md` to confirm:
 ### Step 4: Read Platform Specs
 
 For each platform in the campaign brief, load the relevant spec reference:
-- `.claude/skills/ads/references/meta-creative-specs.md` (Feed/Reels/Stories specs + safe zones)
-- `.claude/skills/ads/references/google-creative-specs.md` (PMax/RSA/YouTube generation-ready specs)
-- `.claude/skills/ads/references/tiktok-creative-specs.md` (9:16 only + safe zone overlay)
+- `${CLAUDE_PLUGIN_ROOT}/skills/ads/references/meta-creative-specs.md` (Feed/Reels/Stories specs + safe zones)
+- `${CLAUDE_PLUGIN_ROOT}/skills/ads/references/google-creative-specs.md` (PMax/RSA/YouTube generation-ready specs)
+- `${CLAUDE_PLUGIN_ROOT}/skills/ads/references/tiktok-creative-specs.md` (9:16 only + safe zone overlay)
 
-Plus `.claude/skills/ads/references/platform-specs-cross.md` for cross-platform aspect-ratio + character normalization.
+Plus `${CLAUDE_PLUGIN_ROOT}/skills/ads/references/platform-specs-cross.md` for cross-platform aspect-ratio + character normalization.
 
 ### Step 5: Prepare banana Configuration
 
@@ -166,6 +166,6 @@ Use `/banana generate` directly with the specified prompt and aspect ratio.
 
 ## Reference Files
 
-- `.claude/skills/ads/references/image-providers.md`: provider config, pricing, limits
-- `.claude/skills/ads/references/[platform]-creative-specs.md`: per-platform specs
-- `.claude/skills/ads/references/brand-dna-template.md`: brand injection schema
+- `${CLAUDE_PLUGIN_ROOT}/skills/ads/references/image-providers.md`: provider config, pricing, limits
+- `${CLAUDE_PLUGIN_ROOT}/skills/ads/references/[platform]-creative-specs.md`: per-platform specs
+- `${CLAUDE_PLUGIN_ROOT}/skills/ads/references/brand-dna-template.md`: brand injection schema
