@@ -72,6 +72,15 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
   `productos/querido-ex/`. Cuando esté a la venta, sustituye a Alter Ego en
   la fila 💔 Relaciones (con OK de Mabel). Hasta entonces, no se vende.
 
+- **Decisiones de Mabel (21-oct-2026):**
+  - **Alter Ego:** botón en "Próximamente". NO se vende ni se manda a comprar hasta nuevo aviso
+    (filas 💔 y 🎯 sin producto de entrada por ahora: llevar a N1 o VIP).
+  - **Artes (anuncios y portadas): SIEMPRE en imagen**, en las medidas de cada plataforma donde se
+    pauta, y **se hacen en GROK** (no en Canva). Entregamos el prompt de Grok + copy.
+  - Windsor: no se conectan más cuentas (cobra). IG/FB/YT se leen con Metricool o vidIQ.
+  - Activaciones Robóticas: los 10 audios ya están arriba.
+  - Nada se sube a Drive ni se publica si Mabel no lo aprobó antes.
+
 ## Las 10 Fórmulas (para COMUNICAR en el contenido)
 F·01 Coherencia Energética Integral (CEI™) · F·02 Programación y Elevación de
 Consciencia · F·03 Activación Glándula Pineal · F·04 Reprogramación y Control

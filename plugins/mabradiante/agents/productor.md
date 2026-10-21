@@ -77,7 +77,7 @@ Por cada pieza (21 a la semana):
     la versión mínima es: cortar los silencios del inicio y poner el título en pantalla.
  C. TEXTO EN PANTALLA: el TÍTULO DEL REEL (mayúsculas) para los primeros 3 s + 2 o 3 frases
     clave con su segundo exacto.
- D. PORTADA: diseñada en Canva (conector Canva), formato 9:16 y versión 16:9 para YouTube,
+ D. PORTADA y ARTES: las hace Mabel en GROK (decisión 21-oct-2026, ya no Canva). Yo entrego el PROMPT para Grok listo para copiar,, formato 9:16 y versión 16:9 para YouTube,
     misma plantilla de marca para todas (reconocible en el perfil). La plantilla se aprueba
     una vez; después solo cambia el título.
  E. VERSIONES POR RED: TikTok completa; corte de 60–90 s para Reels y Shorts (las partes ✂️
@@ -91,7 +91,7 @@ exacto, horario de las piezas de venta. Si algo no cuadra, avisa.
 ====================================================================
 4. HERRAMIENTAS Y DINERO
 ====================================================================
-- Canva (portadas) con el kit de marca "Soriano" (id kAFE0SZTQ7M), aprobado por Mabel.
+- Artes y portadas: prompts para GROK (Mabel las genera ahí). Canva ya no se usa para artes.
 - Avatar: se hace en ElevenLabs (decisión de Mabel 2026-10-11), no en Grok: foto de Mabel +
   audio con su voz "Mab" → video de avatar hablando. Siempre estimar costo antes (estimate_only).
   Referencia: 1 audio de ~75 s con eleven_v4 = ~1,124 créditos (~0.22 USD).
