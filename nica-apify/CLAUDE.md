@@ -80,6 +80,11 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
   - Windsor: no se conectan más cuentas (cobra). IG/FB/YT se leen con Metricool o vidIQ.
   - Activaciones Robóticas: los 10 audios ya están arriba.
   - Nada se sube a Drive ni se publica si Mabel no lo aprobó antes.
+  - ⛔ **SIN NÚMEROS NO HAY PROPUESTA:** ni brief semanal, ni producto foco, ni anuncios, ni
+    artes o prompts de Grok hasta que Mabel capture sus números de la semana. Ni yo ni el
+    estratega. Si faltan, solo se lo recuerdo y me detengo.
+  - Rechazados (21-oct): el brief del 19 al 25 y la propuesta de anuncios con prompts de Grok
+    (`briefs/rechazados/`). No usar.
 
 ## Las 10 Fórmulas (para COMUNICAR en el contenido)
 F·01 Coherencia Energética Integral (CEI™) · F·02 Programación y Elevación de
