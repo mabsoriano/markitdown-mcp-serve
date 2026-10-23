@@ -87,25 +87,34 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
     (`briefs/rechazados/`). No usar.
 
 ## ARQUITECTURA Y FUNNEL BNQ™ (aprobado por Mabel, 23-oct-2026)
-1. **LIVE GRATIS cada martes, 10:00 AM y 7:00 PM** (27 oct y 3 nov, por 2 semanas):
-   "Hipnosis para hackear los bloqueos con el dinero" (autohipnosis larga en vivo).
+**FASE 1 · viernes 23 oct – domingo 1 nov: Activaciones Robóticas Millonarias + LIVE.**
+1. **LIVE GRATIS en TikTok · martes 27 oct · 10:00 AM y 7:00 PM CDMX:** "Activación en tiempo
+   real GRATIS · Hipnosis para eliminar bloqueos con el dinero" (autohipnosis larga en vivo).
+   Artes: `live/artes/` (generador `live/artes_live.py`, con horarios de 7 países).
 2. **Cierre · pack chico:** Activaciones Robóticas Millonarias · $500 (ya a la venta).
-3. **Opción · PACK GRANDE de Autohipnosis BNQ™:** $2,500 solo en el live (fuera del live $3,000).
-   5 autohipnosis, UNA por tema, cada una con proceso **BIO-Hardware** (lo grabado en cuerpo y
-   memoria celular) → **NEURO-Software** (programas y pactos de lealtad del linaje) →
-   **QUANTUM-Activación** (identidad, salto, colapso de consciencia) y la imagen de su fórmula:
+3. **PACK GRANDE de Autohipnosis BNQ™:** $2,500 solo en el LIVE, después $3,000. Al comprar se
+   entregan los 5 audios (NO se vende como "valor apilado"). Cada audio con proceso
+   **BIO-Hardware** → **NEURO-Software** → **QUANTUM-Activación** y la imagen de su fórmula:
    1. 💰 Dinero: **Hipnosis para hackear bloqueos con el dinero**
    2. 💔 Relaciones: **Hipnosis para hackear relaciones tóxicas**
    3. ⚡ Salud: **Hipnosis para hackear ansiedad y modo supervivencia**
    4. 🔋 Volver a ti: **Hipnosis: hackea el burnout y modo alarma**
    5. 🌀 Todo / nada funciona: **Hipnosis de activación de despertar de consciencia y propósito**
-   Regalo: Robóticas ($500) + comunidad gratis (WhatsApp). Los audios se graban en otro chat.
+   Regalo: Robóticas + comunidad gratis (WhatsApp). Los audios y la presentación se hacen en otro chat.
+- **Registro al LIVE:** grupo de WhatsApp (orgánico: link en perfil). **Ads (FB/IG y TikTok):
+  formulario de registro nativo** (capta correo) → pantalla final con el link del grupo de WhatsApp.
+  Correos por **Brevo**. Sin LIVE en YouTube.
+**FASE 2 · desde lunes 2 nov (2 semanas): LIBRO EN KINDLE** + LIVE de atracción "Hackea y
+activa tu mente subconsciente y tus habilidades dormidas · Activación en tiempo real GRATIS",
+por dolor y fórmula (ej. corta fugas energéticas, activa tus chakras, conexión con tu sabiduría
+interior, despierta tu subconsciente). Por definir con Mabel (1 o 2 fórmulas por cada 2 semanas).
 - Los productos que ya existen (ADN Millonario, Querida Ansiedad, Modo Supervivencia, Despertar,
   Querido Ex) se quedan y se venden igual, aparte.
-- **Plan de 2 semanas (26 oct – 8 nov): SOLO 2 temas:** Robóticas + el live de los martes.
 - **CONTENIDO: todo por AUDIOS ROBÓTICOS de activación** (Millonaria, del Éxito, etc.).
+- Cada pieza SIEMPRE con **título hook + hashtags**, y cada semana **2 guiones de YouTube** (= podcast).
 - Nunca "depresión". Sí: ansiedad, burnout, modo alarma (sin promesas de salud).
 - Voz genérica de los audios: **pausada en momentos clave** (no lenta).
+- Tablero de números: el documento "2026-10-19" contiene en realidad la **semana 12–18 oct**.
 
 ## Las 10 Fórmulas (para COMUNICAR en el contenido)
 F·01 Coherencia Energética Integral (CEI™) · F·02 Programación y Elevación de
