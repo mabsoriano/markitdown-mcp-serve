@@ -1,5 +1,7 @@
 # Plan de 2 semanas · lunes 26 de octubre al domingo 8 de noviembre de 2026
 
+> ⚠️ **Ajustado por Mabel (23-oct):** el plan va del viernes 23 oct al domingo 1 nov (Fase 1) y desde el 2 nov sigue la Fase 2 (Kindle). El calendario vigente con guiones está en `calendario/plan-fase1-2026-10-23.xlsx`.
+
 > **PROPUESTA · requiere el OK de Mabel antes de pasarla a NICA.** Nada se publica, se gasta ni se cambia sin su OK.
 > De: Estratega de campañas · Para: Mabel → NICA · Hecho el viernes 23 de oct de 2026. Reemplaza a `briefs/brief-semana-2026-10-26.md`.
 > Sin anuncios, sin artes y sin prompts de Grok. Versión en Excel: `briefs/plan-2-semanas-2026-10-26.xlsx`.
