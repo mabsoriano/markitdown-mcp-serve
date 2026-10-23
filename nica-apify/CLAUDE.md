@@ -20,7 +20,7 @@ Siempre recomiendo lo que más resultado da, aunque cueste más dinero, pero
 - Podcast (Spotify) y canal de YouTube: **"Las Fórmulas Cuánticas para
   Hackear tu Mente y la Matrix"**.
 - Tagline: "Lo que no se activa, no cambia."
-- Web: mabradiante-checkout.vercel.app · Pagos en Hotmart.
+- Web: www.mabradiante.com · Pagos en Hotmart.
 
 ## Posicionamiento
 **"Espiritualidad para despertar. Ciencia para comprender. Protocolos para
@@ -85,6 +85,27 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
     estratega. Si faltan, solo se lo recuerdo y me detengo.
   - Rechazados (21-oct): el brief del 19 al 25 y la propuesta de anuncios con prompts de Grok
     (`briefs/rechazados/`). No usar.
+
+## ARQUITECTURA Y FUNNEL BNQ™ (aprobado por Mabel, 23-oct-2026)
+1. **LIVE GRATIS cada martes, 10:00 AM y 7:00 PM** (27 oct y 3 nov, por 2 semanas):
+   "Hipnosis para hackear los bloqueos con el dinero" (autohipnosis larga en vivo).
+2. **Cierre · pack chico:** Activaciones Robóticas Millonarias · $500 (ya a la venta).
+3. **Opción · PACK GRANDE de Autohipnosis BNQ™:** $2,500 solo en el live (fuera del live $3,000).
+   5 autohipnosis, UNA por tema, cada una con proceso **BIO-Hardware** (lo grabado en cuerpo y
+   memoria celular) → **NEURO-Software** (programas y pactos de lealtad del linaje) →
+   **QUANTUM-Activación** (identidad, salto, colapso de consciencia) y la imagen de su fórmula:
+   1. 💰 Dinero: **Hipnosis para hackear bloqueos con el dinero**
+   2. 💔 Relaciones: **Hipnosis para hackear relaciones tóxicas**
+   3. ⚡ Salud: **Hipnosis para hackear ansiedad y modo supervivencia**
+   4. 🔋 Volver a ti: **Hipnosis: hackea el burnout y modo alarma**
+   5. 🌀 Todo / nada funciona: **Hipnosis de activación de despertar de consciencia y propósito**
+   Regalo: Robóticas ($500) + comunidad gratis (WhatsApp). Los audios se graban en otro chat.
+- Los productos que ya existen (ADN Millonario, Querida Ansiedad, Modo Supervivencia, Despertar,
+  Querido Ex) se quedan y se venden igual, aparte.
+- **Plan de 2 semanas (26 oct – 8 nov): SOLO 2 temas:** Robóticas + el live de los martes.
+- **CONTENIDO: todo por AUDIOS ROBÓTICOS de activación** (Millonaria, del Éxito, etc.).
+- Nunca "depresión". Sí: ansiedad, burnout, modo alarma (sin promesas de salud).
+- Voz genérica de los audios: **pausada en momentos clave** (no lenta).
 
 ## Las 10 Fórmulas (para COMUNICAR en el contenido)
 F·01 Coherencia Energética Integral (CEI™) · F·02 Programación y Elevación de
