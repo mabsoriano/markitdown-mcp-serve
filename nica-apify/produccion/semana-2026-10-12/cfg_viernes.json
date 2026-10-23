@@ -1,0 +1,60 @@
+{
+ "work": "viernes",
+ "avatar": "media/vie_avatar.mp4",
+ "voz": "media/vie_resto.mp3",
+ "foto": "mabel-blazer.jpg",
+ "salida": "reel-viernes16-cuerpo-alerta.mp4",
+ "titulo": "3 SEÑALES DE QUE\nTU CUERPO NO DESCANSA\nAUNQUE DUERMAS",
+ "gancho": "No es flojera ni falta de voluntad.\nHay 3 señales de que tu cuerpo\nsigue en alerta\naunque duermas 8 horas.",
+ "frases": [
+  {
+   "t": "Guárdalo y compártelo con alguien que vive cansada aunque duerma.",
+   "pantalla": "Guárdalo y compártelo con alguien\nque vive cansada aunque duerma"
+  },
+  {
+   "t": "Estas son las tres señales.",
+   "pantalla": "LAS 3 SEÑALES",
+   "tarjeta": true
+  },
+  {
+   "t": "Uno: te despiertas cansada.",
+   "pantalla": "1\nTe despiertas\ncansada",
+   "tarjeta": true
+  },
+  {
+   "t": "Dos: aprietas la mandíbula o los hombros sin darte cuenta.",
+   "pantalla": "2\nAprietas la mandíbula\no los hombros",
+   "tarjeta": true
+  },
+  {
+   "t": "Tres: cuando por fin descansas, te duele algo o te enfermas.",
+   "pantalla": "3\nCuando por fin descansas,\nte duele algo",
+   "tarjeta": true
+  },
+  {
+   "t": "Haz este escaneo de treinta segundos: recorre tu cuerpo de la cabeza a los pies y pregúntate dónde estás apretando.",
+   "pantalla": "Escaneo de 30 segundos:\n¿dónde estás apretando?"
+  },
+  {
+   "t": "Lleva tu exhalación a esa zona y suéltala. Hazlo tres veces al día.",
+   "pantalla": "Lleva tu exhalación ahí\ny suéltala · 3 veces al día"
+  },
+  {
+   "t": "Repite conmigo: mi cuerpo puede soltar. Mi cuerpo puede soltar. Mi cuerpo puede soltar.",
+   "pantalla": "Repite conmigo:\nMI CUERPO\nPUEDE SOLTAR",
+   "tarjeta": true
+  },
+  {
+   "t": "No estás cansada de vivir. Estás cansada de sobrevivir.",
+   "pantalla": "No estás cansada de vivir.\nEstás cansada de sobrevivir."
+  },
+  {
+   "t": "Comenta ALERTA si te identificaste.",
+   "pantalla": "Comenta ALERTA"
+  },
+  {
+   "t": "Y sígueme para más hackeos de energía.",
+   "pantalla": "Sígueme para más\nhackeos de energía"
+  }
+ ]
+}

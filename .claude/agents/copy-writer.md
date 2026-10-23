@@ -1,0 +1,1 @@
+../../plugins/mabradiante/agents/copy-writer.md

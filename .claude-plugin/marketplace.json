@@ -1,0 +1,16 @@
+{
+  "name": "mabradiante",
+  "owner": {
+    "name": "Mabel Soriano"
+  },
+  "metadata": {
+    "description": "Agentes y herramientas de @mabradiante para usar en cualquier proyecto."
+  },
+  "plugins": [
+    {
+      "name": "mabradiante",
+      "source": "./plugins/mabradiante",
+      "description": "Estratega, productor y herramientas de anuncios /ads de @mabradiante."
+    }
+  ]
+}

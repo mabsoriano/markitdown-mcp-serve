@@ -1,0 +1,134 @@
+{
+ "actor": "apify/instagram-reel-scraper",
+ "runId": "8KsHdBxtTOwOd7Hho",
+ "datasetId": "kj1ThMoJHI4KFjIxv",
+ "fecha_corrida": "2026-10-06",
+ "parametros": {
+  "username": "Top 10 reels por vistas de fuentes/instagram.json",
+  "includeTranscript": true,
+  "maxTotalChargeUsd": 1
+ },
+ "nota": "Datos crudos de Apify (campos seleccionados). Algunos captions largos van recortados con [...]; el texto completo está en el dataset. No editar.",
+ "items": [
+  {
+   "shortCode": "DbMptmRtnU5",
+   "url": "https://www.instagram.com/p/DbMptmRtnU5/",
+   "ownerUsername": "danielacorreaup",
+   "videoPlayCount": 2500753,
+   "likesCount": 163566,
+   "commentsCount": 1174,
+   "videoDuration": 70.772972,
+   "timestamp": "2026-07-25T01:39:00.000Z",
+   "caption": "Esta es la ventaja de las personas que tienen TDAH que nadie te cuenta! y probablemente rompa muchas de tus creencias…👀",
+   "transcript": "Las personas con TDAH no tienen un déficit de atención, tienen un exceso de atención para lo que realmente les importa, y conocer esa diferencia puede cambiarles la vida. Nos hicieron creer que el TDAH significa que no te puedes concentrar, pero eso no es lo que yo veo. Yo veo personas que pueden pasar ocho horas seguidas investigando algo que les apasiona y que cinco minutos después son incapaces de contestar un mensaje. Veo personas que sienten todo con mucha intensidad, que una conversación les cambia el día, que un ruido las desregula, que una idea las obsesiona. También que una injusticia les duele como si fuera propia, que cuando encuentran algo que les enciende el cerebro no necesitan motivación, no necesitan disciplina, necesitan que alguien las deje hacer. El problema es que crecieron creyendo que había algo roto en ellas. Porque sí, el sistema educativo premia al que presta atención a todo, la empresa premia al que hace todo igual, la sociedad premia al que nunca incomoda. Pero las personas que crean empresas, las que inventan, las que innovan, las que cambian industrias, muy rara vez funcionan como todo el mundo. Porque las personas que cambian el mundo casi nunca piensan como el resto. Quizá el TDAH nunca fue un déficit, quizá el verdadero déficit es vivir en un sistema que espera que todos funcionemos exactamente igual. Y esa es la conversación que yo quiero empezar a tener."
+  },
+  {
+   "shortCode": "DdXi3VJtZo0",
+   "url": "https://www.instagram.com/p/DdXi3VJtZo0/",
+   "ownerUsername": "danielacorreaup",
+   "videoPlayCount": 2166685,
+   "likesCount": 278920,
+   "commentsCount": 1871,
+   "videoDuration": 34.085442,
+   "timestamp": "2026-09-17T00:13:07.000Z",
+   "caption": "contradicciones de personas neurodivergentes!",
+   "transcript": "Odian los ruidos fuertes, pero pueden escuchar la misma canción durante cinco horas con los audífonos puestos. Odian el contacto visual porque les parece incómodo, pero si hablas con ellas sobre su interés especial, te van a mirar a los ojos a través de los ojos hasta llegar a tu alma. Odian cuando un plan cambia abruptamente, pero pueden cambiar toda su identidad y personalidad basándose en el personaje de la serie que estén viendo en este momento. Prefieren comunicarse por mensaje. El único problema con eso es que si no estás en la misma habitación sentada frente a ellas, pueden olvidarse de que existes. Les gusta la comunicación directa y literal, pero usan el sarcasmo y el humor seco como si fuera un deporte competitivo."
+  },
+  {
+   "shortCode": "DZoPOQoNlb5",
+   "url": "https://www.instagram.com/p/DZoPOQoNlb5/",
+   "ownerUsername": "danielacorreaup",
+   "videoPlayCount": 554163,
+   "likesCount": 18280,
+   "commentsCount": 245,
+   "videoDuration": 27.746395,
+   "timestamp": "2026-06-16T01:42:59.000Z",
+   "caption": "La física ya lo confirmó:\nLo que no puedes ver es lo que construye todo lo que sí ves. La energía no rodea las cosas, es las cosas. Y tú, solo por estar mirando, ya estás cambiando lo que pasa.",
+   "transcript": "Daydream, I fell asleep amid the flowers, for a couple of hours, on a beautiful day."
+  },
+  {
+   "shortCode": "Ddwnt0FPrfM",
+   "url": "https://www.instagram.com/p/Ddwnt0FPrfM/",
+   "ownerUsername": "quantumquip",
+   "videoPlayCount": 174917,
+   "likesCount": 5435,
+   "commentsCount": 149,
+   "videoDuration": 45.741859,
+   "timestamp": "2026-09-26T17:57:17.000Z",
+   "caption": "Cuando entrenas lo suficiente a tu atención para acompañarte, \npara respirar cuando el corazón se apachurra, \na quedarte presente cuando todo tu cuerpo quiere huir, \nconstruyes un poder dentro de ti que no depende de nadie. \n\nLlegar a eso sí es muy incómodo pero también es muy fácil cuando dejas de engañarte pensando que evitar el dolor te va a proteger de él. [...] Comenta YO para darte el link de registro.",
+   "transcript": "I don't know what to do."
+  },
+  {
+   "shortCode": "Dc7CLvtBsBD",
+   "url": "https://www.instagram.com/p/Dc7CLvtBsBD/",
+   "ownerUsername": "danielacorreaup",
+   "videoPlayCount": 171167,
+   "likesCount": 16621,
+   "commentsCount": 153,
+   "videoDuration": 83.172424,
+   "timestamp": "2026-09-05T22:29:36.000Z",
+   "caption": "Este es uno de los súper poderes que te brinda ser neurodivergente ¡Aprende a utilizarlo! ✨🪄",
+   "transcript": "Uno de los superpoderes de la neurodivergencia es tu capacidad de obsesionarte profundamente con algo que para los demás parece insignificante. Mientras todos los demás dicen, ¿en serio te interesan los insectos? Tú estás pensando, ¿pero ya viste todo lo que hay dentro de ese mundo? Porque tú no ves solamente un tema, ves un universo entero. Y entonces un día conoces a alguien que parece genuinamente interesado y piensas, sí, déjame enseñarte todo lo que sé. Le muestras tu colección, tus descubrimientos, todo eso que llevas años construyendo. Pero después empiezas a notar que esa persona pierde interés, su atención se va, empieza a desconectarte y eso te duele. Porque por un momento pensaste, por fin encontré a alguien que también entiende esto. Y después sientes que vuelves a estar solo. Pero que hay un malentendido. No necesariamente es que no quieran entrar en tu universo, quizás simplemente necesitan entrar más despacio, porque tú llevas años explorándolo. No puedes esperar que otra persona absorba todo eso en una tarde. Y sé lo solitario que puede sentirse pensar, soy la única persona a la que le importa tanto esto. Y entonces empiezas a pensar, ¿tengo que quedarme en la superficie con los demás, hablando de cosas aburridas que no significan nada? ¿Esto es la conexión humana? No, prefiero hablar con los insectos. Pero aquí estás olvidando algo. Todos tienen un universo propio. Y muchas personas también tienen miedo de abrirlo y compartirlo. Porque la conexión humana no consiste únicamente en invitar a los demás a entrar a tu universo. También consiste en tener la curiosidad suficiente para entrar en el de alguien más."
+  },
+  {
+   "shortCode": "DcUlSiytrS_",
+   "url": "https://www.instagram.com/p/DcUlSiytrS_/",
+   "ownerUsername": "danielacorreaup",
+   "videoPlayCount": 144483,
+   "likesCount": 17028,
+   "commentsCount": 43,
+   "videoDuration": 50.68771,
+   "timestamp": "2026-08-22T00:05:42.000Z",
+   "caption": "Sabrina Carpenter es el ejemplo perfecto de cómo funciona la manifestación! \n\nElla encarnó su identidad magnética mucho antes de convertirse en lo que hoy conocemos. Escucha con atención!",
+   "transcript": "Sabrina Carpenter es el ejemplo perfecto de cómo funciona la manifestación. Ella no se volvió magnética después de que todo el mundo empezara a hablar de ella. Primero se convirtió en esa persona. Sabrina ha contado varias veces que siempre asumió que iba a ser famosa y eso no es una simple coincidencia, es identidad. Cuando escribió Expresón no lo hizo imaginando cómo sería ser esa mujer, lo escribió como si ya lo fuera. La mujer que todos miraban, de la que todos hablaban y que nadie podía dejar de pensar. Y después la realidad alcanzó esa identidad. Porque esto es lo que la mayoría entiende mal sobre la manifestación. Esperan tener pruebas para empezar a convertirse en la persona que quieren ser. Pero quienes dan un salto enorme en su vida hacen exactamente lo contrario. Primero adoptan esa identidad. Hablan desde esa identidad, crean desde esa identidad, toman decisiones desde esa identidad y poco a poco el mundo empieza a responder a la persona en la que ya se han convertido."
+  },
+  {
+   "shortCode": "DcC8I3KN9kI",
+   "url": "https://www.instagram.com/p/DcC8I3KN9kI/",
+   "ownerUsername": "danielacorreaup",
+   "videoPlayCount": 127947,
+   "likesCount": 9715,
+   "commentsCount": 200,
+   "videoDuration": 44.836281,
+   "timestamp": "2026-08-15T03:38:44.000Z",
+   "caption": "esta es la manera de pensar más avanzada! 👂🙋‍♀️",
+   "transcript": "Alguien dijo que las personas con la forma de pensar más avanzada tienen una habilidad muy particular. Se llama pensamiento dialéctico. Esa capacidad de sostener dos verdades al mismo tiempo, incluso cuando parecen contradictorias. Y esa es una de las formas más sofisticadas de pensar. Porque deja de ser todo blanco o negro y empiezas a ver los matices. Aprendes a moverte por ese espacio gris donde las cosas no son tan rígidas ni tan simples. Las personas que pueden sostener ambas perspectivas son capaces de ver los dos extremos del espectro al mismo tiempo y de ahí nace una enorme creatividad, una enorme capacidad de comprensión y una empatía mucho más profunda. Si conoces a alguien que piensa así, compártele este video. Y si tú eres una de esas personas, no dejes de cultivar esa forma de ver el mundo. Es una de las habilidades más valiosas que puedes desarrollar."
+  },
+  {
+   "shortCode": "DcxHcIpN2jw",
+   "url": "https://www.instagram.com/p/DcxHcIpN2jw/",
+   "ownerUsername": "danielacorreaup",
+   "videoPlayCount": 121918,
+   "likesCount": 4136,
+   "commentsCount": 35,
+   "videoDuration": 49.875011,
+   "timestamp": "2026-09-02T02:02:19.000Z",
+   "caption": "¿Qué tipo de persona eres?",
+   "transcript": "Solo existen dos tipos de personas que ganan en la vida. Las primeras son las personas que no tienen un plan B, ni un plan de seguridad, ni un hogar cómodo al que pueden regresar si todo se viene abajo. Para ellas fracasar no es una opción, así que hacen absolutamente todo lo que pueden para darle la vuelta a su vida. Pero el segundo grupo de personas son aquellas que tienen estándares brutalmente altos para sí mismas. Y ellas tienen todo. Tienen una red de seguridad, tienen un sistema de apoyo, tienen comodidad. Pero en su cabeza decidieron que ser mediocres es inaceptable incluso cuando la comodidad les permitiría salirse con la suya. Y estos dos grupos de personas parecen completamente opuestos para los demás. Pero lo que comparten es la misma terquedad de negarse a conformarse. No están dispuestos a dejar su vida en manos de las circunstancias ni de su comodidad. Eliminan cualquier opción que les permita hacer algo menos que dar lo mejor de sí mismos. Y ese es todo el secreto."
+  },
+  {
+   "shortCode": "DdfGwrrvq_o",
+   "url": "https://www.instagram.com/p/DdfGwrrvq_o/",
+   "ownerUsername": "danielacorreaup",
+   "videoPlayCount": 101223,
+   "likesCount": 7849,
+   "commentsCount": 50,
+   "videoDuration": 76.786942,
+   "timestamp": "2026-09-19T22:42:02.000Z",
+   "caption": "está es una de las mayores limitaciones de las personas con TDAH",
+   "transcript": "Las personas más inteligentes que conozco tienen un problema rarísimo. Se aburren demasiado rápido de las cosas que hacen bien. Empiezan algo, les interesa muchísimo, aprenden más rápido que todos, descubre cómo funciona, se vuelven muy buenas y justo cuando deberían repetirlo durante suficiente tiempo para obtener grandes resultados, se aburren y entonces empiezan otra cosa. Desde afuera eso puede parecer falta de disciplina, inconstancia o autosabotaje, pero a veces solo está ocurriendo algo diferente. Hay cerebros que reciben muchísima estimulación al descubrir, resolver, conectar ideas y enfrentarse a algo nuevo. El problema aparece cuando ya lo entendieron, porque repetir exactamente lo mismo 100 veces puede sentirse insoportable. Si no sabes eso de ti, puedes pasar años diciéndote, nunca termino nada, no soy constante, siempre abandono. Cuando quizá nunca aprendiste a diseñar un sistema que contemple cómo funciona realmente tu atención. La solución no necesariamente es obligarte a soportar más aburrimiento. Puede ser aprender a introducir suficiente novedad dentro de lo repetitivo para que puedas sostener, cambiar el contexto, cambiar el desafío, automatizar lo que ya no necesita tu cerebro, delegar ciertas partes o convertir la repetición en juego. No todos los problemas de constancia se resuelven con más disciplina. A veces se resuelven conociéndote lo suficiente como para dejar de construir un sistema que funcione contra ti."
+  },
+  {
+   "shortCode": "DdhoB0yO6lu",
+   "url": "https://www.instagram.com/p/DdhoB0yO6lu/",
+   "ownerUsername": "quantumquip",
+   "videoPlayCount": 86690,
+   "likesCount": 990,
+   "commentsCount": 49,
+   "videoDuration": 28.048254,
+   "timestamp": "2026-09-20T22:10:20.000Z",
+   "caption": "Hay muchas formas de huir de la incomodidad, pero pocos se entrenan para atravesarla. [...] ¿Quieres estar ahí? Comenta CLASE y te cuento más.",
+   "transcript": "You"
+  }
+ ]
+}
