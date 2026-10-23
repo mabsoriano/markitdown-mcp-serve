@@ -1,3 +1,5 @@
+> **REEMPLAZADO (23-oct-2026):** este brief lo reemplaza `briefs/plan-2-semanas-2026-10-26.md` (y su Excel). Se deja solo como referencia.
+
 # Brief semanal · lunes 26 de octubre al domingo 1 de noviembre de 2026
 
 > **PROPUESTA · requiere el OK de Mabel antes de pasarla a NICA.** Nada se publica, se gasta ni se cambia sin su OK.
