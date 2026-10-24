@@ -20,6 +20,11 @@ Siempre recomiendo lo que más resultado da, aunque cueste más dinero, pero
 - Podcast (Spotify) y canal de YouTube: **"Las Fórmulas Cuánticas para
   Hackear tu Mente y la Matrix"**.
 - Tagline: "Lo que no se activa, no cambia."
+- **FIRMA Y SLOGAN OFICIAL (Mabel, 24-oct-2026):** *"La fórmula definitiva no es un decreto, es la
+  BIO-NEUROABUNDANCIA: la reprogramación simultánea de tu ADN, tu energía y tu subconsciente.
+  Porque lo que no se ACTIVA, NO CAMBIA. @mabradiante"*. Va al cierre de correos, descripciones de
+  YouTube/podcast, copys largos, páginas de venta y presentaciones. En piezas cortas (reels, audios
+  de 1 min) basta: "Lo que no se activa, no cambia. @mabradiante".
 - Web: www.mabradiante.com · Pagos en Hotmart.
 
 ## Posicionamiento
