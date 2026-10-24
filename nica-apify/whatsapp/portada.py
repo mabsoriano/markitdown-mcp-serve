@@ -117,48 +117,11 @@ def slug(t):
     return re.sub(r"[^a-z0-9]+", "-", t).strip("-")[:40]
 
 
-def portada_real(titulo):
-    """Portada con la FOTO REAL de Mabel y su estilo (espacio morado + dorado), segura para el
-    recorte redondo de WhatsApp: título arriba, foto en arco al centro, @mabradiante abajo."""
-    import math
-    sys.path.insert(0, str(AQUI.parent / "live"))
-    import artes_live as a
-    from PIL import ImageDraw
-    n, R = 1024, 512
-    img = a.fondo(n, n, semilla=5)
-    d = ImageDraw.Draw(img)
-    def cabe(txt, px, y):
-        while px > 24:
-            fu = ImageFont.truetype(a.SANS_B, px)
-            dy = max(abs(y - R), abs(y + px - R))
-            if d.textlength(txt, font=fu) <= 2 * math.sqrt(max(R * R - dy * dy, 0)) * 0.86:
-                return fu
-            px -= 2
-        return ImageFont.truetype(a.SANS_B, px)
-    palabras, lineas, y = titulo.upper().split(), [], 150
-    while palabras:   # llena cada renglón con lo que quepa en el círculo
-        linea = palabras.pop(0)
-        while palabras and cabe(linea + " " + palabras[0], 64, y).size >= 56:
-            linea += " " + palabras.pop(0)
-        lineas.append((linea, y))
-        y += 70
-    for linea, yy in lineas:
-        fu = cabe(linea, 64, yy)
-        d.text((R + 2, yy + 3), linea, font=fu, fill=(0, 0, 0), anchor="ma")
-        d.text((R, yy), linea, font=fu, fill=a.ORO_CLARO if linea == lineas[-1][0] else a.BLANCO, anchor="ma")
-    fa = a.foto_arco(330, 400)
-    top = int(y + 15)
-    img.alpha_composite(fa, (R - fa.width // 2, top))
-    d = ImageDraw.Draw(img)
-    d.text((R, top + fa.height + 12), "@mabradiante", font=ImageFont.truetype(a.SANS_B, 40), fill=a.ORO_CLARO, anchor="ma")
-    return img.convert("RGB").resize((800, 800), Image.LANCZOS)
-
-
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         sys.exit('Uso: python3 portada.py "Nombre de la activación" [AAAA-MM-DD]')
     dia = date.fromisoformat(sys.argv[2]) if len(sys.argv) > 2 else date.today()
     sal = AQUI / "portadas" / f"{dia.isoformat()}_{slug(sys.argv[1])}.png"
     sal.parent.mkdir(exist_ok=True)
-    portada_real(sys.argv[1]).save(sal, "PNG")
+    portada(sys.argv[1]).save(sal, "PNG")
     print(sal)

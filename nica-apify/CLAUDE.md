@@ -122,11 +122,12 @@ interior, despierta tu subconsciente). Por definir con Mabel (1 o 2 fórmulas po
 - **CONTENIDO: todo por AUDIOS ROBÓTICOS de activación** (Millonaria, del Éxito, etc.).
 - Cada pieza SIEMPRE con **título hook + hashtags**, y cada semana **2 guiones de YouTube** (= podcast).
 - Nunca "depresión". Sí: ansiedad, burnout, modo alarma (sin promesas de salud).
-- **Imagen de Mabel (24-oct):** usar SIEMPRE su foto real `marca/mabel-foto.jpg` y su estilo
-  (`marca/estilo-referencia-audio6.jpg`: fondo espacial morado, pastilla dorada, títulos blancos en
-  negrita, @mabradiante en dorado). La imagen dorada vieja (`whatsapp/base-portada.jpg`) NO es ella:
-  no se usa más. En artes del LIVE, debajo de la foto: "Mabel Soriano · Autora del libro Las
-  Fórmulas Cuánticas para Hackear tu Mente y la Matrix".
+- **Imagen de Mabel (24-oct):** la línea gráfica es la **DORADA** (fondo dorado, flor de la vida,
+  átomo, letras doradas). NO se cambia el estilo. Lo único que cambia es la mujer: va **su foto
+  real** (`marca/mabel-foto.jpg`) en lugar de la imagen vieja. Debajo de su foto en las artes del
+  LIVE: "Autora del libro Las Fórmulas Cuánticas para Hackear tu Mente y la Matrix".
+- ⛔ **Cambios de imagen o de diseño: SIEMPRE se le presentan a Mabel ANTES (1 muestra) y se
+  aplican solo con su OK.** Nunca cambiar estilo, colores ni línea gráfica por mi cuenta.
 - Voz genérica de los audios: **pausada en momentos clave** (no lenta).
 - Tablero de números: el documento "2026-10-19" contiene en realidad la **semana 12–18 oct**.
 
