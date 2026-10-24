@@ -126,7 +126,8 @@ interior, despierta tu subconsciente). Por definir con Mabel (1 o 2 fórmulas po
 - Nunca "depresión". Sí: ansiedad, burnout, modo alarma (sin promesas de salud).
 - **Imagen de Mabel (24-oct):** la línea gráfica es la **DORADA** (fondo dorado, flor de la vida,
   átomo, letras doradas). NO se cambia el estilo. Lo único que cambia es la mujer: va **su foto
-  real** (`marca/mabel-foto.jpg`) en lugar de la imagen vieja. Debajo de su foto en las artes del
+  real** (`marca/mabel-foto.jpg`) en lugar de la imagen vieja. APROBADO y aplicado (24-oct) en artes del
+  LIVE, banner, portadas de WhatsApp y portada de Hotmart. Debajo de su foto en las artes del
   LIVE: "Autora del libro Las Fórmulas Cuánticas para Hackear tu Mente y la Matrix".
 - ⛔ **Cambios de imagen o de diseño: SIEMPRE se le presentan a Mabel ANTES (1 muestra) y se
   aplican solo con su OK.** Nunca cambiar estilo, colores ni línea gráfica por mi cuenta.
@@ -212,9 +213,9 @@ entrenamiento, psicología barata.
 ## Audio diario de WhatsApp (comunidad, aprobado 19-oct-2026)
 Cuando Mabel diga **el tema del día** (ej. "abundancia", "soltar el miedo"):
 1. **Portada:** `python3 whatsapp/portada.py "Nombre de la activación" [AAAA-MM-DD]` →
-   PNG 800×800 en `whatsapp/portadas/` con la línea DORADA (título grande en oro, todo dentro del
-   círculo de WhatsApp, @mabradiante). La mujer de la imagen se cambia por su foto real SOLO
-   cuando Mabel apruebe la muestra (24-oct). **Sin lunas, sin fecha.**
+   PNG 800×800 en `whatsapp/portadas/` con la línea DORADA y SU FOTO REAL (base
+   `marca/base-portada-real.jpg`, aprobada 24-oct). **Sin lunas, sin fecha.**
+   Reels de audio robótico: `python3 reels/reel.py guion.txt "TÍTULO HOOK" "Nombre portada" salida.mp4`.
 2. **Guion para grabar con su voz (30 s a 1 min, ~70 a 140 palabras):**
    - INTRO (5 s): "Hola, mi neurohacker. Esta es tu activación de [tema]."
    - HACKEO (20 a 45 s): **mano en el pecho y "repite conmigo"**. Declaraciones en

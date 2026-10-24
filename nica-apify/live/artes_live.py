@@ -10,7 +10,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 AQUI = Path(__file__).parent
-BASE = AQUI.parent / "whatsapp" / "base-portada.jpg"
+BASE = AQUI.parent / "marca" / "base-portada-real.jpg"  # foto real de Mabel (aprobada 24-oct)
 SALIDA = AQUI / "artes"
 SERIF = "/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf"
 SANS = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
@@ -112,7 +112,7 @@ def boton(img, txt, y, px):
 
 def base_limpia():
     """La imagen base sin el título ni el pie viejos (mismo método que las portadas)."""
-    sys.path.insert(0, str(BASE.parent))
+    sys.path.insert(0, str(AQUI.parent / "whatsapp"))
     import portada
     img = Image.open(BASE).convert("RGB")
     portada.suavizar_franja(img, 0, portada.TOPE, desde_arriba=True)
