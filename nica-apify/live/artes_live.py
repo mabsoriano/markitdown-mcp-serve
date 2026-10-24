@@ -171,3 +171,39 @@ if __name__ == "__main__":
                 if uso == "ads" and h == 1920:
                     video(str(p), str(p.with_suffix(".mp4")))
     print(len(list(SALIDA.glob("*.png"))), "artes ·", len(list(SALIDA.glob("*.mp4"))), "videos")
+
+
+def banner_web(w=1920, h=700):
+    """Banner horizontal para www.mabradiante.com: texto a la izquierda, horarios al centro, foto a la derecha."""
+    img = Image.new("RGBA", (w, h), (14, 8, 3, 255))
+    foto = base_limpia().resize((h, h), Image.LANCZOS).convert("RGBA")
+    mascara = Image.new("L", (h, h), 255)
+    d = ImageDraw.Draw(mascara)
+    for x in range(int(h * 0.35)):
+        d.line((x, 0, x, h), fill=int(255 * x / (h * 0.35)))
+    img.paste(foto, (w - h, 0), mascara)
+    d = ImageDraw.Draw(img)
+    x0, ancho_txt = 70, 620
+    y = 60
+    for txt, fuente, px, color in [(ETIQUETA, SANS_B, 26, ORO)] + [(l, SERIF, 64, ORO_CLARO) for l in TITULO] + [
+            ("MARTES 27 DE OCTUBRE", SANS_B, 30, (255, 255, 255)), ("LIVE EN TIKTOK · 10 AM y 7 PM CDMX", SANS_B, 26, ORO)]:
+        fu = ajustar(d, txt, fuente, px, ancho_txt)
+        d.text((x0 + 2, y + 3), txt, font=fu, fill=(0, 0, 0))
+        d.text((x0, y), txt, font=fu, fill=color)
+        y += fu.size * 1.18
+    fu = f(SANS_B, 30)
+    wb = d.textlength(CTA["ads"], font=fu) + 60
+    d.rounded_rectangle((x0, y + 20, x0 + wb, y + 20 + 66), 33, fill=ORO, outline=ORO_CLARO, width=3)
+    d.text((x0 + wb / 2, y + 53), CTA["ads"], font=fu, fill=OSCURO, anchor="mm")
+    d.text((x0, y + 105), FIRMA, font=f(SANS_B, 22), fill=ORO)
+    tx0, tx1 = 735, 1335
+    alto = 24 * (1.4 + 1.35 * len(HORARIOS)) + 36
+    ty = (h - alto) / 2
+    panel(img, (tx0, ty, tx1, ty + alto))
+    tabla(img, tx0, ty + 18, tx1, 24)
+    return img.convert("RGB")
+
+
+if __name__ == "__main__":
+    banner_web().save(SALIDA / "web_banner_1920x700.png", "PNG")
+    print("banners web listos")
