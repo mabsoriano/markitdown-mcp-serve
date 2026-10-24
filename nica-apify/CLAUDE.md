@@ -88,13 +88,16 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
 
 ## ARQUITECTURA Y FUNNEL BNQ™ (aprobado por Mabel, 23-oct-2026)
 **FASE 1 · viernes 23 oct – domingo 1 nov: Activaciones Robóticas Millonarias + LIVE.**
-1. **LIVE GRATIS en TikTok · martes 27 oct · 10:00 AM y 7:00 PM CDMX:** "Activación en tiempo
-   real GRATIS · Hipnosis para eliminar bloqueos con el dinero" (autohipnosis larga en vivo).
+1. **LIVE GRATIS en TikTok · martes 27 oct · 10:00 AM y 7:00 PM CDMX.** Nombre exacto:
+   **"LIVE GRATIS · Hipnosis para HACKEAR bloqueos con el DINERO"** (autohipnosis en vivo).
    Artes: `live/artes/` (generador `live/artes_live.py`, con horarios de 7 países).
 2. **Cierre · pack chico:** Activaciones Robóticas Millonarias · $500 (ya a la venta).
 3. **PACK GRANDE de Autohipnosis BNQ™:** $2,500 solo en el LIVE, después $3,000. Al comprar se
-   entregan los 5 audios (NO se vende como "valor apilado"). Cada audio con proceso
-   **BIO-Hardware** → **NEURO-Software** → **QUANTUM-Activación** y la imagen de su fórmula:
+   entregan los 5 audios (NO se vende como "valor apilado"). Al terminar el LIVE se ofrece primero
+   Robóticas ($500), pero la venta principal es este Pack. Cada audio tiene los 3 procesos BNQ™:
+   **1. BIO · Hardware:** programas y memorias celulares. **2. NEURO · Software:** patrones,
+   hábitos y lealtades. **3. QUANTUM:** energía, la nueva orden, la nueva identidad, el colapso de
+   onda (de energía). Y la imagen de su fórmula:
    1. 💰 Dinero: **Hipnosis para hackear bloqueos con el dinero**
    2. 💔 Relaciones: **Hipnosis para hackear relaciones tóxicas**
    3. ⚡ Salud: **Hipnosis para hackear ansiedad y modo supervivencia**

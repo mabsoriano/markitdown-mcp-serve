@@ -17,8 +17,8 @@ SANS = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
 SANS_B = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
 ORO, ORO_CLARO, OSCURO = (201, 168, 76), (255, 236, 170), (20, 11, 3)
 
-ETIQUETA = "ACTIVACIÓN EN TIEMPO REAL · GRATIS"
-TITULO = ["HIPNOSIS PARA", "ELIMINAR BLOQUEOS", "CON EL DINERO"]
+ETIQUETA = "LIVE GRATIS · ACTIVACIÓN EN TIEMPO REAL"
+TITULO = ["HIPNOSIS PARA", "HACKEAR BLOQUEOS", "CON EL DINERO"]
 GANCHO = "¿EL DINERO LLEGA Y SE VA?"
 FECHA = "MARTES 27 DE OCTUBRE · LIVE EN TIKTOK"
 HORARIOS = [  # (país, sesión mañana, sesión noche)

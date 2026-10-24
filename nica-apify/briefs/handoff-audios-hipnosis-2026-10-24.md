@@ -8,22 +8,22 @@
 
 ## 2. LIVE GRATIS (embudo)
 - **TikTok LIVE · martes 27 de octubre · 10:00 AM y 7:00 PM (hora CDMX).**
-- Nombre: **"Activación en tiempo real GRATIS · Hipnosis para hackear los bloqueos con el dinero"**.
+- Nombre exacto: **"LIVE GRATIS · Hipnosis para HACKEAR bloqueos con el DINERO"**.
 - Registro: formulario de Brevo (nombre, correo, país) → grupo de WhatsApp. Botón 1 de Linktree (linktr.ee/mabradiante) y banner en www.mabradiante.com.
 - Estructura (~60 min): bienvenida 3' · cuidados 2' (no manejando; práctica de bienestar, no sustituye atención médica ni psicológica; Línea de la Vida 800 911 2000) · explicación BNQ™ 7' · [TU HISTORIA] 5' · preparación 3' · **AUTOHIPNOSIS EN VIVO 20'** · "¿qué sentiste?" 3' · oferta Robóticas 4' · oferta Pack grande 8' · preguntas 3' · cierre 2'.
-- Ofertas en el LIVE: (1) Robóticas $500. (2) **Pack de Autohipnosis BNQ™: $2,500 SOLO durante el LIVE (cierra martes 27 a las 21:00 h CDMX); después $3,000.**
+- Al terminar el LIVE: se ofrece **Activaciones Robóticas Millonarias: 1 minuto para salir de la escasez · $500** (https://hotmart.com/es/marketplace/productos/activaciones-roboticas-millonarias-10-audios-para-recibir-dinero-con-facilidad/Q108030809L), pero **la venta principal es el Pack de Hipnosis (5 audios): $2,500 SOLO durante el LIVE (cierra martes 27 a las 21:00 h CDMX); después $3,000.**
 
 ## 3. PACK GRANDE de Autohipnosis BNQ™ (lo que se graba en ese chat)
 - **5 audios, UNO por tema** (no 3 por tema). Se entregan los 5 al comprar. Regalo: Activaciones Robóticas Millonarias + comunidad gratis de WhatsApp. NO se vende como "valor apilado".
-  1. 💰 **Hipnosis para hackear bloqueos con el dinero** (es también la del LIVE, versión 20 min)
+  1. 💰 **Hipnosis para hackear bloqueos con el dinero**
   2. 💔 **Hipnosis para hackear relaciones tóxicas**
   3. ⚡ **Hipnosis para hackear ansiedad y modo supervivencia**
   4. 🔋 **Hipnosis: hackea el burnout y modo alarma**
   5. 🌀 **Hipnosis de activación de despertar de consciencia y propósito**
-- Cada audio lleva **la imagen de su fórmula** (portada) y sigue el proceso **BNQ™ en 3 fases dentro del mismo audio**:
-  - **BIO · Hardware:** lo que quedó grabado en el cuerpo y la memoria celular.
-  - **NEURO · Software:** los programas y pactos de lealtad heredados del linaje.
-  - **QUANTUM · Activación:** nueva identidad, el salto, colapso de consciencia.
+- Cada audio lleva **la imagen de su fórmula** (portada) y los **3 procesos BNQ™ dentro del mismo audio**:
+  1. **BIO · Hardware:** programas y memorias celulares.
+  2. **NEURO · Software:** patrones, hábitos y lealtades.
+  3. **QUANTUM:** energía, la nueva orden, la nueva identidad, el colapso de onda (de energía).
 - Fórmulas sugeridas por audio (PROPUESTA, Mabel confirma):
   1. Dinero: F·05 Reprogramación de ADN → F·10 Reprogramar tu Subconsciente → F·08 Materializar tu Nueva Realidad
   2. Relaciones tóxicas: F·01 CEI™ → F·10 (linaje y pactos de lealtad) → F·07 Conexión con tu Yo Superior
