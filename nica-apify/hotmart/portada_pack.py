@@ -62,9 +62,9 @@ def portada():
     mabel(img)
     d = ImageDraw.Draw(img)
     x = 60
-    texto(d, (x, 48), "MÉTODO BNQ™ · BIO NEURO QUANTUM", 30, CAFE)
+    texto(d, (x, 48), "MÉTODO BNQ™ · BIO NEURO QUANTUM", 30, NEGRO)
     texto(d, (x, 100), "LAS 5 HIPNOSIS", 104, NEGRO)
-    texto(d, (x, 214), "QUE HACKEAN", 84, CAFE)
+    texto(d, (x, 214), "QUE HACKEAN", 84, NEGRO)
     texto(d, (x, 306), "TU MATRIX", 118, NEGRO)
     y = 470
     for i, tema in enumerate(TEMAS, 1):
@@ -80,7 +80,7 @@ def portada():
     d.rounded_rectangle((x, y, x + w, y + 76), 38, fill=NEGRO, outline=ORO, width=4)
     d.text((x + w / 2, y + 38), txt, font=fu, fill=ORO, anchor="mm")
     texto(d, (x, y + 100), "Con la voz de Mabel Soriano", 36, NEGRO)
-    texto(d, (x, y + 150), "@mabradiante", 34, CAFE)
+    texto(d, (x, y + 150), "@mabradiante", 34, NEGRO)
     return img.convert("RGB")
 
 
