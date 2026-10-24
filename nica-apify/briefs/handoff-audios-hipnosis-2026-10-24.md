@@ -1,0 +1,54 @@
+# HANDOFF para el chat "NICA / MILLÓN DE DÓLARES Y AUDIOS MILLONARIOS" · 24-oct-2026
+
+## 1. Estrategia aprobada (Fase 1: 23 oct – 1 nov)
+- Producto foco: **Activaciones Robóticas Millonarias · $500** (Hotmart, ya a la venta). Nombre nuevo en Hotmart: "1 minuto para salir de la escasez".
+- Contenido diario: **audios robóticos de activación** (Éxito, Millonaria, Merecimiento, Abundancia, Recibir, Cobrar lo que vales, Interruptor, Prosperidad, Confianza, Gratitud a ancestros). Cada pieza con título hook + hashtags.
+- En WhatsApp, cada audio va **dentro de un video** con su portada (nunca audio e imagen por separado).
+- Fase 2 (desde 2 nov): libro en Kindle + LIVE de atracción "Hackea y activa tu mente subconsciente y tus habilidades dormidas" (por definir).
+
+## 2. LIVE GRATIS (embudo)
+- **TikTok LIVE · martes 27 de octubre · 10:00 AM y 7:00 PM (hora CDMX).**
+- Nombre: **"Activación en tiempo real GRATIS · Hipnosis para hackear los bloqueos con el dinero"**.
+- Registro: formulario de Brevo (nombre, correo, país) → grupo de WhatsApp. Botón 1 de Linktree (linktr.ee/mabradiante) y banner en www.mabradiante.com.
+- Estructura (~60 min): bienvenida 3' · cuidados 2' (no manejando; práctica de bienestar, no sustituye atención médica ni psicológica; Línea de la Vida 800 911 2000) · explicación BNQ™ 7' · [TU HISTORIA] 5' · preparación 3' · **AUTOHIPNOSIS EN VIVO 20'** · "¿qué sentiste?" 3' · oferta Robóticas 4' · oferta Pack grande 8' · preguntas 3' · cierre 2'.
+- Ofertas en el LIVE: (1) Robóticas $500. (2) **Pack de Autohipnosis BNQ™: $2,500 SOLO durante el LIVE (cierra martes 27 a las 21:00 h CDMX); después $3,000.**
+
+## 3. PACK GRANDE de Autohipnosis BNQ™ (lo que se graba en ese chat)
+- **5 audios, UNO por tema** (no 3 por tema). Se entregan los 5 al comprar. Regalo: Activaciones Robóticas Millonarias + comunidad gratis de WhatsApp. NO se vende como "valor apilado".
+  1. 💰 **Hipnosis para hackear bloqueos con el dinero** (es también la del LIVE, versión 20 min)
+  2. 💔 **Hipnosis para hackear relaciones tóxicas**
+  3. ⚡ **Hipnosis para hackear ansiedad y modo supervivencia**
+  4. 🔋 **Hipnosis: hackea el burnout y modo alarma**
+  5. 🌀 **Hipnosis de activación de despertar de consciencia y propósito**
+- Cada audio lleva **la imagen de su fórmula** (portada) y sigue el proceso **BNQ™ en 3 fases dentro del mismo audio**:
+  - **BIO · Hardware:** lo que quedó grabado en el cuerpo y la memoria celular.
+  - **NEURO · Software:** los programas y pactos de lealtad heredados del linaje.
+  - **QUANTUM · Activación:** nueva identidad, el salto, colapso de consciencia.
+- Fórmulas sugeridas por audio (PROPUESTA, Mabel confirma):
+  1. Dinero: F·05 Reprogramación de ADN → F·10 Reprogramar tu Subconsciente → F·08 Materializar tu Nueva Realidad
+  2. Relaciones tóxicas: F·01 CEI™ → F·10 (linaje y pactos de lealtad) → F·07 Conexión con tu Yo Superior
+  3. Ansiedad y modo supervivencia: F·04 Reprogramación y Control de Energía → F·10 → F·01 CEI™
+  4. Burnout y modo alarma: F·04 → F·02 Programación y Elevación de Consciencia → F·06 Activación del Salto Cuántico
+  5. Despertar y propósito: F·03 Activación Glándula Pineal → F·09 Salir de la Matrix → F·07 Conexión con tu Yo Superior
+
+## 4. Cómo se arma cada autohipnosis (12–20 min, voz de Mabel)
+1. Puente: "¿y ahora qué?" (el dolor del tema).
+2. La fórmula (30 s): el "por qué" BNQ™; es lo que nos diferencia.
+3. Inducción: manos en el pecho, respiración (breve).
+4. **Hackeo** (estilo Mabel): "Hoy hackeo mi escasez / mis memorias / mis pactos de lealtad / mi memoria celular y mi subconsciente…"
+5. **Activación / reprogramación:** "Hoy activo… / hoy instalo…" — frase clave repetida 3 veces.
+6. Identidad + linaje: "Lo que mi linaje no pudo soltar termina en mí."
+7. Ancla de 3 palabras para el día a día + cierre: "Lo que no se activa, no cambia. Soy Mabel, @mabradiante, Método BNQ™."
+- Hertz de fondo opcional, **sin prometer nada con ellos**.
+
+## 5. Reglas que NO se rompen
+- La transcripción de la competencia es solo para ver estructura: **no copiar sus frases** ("Por mi orden", "mandamientos", etc.).
+- Sin promesas de salud ni de dinero garantizado; **nunca "depresión"** (sí ansiedad, burnout, modo alarma); no "hablarle al cortisol/corazón/sueño" como promesa. Aviso de bienestar + Línea de la Vida en temas de ansiedad.
+- No usar datos dudosos ("40 bits vs 40 millones", "ondas theta como niño de 7 años").
+- Nunca: curso, masterclass, motivación, desarrollo personal, entrenamiento.
+- [TU HISTORIA] va entre corchetes: la llena Mabel.
+
+## 6. Lo que ese chat debe regresar a NICA
+- Link de Hotmart del Pack con sus 2 precios ($2,500 LIVE / $3,000).
+- Nombre y descripción final del Pack en Hotmart.
+- Confirmación de las fórmulas por audio.
