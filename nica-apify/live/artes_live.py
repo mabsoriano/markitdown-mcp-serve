@@ -1,26 +1,26 @@
-"""Artes del LIVE (orgánico y anuncios) con la imagen base de Mabel.
+"""Artes del LIVE con la foto real de Mabel y su estilo (fondo espacial morado, acentos dorados).
 
 Uso:  python3 artes_live.py
-Sale en live/artes/<variante>_<uso>_<ancho>x<alto>.png y, para TikTok Ads,
-un video de 10 s (zoom suave) a partir de cada arte vertical de anuncio.
+Sale en live/artes/: <variante>_<uso>_<ancho>x<alto>.png, web_banner_1920x700.png y, para
+TikTok Ads, un video de 10 s a partir de cada arte vertical de anuncio.
 """
+import random
 import subprocess
-import sys
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 AQUI = Path(__file__).parent
-BASE = AQUI.parent / "whatsapp" / "base-portada.jpg"
+FOTO = AQUI.parent / "marca" / "mabel-foto.jpg"
 SALIDA = AQUI / "artes"
-SERIF = "/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf"
-SANS = "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf"
-SANS_B = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
-ORO, ORO_CLARO, OSCURO = (201, 168, 76), (255, 236, 170), (20, 11, 3)
+SANS = "/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf"
+SANS_B = "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"
+ORO, ORO_CLARO, BLANCO, OSCURO = (212, 162, 60), (246, 205, 110), (255, 255, 255), (18, 10, 40)
 
-ETIQUETA = "LIVE GRATIS · ACTIVACIÓN EN TIEMPO REAL"
-TITULO = ["HIPNOSIS PARA", "HACKEAR BLOQUEOS", "CON EL DINERO"]
+ETIQUETA = "LIVE GRATIS POR ZOOM"
+SUBTITULO = "MARTES 27 DE OCTUBRE · 10 AM y 7 PM (CDMX)"
+TITULO = "Hipnosis para hackear bloqueos con el dinero"
 GANCHO = "¿EL DINERO LLEGA Y SE VA?"
-FECHA = "MARTES 27 DE OCTUBRE · POR ZOOM"
+AUTORA = ["Mabel Soriano", "Autora del libro Las Fórmulas Cuánticas", "para Hackear tu Mente y la Matrix"]
 HORARIOS = [  # (país, sesión mañana, sesión noche)
     ("CDMX (México)", "10:00 AM", "7:00 PM"),
     ("Pacific Time", "9:00 AM", "6:00 PM"),
@@ -31,7 +31,7 @@ HORARIOS = [  # (país, sesión mañana, sesión noche)
     ("España", "5:00 PM", "—"),
 ]
 CTA = {"organico": "REGÍSTRATE GRATIS · LINK EN MI PERFIL", "ads": "REGÍSTRATE GRATIS"}
-FIRMA = "@mabradiante · Método BNQ™"
+FIRMA = "@mabradiante"
 TAMANOS = [(1080, 1350), (1080, 1920), (1080, 1080)]
 
 
@@ -39,119 +39,186 @@ def f(ruta, px):
     return ImageFont.truetype(ruta, int(px))
 
 
-def cubrir(img, w, h):
-    e = max(w / img.width, h / img.height)
-    img = img.resize((int(img.width * e) + 1, int(img.height * e) + 1), Image.LANCZOS)
-    x, y = (img.width - w) // 2, (img.height - h) // 2
-    return img.crop((x, y, x + w, y + h))
+def fondo(w, h, semilla=7):
+    """Fondo espacial: degradado morado, nebulosa difusa, estrellas y polvo dorado."""
+    rnd = random.Random(semilla)
+    img = Image.new("RGB", (w, h), (10, 8, 30))
+    neb = Image.new("RGB", (w, h), (10, 8, 30))
+    d = ImageDraw.Draw(neb)
+    for _ in range(14):
+        x, y, r = rnd.uniform(0.3, 1.1) * w, rnd.uniform(-0.1, 1.0) * h, rnd.uniform(0.15, 0.45) * max(w, h)
+        c = rnd.choice([(70, 40, 130), (40, 30, 110), (110, 60, 140), (30, 40, 90)])
+        d.ellipse((x - r, y - r, x + r, y + r), fill=c)
+    img = Image.blend(img, neb.filter(ImageFilter.GaussianBlur(max(w, h) * 0.08)), 0.65)
+    d = ImageDraw.Draw(img, "RGBA")
+    for _ in range(int(w * h / 2500)):
+        x, y = rnd.uniform(0, w), rnd.uniform(0, h)
+        r = rnd.choice([0.6, 0.8, 1, 1.2, 1.8])
+        d.ellipse((x - r, y - r, x + r, y + r), fill=(255, 255, 255, rnd.randint(60, 220)))
+    return img.convert("RGBA")
 
 
-def oscurecer(img, y0, y1, desde_arriba, fuerza=235):
+def polvo_dorado(img, cx, cy, rx, ry, semilla=3):
+    rnd = random.Random(semilla)
     capa = Image.new("RGBA", img.size, (0, 0, 0, 0))
     d = ImageDraw.Draw(capa)
-    for y in range(y0, y1):
-        t = (y - y0) / max(y1 - y0, 1)
-        a = int(fuerza * ((1 - t) if desde_arriba else t))
-        d.line((0, y, img.width, y), fill=OSCURO + (a,))
-    return Image.alpha_composite(img, capa)
+    import math
+    for i in range(900):
+        t = rnd.uniform(0, 2 * math.pi)
+        x = cx + rx * math.cos(t) + rnd.gauss(0, rx * 0.04)
+        y = cy + ry * math.sin(t) + rnd.gauss(0, ry * 0.06)
+        r = rnd.choice([0.8, 1.2, 1.6, 2.4])
+        d.ellipse((x - r, y - r, x + r, y + r), fill=ORO_CLARO + (rnd.randint(80, 230),))
+    img.alpha_composite(capa.filter(ImageFilter.GaussianBlur(0.6)))
+    img.alpha_composite(capa)
+
+
+def foto_arco(ancho, alto):
+    """La foto de Mabel recortada en arco con borde dorado."""
+    foto = Image.open(FOTO).convert("RGB")
+    foto = foto.crop((0, 0, foto.width, int(foto.width * alto / ancho)))
+    foto = foto.resize((ancho, alto), Image.LANCZOS).convert("RGBA")
+    m = Image.new("L", (ancho, alto), 0)
+    d = ImageDraw.Draw(m)
+    d.rounded_rectangle((0, 0, ancho, alto + ancho // 2), ancho // 2, fill=255)
+    marco = Image.new("RGBA", (ancho + 16, alto + 16), (0, 0, 0, 0))
+    dm = ImageDraw.Draw(marco)
+    dm.rounded_rectangle((0, 0, ancho + 15, alto + 15 + ancho // 2), ancho // 2 + 8, fill=ORO + (255,))
+    marco.paste(foto, (8, 8), m)
+    return marco
 
 
 def ajustar(d, txt, fuente, px, maximo):
     while px > 10 and d.textlength(txt, font=f(fuente, px)) > maximo:
-        px -= 2
+        px -= 1
     return f(fuente, px)
 
 
-def texto(img, txt, fuente, px, y, color=ORO_CLARO, sombra=True, maximo=None):
+def partir(d, txt, fu, maximo):
+    lineas, actual = [], ""
+    for p in txt.split():
+        prueba = (actual + " " + p).strip()
+        if d.textlength(prueba, font=fu) <= maximo or not actual:
+            actual = prueba
+        else:
+            lineas.append(actual)
+            actual = p
+    return lineas + [actual]
+
+
+def escribir(img, x, y, txt, fuente, px, color, maximo, centrado=False, interlineado=1.12):
     d = ImageDraw.Draw(img)
-    fu = ajustar(d, txt, fuente, px, maximo or img.width * 0.9)
-    x = (img.width - d.textlength(txt, font=fu)) / 2
-    if sombra:
-        s = Image.new("RGBA", img.size, (0, 0, 0, 0))
-        ImageDraw.Draw(s).text((x + 3, y + 4), txt, font=fu, fill=(0, 0, 0, 200))
-        img.alpha_composite(s.filter(ImageFilter.GaussianBlur(5)))
-        d = ImageDraw.Draw(img)
-    d.text((x, y), txt, font=fu, fill=color, stroke_width=max(1, fu.size // 40), stroke_fill=(70, 40, 5))
-    return y + fu.size * 1.12
-
-
-def panel(img, caja, radio=28):
-    capa = Image.new("RGBA", img.size, (0, 0, 0, 0))
-    d = ImageDraw.Draw(capa)
-    d.rounded_rectangle(caja, radio, fill=(12, 6, 2, 205), outline=ORO + (255,), width=3)
-    img.alpha_composite(capa)
-
-
-def tabla(img, x0, y0, x1, px):
-    d = ImageDraw.Draw(img)
-    ancho = x1 - x0
-    c1, c2, c3 = x0 + ancho * 0.05, x0 + ancho * 0.56, x0 + ancho * 0.80
-    fb, fn = f(SANS_B, px), f(SANS, px)
-    d.text((c2, y0), "MAÑANA", font=f(SANS_B, px * 0.8), fill=ORO, anchor="ma")
-    d.text((c3, y0), "NOCHE", font=f(SANS_B, px * 0.8), fill=ORO, anchor="ma")
-    y = y0 + px * 1.4
-    for pais, m, n in HORARIOS:
-        destacado = pais.startswith("CDMX")
-        col = ORO_CLARO if destacado else (245, 240, 230)
-        d.text((c1, y), pais, font=fb if destacado else fn, fill=col)
-        d.text((c2, y), m, font=fb, fill=col, anchor="ma")
-        d.text((c3, y), n, font=fb, fill=col, anchor="ma")
-        y += px * 1.35
+    fu = f(fuente, px)
+    for linea in partir(d, txt, fu, maximo):
+        xx = x + (maximo - d.textlength(linea, font=fu)) / 2 if centrado else x
+        d.text((xx + 2, y + 3), linea, font=fu, fill=(0, 0, 0, 160))
+        d.text((xx, y), linea, font=fu, fill=color)
+        y += px * interlineado
     return y
 
 
-def boton(img, txt, y, px):
+def pastilla(img, x, y, txt, px, centrado_en=None):
     d = ImageDraw.Draw(img)
-    fu = ajustar(d, txt, SANS_B, px, img.width * 0.78)
-    w = d.textlength(txt, font=fu) + px * 2
-    x0 = (img.width - w) / 2
-    d.rounded_rectangle((x0, y, x0 + w, y + fu.size * 2.1), fu.size, fill=ORO, outline=ORO_CLARO, width=3)
-    d.text((img.width / 2, y + fu.size * 1.05), txt, font=fu, fill=OSCURO, anchor="mm")
-    return y + fu.size * 2.1
+    fu = f(SANS_B, px)
+    w = d.textlength(txt, font=fu) + px * 2.2
+    if centrado_en is not None:
+        x = centrado_en - w / 2
+    d.rounded_rectangle((x, y, x + w, y + px * 1.9), px, fill=ORO)
+    d.text((x + w / 2, y + px * 0.95), txt, font=fu, fill=OSCURO, anchor="mm")
+    return y + px * 1.9
 
 
-def base_limpia():
-    """La imagen base sin el título ni el pie viejos (mismo método que las portadas)."""
-    sys.path.insert(0, str(BASE.parent))
-    import portada
-    img = Image.open(BASE).convert("RGB")
-    portada.suavizar_franja(img, 0, portada.TOPE, desde_arriba=True)
-    portada.suavizar_franja(img, portada.PIE, portada.N, desde_arriba=False)
-    return img
+def tabla(img, x0, y0, x1, px):
+    capa = Image.new("RGBA", img.size, (0, 0, 0, 0))
+    alto = px * (1.5 + 1.38 * len(HORARIOS)) + px
+    ImageDraw.Draw(capa).rounded_rectangle((x0, y0, x1, y0 + alto), 22, fill=(12, 8, 34, 210), outline=ORO + (255,), width=2)
+    img.alpha_composite(capa)
+    d = ImageDraw.Draw(img)
+    ancho = x1 - x0
+    c1, c2, c3 = x0 + ancho * 0.06, x0 + ancho * 0.60, x0 + ancho * 0.84
+    y = y0 + px * 0.6
+    d.text((c2, y), "MAÑANA", font=f(SANS_B, px * 0.78), fill=ORO_CLARO, anchor="ma")
+    d.text((c3, y), "NOCHE", font=f(SANS_B, px * 0.78), fill=ORO_CLARO, anchor="ma")
+    y += px * 1.4
+    for pais, m, n in HORARIOS:
+        col = ORO_CLARO if pais.startswith("CDMX") else BLANCO
+        d.text((c1, y), pais, font=f(SANS_B if col == ORO_CLARO else SANS, px), fill=col)
+        d.text((c2, y), m, font=f(SANS_B, px), fill=col, anchor="ma")
+        d.text((c3, y), n, font=f(SANS_B, px), fill=col, anchor="ma")
+        y += px * 1.38
+    return y0 + alto
 
 
-def fondo(w, h, difuso=False):
-    img = cubrir(base_limpia(), w, h)
-    if difuso:
-        img = img.filter(ImageFilter.GaussianBlur(28))
-    return img.convert("RGBA")
+def boton(img, txt, y, px, w_max):
+    d = ImageDraw.Draw(img)
+    fu = ajustar(d, txt, SANS_B, px, w_max)
+    w = d.textlength(txt, font=fu) + fu.size * 2.4
+    x = (img.width - w) / 2
+    d.rounded_rectangle((x, y, x + w, y + fu.size * 2.2), fu.size * 1.1, fill=ORO, outline=ORO_CLARO, width=3)
+    d.text((img.width / 2, y + fu.size * 1.1), txt, font=fu, fill=OSCURO, anchor="mm")
+    return y + fu.size * 2.2
+
+
+def autora(img, cx, y, px, ancho):
+    d = ImageDraw.Draw(img)
+    for i, linea in enumerate(AUTORA):
+        fu = ajustar(d, linea, SANS_B if i == 0 else SANS, px * (1.15 if i == 0 else 0.9), ancho)
+        d.text((cx, y), linea, font=fu, fill=ORO_CLARO if i == 0 else BLANCO, anchor="ma")
+        y += fu.size * 1.25
+    return y
 
 
 def arte(variante, uso, w, h):
-    k = w / 1080            # escala de letra
-    cuadrado = h <= 1100
-    img = fondo(w, h, difuso=(variante == "horarios"))
-    img = oscurecer(img, 0, int(h * 0.42), True)
-    img = oscurecer(img, int(h * 0.45), h, False, 250)
-    y = h * 0.035
-    y = texto(img, ETIQUETA, SANS_B, 34 * k, y, color=ORO, sombra=False)
+    img = fondo(w, h)
+    m = 70 if w >= 1080 else 50
+    cuadrado, alto = h <= 1100, h >= 1900
+    y = 60 if not cuadrado else 45
+    y = pastilla(img, m, y, ETIQUETA, 30)
+    y += 22
     if variante == "dolor":
-        y = texto(img, GANCHO, SERIF, 64 * k, y + 8, color=(255, 255, 255))
-    tam = 58 if cuadrado else (68 if variante == "dolor" else 78)
-    for linea in TITULO:
-        y = texto(img, linea, SERIF, tam * k, y)
-    y = texto(img, FECHA, SANS_B, 32 * k, y + 6, color=(255, 255, 255))
-    px_tabla = (25 if cuadrado else 30) * k
-    alto_tabla = px_tabla * (1.4 + 1.35 * len(HORARIOS)) + 30 * k
-    pie = 60 * k + px_tabla * 2.6
-    y_tabla = h - pie - alto_tabla - 20 * k
-    if variante == "foto" and not cuadrado:
-        y_tabla = max(y_tabla, h * 0.55)
-    panel(img, (w * 0.06, y_tabla, w * 0.94, y_tabla + alto_tabla))
-    tabla(img, w * 0.06, y_tabla + 18 * k, w * 0.94, px_tabla)
-    yb = y_tabla + alto_tabla + 18 * k
-    yb = boton(img, CTA[uso], yb, 30 * k)
-    texto(img, FIRMA, SANS_B, 26 * k, yb + 10 * k, color=ORO, sombra=False)
+        y = escribir(img, m, y, GANCHO, SANS_B, 40, BLANCO, w - 2 * m) + 6
+    y = escribir(img, m, y, SUBTITULO, SANS_B, 30, ORO_CLARO, w - 2 * m) + 10
+    y = escribir(img, m, y, TITULO, SANS_B, 74 if alto else (60 if cuadrado else 66), BLANCO, w - 2 * m, interlineado=1.08)
+    y += 20 if not alto else 40
+    # fila: foto (izquierda) + horarios (derecha); en 9:16 la foto va arriba y la tabla abajo
+    if alto:
+        fw = 560
+        fh = int(fw * 1.2)
+        fa = foto_arco(fw, fh)
+        img.alpha_composite(fa, (int((w - fa.width) / 2), int(y)))
+        y = autora(img, w / 2, y + fa.height + 14, 28, w - 2 * m) + 26
+        y = tabla(img, m, y, w - m, 30) + 34
+    else:
+        fw = 380 if not cuadrado else 300
+        fh = int(fw * (1.3 if not cuadrado else 1.15))
+        fa = foto_arco(fw, fh)
+        img.alpha_composite(fa, (m, int(y)))
+        yt_fin = tabla(img, m + fw + 50, y + 10, w - m, 23 if cuadrado else 25)
+        ya = autora(img, m + fa.width / 2, y + fa.height + 10, 20 if cuadrado else 22, fa.width + 40)
+        y = max(yt_fin, ya) + (22 if cuadrado else 34)
+    y = boton(img, CTA[uso], y, 32, w - 2 * m)
+    ImageDraw.Draw(img).text((w / 2, y + 22), FIRMA, font=f(SANS_B, 30), fill=ORO_CLARO, anchor="ma")
+    return img.convert("RGB")
+
+
+def banner_web(w=1920, h=700):
+    """Banner para www.mabradiante.com: texto a la izquierda, horarios al centro, foto a la derecha."""
+    img = fondo(w, h, semilla=11)
+    x0, ancho = 80, 700
+    y = pastilla(img, x0, 60, ETIQUETA, 28) + 22
+    y = escribir(img, x0, y, SUBTITULO, SANS_B, 28, ORO_CLARO, ancho) + 8
+    y = escribir(img, x0, y, TITULO, SANS_B, 64, BLANCO, ancho, interlineado=1.06) + 26
+    d = ImageDraw.Draw(img)
+    fu = f(SANS_B, 30)
+    wb = d.textlength(CTA["ads"], font=fu) + 70
+    d.rounded_rectangle((x0, y, x0 + wb, y + 66), 33, fill=ORO, outline=ORO_CLARO, width=3)
+    d.text((x0 + wb / 2, y + 33), CTA["ads"], font=fu, fill=OSCURO, anchor="mm")
+    d.text((x0, y + 90), FIRMA, font=f(SANS_B, 28), fill=ORO_CLARO)
+    tabla(img, 830, 150, 1390, 24)
+    fw, fh = 380, 470
+    fa = foto_arco(fw, fh)
+    img.alpha_composite(fa, (1650 - fa.width // 2, 40))
+    autora(img, 1650, 40 + fa.height + 12, 22, 470)
     return img.convert("RGB")
 
 
@@ -163,47 +230,14 @@ def video(png, mp4):
 
 if __name__ == "__main__":
     SALIDA.mkdir(exist_ok=True)
-    for variante in ("foto", "horarios", "dolor"):
+    for viejo in SALIDA.glob("*"):
+        viejo.unlink()
+    for variante in ("principal", "dolor"):
         for uso in ("organico", "ads"):
             for w, h in TAMANOS:
                 p = SALIDA / f"{variante}_{uso}_{w}x{h}.png"
                 arte(variante, uso, w, h).save(p, "PNG")
                 if uso == "ads" and h == 1920:
                     video(str(p), str(p.with_suffix(".mp4")))
-    print(len(list(SALIDA.glob("*.png"))), "artes ·", len(list(SALIDA.glob("*.mp4"))), "videos")
-
-
-def banner_web(w=1920, h=700):
-    """Banner horizontal para www.mabradiante.com: texto a la izquierda, horarios al centro, foto a la derecha."""
-    img = Image.new("RGBA", (w, h), (14, 8, 3, 255))
-    foto = base_limpia().resize((h, h), Image.LANCZOS).convert("RGBA")
-    mascara = Image.new("L", (h, h), 255)
-    d = ImageDraw.Draw(mascara)
-    for x in range(int(h * 0.35)):
-        d.line((x, 0, x, h), fill=int(255 * x / (h * 0.35)))
-    img.paste(foto, (w - h, 0), mascara)
-    d = ImageDraw.Draw(img)
-    x0, ancho_txt = 70, 620
-    y = 60
-    for txt, fuente, px, color in [(ETIQUETA, SANS_B, 26, ORO)] + [(l, SERIF, 64, ORO_CLARO) for l in TITULO] + [
-            ("MARTES 27 DE OCTUBRE", SANS_B, 30, (255, 255, 255)), ("POR ZOOM · 10 AM y 7 PM CDMX", SANS_B, 26, ORO)]:
-        fu = ajustar(d, txt, fuente, px, ancho_txt)
-        d.text((x0 + 2, y + 3), txt, font=fu, fill=(0, 0, 0))
-        d.text((x0, y), txt, font=fu, fill=color)
-        y += fu.size * 1.18
-    fu = f(SANS_B, 30)
-    wb = d.textlength(CTA["ads"], font=fu) + 60
-    d.rounded_rectangle((x0, y + 20, x0 + wb, y + 20 + 66), 33, fill=ORO, outline=ORO_CLARO, width=3)
-    d.text((x0 + wb / 2, y + 53), CTA["ads"], font=fu, fill=OSCURO, anchor="mm")
-    d.text((x0, y + 105), FIRMA, font=f(SANS_B, 22), fill=ORO)
-    tx0, tx1 = 735, 1335
-    alto = 24 * (1.4 + 1.35 * len(HORARIOS)) + 36
-    ty = (h - alto) / 2
-    panel(img, (tx0, ty, tx1, ty + alto))
-    tabla(img, tx0, ty + 18, tx1, 24)
-    return img.convert("RGB")
-
-
-if __name__ == "__main__":
     banner_web().save(SALIDA / "web_banner_1920x700.png", "PNG")
-    print("banners web listos")
+    print(len(list(SALIDA.glob("*.png"))), "artes ·", len(list(SALIDA.glob("*.mp4"))), "videos")

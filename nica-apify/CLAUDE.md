@@ -122,9 +122,11 @@ interior, despierta tu subconsciente). Por definir con Mabel (1 o 2 fórmulas po
 - **CONTENIDO: todo por AUDIOS ROBÓTICOS de activación** (Millonaria, del Éxito, etc.).
 - Cada pieza SIEMPRE con **título hook + hashtags**, y cada semana **2 guiones de YouTube** (= podcast).
 - Nunca "depresión". Sí: ansiedad, burnout, modo alarma (sin promesas de salud).
-- **Imagen de Mabel:** la base de portadas/artes (`whatsapp/base-portada.jpg`) NO se parece a ella
-  (24-oct). Usar SU foto real cuando la mande; debajo de la foto: "Autora del libro Las Fórmulas
-  Cuánticas para Hackear tu Mente y la Matrix".
+- **Imagen de Mabel (24-oct):** usar SIEMPRE su foto real `marca/mabel-foto.jpg` y su estilo
+  (`marca/estilo-referencia-audio6.jpg`: fondo espacial morado, pastilla dorada, títulos blancos en
+  negrita, @mabradiante en dorado). La imagen dorada vieja (`whatsapp/base-portada.jpg`) NO es ella:
+  no se usa más. En artes del LIVE, debajo de la foto: "Mabel Soriano · Autora del libro Las
+  Fórmulas Cuánticas para Hackear tu Mente y la Matrix".
 - Voz genérica de los audios: **pausada en momentos clave** (no lenta).
 - Tablero de números: el documento "2026-10-19" contiene en realidad la **semana 12–18 oct**.
 
@@ -207,10 +209,9 @@ entrenamiento, psicología barata.
 ## Audio diario de WhatsApp (comunidad, aprobado 19-oct-2026)
 Cuando Mabel diga **el tema del día** (ej. "abundancia", "soltar el miedo"):
 1. **Portada:** `python3 whatsapp/portada.py "Nombre de la activación" [AAAA-MM-DD]` →
-   PNG 800×800 en `whatsapp/portadas/`. Usa SU imagen base (`whatsapp/base-portada.jpg`:
-   Mabel, dorado, flor de la vida). Solo cambia el título de arriba; abajo siempre
-   "LAS FÓRMULAS CUÁNTICAS PARA HACKEAR TU MENTE Y LA MATRIX" + logo del átomo +
-   "BNQ METHOD". **Sin lunas, sin fecha.** Se la mando con SendUserFile.
+   PNG 800×800 en `whatsapp/portadas/` con su FOTO REAL y su estilo morado/dorado; título grande
+   arriba, foto en arco y @mabradiante abajo, todo dentro del círculo de WhatsApp. **Sin lunas,
+   sin fecha.**
 2. **Guion para grabar con su voz (30 s a 1 min, ~70 a 140 palabras):**
    - INTRO (5 s): "Hola, mi neurohacker. Esta es tu activación de [tema]."
    - HACKEO (20 a 45 s): **mano en el pecho y "repite conmigo"**. Declaraciones en
