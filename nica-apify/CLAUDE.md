@@ -213,6 +213,9 @@ Cuando Mabel diga **el tema del día** (ej. "abundancia", "soltar el miedo"):
    - Cambia cada día según el tema. Sin promesas de salud. Venta solo si el brief la marca
      ese día (1 línea suave antes del cierre).
 3. Mabel graba y sube portada + audio a WhatsApp.
+   **REGLA (Mabel, 24-oct): la imagen va DENTRO del audio, SIEMPRE.** Se entrega UN solo video MP4:
+   `python3 whatsapp/video.py portada.png audio.mp3` (sale junto al audio, 1080×1080). Nunca
+   portada y audio por separado.
 4. **Si pide el audio con voz genérica (gratis):** guion en `whatsapp/audios/AAAA-MM-DD_<tema>.txt`
    (una frase por línea; número solo = pausa en segundos, 1.5 a 1.8 para que repitan) y
    `python3 whatsapp/audio.py guion.txt salida.mp3` → MP3 con voz de mujer en español latino
