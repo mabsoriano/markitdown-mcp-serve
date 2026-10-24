@@ -19,7 +19,8 @@
   2. 💔 **Hipnosis para hackear relaciones tóxicas**
   3. ⚡ **Hipnosis para hackear ansiedad y modo supervivencia**
   4. 🔋 **Hipnosis: hackea el burnout y modo alarma**
-  5. 🌀 **Hipnosis de activación de despertar de consciencia y propósito**
+  5. 🌀 **Hipnosis de activación de despertar de consciencia, propósito y éxito**
+- **Nombre del pack (aprobado):** LAS 5 HIPNOSIS QUE HACKEAN TU MATRIX · Método BNQ™ · Dinero, relaciones, ansiedad, burnout, propósito y éxito, con la voz de Mabel Soriano. Sin la línea "si deseas una en específico…".
 - Cada audio lleva **la imagen de su fórmula** (portada) y los **3 procesos BNQ™ dentro del mismo audio**:
   1. **BIO · Hardware:** programas y memorias celulares.
   2. **NEURO · Software:** patrones, hábitos y lealtades.

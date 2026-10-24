@@ -95,7 +95,9 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
    **"LIVE GRATIS · Hipnosis para HACKEAR bloqueos con el DINERO"** (autohipnosis en vivo).
    Artes: `live/artes/` (generador `live/artes_live.py`, con horarios de 7 países).
 2. **Cierre · pack chico:** Activaciones Robóticas Millonarias · $500 (ya a la venta).
-3. **PACK GRANDE de Autohipnosis BNQ™:** $2,500 solo en el LIVE, después $3,000. Al comprar se
+3. **PACK GRANDE · nombre aprobado (24-oct): "LAS 5 HIPNOSIS QUE HACKEAN TU MATRIX"** (subtítulo:
+   Método BNQ™ · Dinero, relaciones, ansiedad, burnout, propósito y éxito, con la voz de Mabel
+   Soriano). En Hotmart como "Curso Online" (área de miembros). $2,500 solo en el LIVE, después $3,000. Al comprar se
    entregan los 5 audios (NO se vende como "valor apilado"). Al terminar el LIVE se ofrece primero
    Robóticas ($500), pero la venta principal es este Pack. Cada audio tiene los 3 procesos BNQ™:
    **1. BIO · Hardware:** programas y memorias celulares. **2. NEURO · Software:** patrones,
@@ -105,7 +107,7 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
    2. 💔 Relaciones: **Hipnosis para hackear relaciones tóxicas**
    3. ⚡ Salud: **Hipnosis para hackear ansiedad y modo supervivencia**
    4. 🔋 Volver a ti: **Hipnosis: hackea el burnout y modo alarma**
-   5. 🌀 Todo / nada funciona: **Hipnosis de activación de despertar de consciencia y propósito**
+   5. 🌀 Todo / nada funciona: **Hipnosis de activación de despertar de consciencia, propósito y éxito**
    Regalo: Robóticas + comunidad gratis (WhatsApp). Los audios y la presentación se hacen en otro chat.
 - **Registro al LIVE:** grupo de WhatsApp (orgánico: link en perfil). **Ads (FB/IG y TikTok):
   formulario de registro nativo** (capta correo) → pantalla final con el link del grupo de WhatsApp.
