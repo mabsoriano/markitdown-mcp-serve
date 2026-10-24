@@ -104,6 +104,9 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
 - **Registro al LIVE:** grupo de WhatsApp (orgánico: link en perfil). **Ads (FB/IG y TikTok):
   formulario de registro nativo** (capta correo) → pantalla final con el link del grupo de WhatsApp.
   Correos por **Brevo**. Sin LIVE en YouTube.
+- **Formulario de registro al LIVE (Brevo: nombre, correo, país):** https://c20cb8a1.sibforms.com/serve/MUIFAAv89NNEX9V_lxrO_c5_H6ON1GciiRXafYHAWQuV9ddw7VLbdR0_PlPYLHhpaU2SJ6PSXJDUw0VX_ye1ndEaSwn7cpHj-7TWXlzAkyZov-STLrvRF_0w2EW5ZUe4r8nVho9OV4Vxx19qppzs6n7-gFviNU91x6vFWbTC0khCgHp1c3MqI2-E2YRWA3k9lXaayZu3p3ZoyYpcjg==
+  Va en el botón 1 de Linktree y en el banner de la web. Después del registro, el link del grupo de
+  WhatsApp va en el mensaje de éxito del formulario (el plan gratis de Brevo no redirige).
 **FASE 2 · desde lunes 2 nov (2 semanas): LIBRO EN KINDLE** + LIVE de atracción "Hackea y
 activa tu mente subconsciente y tus habilidades dormidas · Activación en tiempo real GRATIS",
 por dolor y fórmula (ej. corta fugas energéticas, activa tus chakras, conexión con tu sabiduría
