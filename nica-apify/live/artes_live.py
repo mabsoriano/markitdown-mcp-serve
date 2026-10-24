@@ -20,7 +20,7 @@ ORO, ORO_CLARO, OSCURO = (201, 168, 76), (255, 236, 170), (20, 11, 3)
 ETIQUETA = "LIVE GRATIS · ACTIVACIÓN EN TIEMPO REAL"
 TITULO = ["HIPNOSIS PARA", "HACKEAR BLOQUEOS", "CON EL DINERO"]
 GANCHO = "¿EL DINERO LLEGA Y SE VA?"
-FECHA = "MARTES 27 DE OCTUBRE · LIVE EN TIKTOK"
+FECHA = "MARTES 27 DE OCTUBRE · POR ZOOM"
 HORARIOS = [  # (país, sesión mañana, sesión noche)
     ("CDMX (México)", "10:00 AM", "7:00 PM"),
     ("Pacific Time", "9:00 AM", "6:00 PM"),
@@ -30,7 +30,7 @@ HORARIOS = [  # (país, sesión mañana, sesión noche)
     ("Argentina", "1:00 PM", "10:00 PM"),
     ("España", "5:00 PM", "—"),
 ]
-CTA = {"organico": "ÚNETE GRATIS · LINK EN MI PERFIL", "ads": "REGÍSTRATE GRATIS"}
+CTA = {"organico": "REGÍSTRATE GRATIS · LINK EN MI PERFIL", "ads": "REGÍSTRATE GRATIS"}
 FIRMA = "@mabradiante · Método BNQ™"
 TAMANOS = [(1080, 1350), (1080, 1920), (1080, 1080)]
 
@@ -186,7 +186,7 @@ def banner_web(w=1920, h=700):
     x0, ancho_txt = 70, 620
     y = 60
     for txt, fuente, px, color in [(ETIQUETA, SANS_B, 26, ORO)] + [(l, SERIF, 64, ORO_CLARO) for l in TITULO] + [
-            ("MARTES 27 DE OCTUBRE", SANS_B, 30, (255, 255, 255)), ("LIVE EN TIKTOK · 10 AM y 7 PM CDMX", SANS_B, 26, ORO)]:
+            ("MARTES 27 DE OCTUBRE", SANS_B, 30, (255, 255, 255)), ("POR ZOOM · 10 AM y 7 PM CDMX", SANS_B, 26, ORO)]:
         fu = ajustar(d, txt, fuente, px, ancho_txt)
         d.text((x0 + 2, y + 3), txt, font=fu, fill=(0, 0, 0))
         d.text((x0, y), txt, font=fu, fill=color)

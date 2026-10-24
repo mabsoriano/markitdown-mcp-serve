@@ -88,7 +88,10 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
 
 ## ARQUITECTURA Y FUNNEL BNQ™ (aprobado por Mabel, 23-oct-2026)
 **FASE 1 · viernes 23 oct – domingo 1 nov: Activaciones Robóticas Millonarias + LIVE.**
-1. **LIVE GRATIS en TikTok · martes 27 oct · 10:00 AM y 7:00 PM CDMX.** Nombre exacto:
+1. **LIVE GRATIS por ZOOM (privado, solo registrados) · martes 27 oct · 10:00 AM y 7:00 PM CDMX.**
+   Se registran (Brevo: nombre, correo, país) → entran a la comunidad de WhatsApp → reciben el link
+   de Zoom por correo y WhatsApp. El regalo es a cambio de su correo + entrar a la comunidad. NO es
+   en TikTok ni público. Nombre exacto:
    **"LIVE GRATIS · Hipnosis para HACKEAR bloqueos con el DINERO"** (autohipnosis en vivo).
    Artes: `live/artes/` (generador `live/artes_live.py`, con horarios de 7 países).
 2. **Cierre · pack chico:** Activaciones Robóticas Millonarias · $500 (ya a la venta).
@@ -106,7 +109,7 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
    Regalo: Robóticas + comunidad gratis (WhatsApp). Los audios y la presentación se hacen en otro chat.
 - **Registro al LIVE:** grupo de WhatsApp (orgánico: link en perfil). **Ads (FB/IG y TikTok):
   formulario de registro nativo** (capta correo) → pantalla final con el link del grupo de WhatsApp.
-  Correos por **Brevo**. Sin LIVE en YouTube.
+  Correos por **Brevo**. El LIVE es por Zoom (no TikTok, no YouTube).
 - **Formulario de registro al LIVE (Brevo: nombre, correo, país):** https://c20cb8a1.sibforms.com/serve/MUIFAAv89NNEX9V_lxrO_c5_H6ON1GciiRXafYHAWQuV9ddw7VLbdR0_PlPYLHhpaU2SJ6PSXJDUw0VX_ye1ndEaSwn7cpHj-7TWXlzAkyZov-STLrvRF_0w2EW5ZUe4r8nVho9OV4Vxx19qppzs6n7-gFviNU91x6vFWbTC0khCgHp1c3MqI2-E2YRWA3k9lXaayZu3p3ZoyYpcjg==
   Va en el botón 1 de Linktree y en el banner de la web. Después del registro, el link del grupo de
   WhatsApp va en el mensaje de éxito del formulario (el plan gratis de Brevo no redirige).
@@ -119,6 +122,9 @@ interior, despierta tu subconsciente). Por definir con Mabel (1 o 2 fórmulas po
 - **CONTENIDO: todo por AUDIOS ROBÓTICOS de activación** (Millonaria, del Éxito, etc.).
 - Cada pieza SIEMPRE con **título hook + hashtags**, y cada semana **2 guiones de YouTube** (= podcast).
 - Nunca "depresión". Sí: ansiedad, burnout, modo alarma (sin promesas de salud).
+- **Imagen de Mabel:** la base de portadas/artes (`whatsapp/base-portada.jpg`) NO se parece a ella
+  (24-oct). Usar SU foto real cuando la mande; debajo de la foto: "Autora del libro Las Fórmulas
+  Cuánticas para Hackear tu Mente y la Matrix".
 - Voz genérica de los audios: **pausada en momentos clave** (no lenta).
 - Tablero de números: el documento "2026-10-19" contiene en realidad la **semana 12–18 oct**.
 
