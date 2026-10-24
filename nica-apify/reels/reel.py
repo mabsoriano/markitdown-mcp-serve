@@ -26,8 +26,8 @@ def reel(guion, titulo, nombre_portada, salida):
     fondo.paste(arriba.crop((0, 0, 1080, 560)), (0, 0))
     png = str(Path(salida).with_suffix(".png"))
     fondo.save(png)
-    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-framerate", "2", "-i", png, "-i", mp3,
-                    "-c:v", "libx264", "-tune", "stillimage", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "128k",
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-loop", "1", "-framerate", "30", "-i", png, "-i", mp3,
+                    "-c:v", "libx264", "-pix_fmt", "yuv420p", "-r", "30", "-c:a", "aac", "-b:a", "128k",
                     "-shortest", "-movflags", "+faststart", salida], check=True)
     print(salida)
 
