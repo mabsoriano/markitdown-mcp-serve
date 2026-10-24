@@ -210,9 +210,9 @@ entrenamiento, psicología barata.
 ## Audio diario de WhatsApp (comunidad, aprobado 19-oct-2026)
 Cuando Mabel diga **el tema del día** (ej. "abundancia", "soltar el miedo"):
 1. **Portada:** `python3 whatsapp/portada.py "Nombre de la activación" [AAAA-MM-DD]` →
-   PNG 800×800 en `whatsapp/portadas/` con su FOTO REAL y su estilo morado/dorado; título grande
-   arriba, foto en arco y @mabradiante abajo, todo dentro del círculo de WhatsApp. **Sin lunas,
-   sin fecha.**
+   PNG 800×800 en `whatsapp/portadas/` con la línea DORADA (título grande en oro, todo dentro del
+   círculo de WhatsApp, @mabradiante). La mujer de la imagen se cambia por su foto real SOLO
+   cuando Mabel apruebe la muestra (24-oct). **Sin lunas, sin fecha.**
 2. **Guion para grabar con su voz (30 s a 1 min, ~70 a 140 palabras):**
    - INTRO (5 s): "Hola, mi neurohacker. Esta es tu activación de [tema]."
    - HACKEO (20 a 45 s): **mano en el pecho y "repite conmigo"**. Declaraciones en
