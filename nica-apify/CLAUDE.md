@@ -212,6 +212,11 @@ entrenamiento, psicología barata.
 - **Calendario por problema (propuesta):** Lunes Dinero · Martes Ansiedad y
   estrés · Miércoles Relaciones · Jueves Vacío y despertar · Viernes Energía y
   salud · Sábado Metas y comunidad · Domingo valor puro, sin venta.
+- **YAPPING diario (Mabel, 25-oct-2026):** en TODOS los calendarios va 1 yapping al día, independiente
+  del producto o la campaña. Formato: ella platicando a cámara, natural, sin guion palabra por palabra,
+  1 a 3 min, un solo corte, cerca de la cámara (coche, cocina, caminando). Le doy: título en pantalla,
+  hook (1a frase), 4 a 5 puntos guía, cierre con pregunta para comentarios, copy y hashtags. Su
+  historia va entre [corchetes] (nunca invento su vida). SIN venta y sin CTA a producto; solo conexión.
 - **Regla 80/20:** de las 3 piezas diarias, máximo 1 lleva venta directa.
 - **Nunca el mismo producto dos días seguidos.**
 
