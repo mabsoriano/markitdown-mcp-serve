@@ -113,7 +113,14 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
    3. ⚡ Salud: **Hipnosis para hackear ansiedad y modo supervivencia**
    4. 🔋 Volver a ti: **Hipnosis: hackea el burnout y modo alarma**
    5. 🌀 Todo / nada funciona: **Hipnosis de activación de despertar de consciencia, propósito y éxito**
-   Regalo: Robóticas + comunidad gratis (WhatsApp). Los audios y la presentación se hacen en otro chat.
+   Regalo: Robóticas + comunidad gratis (WhatsApp).
+   **Link de Hotmart del Pack (Mabel, 26-oct):** https://go.hotmart.com/B108178270Q?dp=1
+   **Oferta del LIVE (Mabel, 26-oct):** se ofrece el Pack de 5 hipnosis y las Robóticas van DE REGALO.
+   Presentación: `live/presentacion.py` → `live/presentacion-live-2026-10-27.pptx/.pdf` (estilo aprobado:
+   universo azul y morado + dorado + su foto real). Lo proyectado va aparte del guion que ella dice.
+- **Preparación de Mabel (para "Quién soy"):** terapeuta cuántica, activadora de Kundalini, neurobiología
+  con Alfonso Puig, hipnosis, biodescodificación y Nueva Medicina Germánica, creadora BNQ™ y CEI™
+  (INDAUTOR), autora del libro, +5 años.
 - **Registro al LIVE:** grupo de WhatsApp (orgánico: link en perfil). **Ads (FB/IG y TikTok):
   formulario de registro nativo** (capta correo) → pantalla final con el link del grupo de WhatsApp.
   Correos por **Brevo**. El LIVE es por Zoom (no TikTok, no YouTube).
