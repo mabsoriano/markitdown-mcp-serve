@@ -392,7 +392,7 @@ def d17_quien_soy():
     linea_oro(d, 92, 260, 520)
     puntos = [("Terapeuta cuántica", "y activadora de Kundalini"),
               ("Neurobiología", "con Mario Alonso Puig"),
-              ("Hipnosis y Biodescodificación", "Nueva Medicina Germánica"),
+              ("Hipnosis y Biodescodificación", "del Dr. Hamer"),
               ("Creadora del Método BNQ™", "y de la metodología CEI™, registrada ante INDAUTOR"),
               ("Autora del libro", "Las Fórmulas Cuánticas para Hackear tu Mente y la Matrix"),
               ("+5 años", "activando consciencias")]

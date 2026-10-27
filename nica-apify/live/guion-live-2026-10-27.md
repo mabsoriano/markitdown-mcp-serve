@@ -1,5 +1,5 @@
 # GUION DEL LIVE · Hipnosis para HACKEAR tus bloqueos con el DINERO
-Martes 27 oct · Zoom · 10 AM y 7 PM CDMX · ~70 min · va a la par de la presentación (D = diapositiva)
+Martes 27 oct · Zoom · 10 AM y 7 PM CDMX · ~68 min · va a la par de la presentación (D = diapositiva)
 Lo que está en *cursiva* es indicación para ti, no se dice. (…) = pausa. [ ] = lo llenas tú.
 
 ---
@@ -85,20 +85,18 @@ Entonces: la hipnosis **abre la puerta** del subconsciente. Las Fórmulas Cuánt
 Y no solo el dinero. Con esto mismo puedes hackear las relaciones que se repiten, la ansiedad y el modo supervivencia, el burnout y el modo alarma, y tu propósito.
 Escríbeme en el chat **cuál de estos te está doliendo más** además del dinero. (…) *[lee 2 o 3]*. Guárdalo, porque al final te voy a mostrar algo para eso.
 
-## 28:00 · D17 QUIÉN SOY (4 min)
+## 28:00 · D17 QUIÉN SOY (2 min)
 Antes de llevarte a la activación, déjame presentarme. Soy Mabel Soriano.
-Soy terapeuta cuántica y activadora de Kundalini. Estudié neurobiología con Mario Alonso Puig, hipnosis y biodescodificación. Con todo eso creé el Método BNQ™ y la metodología CEI™, registrada ante INDAUTOR. Y escribí el libro *Las Fórmulas Cuánticas para Hackear tu Mente y la Matrix*. Llevo más de 5 años activando consciencias.
-Pero no estoy aquí por los títulos. Estoy aquí porque yo también viví esto:
-**[TU HISTORIA: cómo era tu relación con el dinero, el momento en que tocaste fondo, qué descubriste, qué hiciste y qué cambió. 1 a 2 minutos, con tus palabras.]**
-Por eso hoy te quiero llevar a vivirlo, no solo a entenderlo.
+Soy terapeuta cuántica y activadora de Kundalini. Estudié neurobiología con Mario Alonso Puig, hipnosis y biodescodificación del Dr. Hamer. Con todo eso creé el Método BNQ™ y la metodología CEI™, registrada ante INDAUTOR. Y escribí el libro *Las Fórmulas Cuánticas para Hackear tu Mente y la Matrix*. Llevo más de 5 años activando consciencias.
+Y hoy no te quiero dar más teoría: te quiero llevar a vivirlo.
 
-## 32:00 · D18 PREPÁRATE (2 min)
+## 30:00 · D18 PREPÁRATE (2 min)
 Vamos a la activación. Acomódate. Suelta los hombros. Ponte los audífonos.
 Pon una mano en el pecho y la otra en el estómago.
 Puedes apagar tu cámara si te sientes más cómoda. Cuando te lo indique, cierras los ojos.
 *Pon la D19 y baja el volumen de la música de fondo (opcional: frecuencia suave, sin prometer nada con ella).*
 
-## 34:00 · D19 AUTOHIPNOSIS EN VIVO (19 min)
+## 32:00 · D19 AUTOHIPNOSIS EN VIVO (19 min)
 *Habla más lento y más bajo. Respeta las pausas. Lee despacio.*
 
 **1. Puente (1 min)**
@@ -179,17 +177,17 @@ Ahora voy a contar del 1 al 5 y vas a regresar a este momento, despierta, ligera
 5… abre los ojos. Bienvenida de regreso. (…)
 Lo que no se activa, no cambia. Y hoy… te activaste.
 
-## 53:00 · D20 ¿QUÉ SENTISTE? (2 min)
+## 51:00 · D20 ¿QUÉ SENTISTE? (2 min)
 Tómate un momento. Toma agua.
 Escríbeme en el chat en **una palabra** qué sentiste. (…) *[lee 4 a 6 en voz alta: "paz", "calor", "lloré"…]*. Gracias por abrirte.
 Usa tus tres palabras todos los días, sobre todo cuando pagues, cobres o revises tu cuenta: Merezco. Recibo. Sostengo.
 
-## 55:00 · D21 ESTO FUE 1 DE 5 (1 min 30)
+## 53:00 · D21 ESTO FUE 1 DE 5 (1 min 30)
 Lo que acabas de vivir fue **una** activación, para **un** programa: el dinero.
 Pero tú me escribiste hace rato qué más te duele. Porque el programa no vive solo en el dinero. También vive en tus relaciones, en tu ansiedad, en tu cansancio y en tu propósito.
 Y una sola activación abre la puerta. La repetición es la que reprograma. ¿Te acuerdas del paso 3? **Repite hasta que sea automático.**
 
-## 56:30 · D22 LAS 5 HIPNOSIS (2 min 30)
+## 54:30 · D22 LAS 5 HIPNOSIS (2 min 30)
 Por eso creé **Las 5 Hipnosis que Hackean tu Matrix**. Cinco autohipnosis con mi voz, para que las escuches en tu casa todas las veces que quieras:
 Una para el dinero, la versión completa de lo que viviste hoy.
 Una para hackear relaciones tóxicas.
@@ -198,10 +196,10 @@ Una para el burnout y el modo alarma.
 Y una para el despertar de consciencia, propósito y éxito.
 Cada una trabaja los tres procesos BNQ™: bio, neuro y quantum, cada una con su fórmula. Es lo mismo que hicimos hoy, pero para cada área de tu vida.
 
-## 59:00 · D23 REGALOS (1 min)
+## 57:00 · D23 REGALOS (1 min)
 Y además te llevas de regalo mis **Activaciones Robóticas Millonarias**: 10 audios de un minuto para salir de la escasez, para el día a día. Y te quedas en la **comunidad de WhatsApp** conmigo.
 
-## 60:00 · D24 PRECIO (3 min)
+## 58:00 · D24 PRECIO (3 min)
 *Pega el link en el chat AHORA: https://go.hotmart.com/B108178270Q?dp=1*
 Después del live, el pack cuesta $3,000. Pero hoy, solo para quienes estuvieron aquí, es de **$2,500 pesos**. El precio cierra hoy a las 9 de la noche, hora de México. Después vuelve a $3,000.
 Ya te dejé el link en el chat. También puedes escanear el código con tu celular.
@@ -211,7 +209,7 @@ No te pido que me creas a mí. Te pido que lo vivas, como lo viviste hoy.
 Cuando entres, escríbeme **"ACTIVADA"** en el chat para darte la bienvenida.
 *Lee en voz alta cada "ACTIVADA": "¡Bienvenida, [nombre]!" Eso anima a las demás.*
 
-## 63:00 · D25 PREGUNTAS (5 min)
+## 61:00 · D25 PREGUNTAS (5 min)
 Ahora sí, tus preguntas. *Vuelve a pegar el link en el chat.*
 Respuestas cortas para las dudas más comunes:
 - **"¿Cómo me llega?"** Al pagar, Hotmart te manda el acceso a tu correo. Ahí están los 5 audios.
@@ -220,7 +218,7 @@ Respuestas cortas para las dudas más comunes:
 - **"¿Funciona si no creo mucho?"** No necesitas creer, necesitas repetir. Así funciona la neuroplasticidad.
 - **"¿Sustituye a mi terapia?"** No. Es una práctica de bienestar que acompaña, no reemplaza atención médica ni psicológica.
 
-## 68:00 · D26 CIERRE (2 min)
+## 66:00 · D26 CIERRE (2 min)
 Gracias por estar aquí hoy. Gracias por darte este momento.
 Te dejo con mi fórmula: **la fórmula definitiva no es un decreto, es la BIO-NEUROABUNDANCIA: la reprogramación simultánea de tu ADN, tu energía y tu subconsciente.** Porque lo que no se activa… no cambia.
 Recuerda tus tres palabras: Merezco. Recibo. Sostengo.
@@ -228,4 +226,4 @@ El link sigue en el chat hasta las 9 de la noche. Nos vemos en la comunidad.
 Soy Mabel Soriano, @mabradiante. Te mando un abrazo enorme. *[Sonríe y despídete.]*
 
 ---
-**Total ~70 min.** Si vas corta de tiempo, recorta D12 a D14 (la historia y 2 evidencias) a 2 minutos en total.
+**Total ~68 min.** Si vas corta de tiempo, recorta D12 a D14 (la historia y 2 evidencias) a 2 minutos en total.

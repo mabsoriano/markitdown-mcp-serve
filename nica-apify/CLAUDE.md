@@ -119,7 +119,7 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
    Presentación: `live/presentacion.py` → `live/presentacion-live-2026-10-27.pptx/.pdf` (estilo aprobado:
    universo azul y morado + dorado + su foto real). Lo proyectado va aparte del guion que ella dice.
 - **Preparación de Mabel (para "Quién soy"):** terapeuta cuántica, activadora de Kundalini, neurobiología
-  con Mario Alonso Puig, hipnosis, biodescodificación y Nueva Medicina Germánica, creadora BNQ™ y CEI™
+  con Mario Alonso Puig, hipnosis y biodescodificación del Dr. Hamer (así lo pidió Mabel), creadora BNQ™ y CEI™
   (INDAUTOR), autora del libro, +5 años.
 - **Registro al LIVE:** grupo de WhatsApp (orgánico: link en perfil). **Ads (FB/IG y TikTok):
   formulario de registro nativo** (capta correo) → pantalla final con el link del grupo de WhatsApp.
