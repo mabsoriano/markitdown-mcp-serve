@@ -391,7 +391,7 @@ def d17_quien_soy():
     d.text((90, 125), "Mabel Soriano", font=f(SERIF, 104), fill=ORO_CLARO)
     linea_oro(d, 92, 260, 520)
     puntos = [("Terapeuta cuántica", "y activadora de Kundalini"),
-              ("Neurobiología", "con Alfonso Puig"),
+              ("Neurobiología", "con Mario Alonso Puig"),
               ("Hipnosis y Biodescodificación", "Nueva Medicina Germánica"),
               ("Creadora del Método BNQ™", "y de la metodología CEI™, registrada ante INDAUTOR"),
               ("Autora del libro", "Las Fórmulas Cuánticas para Hackear tu Mente y la Matrix"),
