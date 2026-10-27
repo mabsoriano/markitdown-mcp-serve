@@ -200,7 +200,7 @@ Cada una trabaja los tres procesos BNQ™: bio, neuro y quantum, cada una con su
 Y además te llevas de regalo mis **Activaciones Robóticas Millonarias**: 10 audios de un minuto para salir de la escasez, para el día a día. Y te quedas en la **comunidad de WhatsApp** conmigo.
 
 ## 58:00 · D24 PRECIO (3 min)
-*Pega el link en el chat AHORA: https://go.hotmart.com/B108178270Q?dp=1*
+*Pega el link en el chat AHORA: https://pay.hotmart.com/T108210969W?bid=1793114479230*
 Después del live, el pack cuesta $3,000. Pero hoy, solo para quienes estuvieron aquí, es de **$2,500 pesos**. El precio cierra hoy a las 9 de la noche, hora de México. Después vuelve a $3,000.
 Ya te dejé el link en el chat. También puedes escanear el código con tu celular.
 Piénsalo así: ¿cuánto te ha costado ya ese programa? ¿Cuánto dinero se te ha ido sin darte cuenta? (…)

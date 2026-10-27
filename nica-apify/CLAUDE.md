@@ -114,7 +114,7 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
    4. 🔋 Volver a ti: **Hipnosis: hackea el burnout y modo alarma**
    5. 🌀 Todo / nada funciona: **Hipnosis de activación de despertar de consciencia, propósito y éxito**
    Regalo: Robóticas + comunidad gratis (WhatsApp).
-   **Link de Hotmart del Pack (Mabel, 26-oct):** https://go.hotmart.com/B108178270Q?dp=1
+   **Link de Hotmart del Pack (Mabel, 26-oct):** https://pay.hotmart.com/T108210969W?bid=1793114479230 (link de pago, 27-oct)
    **Oferta del LIVE (Mabel, 26-oct):** se ofrece el Pack de 5 hipnosis y las Robóticas van DE REGALO.
    Presentación: `live/presentacion.py` → `live/presentacion-live-2026-10-27.pptx/.pdf` (estilo aprobado:
    universo azul y morado + dorado + su foto real). Lo proyectado va aparte del guion que ella dice.

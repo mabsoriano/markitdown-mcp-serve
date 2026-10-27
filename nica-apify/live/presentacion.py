@@ -14,7 +14,7 @@ MARCA = AQUI.parent / "marca"
 PORTADA_PACK = AQUI.parent / "hotmart" / "portada-hotmart-5-hipnosis-1200x1200.jpg"
 SALIDA = AQUI / "presentacion"
 W, H = 1920, 1080
-LINK = "https://go.hotmart.com/B108178270Q?dp=1"
+LINK = "https://pay.hotmart.com/T108210969W?bid=1793114479230"
 
 SERIF = "/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf"
 SANS = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
@@ -501,7 +501,7 @@ def d24_precio():
     caja(img, (90, 690, 1060, 800), 24)
     d = ImageDraw.Draw(img)
     d.text((130, 718), "Cierra HOY a las 9:00 PM (CDMX)", font=f(SANS, 46), fill=BLANCO)
-    d.text((90, 860), "go.hotmart.com/B108178270Q", font=f(SANS, 44), fill=ORO_CLARO)
+    d.text((90, 860), "pay.hotmart.com/T108210969W", font=f(SANS, 44), fill=ORO_CLARO)
     caja(img, (1260, 230, 1800, 830), 24, ORO_CLARO)
     img.paste(qr(460), (1300, 270))
     d = ImageDraw.Draw(img)
@@ -521,7 +521,7 @@ def d25_preguntas():
     caja(img, (1260, 230, 1800, 830), 24, ORO_CLARO)
     img.paste(qr(460), (1300, 270))
     d = ImageDraw.Draw(img)
-    t = "go.hotmart.com/B108178270Q"
+    t = "pay.hotmart.com/T108210969W"
     d.text((1530 - d.textlength(t, font=f(SANS, 30)) / 2, 760), t, font=f(SANS, 30), fill=ORO_CLARO)
     pie(d)
     return img
