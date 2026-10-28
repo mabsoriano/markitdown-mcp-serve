@@ -85,17 +85,20 @@ def panel(img, caja, radio=28):
 def tabla(img, x0, y0, x1, px):
     d = ImageDraw.Draw(img)
     ancho = x1 - x0
-    c1, c2, c3 = x0 + ancho * 0.05, x0 + ancho * 0.56, x0 + ancho * 0.80
+    una = all(n is None for _, _, n in HORARIOS)   # una sola sesión: una columna
+    c1, c2, c3 = x0 + ancho * 0.05, x0 + ancho * (0.72 if una else 0.56), x0 + ancho * 0.80
     fb, fn = f(SANS_B, px), f(SANS, px)
-    d.text((c2, y0), "MAÑANA", font=f(SANS_B, px * 0.8), fill=ORO, anchor="ma")
-    d.text((c3, y0), "NOCHE", font=f(SANS_B, px * 0.8), fill=ORO, anchor="ma")
+    d.text((c2, y0), "HORA" if una else "MAÑANA", font=f(SANS_B, px * 0.8), fill=ORO, anchor="ma")
+    if not una:
+        d.text((c3, y0), "NOCHE", font=f(SANS_B, px * 0.8), fill=ORO, anchor="ma")
     y = y0 + px * 1.4
     for pais, m, n in HORARIOS:
         destacado = pais.startswith("CDMX")
         col = ORO_CLARO if destacado else (245, 240, 230)
         d.text((c1, y), pais, font=fb if destacado else fn, fill=col)
         d.text((c2, y), m, font=fb, fill=col, anchor="ma")
-        d.text((c3, y), n, font=fb, fill=col, anchor="ma")
+        if not una:
+            d.text((c3, y), n, font=fb, fill=col, anchor="ma")
         y += px * 1.35
     return y
 
@@ -161,7 +164,22 @@ def video(png, mp4):
                     "-t", "10", "-c:v", "libx264", "-pix_fmt", "yuv420p", mp4], check=True)
 
 
+# Una sola sesión a las 11 AM CDMX (LIVE 2 y 3, nov 2026). En EE. UU. ya terminó el horario de verano
+# (1 nov) y en España también (25 oct); México ya no cambia de hora.
+HORARIOS_11AM = [
+    ("CDMX (México)", "11:00 AM", None),
+    ("Pacific Time", "9:00 AM", None),
+    ("Eastern Time", "12:00 PM", None),
+    ("Colombia", "12:00 PM", None),
+    ("Venezuela", "1:00 PM", None),
+    ("Argentina", "2:00 PM", None),
+    ("España", "6:00 PM", None),
+]
+
 if __name__ == "__main__":
+    # python3 artes_live.py "MARTES 3 DE NOVIEMBRE · POR ZOOM" artes-2026-11-03   → una sesión, 11 AM CDMX
+    if len(sys.argv) == 3:
+        FECHA, SALIDA, HORARIOS = sys.argv[1], AQUI / sys.argv[2], HORARIOS_11AM
     SALIDA.mkdir(exist_ok=True)
     for variante in ("foto", "horarios", "dolor"):
         for uso in ("organico", "ads"):
@@ -186,7 +204,7 @@ def banner_web(w=1920, h=700):
     x0, ancho_txt = 70, 620
     y = 60
     for txt, fuente, px, color in [(ETIQUETA, SANS_B, 26, ORO)] + [(l, SERIF, 64, ORO_CLARO) for l in TITULO] + [
-            ("MARTES 27 DE OCTUBRE", SANS_B, 30, (255, 255, 255)), ("POR ZOOM · 10 AM y 7 PM CDMX", SANS_B, 26, ORO)]:
+            (FECHA.split(" · ")[0], SANS_B, 30, (255, 255, 255)), ("POR ZOOM · 11 AM CDMX" if HORARIOS is HORARIOS_11AM else "POR ZOOM · 10 AM y 7 PM CDMX", SANS_B, 26, ORO)]:
         fu = ajustar(d, txt, fuente, px, ancho_txt)
         d.text((x0 + 2, y + 3), txt, font=fu, fill=(0, 0, 0))
         d.text((x0, y), txt, font=fu, fill=color)
