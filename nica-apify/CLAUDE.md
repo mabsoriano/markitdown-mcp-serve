@@ -133,7 +133,12 @@ por dolor y fórmula (ej. corta fugas energéticas, activa tus chakras, conexió
 interior, despierta tu subconsciente). Por definir con Mabel (1 o 2 fórmulas por cada 2 semanas).
 - Los productos que ya existen (ADN Millonario, Querida Ansiedad, Modo Supervivencia, Despertar,
   Querido Ex) se quedan y se venden igual, aparte.
-- **CONTENIDO: todo por AUDIOS ROBÓTICOS de activación** (Millonaria, del Éxito, etc.).
+- ~~CONTENIDO: todo por AUDIOS ROBÓTICOS~~ **CORREGIDO por Mabel (28-oct-2026):** el audio robótico NO es el
+  contenido diario. Solo va 2 días por semana como muestra de Activaciones Robóticas, y lo genera NICA
+  (voz automática + portada; Mabel no graba). Mezcla diaria: **A** Mabel a cámara con decreto o ritual para
+  hacer ya (su viral de 2.2M) · **B** rompe una creencia o pregunta-dolor + lista de 3, rotando temas (dinero,
+  relaciones, cansancio, autosabotaje, despertar) · **Y** yapping. Los títulos dicen el dolor o lo que la persona
+  gana; "activación" se queda en su forma de hablar, no en todos los títulos. Base: `matriz/patrones.md`.
 - Cada pieza SIEMPRE con **título hook + hashtags**, y cada semana **2 guiones de YouTube** (= podcast).
 - Nunca "depresión". Sí: ansiedad, burnout, modo alarma (sin promesas de salud).
 - **Imagen de Mabel (24-oct):** la línea gráfica es la **DORADA** (fondo dorado, flor de la vida,
