@@ -172,13 +172,14 @@ def arte_v2(variante, uso, w, h):
     img = oscurecer(img, 0, int(h * 0.46), True)
     img = oscurecer(img, int(h * 0.45), h, False, 250)
     y = h * 0.03
-    y = texto(img, "LIVE GRATIS POR ZOOM", SANS_B, 30 * k, y, color=ORO, sombra=False)
+    y = texto(img, "LIVE GRATIS", SANS_B, 30 * k, y, color=ORO, sombra=False)
     tam = 66 if cuadrado else 84
     for linea in TITULO_V2:
         y = texto(img, linea, SERIF, tam * k, y - 4 * k, color=ORO_CLARO, maximo=w * 0.9)
+    # Mabel (28-oct): la fecha es lo 2.º más grande y sin hora (la hora va en la tabla)
+    y = texto(img, FECHA, SANS_B, (40 if cuadrado else 46) * k, y + 8 * k, color=(255, 255, 255), maximo=w * 0.92)
     if variante == "dolor":
-        y = texto(img, GANCHO, SANS_B, 30 * k, y + 10 * k, color=(255, 255, 255), maximo=w * 0.88)
-    y = texto(img, FECHA, SANS_B, 30 * k, y + 6 * k, color=(255, 255, 255))
+        y = texto(img, GANCHO, SANS_B, 26 * k, y + 4 * k, color=(255, 255, 255), maximo=w * 0.8)
     px_tabla = (25 if cuadrado else 30) * k
     alto_tabla = px_tabla * (1.4 + 1.35 * len(HORARIOS)) + 30 * k
     pie = 60 * k + px_tabla * 2.6
