@@ -130,7 +130,13 @@ def fondo(w, h, difuso=False):
     return img.convert("RGBA")
 
 
+TITULO_V2 = ["HIPNOSIS PARA", "HACKEAR TUS", "BLOQUEOS CON", "EL DINERO"]
+JERARQUIA_V2 = False   # True: el título es lo más grande; el gancho va chico, en un solo color
+
+
 def arte(variante, uso, w, h):
+    if JERARQUIA_V2:
+        return arte_v2(variante, uso, w, h)
     k = w / 1080            # escala de letra
     cuadrado = h <= 1100
     img = fondo(w, h, difuso=(variante == "horarios"))
@@ -144,6 +150,35 @@ def arte(variante, uso, w, h):
     for linea in TITULO:
         y = texto(img, linea, SERIF, tam * k, y)
     y = texto(img, FECHA, SANS_B, 32 * k, y + 6, color=(255, 255, 255))
+    px_tabla = (25 if cuadrado else 30) * k
+    alto_tabla = px_tabla * (1.4 + 1.35 * len(HORARIOS)) + 30 * k
+    pie = 60 * k + px_tabla * 2.6
+    y_tabla = h - pie - alto_tabla - 20 * k
+    if variante == "foto" and not cuadrado:
+        y_tabla = max(y_tabla, h * 0.55)
+    panel(img, (w * 0.06, y_tabla, w * 0.94, y_tabla + alto_tabla))
+    tabla(img, w * 0.06, y_tabla + 18 * k, w * 0.94, px_tabla)
+    yb = y_tabla + alto_tabla + 18 * k
+    yb = boton(img, CTA[uso], yb, 30 * k)
+    texto(img, FIRMA, SANS_B, 26 * k, yb + 10 * k, color=ORO, sombra=False)
+    return img.convert("RGB")
+
+
+def arte_v2(variante, uso, w, h):
+    """Jerarquía pedida por Mabel (28-oct): 1 título dorado grande; gancho y fecha en blanco, chicos."""
+    k = w / 1080
+    cuadrado = h <= 1100
+    img = fondo(w, h, difuso=(variante == "horarios"))
+    img = oscurecer(img, 0, int(h * 0.46), True)
+    img = oscurecer(img, int(h * 0.45), h, False, 250)
+    y = h * 0.03
+    y = texto(img, "LIVE GRATIS POR ZOOM", SANS_B, 30 * k, y, color=ORO, sombra=False)
+    tam = 66 if cuadrado else 84
+    for linea in TITULO_V2:
+        y = texto(img, linea, SERIF, tam * k, y - 4 * k, color=ORO_CLARO, maximo=w * 0.9)
+    if variante == "dolor":
+        y = texto(img, GANCHO, SANS_B, 30 * k, y + 10 * k, color=(255, 255, 255), maximo=w * 0.88)
+    y = texto(img, FECHA, SANS_B, 30 * k, y + 6 * k, color=(255, 255, 255))
     px_tabla = (25 if cuadrado else 30) * k
     alto_tabla = px_tabla * (1.4 + 1.35 * len(HORARIOS)) + 30 * k
     pie = 60 * k + px_tabla * 2.6
@@ -178,8 +213,11 @@ HORARIOS_11AM = [
 
 if __name__ == "__main__":
     # python3 artes_live.py "MARTES 3 DE NOVIEMBRE · POR ZOOM" artes-2026-11-03   → una sesión, 11 AM CDMX
-    if len(sys.argv) == 3:
+    # con 3er argumento (gancho): jerarquía nueva, título grande
+    if len(sys.argv) in (3, 4):
         FECHA, SALIDA, HORARIOS = sys.argv[1], AQUI / sys.argv[2], HORARIOS_11AM
+    if len(sys.argv) == 4:
+        GANCHO, JERARQUIA_V2 = sys.argv[3], True
     SALIDA.mkdir(exist_ok=True)
     for variante in ("foto", "horarios", "dolor"):
         for uso in ("organico", "ads"):
