@@ -8,6 +8,8 @@ COMPLETO antes de hacer cualquier cosa y síguelo al pie de la letra (rol, regla
 arquitectura y funnel BNQ™, decisiones de Mabel, audio diario de WhatsApp, fórmula de
 contenido y vocabulario).
 
+Los AUDIOS ROBÓTICOS los dice NAIA: lee `nica-apify/naia/NAIA.md` antes de escribirlos.
+
 Antes de escribir guiones, lee el brief o plan vigente más reciente en `nica-apify/briefs/`
 (ignora `nica-apify/briefs/rechazados/`). Sin números capturados no hay propuesta.
 

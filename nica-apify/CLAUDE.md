@@ -106,6 +106,10 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
 - **CONTENIDO: todo por AUDIOS ROBÓTICOS de activación** (Millonaria, del Éxito, etc.).
 - Nunca "depresión". Sí: ansiedad, burnout, modo alarma (sin promesas de salud).
 - Voz genérica de los audios: **pausada en momentos clave** (no lenta).
+- **🤖 AUDIOS ROBÓTICOS = VOZ Y PERSONALIDAD DE NAIA (aprobado 28-oct-2026).** Antes de
+  escribir uno, lee `naia/NAIA.md` completo. Estructura, frases literales y cierre
+  "Lo que no se activa, no cambia y se transforma. Yo soy NAIA. Y esto es @mabradiante."
+  (en audio: "Mabradiante"). Generar: `python3 whatsapp/audio.py guion.txt salida.mp3 naia`.
 
 ## Las 10 Fórmulas (para COMUNICAR en el contenido)
 F·01 Coherencia Energética Integral (CEI™) · F·02 Programación y Elevación de
@@ -205,6 +209,8 @@ Cuando Mabel diga **el tema del día** (ej. "abundancia", "soltar el miedo"):
    (una frase por línea; número solo = pausa en segundos, 1.5 a 1.8 para que repitan) y
    `python3 whatsapp/audio.py guion.txt salida.mp3` → MP3 con voz de mujer en español latino
    (Google, gratis). Meta: 30 s a 1 min. En la firma escribir "arroba mabradiante".
+   **Si es un AUDIO ROBÓTICO, lo dice NAIA:** guion y cierre de `naia/NAIA.md` y agregar
+   `naia` al final del comando.
 
 ## Cuentas que estudiamos
 | Red | Cuenta | Herramienta de Apify |
@@ -279,7 +285,8 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
 ## Recordatorios para Mabel (cuando sea oportuno)
 - **Meta Ads ($300 al día):** mandarlos a NAIA, cuando NAIA y los 5 niveles
   estén listos.
-- **NAIA:** se ajusta al final, con los 5 niveles terminados.
+- **NAIA:** ya es la voz y personalidad de los audios robóticos (`naia/NAIA.md`). El resto
+  (web, anuncios) se ajusta al final, con los 5 niveles terminados.
 - **Recorrido Completo:** ¿sacarlo de la venta o venderlo en preventa?
 - **Web:** producto principal (hoy dice MENTOR BNQ), VIP en siembra o ya a la
   venta, y quitar "física cuántica real".
