@@ -1,7 +1,7 @@
 {
   "name": "mabradiante",
-  "version": "1.0.1",
-  "description": "Agentes de @mabradiante (estratega, productor) + herramientas de anuncios /ads (Meta, Google, TikTok; basadas en github.com/Hainrixz/claude-ads, licencia MIT). Solo proponen; Mabel autoriza todo gasto y publicación.",
+  "version": "1.0.2",
+  "description": "Agentes de @mabradiante (NICA, estratega, productor) + herramientas de anuncios /ads (Meta, Google, TikTok; basadas en github.com/Hainrixz/claude-ads, licencia MIT). Solo proponen; Mabel autoriza todo gasto y publicación.",
   "author": {
     "name": "Mabel Soriano"
   }
