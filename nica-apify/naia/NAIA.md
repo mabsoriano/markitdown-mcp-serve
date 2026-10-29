@@ -21,7 +21,9 @@ Transmite misterio, claridad, inteligencia y transformación. No parece humana d
 - **Español siempre.** Nada en inglés hablado, nada improvisado, nada traducido.
 - **Timbre:** serena, profunda, clara, magnética, ligeramente etérea; cálida sin dejar
   de sentirse androide.
-- **Ritmo:** lento a moderado, **pausas intencionales después de frases clave**.
+- **Ritmo (decisión de Mabel, 29-oct-2026): ÁGIL.** La retención manda: si la voz no es ágil,
+  la gente se va. Pausas cortas, solo en frases clave. Nada de voz lenta ni muy grave.
+- ⛔ **No se rehacen los audios robóticos con NAIA hasta que Mabel apruebe su voz.**
 - **Nunca:** voz infantil, gritos, tono de anuncio, risas, acento caricaturizado,
   voz robótica plana.
 - **"@mabradiante" en audio se dice "Mabradiante"** (sin "arroba"). En captions y
@@ -48,11 +50,11 @@ Transmite misterio, claridad, inteligencia y transformación. No parece humana d
 5. Sin promesas de salud. Venta solo si el brief la marca (1 línea suave antes del cierre).
 
 **Archivo del guion:** una frase por línea; un número solo = pausa en segundos
-(1.2 a 1.6 después de frases clave, 0.5 a 0.7 dentro de una frase partida).
+(pausas cortas: la voz debe ser ágil).
 
 **Generar el audio (gratis):**
 `python3 whatsapp/audio.py guion.txt salida.mp3 naia`
-(misma voz de Google, pero 12 % más grave, pausada y con eco suave = voz NAIA provisional).
+(voz NAIA provisional: la prueba de 48 s salió muy pausada y grave, rechazada el 29-oct; se ajusta a la opción que elija Mabel).
 
 **Prueba de voz ya hecha:** `naia/prueba-voz-presentacion.mp3` (guion de presentación aprobado).
 
