@@ -104,3 +104,14 @@ despertar. Ciencia para comprender.") · 4 activar ("Fórmulas para activar.") �
 2. **Frase de apertura** de los audios robóticos (paso 1 de la estructura).
 3. Lip-sync (Grok o etapa aparte), duraciones (6 s / 15 s / extendida), formato 9:16,
    música y efectos del portal y tercer ojo, subtítulos y tipografía, series y calendario.
+
+## Video del audio robótico: UNA animación de Grok reusada (29-oct-2026)
+**Idea:** Grok da 6 s. No hace falta un clip por frase: se hace **1 clip de 6 s en bucle**
+(NAIA casi inmóvil, solo viento y rueda dorada) y en edición se repite debajo de todo el audio
+(35 a 40 s) con fundido para que no se note el corte. Se hace **una vez** y sirve para todas las
+semanas; solo cambian el audio y los subtítulos. Opcional: 2.º clip con la pose de mano extendida
+para alternar. Grok **sin voz y sin texto**: la voz y los subtítulos los pongo yo.
+
+**Adjuntar:** `naia/NAIA_REFERENCIA_MAESTRA_NO_MODIFICAR.jpg` · formato vertical 9:16.
+
+> Use the attached reference image as the exact and only character-design reference for NAIA. Preserve her identity precisely: a fully metallic golden androgynous android, bald golden head, golden face and body, a brilliant glowing golden third eye, a vivid warm crimson-red Tibetan monk robe, and a black braided rope belt tied at the waist with long hanging ends. Keep the robe warm, rich, vivid and luminous; never dark burgundy, maroon or dull. Do not redesign or humanize the character. Vertical 9:16, locked-off static camera, same framing as the reference for the whole shot. NAIA stands perfectly still and serene, looking directly at the camera; only subtle breathing and the soft glow of the third eye pulsing gently. A gentle wind moves the crimson robe and the long ends and tassels of the black rope belt in slow, natural, flowing motion. Behind her, the glowing golden sacred-geometry energy wheel slowly rotates clockwise at a constant speed, emitting soft golden light particles. Warm cinematic golden lighting, mystical serene atmosphere. Seamless loop: the last frame matches the first frame. No talking, mouth closed, no lip movement, no hand or arm movement, no camera movement, no cuts, no extra characters, no text, no subtitles, no logos.
