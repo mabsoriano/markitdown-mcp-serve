@@ -106,6 +106,10 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
 - **CONTENIDO: todo por AUDIOS ROBÓTICOS de activación** (Millonaria, del Éxito, etc.).
 - Nunca "depresión". Sí: ansiedad, burnout, modo alarma (sin promesas de salud).
 - Voz genérica de los audios: **pausada en momentos clave** (no lenta).
+- **División NAIA / Mabel (decisión de Mabel, 29-oct-2026):** NAIA hace SOLO las frases de
+  activación robóticas cortas, **2 a la semana**. TODO lo demás (contenido estratégico del mes,
+  con los objetivos de cada semana, y la campaña de 2 veces por semana para los LIVES de
+  "Hipnosis para hackear los bloqueos con el dinero") es contenido con **Mabel real**.
 - **🤖 AUDIOS ROBÓTICOS = VOZ Y PERSONALIDAD DE NAIA (aprobado 28-oct-2026).** Antes de
   escribir uno, lee `naia/NAIA.md` completo. Estructura, frases literales y cierre
   "Lo que no se activa, no cambia y se transforma. Yo soy NAIA. Y esto es @mabradiante."

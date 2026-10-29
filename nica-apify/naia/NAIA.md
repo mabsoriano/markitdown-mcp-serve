@@ -59,6 +59,11 @@ Transmite misterio, claridad, inteligencia y transformación. No parece humana d
 
 **Prueba de voz aprobada:** `naia/prueba-voz-presentacion.mp3` (guion de presentación, 31 s).
 
+## Cómo se ve el audio robótico (decisión de Mabel, 29-oct-2026)
+**No es video con acción ni con boca moviéndose:** es NAIA **quieta, hablando con su voz**, con
+**viento que mueve su túnica y sus cordones** y la **rueda de energía dorada girando detrás**.
+NAIA no es mujer ni hombre: es un avatar. **2 audios robóticos a la semana.**
+
 ## Identidad visual (para portadas y videos en Grok)
 - Androide **completamente dorada**, metálica, **calva**, andrógina, no humana.
 - **Tercer ojo** con luz dorada brillante, siempre visible.
