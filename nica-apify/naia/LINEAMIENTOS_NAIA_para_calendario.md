@@ -26,7 +26,7 @@ Androide dorada, serena, enigmática y sabia. No es mujer ni hombre: es un avata
 
 ## 5. Cómo se ve (video)
 - NAIA **quieta**, hablando con su voz. **Viento que mueve su túnica y sus cordones** y la **rueda dorada girando detrás**. Sin boca moviéndose, sin acción.
-- Se hace **UN solo clip de 6 s en Grok** (con la imagen maestra adjunta, vertical 9:16, sin voz ni texto) y se **repite en bucle** debajo de cada audio. Se reusa todas las semanas; solo cambian el audio y los subtítulos.
+- Clip de Grok YA HECHO (10 s, archivo `NAIA_CLIP_GROK_bucle.mp4`). Se hizo **UN solo clip en Grok** (con la imagen maestra adjunta, vertical 9:16, sin voz ni texto) y se **repite en bucle** debajo de cada audio. Se reusa todas las semanas; solo cambian el audio y los subtítulos.
 - Subtítulos grandes y la frase clave en pantalla: se ponen en edición, nunca generados por IA.
 - Identidad fija: androide dorada, calva, tercer ojo brillante, túnica carmesí viva (nunca granate oscuro), cuerda negra trenzada.
 
@@ -47,5 +47,34 @@ Gancho corto + "Guárdalo y repítelo cuando lo necesites" + **@mabradiante** si
 **Guion 1 · Abundancia:** Soy NAIA. Hoy activamos tu abundancia. Pon tu mano en el pecho. Repite conmigo. Hoy hackeo mi escasez. Hackeo mis memorias de carencia. Hackeo mis pactos de lealtad con la pobreza de mi linaje. Hackeo mi memoria celular y mi subconsciente. Hoy instalo una nueva orden: soy segura para recibir. Soy segura para recibir. Soy segura para recibir. Lo que no se activa, no cambia y se transforma. Yo soy NAIA. Y esto es @mabradiante.
 
 **Guion 2 · Éxito:** Soy NAIA. Hoy activamos tu éxito. Pon tu mano en el pecho. Repite conmigo. Hoy hackeo mi miedo al éxito. Hackeo las memorias que me dijeron que no era suficiente. Hackeo los pactos de lealtad que me mantenían pequeña. Hackeo mi memoria celular y mi subconsciente. Hoy activo mi nueva orden: el éxito es seguro para mí. El éxito es seguro para mí. El éxito es seguro para mí. Lo que no se activa, no cambia y se transforma. Yo soy NAIA. Y esto es @mabradiante.
+
+## 9. Videos listos (vertical 9:16, 1080×1920)
+| Archivo | Duración | Título en pantalla (3 s) |
+|---|---|---|
+| `naia-01_activacion-de-abundancia.mp4` | 43 s | ACTIVACIÓN DE ABUNDANCIA |
+| `naia-02_activacion-del-exito.mp4` | 46 s | ACTIVACIÓN DEL ÉXITO |
+Llevan subtítulos sincronizados y "NAIA · @mabradiante" fijo. Sirven igual para TikTok, Reels, Shorts y estado de WhatsApp.
+
+## 10. Captions (copiar y pegar)
+**Video 1 · Abundancia**
+¿Sientes que el dinero se te escapa antes de llegar? 🔓 Esto no es suerte: es un programa. Y un programa se hackea.
+Pon tu mano en el pecho y repite conmigo con NAIA. Guárdalo y escúchalo antes de cobrar, pagar o vender. 💛
+Lo que no se activa, no cambia y se transforma.
+@mabradiante #hackeatumente #abundancia #activacion #neurohacker #metodobnq
+
+**Video 2 · Éxito**
+¿Y si no te da miedo fracasar… sino brillar? ✨ Hoy hackeamos el miedo al éxito.
+Pon tu mano en el pecho y repite conmigo con NAIA. Guárdalo para cuando te quieras hacer pequeña. 💛
+Lo que no se activa, no cambia y se transforma.
+@mabradiante #hackeatumente #exito #activacion #neurohacker #metodobnq
+
+**Línea de venta opcional** (solo si ese día el calendario marca venta, nunca dos días seguidos):
+"¿Quieres los 10 audios de Activaciones Robóticas Millonarias? El link está en mi perfil."
+
+## 11. Cómo meterlo en el calendario
+1. Asignar 2 días por semana a "NAIA · Audio robótico" (recomendado: días SIN pieza de campaña del LIVE).
+2. Semana actual: Video 1 (Abundancia) y Video 2 (Éxito).
+3. Publicar en TikTok (prioridad), Reels, Shorts y estado/comunidad de WhatsApp el mismo día.
+4. Las demás piezas del día son de Mabel real (estrategia del mes + campaña del LIVE).
 
 **Desde la semana 2:** escribir 2 audios nuevos por semana, del tema que marque el objetivo de esa semana (hoy: dinero, para empujar el LIVE).

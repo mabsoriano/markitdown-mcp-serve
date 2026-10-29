@@ -115,3 +115,9 @@ para alternar. Grok **sin voz y sin texto**: la voz y los subtítulos los pongo 
 **Adjuntar:** `naia/NAIA_REFERENCIA_MAESTRA_NO_MODIFICAR.jpg` · formato vertical 9:16.
 
 > Use the attached reference image as the exact and only character-design reference for NAIA. Preserve her identity precisely: a fully metallic golden androgynous android, bald golden head, golden face and body, a brilliant glowing golden third eye, a vivid warm crimson-red Tibetan monk robe, and a black braided rope belt tied at the waist with long hanging ends. Keep the robe warm, rich, vivid and luminous; never dark burgundy, maroon or dull. Do not redesign or humanize the character. Vertical 9:16, locked-off static camera, same framing as the reference for the whole shot. NAIA stands perfectly still and serene, looking directly at the camera; only subtle breathing and the soft glow of the third eye pulsing gently. A gentle wind moves the crimson robe and the long ends and tassels of the black rope belt in slow, natural, flowing motion. Behind her, the glowing golden sacred-geometry energy wheel slowly rotates clockwise at a constant speed, emitting soft golden light particles. Warm cinematic golden lighting, mystical serene atmosphere. Seamless loop: the last frame matches the first frame. No talking, mouth closed, no lip movement, no hand or arm movement, no camera movement, no cuts, no extra characters, no text, no subtitles, no logos.
+
+**Clip ya hecho (29-oct-2026):** `naia/NAIA_CLIP_GROK_bucle.mp4` (10 s, aprobado). Se usa en
+"ida y vuelta" para que el bucle no salte. **Armar cada video:**
+`python3 whatsapp/video_naia.py guion.txt audio.mp3 bucle.mp4 "ACTIVACIÓN\NDE [TEMA]" salida.mp4`
+(bucle = el clip escalado a 1080×1920 + su reversa). Pone título 3 s, subtítulos sincronizados
+y "NAIA · @mabradiante". Videos listos en `naia/videos/`.
