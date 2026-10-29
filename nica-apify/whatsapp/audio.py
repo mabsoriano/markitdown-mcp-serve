@@ -1,8 +1,9 @@
 """Audio de activación con voz gratuita (Google, español latino, mujer).
 
 Uso:  python3 audio.py guion.txt salida.mp3 [naia]
-Con "naia" al final suena con la voz de NAIA (ver naia/NAIA.md): más grave,
-serena y con un eco suave, ligeramente etéreo. Sin "naia", voz normal.
+Con "naia" al final suena con la voz de NAIA (ver naia/NAIA.md): ágil, apenas
+más grave y con un eco suave de androide (opción A, aprobada por Mabel 29-oct-2026).
+Sin "naia", voz normal.
 El guion lleva una frase por línea. Una línea con solo un número = pausa en
 segundos (ej. "2.5"). Línea vacía = pausa corta.
 """
@@ -11,9 +12,10 @@ from pathlib import Path
 
 URL = "https://translate.googleapis.com/translate_tts?ie=UTF-8&client=gtx&tl=es-419&q="
 RITMO = 1.0         # 0.9 si se quiere más lento
-# NAIA: tono 12 % más grave y un poco más pausada (asetrate baja tono y ritmo;
-# atempo recupera parte del ritmo). aecho le da el toque etéreo de androide.
-NAIA = "asetrate=24000*0.88,aresample=24000,atempo=1.05,aecho=0.8:0.6:40|80:0.25|0.15"
+# NAIA: tono 4 % más grave y ágil (asetrate baja tono; atempo acelera).
+# aecho le da el toque de androide. En NAIA las pausas se acortan (retención).
+NAIA = "asetrate=24000*0.96,aresample=24000,atempo=1.22,aecho=0.8:0.5:30:0.12"
+PAUSA_NAIA = 0.55
 
 
 def voz(frase, destino):
@@ -27,13 +29,14 @@ def silencio(seg, destino):
 
 
 def main(guion, salida, naia=False):
+    pausa = PAUSA_NAIA if naia else 1.0
     tmp = Path(tempfile.mkdtemp())
     partes = []
     for i, linea in enumerate(Path(guion).read_text(encoding="utf-8").splitlines()):
         linea = linea.strip()
         p = tmp / f"{i:03d}.wav"
         try:
-            silencio(float(linea), p) if linea else silencio(0.5, p)
+            silencio(float(linea) * pausa, p) if linea else silencio(0.5, p)
         except ValueError:
             mp3 = tmp / f"{i:03d}.mp3"
             voz(linea, mp3)
@@ -41,7 +44,7 @@ def main(guion, salida, naia=False):
                             "-ac", "1", "-filter:a", f"atempo={RITMO}", p], check=True)
             partes.append(p)
             p = tmp / f"{i:03d}b.wav"
-            silencio(0.35, p)
+            silencio(0.15 if naia else 0.35, p)
         partes.append(p)
     lista = tmp / "lista.txt"
     lista.write_text("".join(f"file '{p}'\n" for p in partes))

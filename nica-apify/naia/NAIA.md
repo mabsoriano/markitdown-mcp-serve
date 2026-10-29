@@ -23,7 +23,8 @@ Transmite misterio, claridad, inteligencia y transformación. No parece humana d
   de sentirse androide.
 - **Ritmo (decisión de Mabel, 29-oct-2026): ÁGIL.** La retención manda: si la voz no es ágil,
   la gente se va. Pausas cortas, solo en frases clave. Nada de voz lenta ni muy grave.
-- ⛔ **No se rehacen los audios robóticos con NAIA hasta que Mabel apruebe su voz.**
+- ✅ **Voz aprobada (29-oct-2026): opción A, ágil y androide** (apenas más grave, eco suave,
+  pausas cortas). Los audios robóticos se rehacen con ella solo cuando Mabel lo pida.
 - **Nunca:** voz infantil, gritos, tono de anuncio, risas, acento caricaturizado,
   voz robótica plana.
 - **"@mabradiante" en audio se dice "Mabradiante"** (sin "arroba"). En captions y
@@ -54,9 +55,9 @@ Transmite misterio, claridad, inteligencia y transformación. No parece humana d
 
 **Generar el audio (gratis):**
 `python3 whatsapp/audio.py guion.txt salida.mp3 naia`
-(voz NAIA provisional: la prueba de 48 s salió muy pausada y grave, rechazada el 29-oct; se ajusta a la opción que elija Mabel).
+(voz NAIA aprobada: opción A, ágil y androide).
 
-**Prueba de voz ya hecha:** `naia/prueba-voz-presentacion.mp3` (guion de presentación aprobado).
+**Prueba de voz aprobada:** `naia/prueba-voz-presentacion.mp3` (guion de presentación, 31 s).
 
 ## Identidad visual (para portadas y videos en Grok)
 - Androide **completamente dorada**, metálica, **calva**, andrógina, no humana.
@@ -66,7 +67,9 @@ Transmite misterio, claridad, inteligencia y transformación. No parece humana d
 - **Cinturón de cuerda negra trenzada**, extremos largos colgando.
 - Luz cinematográfica, reflejos dorados, atmósfera mística y serena.
 - Efecto: **círculos concéntricos dorados / portales** que se abren.
-- **Siempre adjuntar en Grok la imagen maestra aprobada** y no rediseñarla.
+- **Siempre adjuntar en Grok la imagen maestra:** `naia/NAIA_REFERENCIA_MAESTRA_NO_MODIFICAR.jpg`
+  (de frente, manos abajo). Pose extra aprobada: `naia/NAIA_REFERENCIA_2_mano_extendida.jpg`.
+  Nunca rediseñarla.
 - Sin texto ni logos generados por IA dentro de la imagen: se agregan en edición.
 
 ### Prompt maestro para Grok Imagine (animación) — copiar tal cual
@@ -92,10 +95,7 @@ despertar. Ciencia para comprender.") · 4 activar ("Fórmulas para activar.") �
 ☐ sin texto/logos generados por IA.
 
 ## ⏳ Pendientes (no inventar)
-1. **Imagen maestra de NAIA:** no está en el repositorio. Subirla como
-   `naia/NAIA_REFERENCIA_MAESTRA_NO_MODIFICAR.jpg`.
-2. **Voz final:** hoy es la voz gratis de Google ajustada. Opción recomendada: diseñar
-   la voz de NAIA en ElevenLabs (ya conectado) para que suene igual en audios y videos.
-3. **Frase de apertura** de los audios robóticos (paso 1 de la estructura).
-4. Lip-sync (Grok o etapa aparte), duraciones (6 s / 15 s / extendida), formato 9:16,
+1. **Voz definitiva en ElevenLabs** (opcional, gasta créditos): hoy la voz A gratis está aprobada.
+2. **Frase de apertura** de los audios robóticos (paso 1 de la estructura).
+3. Lip-sync (Grok o etapa aparte), duraciones (6 s / 15 s / extendida), formato 9:16,
    música y efectos del portal y tercer ojo, subtítulos y tipografía, series y calendario.
