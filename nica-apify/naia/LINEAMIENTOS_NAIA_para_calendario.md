@@ -60,12 +60,14 @@ Llevan subtítulos sincronizados y "NAIA · @mabradiante" fijo. Sirven igual par
 ¿Sientes que el dinero se te escapa antes de llegar? 🔓 Esto no es suerte: es un programa. Y un programa se hackea.
 Pon tu mano en el pecho y repite conmigo con NAIA. Guárdalo y escúchalo antes de cobrar, pagar o vender. 💛
 Lo que no se activa, no cambia y se transforma.
+👉 Todo para seguir hackeando tu dinero está en el link de mi perfil.
 @mabradiante #hackeatumente #abundancia #activacion #neurohacker #metodobnq
 
 **Video 2 · Éxito**
 ¿Y si no te da miedo fracasar… sino brillar? ✨ Hoy hackeamos el miedo al éxito.
 Pon tu mano en el pecho y repite conmigo con NAIA. Guárdalo para cuando te quieras hacer pequeña. 💛
 Lo que no se activa, no cambia y se transforma.
+👉 Todo para seguir hackeando tu mente está en el link de mi perfil.
 @mabradiante #hackeatumente #exito #activacion #neurohacker #metodobnq
 
 **Línea de venta opcional** (solo si ese día el calendario marca venta, nunca dos días seguidos):
@@ -95,3 +97,9 @@ Lo que no se activa, no cambia y se transforma.
 3. **Mabel lleva ese bloque al chat de NICA (producción de NAIA)**. Ahí se generan la voz de NAIA y los 2 videos verticales (mismo clip, sin mover la boca, subtítulos). Gasto: $0.
 4. Mabel publica los videos los días marcados en el calendario.
 - Este chat **NO** genera audios ni videos de NAIA: solo define días, temas, guiones y captions.
+
+## ✅ REGLA FIJA DE MABEL (30-oct-2026): TODO VIDEO LLEVA SU COPY CON CTA AL LINK DEL PERFIL
+Cada video que se entregue (de NAIA o de Mabel) va **siempre** acompañado de su copy listo
+para pegar, y el copy **siempre cierra con CTA al link del perfil**, porque ahí están todos los
+links de productos, fórmulas, etc. Ej.: "👉 Todo para seguir hackeando tu mente está en el link
+de mi perfil." Sin presión, una sola acción.

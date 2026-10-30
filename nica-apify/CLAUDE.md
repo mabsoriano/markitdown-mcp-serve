@@ -115,6 +115,9 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
   "Lo que no se activa, no cambia y se transforma. Yo soy NAIA. Y esto es @mabradiante."
   (en audio: "Mabradiante"). Generar: `python3 whatsapp/audio.py guion.txt salida.mp3 naia`.
 
+- **REGLA (30-oct-2026): todo video que entregue lleva SU COPY listo para pegar, SIEMPRE con
+  CTA al link del perfil** (ahí están todos los productos).
+
 ## Las 10 Fórmulas (para COMUNICAR en el contenido)
 F·01 Coherencia Energética Integral (CEI™) · F·02 Programación y Elevación de
 Consciencia · F·03 Activación Glándula Pineal · F·04 Reprogramación y Control

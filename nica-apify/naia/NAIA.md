@@ -131,3 +131,9 @@ y "NAIA · @mabradiante". Videos listos en `naia/videos/`.
   de Mabel. Aquí no se inventan.
 - **ACTUALIZACIÓN 30-oct:** Mabel decidió **SIN mover la boca** (sin lip-sync, sin gasto). Se queda el formato
   de los 2 videos aprobados: viento, rueda dorada, voz A y subtítulos.
+
+## ✅ REGLA FIJA DE MABEL (30-oct-2026): TODO VIDEO LLEVA SU COPY CON CTA AL LINK DEL PERFIL
+Cada video que se entregue (de NAIA o de Mabel) va **siempre** acompañado de su copy listo
+para pegar, y el copy **siempre cierra con CTA al link del perfil**, porque ahí están todos los
+links de productos, fórmulas, etc. Ej.: "👉 Todo para seguir hackeando tu mente está en el link
+de mi perfil." Sin presión, una sola acción.
