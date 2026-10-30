@@ -78,3 +78,11 @@ Lo que no se activa, no cambia y se transforma.
 4. Las demás piezas del día son de Mabel real (estrategia del mes + campaña del LIVE).
 
 **Desde la semana 2:** escribir 2 audios nuevos por semana, del tema que marque el objetivo de esa semana (hoy: dinero, para empujar el LIVE).
+
+## Decisiones de Mabel (30-oct-2026)
+- Videos de Abundancia y Éxito: **aprobados**.
+- **Mabel quiere que NAIA MUEVA LA BOCA al hablar** (lip-sync). Se hace aparte, sobre el video ya armado,
+  con la misma voz A. Opción recomendada: ElevenLabs "Sync LipSync 3" (gasta créditos: primero una
+  prueba corta con OK de Mabel). Hasta aprobar la prueba, se usan los videos sin boca.
+- **Días de NAIA (2 por semana) y temas de sus audios:** los define el chat de ESTRATEGIA / calendario
+  de Mabel. Aquí no se inventan.

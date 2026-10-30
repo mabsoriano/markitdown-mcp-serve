@@ -121,3 +121,11 @@ para alternar. Grok **sin voz y sin texto**: la voz y los subtítulos los pongo 
 `python3 whatsapp/video_naia.py guion.txt audio.mp3 bucle.mp4 "ACTIVACIÓN\NDE [TEMA]" salida.mp4`
 (bucle = el clip escalado a 1080×1920 + su reversa). Pone título 3 s, subtítulos sincronizados
 y "NAIA · @mabradiante". Videos listos en `naia/videos/`.
+
+## Decisiones de Mabel (30-oct-2026)
+- Videos de Abundancia y Éxito: **aprobados**.
+- **Mabel quiere que NAIA MUEVA LA BOCA al hablar** (lip-sync). Se hace aparte, sobre el video ya armado,
+  con la misma voz A. Opción recomendada: ElevenLabs "Sync LipSync 3" (gasta créditos: primero una
+  prueba corta con OK de Mabel). Hasta aprobar la prueba, se usan los videos sin boca.
+- **Días de NAIA (2 por semana) y temas de sus audios:** los define el chat de ESTRATEGIA / calendario
+  de Mabel. Aquí no se inventan.
