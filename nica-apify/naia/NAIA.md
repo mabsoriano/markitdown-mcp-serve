@@ -129,3 +129,5 @@ y "NAIA · @mabradiante". Videos listos en `naia/videos/`.
   prueba corta con OK de Mabel). Hasta aprobar la prueba, se usan los videos sin boca.
 - **Días de NAIA (2 por semana) y temas de sus audios:** los define el chat de ESTRATEGIA / calendario
   de Mabel. Aquí no se inventan.
+- **ACTUALIZACIÓN 30-oct:** Mabel decidió **SIN mover la boca** (sin lip-sync, sin gasto). Se queda el formato
+  de los 2 videos aprobados: viento, rueda dorada, voz A y subtítulos.
