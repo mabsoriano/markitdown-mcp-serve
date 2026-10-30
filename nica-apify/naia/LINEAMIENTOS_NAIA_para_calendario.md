@@ -88,3 +88,10 @@ Lo que no se activa, no cambia y se transforma.
   de Mabel. Aquí no se inventan.
 - **ACTUALIZACIÓN 30-oct:** Mabel decidió **SIN mover la boca** (sin lip-sync, sin gasto). Se queda el formato
   de los 2 videos aprobados: viento, rueda dorada, voz A y subtítulos.
+
+## 12. FLUJO SEMANAL DE NAIA (cada semana, sin excepción)
+1. **Este chat (estrategia / calendario)** define cada semana: los **2 días** de NAIA, los **2 temas** y los **2 guiones** (con la estructura del punto 4) + sus 2 captions.
+2. Al terminar, entrega a Mabel un bloque listo para copiar llamado **"PARA NICA · NAIA semana [fecha]"** con: día, tema, guion completo (una frase por línea) y caption de cada uno.
+3. **Mabel lleva ese bloque al chat de NICA (producción de NAIA)**. Ahí se generan la voz de NAIA y los 2 videos verticales (mismo clip, sin mover la boca, subtítulos). Gasto: $0.
+4. Mabel publica los videos los días marcados en el calendario.
+- Este chat **NO** genera audios ni videos de NAIA: solo define días, temas, guiones y captions.
