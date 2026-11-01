@@ -192,7 +192,9 @@ MICROHERRAMIENTA → REVELACIÓN → CTA**
   4. Duración: **TikTok 1:30 a 3 min** (versión completa); Reels y Shorts, corte de 60 a 90 s
      con gancho + guardar + lista + hackeo + comenta.
   5. **TU HISTORIA** va entre [corchetes]: la llena Mabel. Nunca invento su biografía.
-  6. Entrega siempre en **Excel** (no en MD): calendario, guion por tiempos, copy, hashtags,
+  6. **ENTREGAS (Mabel, 1-nov):** todo lo que ella usa se le manda AQUÍ al chat como archivo para
+     descargar (PDF o Word; tablas en Excel). El .md y GitHub son solo mi memoria interna, nunca su entrega.
+     Entrega siempre en **Excel** (no en MD): calendario, guion por tiempos, copy, hashtags,
      título, competencia y patrones.
 
 **Dos audiencias:**
