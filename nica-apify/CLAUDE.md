@@ -226,6 +226,7 @@ Cuando Mabel diga **el tema del día** (ej. "abundancia", "soltar el miedo"):
 | TikTok | @transformacion_acelerada | clockworks/tiktok-scraper |
 | TikTok | @soylizadebri | clockworks/tiktok-scraper |
 | TikTok | @manifestadoras | clockworks/tiktok-scraper |
+| TikTok | @subliminal946 (afirmaciones robóticas, referencia de NAIA; agregada 2-nov-2026) | clockworks/tiktok-scraper |
 | Instagram | @danielacorreaup | apify/instagram-scraper y apify/instagram-reel-scraper |
 | Instagram | @paola.a.botto (restringida +18: no se puede leer) | — |
 | Instagram | @quantumquip | apify/instagram-scraper y apify/instagram-reel-scraper |

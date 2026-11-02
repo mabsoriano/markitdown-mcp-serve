@@ -137,3 +137,10 @@ Cada video que se entregue (de NAIA o de Mabel) va **siempre** acompañado de su
 para pegar, y el copy **siempre cierra con CTA al link del perfil**, porque ahí están todos los
 links de productos, fórmulas, etc. Ej.: "👉 Todo para seguir hackeando tu mente está en el link
 de mi perfil." Sin presión, una sola acción.
+
+## Títulos de NAIA (decisión de Mabel, 2-nov-2026)
+Desde los próximos videos, el **título en pantalla (3 s) es la afirmación en primera persona**,
+corta: "YO SOY ABUNDANCIA", "LO BUENO ME LLEGA", "EL ÉXITO ES SEGURO PARA MÍ". No "ACTIVACIÓN DE…".
+Es una PRUEBA: comparar con los números de los videos con título tipo tema (Abundancia y Éxito).
+Copys con "afirmaciones robóticas" + #subliminal #afirmaciones #manifestacion. Referencia:
+`matriz/competencia-subliminal946-2026-11-02.md`.
