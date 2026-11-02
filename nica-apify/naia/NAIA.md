@@ -144,3 +144,9 @@ corta: "YO SOY ABUNDANCIA", "LO BUENO ME LLEGA", "EL ÉXITO ES SEGURO PARA MÍ".
 Es una PRUEBA: comparar con los números de los videos con título tipo tema (Abundancia y Éxito).
 Copys con "afirmaciones robóticas" + #subliminal #afirmaciones #manifestacion. Referencia:
 `matriz/competencia-subliminal946-2026-11-02.md`.
+
+## Decisión de Mabel (2-nov-2026): 4 piezas de NAIA para YouTube y TikTok
+Tema de estas 2 semanas: hackeo de bloqueos con el dinero y reprogramación para la abundancia.
+2 videos largos de YouTube (8 y 15 min) + 2 cortes de 60 a 85 s para TikTok, Shorts y Reels.
+El de 15 min NUNCA va a TikTok. Guiones en `naia/youtube/` (esperan aprobación de Mabel).
+**Regla: nada se genera sin el SÍ de Mabel a cada paso.**
