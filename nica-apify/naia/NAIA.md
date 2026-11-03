@@ -171,3 +171,14 @@ para TikTok, Reels de Instagram y Shorts, que sirve de **gancho para llevar la g
 - Cierre hablado: "La versión completa de [N] minutos está en el link de mi perfil. Yo soy NAIA. Y esto es Mabradiante."
 - Copy con CTA al link del perfil (en el Linktree debe estar el botón a YouTube).
 - Se arma con `whatsapp/video_naia.py` (formato vertical) y la misma voz A. Gasto: $0.
+
+## ✅ SISTEMA SEMANAL CONSOLIDADO (confirmado por Mabel, 3-nov-2026) — NO HACER DE MÁS
+| Pieza | Cuántas | Dónde | Duración |
+|---|---|---|---|
+| NAIA largo | 2 por semana (uno de 8 min y uno de 15 min) | YouTube | 8 y 15 min |
+| NAIA corto | 2 por semana = **los cortes de esos 2 videos largos** (no son piezas extra) | TikTok + Reels de Instagram (+ Shorts) | 60 a 85 s |
+| Tarjeta de afirmación en movimiento | 1 diaria (7 por semana) | TikTok + Instagram | 6 s |
+Temas de las tarjetas: **dinero y poder femenino** (referencia: estilo @Tania.AlmasPoderosas; se copia el estilo,
+nunca las frases; sin cifras de dinero ni promesas de salud).
+**Cada pieza se entrega con:** título hack, copy con CTA al link del perfil y hashtags. Las de YouTube, además:
+título, descripción con capítulos, etiquetas, comentario fijado y miniatura con la firma de Mabel.
