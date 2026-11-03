@@ -565,10 +565,153 @@ def d27_cierre():
     return img
 
 
-DIAPOSITIVAS = [d01_portada, d02_cuidados, d03_hoy, d04_dolor, d05_culpa, d06_sistema, d07_piloto, d08_bnq,
-                d09_neuro, d10_taxistas, d11_aprovechar, d12_historia, d13_kirsch, d14_stanford, d15_ecuacion,
-                d16_todo, d17_quien_soy, d18_preparate, d19_hipnosis, d20_sentiste, d21_uno_de_cinco,
-                d22_pack, d23_regalo, d24_precio, d25_preguntas, d26_comunidad, d27_cierre]
+# ---------- bloque nuevo (3 nov): manifiesto, BNQ en 2, ciencia en 1, compruébalo ----------
+
+def x_manifiesto():
+    img = frase(5, "LO QUE NADIE TE DIJO", "El problema nunca fuiste tú.",
+                "Fue el código con el que operabas.")
+    d = ImageDraw.Draw(img)
+    fu = f(SANS, 34)
+    chips = ["“El dinero cuesta”", "“No alcanza”", "“Los ricos son malos”", "“No lo merezco”"]
+    anchos = [d.textlength(c, font=fu) + 60 for c in chips]
+    x = (W - sum(anchos) - 24 * 3) / 2
+    for c, a in zip(chips, anchos):
+        caja(img, (x, 700, x + a, 790), 45)
+        ImageDraw.Draw(img).text((x + 30, 725), c, font=fu, fill=ORO_CLARO)
+        x += a + 24
+    d = ImageDraw.Draw(img)
+    t = "Programas heredados y aprendidos: la mayor parte de lo que haces corre en automático."
+    d.text((W / 2 - d.textlength(t, font=f(SANS_REG, 36)) / 2, 850), t, font=f(SANS_REG, 36), fill=GRIS)
+    return img
+
+
+def x_bnq_que_es():
+    img = universo(8)
+    d = ImageDraw.Draw(img)
+    d.text((90, 70), "QUÉ ES BNQ™", font=f(SANS, 32), fill=ORO)
+    d.text((90, 112), "Bio Neuro Quantum Activación", font=f(SERIF, 78), fill=ORO_CLARO)
+    linea_oro(d, 92, 215, 520)
+    cols = [("BIO", "Hardware biológico", "ADN, glándula pineal y memoria celular"),
+            ("NEURO", "Software neurológico", "Subconsciente y redes neuronales"),
+            ("QUANTUM", "El salto", "Coherencia, frecuencia elevada e intención clara")]
+    y = 250
+    for i, (t, s_, txt) in enumerate(cols):
+        x0 = 90 + i * 590
+        caja(img, (x0, y, x0 + 560, y + 330))
+        d = ImageDraw.Draw(img)
+        d.text((x0 + 40, y + 30), t, font=f(SERIF, 72), fill=ORO_CLARO)
+        d.text((x0 + 40, y + 120), s_, font=f(SANS, 36), fill=ORO)
+        parrafo(d, txt, f(SANS, 36), x0 + 40, y + 185, 480, BLANCO)
+    pasos = ["DETECTAS", "HACKEAS", "REPROGRAMAS", "ACTIVAS"]
+    fu = f(SANS, 40)
+    anchos = [d.textlength(p_, font=fu) for p_ in pasos]
+    flecha = 120
+    x = (W - sum(anchos) - flecha * 3) / 2
+    yy = 625
+    for i, p_ in enumerate(pasos):
+        d.text((x, yy), p_, font=fu, fill=ORO_CLARO)
+        x += anchos[i]
+        if i < 3:
+            d.line([(x + 25, yy + 26), (x + flecha - 35, yy + 26)], fill=ORO, width=4)
+            d.polygon([(x + flecha - 35, yy + 14), (x + flecha - 19, yy + 26), (x + flecha - 35, yy + 38)], fill=ORO)
+            x += flecha
+    caja(img, (90, 720, 1830, 960), 28, ORO_CLARO)
+    d = ImageDraw.Draw(img)
+    d.text((140, 750), "CEI™ · Coherencia Energética Integral", font=f(SERIF, 54), fill=ORO_CLARO)
+    d.text((140, 822), "La llave de encendido: cuando se alinean", font=f(SANS_REG, 36), fill=BLANCO)
+    d.text((140, 878), "tu energía se vuelve coherente.", font=f(SANS_REG, 36), fill=BLANCO)
+    for i, (nom, col) in enumerate([("MENTE", (120, 170, 255)), ("EMOCIÓN", (240, 110, 150)), ("ACCIÓN", (240, 200, 90))]):
+        cx = 1210 + i * 210
+        d.ellipse([cx - 52, 760, cx + 52, 864], outline=col, width=5)
+        d.ellipse([cx - 14, 798, cx + 14, 826], fill=col)
+        tw = d.textlength(nom, font=f(SANS, 28))
+        d.text((cx - tw / 2, 880), nom, font=f(SANS, 28), fill=col)
+    pie(d)
+    return img
+
+
+def x_puente_formulas():
+    img = universo(9)
+    d = ImageDraw.Draw(img)
+    d.text((90, 60), "EL PUENTE CUÁNTICO", font=f(SANS, 32), fill=ORO)
+    d.text((90, 100), "Dos mapas, un puente", font=f(SERIF, 72), fill=ORO_CLARO)
+    pares = [("Unidad", "Entrelazamiento"), ("El Campo", "Campo cuántico"), ("La Intención", "El Observador")]
+    d.text((150, 205), "Sabiduría ancestral", font=f(SANS, 30), fill=GRIS)
+    t = "Ciencia"
+    d.text((1770 - d.textlength(t, font=f(SANS, 30)), 205), t, font=f(SANS, 30), fill=GRIS)
+    y = 250
+    for a, b in pares:
+        d.text((150, y), a, font=f(SANS, 38), fill=BLANCO)
+        d.text((1770 - d.textlength(b, font=f(SANS, 38)), y), b, font=f(SANS, 38), fill=BLANCO)
+        d.line([(560, y + 24), (1360, y + 24)], fill=ORO, width=2)
+        y += 62
+    caja(img, (800, 270, 1120, 380), 50, ORO_CLARO)
+    d = ImageDraw.Draw(img)
+    t = "BNQ™"
+    d.text((960 - d.textlength(t, font=f(SERIF, 64)) / 2, 285), t, font=f(SERIF, 64), fill=ORO_CLARO)
+    d.text((90, 455), "LAS 10 FÓRMULAS CUÁNTICAS", font=f(SANS, 32), fill=ORO)
+    formulas = ["CEI™ · La base", "Programación y Elevación de Consciencia", "Activación de Glándula Pineal",
+                "Reprogramación y Control de Energía", "Reprogramación de ADN", "Activación del Salto Cuántico",
+                "Conexión con el Yo Superior", "Materializar tu Nueva Realidad", "Salir de la Matrix",
+                "Reprogramar el Subconsciente"]
+    hoy = {4, 7, 9}
+    for i, nom in enumerate(formulas):
+        col, fila = i % 5, i // 5
+        x0, y0 = 90 + col * 352, 505 + fila * 225
+        resaltar = i in hoy or i == 0
+        caja(img, (x0, y0, x0 + 330, y0 + 205), 20, ORO_CLARO if resaltar else (120, 100, 160))
+        if i in hoy:
+            capa = Image.new("RGBA", img.size, (0, 0, 0, 0))
+            ImageDraw.Draw(capa).rounded_rectangle((x0, y0, x0 + 330, y0 + 205), 20, fill=(232, 190, 92, 55))
+            img.paste(capa, (0, 0), capa)
+        d = ImageDraw.Draw(img)
+        d.text((x0 + 22, y0 + 16), f"F·{i + 1:02d}", font=f(SERIF, 44), fill=ORO_CLARO if resaltar else ORO)
+        parrafo(d, nom, f(SANS, 27), x0 + 22, y0 + 78, 290, BLANCO)
+    t = "Resaltadas: las 3 que activamos hoy"
+    d.text((1830 - d.textlength(t, font=f(SANS_REG, 28)), 965), t, font=f(SANS_REG, 28), fill=ORO_CLARO)
+    pie(d)
+    return img
+
+
+def x_hipnosis_ciencia():
+    img = universo(13)
+    d = ImageDraw.Draw(img)
+    d.text((90, 70), "DE LOS TEMPLOS A LA NEUROCIENCIA", font=f(SANS, 32), fill=ORO)
+    d.text((90, 112), "La hipnosis tiene historia y evidencia", font=f(SERIF, 70), fill=ORO_CLARO)
+    hitos = [("Antigüedad", "Templos del sueño"), ("1843", "Braid la nombra"), ("1880s", "Charcot, París"),
+             ("1950s", "Milton Erickson"), ("1955·1958", "Asociaciones médicas"), ("HOY", "Resonancia magnética")]
+    ly = 330
+    d.line([(200, ly), (1720, ly)], fill=ORO, width=4)
+    paso = 1520 / 5
+    for i, (a, t) in enumerate(hitos):
+        cx = 200 + i * paso
+        d.ellipse([cx - 14, ly - 14, cx + 14, ly + 14], fill=ORO_CLARO if i == 5 else ORO)
+        fa = f(SANS, 34)
+        d.text((cx - d.textlength(a, font=fa) / 2, ly - 70), a, font=fa, fill=ORO_CLARO)
+        parrafo(d, t, f(SANS_REG, 28), cx - 130, ly + 35, 260, BLANCO, centro=True)
+    tarjetas = [("70%", "Al sumar hipnosis a la terapia, la persona promedio mejoró más que el 70% de quienes no la usaron.",
+                 "Kirsch y equipo, 1995 · 18 estudios"),
+                ("Stanford", "En hipnosis baja la actividad de la zona que vigila y critica: la orden nueva entra sin pelear con tu juez interno.",
+                 "Jiang, Spiegel y equipo, 2016")]
+    for i, (big, txt, src) in enumerate(tarjetas):
+        x0 = 90 + i * 890
+        caja(img, (x0, 480, x0 + 850, 960))
+        d = ImageDraw.Draw(img)
+        d.text((x0 + 45, 505), big, font=f(SERIF, 110), fill=ORO_CLARO)
+        yy = parrafo(d, txt, f(SANS, 36), x0 + 45, 650, 760, BLANCO)
+        d.text((x0 + 45, 905), src, font=f(SANS_REG, 28), fill=GRIS)
+    return img
+
+
+def x_compruebalo():
+    return frase(17, "ANTES DE LA ACTIVACIÓN", "No tienes que creerlo. Compruébalo.",
+                 "Lo que no se activa, no cambia.")
+
+
+DIAPOSITIVAS = [d01_portada, d02_cuidados, d03_hoy, d04_dolor, x_manifiesto, d06_sistema, d07_piloto,
+                x_bnq_que_es, x_puente_formulas, d09_neuro, d10_taxistas, d11_aprovechar, x_hipnosis_ciencia,
+                d15_ecuacion, d16_todo, d17_quien_soy, x_compruebalo, d18_preparate, d19_hipnosis, d20_sentiste,
+                d21_uno_de_cinco, d22_pack, d23_regalo, d24_precio, d25_preguntas, d26_comunidad, d27_cierre]
 
 
 def armar():
@@ -577,8 +720,10 @@ def armar():
 
     SALIDA.mkdir(exist_ok=True)
     rutas = []
-    for fn in DIAPOSITIVAS:
-        ruta = SALIDA / (fn.__name__[1:3] + "_" + fn.__name__[4:] + ".png")
+    for viejo in SALIDA.glob("*.png"):
+        viejo.unlink()
+    for n, fn in enumerate(DIAPOSITIVAS, 1):
+        ruta = SALIDA / f"{n:02d}_{fn.__name__.split('_', 1)[1]}.png"
         fn().save(ruta)
         rutas.append(ruta)
     pres = Presentation()
