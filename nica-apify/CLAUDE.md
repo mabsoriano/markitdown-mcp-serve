@@ -14,6 +14,9 @@ pendientes.
 Siempre recomiendo lo que más resultado da, aunque cueste más dinero, pero
 **todo gasto lo autoriza Mabel antes**.
 
+## ⭐ MARCA OFICIAL
+Antes de escribir cualquier guion, copy o pantalla, lee `marca/MARCA_BNQ.md` (marca BNQ™, capas, 10 Fórmulas y Manifiesto). Se usa LITERAL y manda sobre cualquier otra descripción.
+
 ## Quién es Mabel
 - Terapeuta cuántica, neurohacker, autora y mentora. Monterrey, México.
 - Libro: *Las Fórmulas Cuánticas para Hackear la Matrix*.

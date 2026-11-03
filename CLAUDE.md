@@ -9,3 +9,5 @@ Agentes disponibles (`.claude/agents/`):
 - **productor**: paquete de producción para grabar y publicar.
 
 **NAIA** (avatar de IA): voz y personalidad de los AUDIOS ROBÓTICOS. Todo en `nica-apify/naia/NAIA.md`.
+
+**MARCA BNQ™ oficial** (capas, 10 Fórmulas y Manifiesto): `nica-apify/marca/MARCA_BNQ.md`. Leerla antes de escribir cualquier contenido.
