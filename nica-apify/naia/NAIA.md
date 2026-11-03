@@ -157,3 +157,8 @@ El de 15 min NUNCA va a TikTok. Guiones en `naia/youtube/` (esperan aprobación 
 - **CAPA QUANTUM · El salto:** tu frecuencia y el campo de todas las posibilidades: donde tu nueva realidad se materializa. Impacta tu cuerpo energético y espiritual.
 - **Tus 3 movimientos de hackeo:** 1 DETECTA (dónde vive el programa: cuerpo, emoción, creencia) · 2 REPROGRAMA (nueva instrucción con intención clara, emoción elevada y repetición biorrítmica) · 3 MATERIALIZA (sostienes tu nueva identidad con acciones coherentes hasta que tu realidad la refleje).
 - Se dice **"CAPA"**, no "etapa". QUANTUM es **"El salto"**, no "nueva identidad".
+
+## REGLA DE MABEL (3-nov-2026): FIRMA EN MINIATURAS DE YOUTUBE
+Toda miniatura de YouTube lleva, visible y legible, la firma literal:
+**"BNQ Method - Fórmulas Cuánticas para hackear tu mente y la Matrix by @mabradiante"**
+(La miniatura del video de 8 min se quedó sin ella por decisión de Mabel; desde la siguiente, siempre.)

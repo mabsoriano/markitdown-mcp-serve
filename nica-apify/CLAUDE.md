@@ -121,6 +121,8 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
 - **REGLA (30-oct-2026): todo video que entregue lleva SU COPY listo para pegar, SIEMPRE con
   CTA al link del perfil** (ahí están todos los productos).
 
+- **REGLA (3-nov-2026): toda miniatura de YouTube lleva la firma literal "BNQ Method - Fórmulas Cuánticas para hackear tu mente y la Matrix by @mabradiante".**
+
 ## Las 10 Fórmulas (para COMUNICAR en el contenido)
 F·01 Coherencia Energética Integral (CEI™) · F·02 Programación y Elevación de
 Consciencia · F·03 Activación Glándula Pineal · F·04 Reprogramación y Control
