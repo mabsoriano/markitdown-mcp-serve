@@ -162,3 +162,12 @@ El de 15 min NUNCA va a TikTok. Guiones en `naia/youtube/` (esperan aprobación 
 Toda miniatura de YouTube lleva, visible y legible, la firma literal:
 **"BNQ Method - Fórmulas Cuánticas para hackear tu mente y la Matrix by @mabradiante"**
 (La miniatura del video de 8 min se quedó sin ella por decisión de Mabel; desde la siguiente, siempre.)
+
+## REGLA DE MABEL (3-nov-2026): TODO VIDEO LARGO DE NAIA LLEVA SU GANCHO VERTICAL
+Cada video de NAIA para YouTube (8, 15 min o más) sale SIEMPRE con **1 corte vertical 9:16 de 60 a 85 s**
+para TikTok, Reels de Instagram y Shorts, que sirve de **gancho para llevar la gente a YouTube**:
+- Título en pantalla (3 s): la afirmación en primera persona (ej. "YO SOY ABUNDANCIA").
+- "Pon tu mano en el pecho. Repite conmigo." + la parte más fuerte (capa QUANTUM) + frase clave ×3.
+- Cierre hablado: "La versión completa de [N] minutos está en el link de mi perfil. Yo soy NAIA. Y esto es Mabradiante."
+- Copy con CTA al link del perfil (en el Linktree debe estar el botón a YouTube).
+- Se arma con `whatsapp/video_naia.py` (formato vertical) y la misma voz A. Gasto: $0.
