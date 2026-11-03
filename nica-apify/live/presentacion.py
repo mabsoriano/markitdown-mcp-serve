@@ -14,6 +14,7 @@ MARCA = AQUI.parent / "marca"
 PORTADA_PACK = AQUI.parent / "hotmart" / "portada-hotmart-5-hipnosis-1200x1200.jpg"
 SALIDA = AQUI / "presentacion"
 W, H = 1920, 1080
+COMUNIDAD = "https://chat.whatsapp.com/BJC04YMPaLc8xAJfH5AzFw"
 LINK = "https://pay.hotmart.com/T108210969W?bid=1793114479230"
 
 SERIF = "/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf"
@@ -120,9 +121,9 @@ def encabezado(d, kicker, titulo, px=84, ancho=1740, x=90):
     return int(y) + 60
 
 
-def qr(tam):
+def qr(tam, data=LINK):
     q = qrcode.QRCode(border=2, box_size=10)
-    q.add_data(LINK)
+    q.add_data(data)
     return q.make_image(fill_color=(20, 14, 48), back_color=(255, 255, 255)).convert("RGB").resize((tam, tam))
 
 
@@ -527,7 +528,31 @@ def d25_preguntas():
     return img
 
 
-def d26_cierre():
+def d26_comunidad():
+    img = universo(27)
+    d = ImageDraw.Draw(img)
+    y = encabezado(d, "SIGAMOS JUNTAS", "Únete a mi comunidad gratis", ancho=1050)
+    d.text((90, y + 10), "Comunidad de WhatsApp", font=f(SANS, 52), fill=ORO_CLARO)
+    parrafo(d, "Activaciones, avisos de los próximos lives y acompañamiento conmigo. Gratis.",
+            f(SANS_REG, 38), 90, y + 85, 1000, BLANCO)
+    redes = [("TikTok", "@mabradiante"), ("Instagram", "@mabradiante"),
+             ("YouTube y Spotify", "Las Fórmulas Cuánticas para Hackear tu Mente y la Matrix")]
+    yy = y + 250
+    for red, cuenta in redes:
+        d.ellipse([92, yy + 14, 110, yy + 32], fill=ORO)
+        d.text((135, yy), red, font=f(SANS, 40), fill=BLANCO)
+        parrafo(d, cuenta, f(SANS_REG, 32), 135, yy + 50, 950, ORO_CLARO)
+        yy += 120
+    caja(img, (1260, 200, 1800, 860), 24, ORO_CLARO)
+    img.paste(qr(460, COMUNIDAD), (1300, 240))
+    d = ImageDraw.Draw(img)
+    for i, t in enumerate(["Escanea y entra", "a la comunidad"]):
+        d.text((1530 - d.textlength(t, font=f(SANS, 38)) / 2, 728 + i * 50), t, font=f(SANS, 38), fill=ORO_CLARO)
+    pie(d)
+    return img
+
+
+def d27_cierre():
     img = foto_derecha(universo(26))
     d = ImageDraw.Draw(img)
     y = parrafo(d, "“La fórmula definitiva no es un decreto, es la BIO-NEUROABUNDANCIA: la reprogramación "
@@ -543,7 +568,7 @@ def d26_cierre():
 DIAPOSITIVAS = [d01_portada, d02_cuidados, d03_hoy, d04_dolor, d05_culpa, d06_sistema, d07_piloto, d08_bnq,
                 d09_neuro, d10_taxistas, d11_aprovechar, d12_historia, d13_kirsch, d14_stanford, d15_ecuacion,
                 d16_todo, d17_quien_soy, d18_preparate, d19_hipnosis, d20_sentiste, d21_uno_de_cinco,
-                d22_pack, d23_regalo, d24_precio, d25_preguntas, d26_cierre]
+                d22_pack, d23_regalo, d24_precio, d25_preguntas, d26_comunidad, d27_cierre]
 
 
 def armar():

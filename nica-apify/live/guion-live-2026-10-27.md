@@ -1,5 +1,5 @@
 # GUION DEL LIVE · Hipnosis para HACKEAR tus bloqueos con el DINERO
-Martes 27 oct · Zoom · 10 AM y 7 PM CDMX · ~68 min · va a la par de la presentación (D = diapositiva)
+Martes 27 oct · Zoom · 10 AM y 7 PM CDMX · ~69 min · va a la par de la presentación (D = diapositiva)
 Lo que está en *cursiva* es indicación para ti, no se dice. (…) = pausa. [ ] = lo llenas tú.
 
 ---
@@ -218,7 +218,12 @@ Respuestas cortas para las dudas más comunes:
 - **"¿Funciona si no creo mucho?"** No necesitas creer, necesitas repetir. Así funciona la neuroplasticidad.
 - **"¿Sustituye a mi terapia?"** No. Es una práctica de bienestar que acompaña, no reemplaza atención médica ni psicológica.
 
-## 66:00 · D26 CIERRE (2 min)
+## 66:00 · D26 COMUNIDAD Y REDES (1 min)
+Y antes de despedirnos: no te vayas sola. Escanea este código y entra a mi **comunidad gratis de WhatsApp**. Ahí te mando activaciones, te aviso de los próximos lives y seguimos acompañándonos.
+*Pega en el chat: https://chat.whatsapp.com/BJC04YMPaLc8xAJfH5AzFw*
+Y sígueme en TikTok e Instagram como **@mabradiante**, y en YouTube y Spotify: *Las Fórmulas Cuánticas para Hackear tu Mente y la Matrix*.
+
+## 67:00 · D27 CIERRE (2 min)
 Gracias por estar aquí hoy. Gracias por darte este momento.
 Te dejo con mi fórmula: **la fórmula definitiva no es un decreto, es la BIO-NEUROABUNDANCIA: la reprogramación simultánea de tu ADN, tu energía y tu subconsciente.** Porque lo que no se activa… no cambia.
 Recuerda tus tres palabras: Merezco. Recibo. Sostengo.
@@ -226,4 +231,4 @@ El link sigue en el chat hasta las 9 de la noche. Nos vemos en la comunidad.
 Soy Mabel Soriano, @mabradiante. Te mando un abrazo enorme. *[Sonríe y despídete.]*
 
 ---
-**Total ~68 min.** Si vas corta de tiempo, recorta D12 a D14 (la historia y 2 evidencias) a 2 minutos en total.
+**Total ~69 min.** Si vas corta de tiempo, recorta D12 a D14 (la historia y 2 evidencias) a 2 minutos en total.
