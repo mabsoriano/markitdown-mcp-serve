@@ -150,3 +150,10 @@ Tema de estas 2 semanas: hackeo de bloqueos con el dinero y reprogramación para
 2 videos largos de YouTube (8 y 15 min) + 2 cortes de 60 a 85 s para TikTok, Shorts y Reels.
 El de 15 min NUNCA va a TikTok. Guiones en `naia/youtube/` (esperan aprobación de Mabel).
 **Regla: nada se genera sin el SÍ de Mabel a cada paso.**
+
+## FÓRMULA OFICIAL BNQ™ de Mabel (3-nov-2026) — usar LITERAL en guiones y pantallas
+- **CAPA BIO · Hardware biológico:** tu cuerpo, tu ADN y tu memoria celular: donde se guarda lo que viviste. Impacta tu cuerpo físico y emocional.
+- **CAPA NEURO · Software neurológico:** tu subconsciente, tus creencias y hábitos: los programas que corren en automático. Impacta tu cuerpo mental.
+- **CAPA QUANTUM · El salto:** tu frecuencia y el campo de todas las posibilidades: donde tu nueva realidad se materializa. Impacta tu cuerpo energético y espiritual.
+- **Tus 3 movimientos de hackeo:** 1 DETECTA (dónde vive el programa: cuerpo, emoción, creencia) · 2 REPROGRAMA (nueva instrucción con intención clara, emoción elevada y repetición biorrítmica) · 3 MATERIALIZA (sostienes tu nueva identidad con acciones coherentes hasta que tu realidad la refleje).
+- Se dice **"CAPA"**, no "etapa". QUANTUM es **"El salto"**, no "nueva identidad".
