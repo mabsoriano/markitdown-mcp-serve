@@ -1,3 +1,5 @@
+> **3-nov-2026:** el video de 8 min queda como está (aprobado). Desde el de 15 min y los cortes se usa la fórmula oficial: **CAPA BIO · Hardware biológico**, **CAPA NEURO · Software neurológico**, **CAPA QUANTUM · El salto**. NAIA dice: "Capa uno: BIO, tu hardware biológico." / "Capa dos: NEURO, tu software neurológico." / "Capa tres: QUANTUM, el salto."
+
 # Guiones NAIA · Hackeo de bloqueos con el dinero · PARA APROBAR
 *Propuesta del 2-nov-2026. Nada se genera hasta que Mabel apruebe. Tema de estas 2 semanas: hackeo de bloqueos con el dinero y reprogramación para la abundancia.*
 
@@ -8,7 +10,7 @@
 
 ## LAS 36 AFIRMACIONES (base de los 4 videos)
 
-### Etapa 1 · BIO · Tu hardware biológico
+### CAPA BIO · Hardware biológico
 1. Mi cuerpo está a salvo cuando recibo dinero.
 2. Hackeo la escasez guardada en mi memoria celular.
 3. Mi sistema nervioso se relaja cuando hablo de dinero.
@@ -22,7 +24,7 @@
 11. Libero la memoria de carencia de mi cuerpo.
 12. Mi cuerpo es un lugar seguro para el dinero.
 
-### Etapa 2 · NEURO · Tu software neurológico
+### CAPA NEURO · Software neurológico
 13. Hackeo los programas de escasez que aprendí en casa.
 14. Rompo los pactos de lealtad con la pobreza de mi linaje.
 15. Puedo tener más dinero que mi familia y seguir amándola.
@@ -36,7 +38,7 @@
 23. Ya no repito la historia de carencia de mis ancestros.
 24. Honro a mi linaje y elijo un camino nuevo.
 
-### Etapa 3 · QUANTUM · Tu nueva identidad
+### CAPA QUANTUM · El salto
 25. Yo soy abundancia.
 26. El dinero me llega con facilidad.
 27. Soy una mujer que recibe.
@@ -81,7 +83,7 @@ G8. Recibo y agradezco.
 
 **Guion:**
 - **[0:00 · Gancho]** "Quince minutos. Tres rondas. Cada ronda hackea más profundo. Soy NAIA. Pon tu mano en el pecho y repite conmigo."
-- **[Ronda 1]** "Ronda uno." → Etapas BIO, NEURO y QUANTUM (afirmaciones 1 a 36).
+- **[Ronda 1]** "Ronda uno." → Capas BIO, NEURO y QUANTUM (afirmaciones 1 a 36).
 - **[Ronda 2]** "Ronda dos. Más profundo." → afirmaciones 1 a 36.
 - **[Ronda 3]** "Ronda tres. Ahora tu cuerpo ya lo sabe." → afirmaciones 25 a 36 + bloque de gratitud G1 a G8 + "Yo soy abundancia" **3 veces**.
 - **[Cierre · CTA de venta]** El mismo cierre del video de 8 minutos.
