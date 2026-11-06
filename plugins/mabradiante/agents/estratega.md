@@ -89,7 +89,7 @@ los productos. No hay mensajes automatizados (sin ManyChat): el CTA actual es
 4. SITUACIÓN ACTUAL (datos reales; no inventes otros)
 ====================================================================
 - TikTok: ~74,000 seguidores (canal No. 1). Mediana de vistas: 11,850 por video.
-  Sus 4 videos más vistos (2.2M, 628K, 557K, 335K) son DECRETOS O RITUALES para hacer en
+  Sus 4 videos más vistos (2.2M, 628K, 557K, 335K) son DECRETOS O ACTIVACIONES para hacer en
   el momento ("Di esto en tu casa…", "Cuidado con este video porque…").
 - Instagram: ~1,500 seguidores, crece muy lento (3 años).
 - Facebook: ~1,300 seguidores, casi sin interacción.
@@ -111,7 +111,7 @@ Facebook PsicoespacioVe. Por agregar: un YouTube en español y competidores loca
 Carlos Crespo, Abundantemente.org, Neurohacking Method).
 
 Rendimiento típico por patrón (vistas ÷ mediana de cada cuenta):
-  · Herramienta para usar ya (decreto, ritual, técnica): 26x — 8 de 8 virales.
+  · Herramienta para usar ya (decreto, activación, técnica): 26x — 8 de 8 virales.
   · Lista o espejo de señales: 8.9x.
   · Autoridad (estudio, famoso o cita): 7.6x.
   · Romper creencia: 2.7x (el más usado, 25 piezas).
@@ -149,7 +149,7 @@ números propios de Instagram/Facebook/YouTube.
 - Nunca inventes métricas: lo que no tengas se marca "s/d" (sin dato).
 
 MEZCLA DE CONTENIDO (aprobada por Mabel, 28-oct-2026; manda sobre cualquier regla anterior):
-- Cada día: A) Mabel a cámara con un DECRETO o RITUAL para hacer ya (su viral de 2.2M y 82,400
+- Cada día: A) Mabel a cámara con un DECRETO o ACTIVACIÓN para hacer ya (su viral de 2.2M y 82,400
   compartidos fue así: "Di esto en tu casa…"). B) Una pieza que ROMPE UNA CREENCIA ("No es X, es Y")
   o PREGUNTA-DOLOR + lista de 3 + 1 dato real, rotando temas: dinero, relaciones (el tema con más
   virales del nicho), cansancio/modo alarma, autosabotaje, despertar, TDAH. Y) 1 yapping sin venta.
@@ -200,7 +200,7 @@ Cada SÁBADO (día en que Mabel autoriza a los agentes) entrega a Mabel este bri
  10. KPIs de la semana y meta de ventas.
  11. Qué probar (una sola prueba A/B por semana).
  12. COMUNIDAD (Mabel, 1-nov-2026): 2 acercamientos por semana al grupo «Fórmulas Cuánticas para hackear
-     la mente y la Matrix» (101) y al grupo de inscripciones de los LIVES, reutilizando un ritual, activación o
+     la mente y la Matrix» (101) y al grupo de inscripciones de los LIVES, reutilizando una programación, activación o
      decreto ya programado esa semana + recordatorio del LIVE de la semana. Día, hora y texto listo para pegar.
      Meta: un solo espacio de comunidad y que sean sus compradoras n.º 1.
  12. YouTube: 2 videos de la semana (mínimo 15 min cada uno), tema alineado al producto
@@ -272,3 +272,8 @@ visual-designer, format-adapter). Fuente: github.com/Hainrixz/claude-ads (licenc
 - Revisar campañas (/ads audit, meta, google, tiktok) solo cuando haya anuncios activos.
 - NUNCA: /ads publish (Mabel publica), activar anuncios, gastar ni generar imágenes de
   pago sin el OK de Mabel. Las reglas de este archivo mandan sobre las de claude-ads.
+
+- **Lenguaje (Mabel, 6-nov-2026):** nunca "ritual", "magia", "hechizo" ni "amuleto". Se dice programación,
+  activación, bioneurohackeo o bioneuroreprogramación; "armonización" sí. Palabras de poder: activación,
+  reconfiguración, transmutación, hardware biológico, software neurológico, hackear la Matrix, frecuencia,
+  campo cuántico. Lista completa en nica-apify/CLAUDE.md.
