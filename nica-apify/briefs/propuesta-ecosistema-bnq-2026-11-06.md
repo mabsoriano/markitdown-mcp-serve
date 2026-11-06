@@ -25,7 +25,7 @@ Análisis y propuesta para Mabel Soriano · @mabradiante · 6 de noviembre de 20
 - **Método propio:** BNQ™ y la metodología CEI™ registrada ante INDAUTOR.
 - **El puente ciencia + espiritualidad,** explicado simple.
 - **El nicho de dinero,** que ellos casi no tocan, y que tu comunidad pidió.
-- **Tu graduación es tuya:** ellos forman "terapeutas"; tú certificas **Activadoras de Consciencia BNQ™** con tu método registrado.
+- **Tu graduación es tuya:** ellos forman "terapeutas"; tú certificas **Neurohackers y Activadoras de Consciencia Certificadas BNQ™** con tu método registrado.
 
 ## 4. Estrategia A · Tu comunidad (los que ya te conocen)
 **Un solo grupo principal: "Comunidad Neurohackers BNQ™".**
@@ -91,15 +91,9 @@ Cada persona sube un escalón a la vez. Cada escalón tiene su nombre que vende 
 
 **PASO 6 · Certificación BNQ™ y CEI™ (la graduación)**
 - Para quien ya vivió el método y quiere llevarlo a otros.
-- **"Certifícate como Activadora de Consciencia BNQ™ y lleva el método a otros."**
+- **"Certifícate como Neurohacker y Activadora de Consciencia Certificada BNQ™ y lleva el método a otros."**
 - No se gradúan como "terapeutas": se gradúan con un título propio de tu método.
-
-**Nombres propuestos para la graduación (en lugar de "terapeuta"):**
-- ⭐ **Activadora de Consciencia BNQ™** (recomendado: es tu palabra y no suena a salud).
-- **Facilitadora Certificada BNQ™ · CEI™** (más formal, para currículum).
-- **Neurohacker Certificada BNQ™** (más moderno, conecta con tu comunidad "neurohackers").
-- **Arquitecta de Realidad BNQ™** (sale de tu manifiesto: "te conviertes en el arquitecto de tu realidad cuántica").
-- Se puede usar en dos niveles: **Practicante** (CEI™, la base) y **Activadora de Consciencia** (BNQ™ completo).
+- ✅ **Título elegido por Mabel (6-nov-2026): NEUROHACKER Y ACTIVADORA DE CONSCIENCIA CERTIFICADA BNQ™** (incluye la metodología CEI™).
 
 **Regla de la ruta:** cada live cierra con el paso 1 o 2 del mismo tema; a quien compra, a los 8 días se le ofrece el paso 3; a quien termina un paso 3, el paso 4 o el VIP. La certificación solo se ofrece a quien ya recorrió el método.
 
@@ -162,7 +156,6 @@ Cada persona sube un escalón a la vez. Cada escalón tiene su nombre que vende 
 
 ## 11. Pendientes de tu decisión
 - ¿Grupo único "Comunidad Neurohackers BNQ™" con programa semanal?
-- Nombre de la graduación: ¿Activadora de Consciencia BNQ™ (recomendado), Facilitadora, Neurohacker Certificada o Arquitecta de Realidad?
 - Tus 10 Hacks CEI: ¿ya están en Hotmart o son por crear?
 - Oferta del 10 de noviembre: ¿Pack de Abundancia a $997 o ADN Millonario a $750?
 - ¿El audio "Hipnosis para hackear bloqueos con el dinero" ya está grabado?

@@ -51,6 +51,9 @@ resuelve.
    resuelven, no por su nombre)
 3. Neurohackers VIP ($555 al mes, incluye MENTOR BNQ™)
 4. Recorrido Completo ($7,500): último escalón
+5. **Certificación BNQ™ y CEI™ (graduación, más adelante):** título elegido por Mabel (6-nov-2026):
+   **"Neurohacker y Activadora de Consciencia Certificada BNQ™"**. Nunca "terapeuta". Ruta completa en
+   `briefs/propuesta-ecosistema-bnq-2026-11-06.md`.
 
 **Niveles 1 y 2 completos; 3, 4 y 5 en construcción.** Mabel autorizó (11-oct)
 venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
