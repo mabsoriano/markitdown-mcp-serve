@@ -1,8 +1,8 @@
-# PLAN MAESTRO v2 · MÉTODO BNQ™
+# LIVES Y ACTIVACIONES CAL · MÉTODO BNQ™
 
 Mabel Soriano · @mabradiante · 6 de noviembre de 2026
 
-Hecho por tu Estratega y NICA. Junta en un solo lugar el Plan Maestro BNQ™, los Nombres v2 y la propuesta de muestras.
+Hecho por tu Estratega y NICA. Junta en un solo lugar el Plan Maestro BNQ™, los Nombres v2 y la propuesta de muestras. Actualizado con tus números reales de Meta y TikTok (6 nov).
 
 Es una PROPUESTA. Nada se publica, se paga ni se activa sin tu OK.
 
@@ -11,39 +11,39 @@ Los nombres y el calendario de este plan reemplazan a los del plan anterior.
 ## 0. Resumen en 10 líneas
 
 1. Hoy: 0 ventas desde el 2 de noviembre. Los lives del 27 oct y del 3 nov cerraron en 0.
-2. El 3 nov: ~116 registros, 28 en vivo (1 de cada 4) y ~68 en el chat, con ~$1,000 de pauta (≈ $8.60 por registro).
-3. TikTok es tu fuerza: 71 a 74 mil seguidores. Instagram creció +12 en 30 días. Facebook casi no se mueve.
-4. Tu base: ~913 correos + ~138 registros de Meta, y ~130 en la comunidad de WhatsApp.
+2. Campaña del 30 oct al 3 nov: 182 registros por formulario, $557.61 de pauta, $3.06 por registro. En vivo: 28 (1 de cada 6.5). ~68 en el chat.
+3. TikTok es tu fuerza: 71 a 74 mil seguidores, pero en los últimos 28 días bajó: 14.4K vistas (-21%), 257 vistas al perfil (-51%). Instagram creció +12 en 30 días. Facebook casi no se mueve.
+4. Tu base: ~913 correos + 182 registros de Meta, y ~130 en la comunidad de WhatsApp.
 5. A dónde vas: $300,000 MXN al mes (escenario ilustrativo para finales de 2027, no promesa).
 6. La ruta: vender ya (nov–dic) → Niveles y VIP (ene–mar) → Certificación (abril) → Licencias (julio 2027).
 7. Lo que falla no es el registro. Es el cierre: oferta cara, sin testimonios y sin seguimiento.
 8. DECISIÓN 1: cada muestra cierra con UNA sola oferta de $450 a $550. Nunca más $2,500 a gente nueva.
 9. DECISIÓN 2: seguimiento de 48 horas, uno a uno, y tus primeros 3 testimonios reales antes del 19 nov.
-10. DECISIÓN 3: la pauta sigue solo si cada $1,000 trae 2 ventas de $550. Y TikTok es el motor diario.
+10. DECISIÓN 3: la pauta sigue solo si cada $600 trae 2 ventas de $550. Y TikTok es el motor diario: hay que volver a publicar lo que ya te funcionó.
 
 ## 1. Diagnóstico con números (honesto)
 
 ### Lo que SÍ funciona
 
-- **El registro es barato.** ~$8.60 por registro el 3 nov. Es bajo para eventos gratis.
+- **El registro es muy barato.** $3.06 por registro (182 por $557.61). Tu anuncio funciona: el problema no es atraer.
 - **La gente sí llega al chat.** ~68 personas en el chat de WhatsApp del 3 nov (el 27 oct fueron 12).
-- **TikTok es grande.** 71 a 74 mil seguidores. Tus 4 videos más vistos (2.2M, 628K, 557K, 335K) son decretos o activaciones para hacer en el momento.
+- **TikTok es grande.** 71 a 74 mil seguidores. Tus 5 videos más vistos: "Di esto en tu casa y mira cómo todo comienza a cambiar" (2.2M), palabras gatillo de Ho'oponopono (629K), "Desbloquea tu riqueza" (557K), "Desbloquea tu abundancia" (335K) y "Activa tu ADN del dinero" (280K). Todos son "haz esto ya" + dinero, con verbo de poder: DESBLOQUEA / ACTIVA. Confirma tu plantilla de nombres.
 - **Tu horario de 7 PM tiene lógica.** En tus TikToks, de 18 a 21 h rindieron 6.3 veces tu mediana (señal débil, 40 videos).
 - **YouTube ya tiene base.** 178 suscriptores, 27,780 vistas y 69 videos.
 
 ### Lo que falla
 
-- **Asistencia: 1 de cada 4.** 116 registros → 28 en vivo. Faltan recordatorios fuertes.
+- **Asistencia: 1 de cada 6.5.** 182 registros → 28 en vivo (15%). Aquí se pierde más: faltan recordatorios fuertes y llevar al registrado al grupo de WhatsApp.
 - **0 ventas.** 28 personas en vivo y ninguna compró.
 - **Oferta cara para público frío.** $2,500 a alguien que te conoció hace 30 minutos es mucho salto.
 - **Sin testimonios.** La encuesta tuvo 0 respuestas y salieron 5 personas del grupo.
-- **Costos que no regresaron.** ~$1,000 de pauta + $365 de Zoom (ya cancelado) = ~$1,365 sin venta.
+- **Costos que no regresaron.** $557.61 de pauta + $365 de Zoom (ya cancelado) = ~$923 sin venta.
 - **Instagram estancado.** De 1,511 a 1,523 seguidores en 30 días (+12). 6 reels y ~530 vistas en total (unas 88 por reel).
 - **Facebook sin vida.** ~1,300 seguidores y casi cero interacción.
 - **Correo sin medir.** Brevo no tiene campañas enviadas. Gmail no mide aperturas: aperturas y clics = s/d.
 - **WhatsApp restringido.** No puedes agregar gente: todo entra por link de invitación.
 - **Sin datos de anuncios.** La cuenta "mabradiante" no la lee el conector de Meta, ni Metricool. Gasto por campaña = s/d.
-- **TikTok sin números del mes.** Metricool no sincroniza. Vistas del mes = s/d.
+- **TikTok va a la baja este mes.** 14.4K vistas en 28 días (-21%), 923 me gusta, 86 comentarios, 157 compartidos, $0 de recompensas. 81.6% llega por "Para ti" y 11.8% por búsqueda. Metricool no sincroniza: el dato sale de tu TikTok Studio.
 
 ### La conclusión
 
@@ -138,8 +138,8 @@ Regla: el HACKING es rápido (interrumpe el programa). La REPROGRAMACIÓN es pro
 - Máximo 2 lives por semana: muestra gratis los martes (30 min) y Activación en Vivo pagada los jueves (2 h 30 min).
 - Cada Activación es una fórmula de tu libro, hecha en las 3 capas a la vez.
 - Cada live cierra con algo de $450 a $550.
-- A las 116 personas del 3 nov: la Activación del 19 nov a $450.
-- Pauta: $1,000 por muestra, con regla de corte (sección 8).
+- A las 182 personas registradas del 3 nov: la Activación del 19 nov a $450.
+- Pauta: $600 por muestra, con regla de corte (sección 8).
 
 ### FASE 2 · PROFUNDIZAR (enero – marzo 2027)
 
@@ -242,10 +242,7 @@ Objetivo: que no se repita el 0. Cada muestra vende UNA cosa, barata, con fecha 
 - **Cuánto valor:** 20 minutos de valor real. La oferta empieza en el minuto 23, nunca antes.
 - **Una sola oferta:** la Activación en Vivo de esa semana. Nada de 2 links, nada del Pack de $2,500.
 - **Precio:** $450 para quien asistió, por 48 horas. Después $550. Los dos precios son reales.
-- **Bono por decidir en el live:** solo para quien compra antes de que acabe el live. Opciones (tú eliges una):
-  - el audio del hackeo de hoy para repetirlo 7 días, o
-  - 1 audio de Activaciones Robóticas (el del dinero), o
-  - entrar al subgrupo de la Activación con 1 pregunta personal respondida por audio.
+- **Bono por decidir en el live:** solo para quien compra antes de que acabe el live. Depende del producto de cada live: **[BONO: lo coloca Mabel]**.
 - **Garantía:** sí decirla. Hotmart ya da 7 días. Frase: "Si no es para ti, Hotmart te regresa tu dinero en 7 días". Baja el miedo. El riesgo (que alguien pida reembolso) es menor que el de no vender.
 - **Frase de cierre:** "Lo que no se activa, no cambia. El link está en el chat. Escríbeme YO QUIERO si tienes una duda."
 
@@ -261,31 +258,32 @@ Objetivo: que no se repita el 0. Cada muestra vende UNA cosa, barata, con fecha 
 | +48 horas | Hotmart | Sube a $550 (de verdad) |
 
 - WhatsApp está restringido para agregar gente. Pero sí puedes contestar a quien te escribe primero. Por eso el "escríbeme YO QUIERO".
-- Recordatorios ANTES de la muestra (para subir la asistencia de 1 de 4): 24 h, 1 h y 10 min, por correo y Avisos.
+- Recordatorios ANTES de la muestra (para subir la asistencia de 1 de cada 6.5): 24 h, 1 h y 10 min, por correo y Avisos.
 
 ### Cómo conseguir los primeros testimonios reales
 
-- **A quién:** a quienes ya compraron ADN Millonario, Despertar o Robóticas (la lista está en Hotmart).
+- **Lo que ya tienes:** videos de testimonios de tu Activación Kundalini. Úsalos (con permiso) en la Activación de la glándula pineal del 3 dic y en tu "Quién soy": prueban que tus activaciones en vivo funcionan, aunque aún no haya testimonios del Método BNQ™ completo.
+- **A quién pedir los nuevos:** a quienes ya compraron ADN Millonario, Despertar o Robóticas (la lista está en Hotmart).
 - **Cómo:** mensaje uno a uno, por su nombre. No otra encuesta: esa tuvo 0 respuestas.
 - **Qué pides:** un audio de 30 segundos con 2 preguntas: "¿Cómo estabas antes?" y "¿Qué sentiste o qué cambió en tu forma de ver el dinero?"
-- **A cambio:** un lugar en la Activación del 19 nov (tú decides).
+- **A cambio:** **[lo coloca Mabel según el producto]**.
 - **Permiso:** pregunta por escrito si puedes compartirlo y con qué nombre (nombre, inicial o anónimo).
 - **Honestidad:** si recibió algo a cambio, se dice ("compartió su experiencia y recibió una activación de regalo").
 - **Nunca:** testimonios de salud ni de dinero ("gané $X", "me curé"). Solo cómo se sintió y qué entendió.
 - **En vivo:** la "1 palabra en el chat" también es testimonio. Pide permiso antes de usarla.
-- Meta: 3 testimonios reales antes del jueves 19 nov.
+- Meta: 3 testimonios reales del Método BNQ™ antes del jueves 19 nov (además de los de Kundalini).
 
 ### Qué medir en cada live
 
 | Métrica | Cómo | Meta |
 |---|---|---|
 | Registros | Formulario de Meta + Brevo | Lo que dé la pauta |
-| Costo por registro | Administrador de anuncios | Menos de $15 |
-| Asistentes | Conteo en Meet | 1 de cada 3 o más |
+| Costo por registro | Administrador de anuncios | Menos de $5 (hoy $3.06) |
+| Asistentes | Conteo en Meet | 1 de cada 4 o más (hoy 1 de 6.5) |
 | Palabras en el chat | Conteo en Meet | La mitad de asistentes |
 | Clics al link | Visitas al pago en Hotmart o un link corto por evento | s/d (empezar a medir) |
 | Ventas en el live | Hotmart | 1 o más |
-| Ventas en 48 h | Hotmart | 2 o más por cada $1,000 de pauta |
+| Ventas en 48 h | Hotmart | 2 o más por cada $600 de pauta |
 | "YO QUIERO" recibidos | WhatsApp | Contarlos |
 
 Cuenta simple: con 28 personas en vivo, 2 ventas son 7 de cada 100. Es una meta alcanzable con oferta barata.
@@ -343,7 +341,7 @@ Regla de oro: nada que no quepa en tus 4 horas al día. Todo se graba en bloque 
 
 ### Correo
 
-- 1 a 2 correos por semana a toda la base (~913 + ~138 de Meta).
+- 1 a 2 correos por semana a toda la base (~913 + 182 de Meta).
 - Se mandan por Gmail en tandas de 100 (~2,000 al día te alcanzan).
 - Correo 1 (lunes): invitación a la muestra del martes.
 - Correo 2 (miércoles o jueves): la Activación con precio y fecha real.
@@ -360,15 +358,15 @@ Regla de oro: nada que no quepa en tus 4 horas al día. Todo se graba en bloque 
 
 ### La regla de inversión
 
-- $1,000 por muestra con pauta. En Fase 1: 10 nov y 1 dic (total $2,000).
+- $600 por muestra con pauta (tu campaña real costó $557.61 y trajo 182 registros). En Fase 1: 10 nov y 1 dic (total $1,200).
 - La del 15 dic lleva pauta solo si pasan las 2 primeras.
 
 ### La métrica de corte
 
-- Cada $1,000 de pauta debe traer **2 ventas de $550** (o su equivalente) en las 48 horas después de la muestra.
-- Eso es $1,100 contra $1,000. Antes de la comisión de Hotmart (s/d), es casi quedar en cero. Es la regla mínima para seguir.
+- Cada $600 de pauta debe traer **2 ventas de $550** (o su equivalente) en las 48 horas después de la muestra.
+- Eso es $1,100 contra $600: recuperas la pauta y te queda margen, antes de la comisión de Hotmart (s/d). Es la regla mínima para seguir.
 - Si 2 muestras seguidas no llegan: se pausa la pauta y se vende solo a comunidad y correo.
-- Si el costo por registro pasa de $15: se cambia el arte o el texto, no el presupuesto.
+- Si el costo por registro pasa de $5: se cambia el arte o el texto, no el presupuesto.
 - Con $100 al día no se juzga antes de 3 días.
 
 ### Qué medir cada semana
@@ -397,14 +395,14 @@ Se llena cada domingo en el tablero "Números de Mabradiante". Sin números no h
 |---|---|---|
 | Ventas de la semana (por producto) | 0 desde el 2 nov | Mabel (Hotmart) |
 | Ingreso de la semana | $0 | Mabel (Hotmart) |
-| Registros al live | ~116 (3 nov) | Mabel (Meta y Brevo) |
+| Registros al live | 182 (30 oct–3 nov) | Mabel (Meta y Brevo) |
 | Asistentes al live | 28 (3 nov) | Mabel (Meet) |
-| Gasto de pauta y costo por registro | ~$1,000 · ~$8.60 | Mabel (captura) |
-| Seguidores y vistas de TikTok | 71–74 mil · vistas s/d | Mabel (TikTok Studio) |
+| Gasto de pauta y costo por registro | $557.61 · $3.06 | Mabel (captura) |
+| Seguidores y vistas de TikTok (28 días) | 71–74 mil · 14.4K vistas · 257 al perfil | Mabel (TikTok Studio) |
 | Seguidores y vistas de reels de Instagram | 1,523 · ~530 en 30 días | Sola (Metricool) |
 | Suscriptores y vistas de YouTube | 178 · 27,780 totales | Sola (vidIQ) |
 | Correos enviados, respuestas y clics | 0 campañas · s/d | Mabel (Gmail y links cortos) |
-| Miembros de la comunidad y testimonios nuevos | ~130 · 0 testimonios | Mabel (WhatsApp) |
+| Miembros de la comunidad y testimonios nuevos | ~130 · BNQ™: 0 · Kundalini: sí (videos) | Mabel (WhatsApp) |
 
 - Lo que no tengas: s/d. No se inventa.
 - Facebook se queda fuera del tablero hasta que se mueva.
@@ -509,10 +507,10 @@ Máximo 3 acciones por día. Si haces una sola, ya avanzaste.
 
 ## 13. ⏳ Pendientes de tu decisión
 
-1. **¿Apruebas el Plan Maestro v2?** Arquitectura MÉTODO BNQ™ → formato → nombre → fórmula, el calendario v2 y la escalera. (Urgente: la muestra es el martes 10.)
-2. **Oferta del 10 nov:** Activación del 19 nov a $450 por 48 h para asistentes, luego $550, con garantía de Hotmart dicha en voz alta. ¿Qué bono eliges: audio del hackeo, 1 audio de Robóticas o pregunta personal por audio?
-3. **Testimonios:** ¿qué das a cambio del audio de 30 segundos? (Propuesta: un lugar en la Activación del 19 nov.)
-4. **Pauta:** ¿apruebas $1,000 por muestra (10 nov y 1 dic) con la regla de 2 ventas de $550 por cada $1,000? ¿Mandas captura del Administrador de anuncios cada domingo?
+1. **¿Apruebas LIVES Y ACTIVACIONES CAL?** Arquitectura MÉTODO BNQ™ → formato → nombre → fórmula, el calendario v2 y la escalera. (Urgente: la muestra es el martes 10.)
+2. **Oferta del 10 nov:** Activación del 19 nov a $450 por 48 h para asistentes, luego $550, con garantía de Hotmart dicha en voz alta. Bono: [lo coloca Mabel].
+3. **Testimonios:** ¿me compartes los videos de Kundalini que tengan permiso para usarlos? Lo que das a cambio de los nuevos: [lo coloca Mabel].
+4. **Pauta:** ¿apruebas $600 por muestra (10 nov y 1 dic) con la regla de 2 ventas de $550 por cada $600? ¿Mandas captura del Administrador de anuncios cada domingo?
 5. **Hotmart:** ¿un solo producto "Activaciones en Vivo BNQ™" con un link por fecha, y el cupón para descontar lo pagado si entra a un Nivel en 7 días?
 
 Lo que no se activa, no cambia. @mabradiante
