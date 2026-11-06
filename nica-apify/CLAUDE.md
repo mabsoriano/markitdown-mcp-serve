@@ -135,7 +135,7 @@ interior, despierta tu subconsciente). Por definir con Mabel (1 o 2 fórmulas po
   Querido Ex) se quedan y se venden igual, aparte.
 - ~~CONTENIDO: todo por AUDIOS ROBÓTICOS~~ **CORREGIDO por Mabel (28-oct-2026):** el audio robótico NO es el
   contenido diario. Solo va 2 días por semana como muestra de Activaciones Robóticas, y lo genera NICA
-  (voz automática + portada; Mabel no graba). Mezcla diaria: **A** Mabel a cámara con decreto o ritual para
+  (voz automática + portada; Mabel no graba). Mezcla diaria: **A** Mabel a cámara con decreto o activación para
   hacer ya (su viral de 2.2M) · **B** rompe una creencia o pregunta-dolor + lista de 3, rotando temas (dinero,
   relaciones, cansancio, autosabotaje, despertar) · **Y** yapping. Los títulos dicen el dolor o lo que la persona
   gana; "activación" se queda en su forma de hablar, no en todos los títulos. Base: `matriz/patrones.md`.
@@ -177,17 +177,17 @@ MICROHERRAMIENTA → REVELACIÓN → CTA**
   incómoda, contradicción, creencia rota, deseo, confesión o frase polémica.
   Nunca empezar enseñando ni saludando.
 - **Microherramienta:** algo para hacer YA (decreto, respiración, pregunta,
-  ritual). Así funcionó el video viral de Mabel (2.2M de vistas).
+  activación). Así funcionó el video viral de Mabel (2.2M de vistas).
 - **En los primeros 15 segundos:** pedir guardar o compartir.
 - **CTA:** UNA sola acción, del producto del Mapa: *"Comenta [PALABRA] y te
   mando el link"*.
-- **Ritual → experiencia → comprensión → práctica**, nunca "el universo lo
+- **Activación → experiencia → comprensión → práctica**, nunca "el universo lo
   hará por ti".
 
 - **Ajustes por la matriz de competencia (aprobados 2026-10-10):**
   1. Cada pieza lleva **LISTA DE 3** (señales, razones o pasos) y un **DATO real** (estudio o
      famoso verificable, dicho sin prometer resultados).
-  2. Todas llevan **HACKEO para hacer conmigo** (decreto, ritual o técnica, repetido 3 veces).
+  2. Todas llevan **HACKEO para hacer conmigo** (decreto, activación o técnica, repetido 3 veces).
   3. **TÍTULO DEL REEL** en mayúsculas: texto grande en pantalla los primeros 3 s y portada.
   4. Duración: **TikTok 1:30 a 3 min** (versión completa); Reels y Shorts, corte de 60 a 90 s
      con gancho + guardar + lista + hackeo + comenta.
@@ -198,7 +198,7 @@ MICROHERRAMIENTA → REVELACIÓN → CTA**
      título, competencia y patrones.
 
 **Dos audiencias:**
-- **A, la del ritual:** "dime qué hago". Entra por la microherramienta.
+- **A, la de la activación:** "dime qué hago". Entra por la microherramienta.
 - **B, la avanzada:** "ya sé de energía, metafísica, neuro y biohacking,
   pero todo está fragmentado". Necesita un mapa: aquí se siembra BNQ™.
 
@@ -212,7 +212,20 @@ Palabras que SÍ uso: activación, hackeo, transmutar, campo cuántico,
 hardware biológico, software neurológico, memoria celular, frecuencia,
 neurohacker, soberanía energética.
 Palabras que NUNCA uso: curso, masterclass, motivación, desarrollo personal,
-entrenamiento, psicología barata.
+entrenamiento, psicología barata, **ritual, magia, hechizo, amuleto**.
+
+**PALABRAS DE PODER BNQ™ (Mabel, 6-nov-2026):**
+- **Activación** (no curso)
+- **Reconfiguración** (no cambio)
+- **Transmutación** (no evolución)
+- **Hardware biológico** (tu cuerpo)
+- **Software neurológico** (tu mente)
+- **Hackear la Matrix** (cambiar tu realidad)
+- **Frecuencia** (tu vibración energética)
+- **Campo cuántico** (el espacio donde todo es posible)
+- **Bioneurohackear / bioneuroreprogramar = activar.** Se dice **programación** o **activación**, nunca
+  "ritual": Mabel enseña que los rituales solos no funcionan, porque lo que no se activa no cambia.
+  **Armonización** sí se puede usar (ej. "Armonización cuántica de chakras").
 
 ## Producción
 - **3 piezas diarias = 21 a la semana**, cada una adaptada a TikTok
