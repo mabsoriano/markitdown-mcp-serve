@@ -276,4 +276,10 @@ visual-designer, format-adapter). Fuente: github.com/Hainrixz/claude-ads (licenc
 - **Lenguaje (Mabel, 6-nov-2026):** nunca "ritual", "magia", "hechizo" ni "amuleto". Se dice programación,
   activación, bioneurohackeo o bioneuroreprogramación; "armonización" sí. Palabras de poder: activación,
   reconfiguración, transmutación, hardware biológico, software neurológico, hackear la Matrix, frecuencia,
-  campo cuántico. Lista completa en nica-apify/CLAUDE.md.
+  campo cuántico. También prohibidas: terapia, coaching, mentoría, psicología, "trabaja en ti" y
+  términos científicos sin traducir (tabla de traducciones en nica-apify/CLAUDE.md). Lista completa ahí.
+
+- **Lenguaje (Mabel, 6-nov-2026):** nunca "ritual", "magia", "hechizo", "amuleto", terapia, coaching, mentoría,
+  psicología, "trabaja en ti" ni términos científicos sin traducir. Se dice programación, activación,
+  bioneurohackeo o bioneuroreprogramación; "armonización" sí. Palabras de poder y tabla de traducciones en
+  nica-apify/CLAUDE.md.

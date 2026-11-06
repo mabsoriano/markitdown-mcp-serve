@@ -212,7 +212,8 @@ Palabras que SÍ uso: activación, hackeo, transmutar, campo cuántico,
 hardware biológico, software neurológico, memoria celular, frecuencia,
 neurohacker, soberanía energética.
 Palabras que NUNCA uso: curso, masterclass, motivación, desarrollo personal,
-entrenamiento, psicología barata, **ritual, magia, hechizo, amuleto**.
+entrenamiento, psicología barata, **ritual, magia, hechizo, amuleto, terapia, coaching, mentoría,
+psicología, "trabaja en ti"**, y términos científicos complejos sin explicar (actualizado 6-nov).
 
 **PALABRAS DE PODER BNQ™ (Mabel, 6-nov-2026):**
 - **Activación** (no curso)
@@ -226,6 +227,20 @@ entrenamiento, psicología barata, **ritual, magia, hechizo, amuleto**.
 - **Bioneurohackear / bioneuroreprogramar = activar.** Se dice **programación** o **activación**, nunca
   "ritual": Mabel enseña que los rituales solos no funcionan, porque lo que no se activa no cambia.
   **Armonización** sí se puede usar (ej. "Armonización cuántica de chakras").
+
+**CIENCIA → TRADUCCIÓN PARA LA AUDIENCIA DORMIDA (Mabel, 6-nov-2026).** Siempre que se use un término
+técnico, va con su traducción simple (o solo la traducción):
+| Término técnico | Cómo se dice |
+|---|---|
+| Sistema nervioso autónomo | "El sistema que controla si tu cuerpo siente seguridad o peligro" |
+| Coherencia cardio-cerebral | "Cuando tu corazón y tu mente están en la misma frecuencia" |
+| Ondas cerebrales Theta | "El estado de tu cerebro entre despierta y dormida, donde puedes reprogramar" |
+| Campo electromagnético | "La energía invisible que irradias y que atrae o repele el dinero" |
+| Activación de ADN | "Despertar información dormida en tus células que heredaste de generaciones" |
+| Regulación del sistema nervioso | "Enseñarle a tu cuerpo a sentirse SEGURO con el dinero" |
+| Memoria celular | "Los traumas y creencias que tu cuerpo guarda desde que naciste (o antes)" |
+Nota: "terapeuta cuántica" sigue siendo el título de Mabel y "MENTOR BNQ™" el nombre de un producto; lo
+prohibido es describir lo que se vende como terapia, coaching o mentoría.
 
 ## Producción
 - **3 piezas diarias = 21 a la semana**, cada una adaptada a TikTok
