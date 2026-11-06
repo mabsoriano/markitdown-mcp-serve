@@ -25,12 +25,14 @@ Análisis y propuesta para Mabel Soriano · @mabradiante · 6 de noviembre de 20
 - **Método propio:** BNQ™ y la metodología CEI™ registrada ante INDAUTOR.
 - **El puente ciencia + espiritualidad,** explicado simple.
 - **El nicho de dinero,** que ellos casi no tocan, y que tu comunidad pidió.
+- **Tu graduación es tuya:** ellos forman "terapeutas"; tú certificas **Activadoras de Consciencia BNQ™** con tu método registrado.
 
 ## 4. Estrategia A · Tu comunidad (los que ya te conocen)
 **Un solo grupo principal: "Comunidad Neurohackers BNQ™".**
 - Solo tú publicas, con reglas claras (sin links ni ventas de otros).
 - Invitas a tus 3 grupos (63 + 100 + 12) con link para que entren solas: es seguro con tu WhatsApp restringido.
 - La gente de cada pauta nueva entra al mismo grupo.
+- Nombre del grupo para la gente: **"Activación semanal en vivo para no volver a tu patrón de siempre"**.
 
 **Programa de la semana (regla 80/20: de 5 mensajes, solo 1 vende):**
 - **Lunes** · "Programa de la semana" + audio de activación de 1 minuto (lo hace NICA).
@@ -52,26 +54,66 @@ Análisis y propuesta para Mabel Soriano · @mabradiante · 6 de noviembre de 20
 - **Pauta:** $150 al día por 7 días antes de cada live (~$1,050).
 - **Reglas:** si el costo por registro pasa de $20 tres días seguidos, se cambia el arte. Si 2 lives pagados siguen en 0 ventas, se pausa la pauta y se arregla la oferta antes de gastar más.
 
-## 6. Escalera de precios (para que nadie sienta que es caro)
-| Escalón | Qué | Precio |
-|---|---|---|
-| 1 · Impulso | Tus 10 Hacks CEI (por confirmar si ya están en Hotmart) | $147 a $297 |
-| 2 · Entrada | ADN Millonario, DESPIERTA, Querida Ansiedad, Robóticas, Modo Supervivencia | $399 a $750 |
-| 3 · Pack | Pack de Abundancia (ADN 8 h + hipnosis dinero + Robóticas) | $997 |
-| 4 · Profundo | Niveles de Fórmulas Cuánticas · Las 5 Hipnosis | $2,000 a $2,500 |
-| 5 · Comunidad | VIP Neurohackers (con MENTOR BNQ™) | $555 al mes |
-| 6 · Formación | Certificación CEI™ (más adelante) | por definir |
+## 6. Tu ruta de activación BNQ™: de la primera activación a la certificación
+Cada persona sube un escalón a la vez. Cada escalón tiene su nombre que vende solo (fórmula: ACTIVACIÓN / HACKEO / PROGRAMACIÓN + el dolor en palabras de la calle) y lleva al siguiente.
 
-- **Cada live cierra con un producto del escalón 1 o 2 del mismo tema.** A quien compra, se le ofrece el siguiente escalón.
-- **Live del 10 de noviembre (dinero):** Pack de Abundancia a $997 por 48 h (después $1,250). Plan B si Hotmart no lo aprueba a tiempo: ADN Millonario $750 con Robóticas de regalo.
+**PASO 0 · Activación en vivo GRATIS (la puerta)**
+- Un live cada martes a las 11 AM, rotando temas (ver punto 7).
+- Termina siempre con la invitación al paso 1 o 2 del mismo tema.
+
+**PASO 1 · Despierta (el primer mapa)** · $147 a $499
+- **Despertar CEI™: tu primer mapa** ($147) · DESPIERTA ($499).
+- Libro: **"El manual para hackear tu mente que nadie te dio al nacer"**.
+- Para quien siente vacío o "algo no encaja" y apenas te conoce.
+
+**PASO 2 · Activaciones por dolor (sueltas)** · $147 a $750
+- 💰 **Programación nocturna para dejar de repetir la escasez de tu familia** (ADN Millonario, $750).
+- 💰 **Activación de 1 minuto para salir de la escasez** (Activaciones Robóticas Millonarias, $500).
+- 💰 **Hackeo del ADN de escasez: deja de repetir el "llega y se va"** (Hack Financiero CEI, $297).
+- 🌀 **Activación Kundalini para recuperar tu energía cuando ya no puedes más** (Sesión Kundalini, precio por definir).
+- ⚡ **Hackeo de tu mente acelerada para volver a la calma** (Querida Ansiedad, $399).
+- 🔋 **Hackeo de tu energía vital para dejar de sentirte drenada** (Apaga el Modo Supervivencia, $750).
+- 🧠 Por tema (una fórmula cada una): **Hackeo de tu glándula pineal para dejar de sentir que pides y nada llega** (F·03) · **Programación del subconsciente para dejar de sabotearte** (F·10) · **Activación de tu Yo Superior para decidir sin miedo** (F·07) · **Hackeo para salir de la Matrix: deja de vivir en automático** (F·09) · **Reprogramación de tu ADN para cortar patrones que repites sin querer** (F·05).
+
+**PASO 3 · Packs (activar más de un sistema)** · $997 a $2,500
+- **Pack de Abundancia: programa tu mente mientras duermes para que el dinero fluya** (ADN Millonario + hipnosis de dinero + Robóticas, $997; después $1,250).
+- **Las 5 Hipnosis que Hackean tu Matrix** ($1,997 para compradoras; público $2,500 a $3,000).
+
+**PASO 4 · Las Fórmulas Cuánticas (el método completo)** · $2,000 por nivel
+- N1 DESPERTAR → N2 ACTIVA → N3 PRACTICA → N4 SALTA → N5 COMUNIDAD.
+- Libro guía: **"Hackea tu mente y la Matrix: el mapa completo, paso a paso"**.
+- Recorrido Completo: $7,500.
+
+**PASO 5 · NeurohackersVIP (sostener el cambio)** · en siembra, sin precio ni cupos públicos
+- **Sesión en vivo cada semana para sostener tu cambio, no solo empezarlo.**
+- **Reprogramación en comunidad: tu mente se mantiene hackeada cada semana.**
+- Incluye MENTOR BNQ™.
+
+**PASO 6 · Certificación BNQ™ y CEI™ (la graduación)**
+- Para quien ya vivió el método y quiere llevarlo a otros.
+- **"Certifícate como Activadora de Consciencia BNQ™ y lleva el método a otros."**
+- No se gradúan como "terapeutas": se gradúan con un título propio de tu método.
+
+**Nombres propuestos para la graduación (en lugar de "terapeuta"):**
+- ⭐ **Activadora de Consciencia BNQ™** (recomendado: es tu palabra y no suena a salud).
+- **Facilitadora Certificada BNQ™ · CEI™** (más formal, para currículum).
+- **Neurohacker Certificada BNQ™** (más moderno, conecta con tu comunidad "neurohackers").
+- **Arquitecta de Realidad BNQ™** (sale de tu manifiesto: "te conviertes en el arquitecto de tu realidad cuántica").
+- Se puede usar en dos niveles: **Practicante** (CEI™, la base) y **Activadora de Consciencia** (BNQ™ completo).
+
+**Regla de la ruta:** cada live cierra con el paso 1 o 2 del mismo tema; a quien compra, a los 8 días se le ofrece el paso 3; a quien termina un paso 3, el paso 4 o el VIP. La certificación solo se ofrece a quien ya recorrió el método.
+
+**Live del 10 de noviembre (dinero):** cierra con el Pack de Abundancia a $997 por 48 h (después $1,250). Plan B si Hotmart no lo aprueba a tiempo: ADN Millonario $750 con Robóticas de regalo.
 
 ## 7. Rotación de lives (con tu lenguaje)
 | Live gratis | Cierra con |
 |---|---|
 | Programación de Apertura de Caminos Financieros | Hack Financiero CEI $297 → ADN Millonario |
+| Programación nocturna para dejar de repetir la escasez de tu familia | ADN Millonario $750 |
 | Activación de la Glándula Pineal: tu antena de riqueza | ADN Millonario $750 |
 | Cifra tu 2026: el código de la abundancia (diciembre) | Pack de Abundancia $997 |
 | Armonización cuántica de chakras y energía | Despertar CEI $147 → Sesión Kundalini |
+| Activación Kundalini para recuperar tu energía cuando ya no puedes más | Sesión Kundalini |
 | Bioneuroreprogramación para dormir profundo | Protocolo Sueño Profundo CEI $197 |
 | Bioneurohackeo de relaciones que se repiten | Relaciones desde la Coherencia $247 |
 | Coherencia Energética Integral: por qué tus decretos no funcionan | Despertar CEI $147 → VIP |
@@ -114,12 +156,16 @@ Análisis y propuesta para Mabel Soriano · @mabradiante · 6 de noviembre de 20
 - **"Cuerpo en Coherencia: fatiga crónica e inflamación"** → "Cuerpo en Coherencia: recupera tu energía".
 - **"Niños en Coherencia: hijos explosivos"** → bien, cuidando no prometer cambios de conducta.
 - **"Limpieza de cortisol"** y **"descalcificación de la pineal"** → "neuro-alineación" y "activación de la pineal".
+- **"Hackeo del ADN de escasez: el dinero llega y ya no se va"** → "deja de repetir el 'llega y se va'" (sin promesa de dinero). Ya aplicado en la ruta.
+- **"Certifícate… y vive de lo que ya sabes hacer"** → "y lleva el método a otros" (sin promesa de ingresos). Ya aplicado.
+- **"Del cansancio constante a tener fuerza otra vez"** → "para dejar de sentirte drenada" (sin promesa de salud). Ya aplicado.
 
 ## 11. Pendientes de tu decisión
 - ¿Grupo único "Comunidad Neurohackers BNQ™" con programa semanal?
+- Nombre de la graduación: ¿Activadora de Consciencia BNQ™ (recomendado), Facilitadora, Neurohacker Certificada o Arquitecta de Realidad?
 - Tus 10 Hacks CEI: ¿ya están en Hotmart o son por crear?
 - Oferta del 10 de noviembre: ¿Pack de Abundancia a $997 o ADN Millonario a $750?
 - ¿El audio "Hipnosis para hackear bloqueos con el dinero" ya está grabado?
 - Pauta del 10 de noviembre: ¿$150 al día por 7 días con la regla de pausar?
-- ¿Cambiamos los nombres de los Hacks con riesgo de salud?
+- Precio de la Sesión Kundalini.
 - ¿Usamos los 10 títulos mejorados en tus reels?
