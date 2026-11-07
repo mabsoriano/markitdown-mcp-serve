@@ -30,7 +30,7 @@ Horarios: 7 PM CDMX = 5 PM Los Ángeles = 8 PM Nueva York y Bogotá. 9 PM CDMX =
 - **Título 3.** Gancho: "No decretes. Activa." Pregunta: "¿Por qué cambias tu mente pero tu cuerpo y tu energía te regresan a la escasez?" Cuerpo del mensaje: BIO (lo heredado) · NEURO (el subconsciente) · QUANTUM (tu frecuencia), las 3 al mismo tiempo, con tus Fórmulas F·05, F·10 y F·08.
 
 ## 3. La oferta de cada live: 2 opciones
-- **Opción 1 · entrada:** el producto del título (tabla de arriba). Precio de live: [lo pone Mabel]. Vale 48 horas.
+- **Opción 1 · entrada:** ADN Millonario **$750** + Activaciones Robóticas de regalo (decisión de Mabel, 7 nov). Vale 48 horas.
 - **Opción 2 · profunda:** Recorrido Completo $7,500 en pagos (confirmar en Hotmart cuántos pagos permite en México), o VIP $555 al mes.
 - **Regalo por decidir hoy:** [lo pone Mabel según el producto].
 - **Garantía:** decir en voz alta la de Hotmart (7 días).
