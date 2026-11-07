@@ -6,7 +6,7 @@ Base: `briefs/temporada-de-abundancia-2026-11-07.md` (sección 10). Producto foc
 
 - **Venta:** sí
 - **Hook:** Si cada vez que abres tu cartera sientes un nudo en el estómago, no es mala suerte: es un programa.
-- **CTA:** Comenta BLOQUEO y te mando el registro al live del martes 10 a las 7 PM (hora CDMX) + link en el perfil.
+- **CTA:** Comenta BLOQUEO y te mando el registro al live del martes 10, a las 11 AM o a las 7 PM (hora CDMX) + link en el perfil.
 
 ### Guion
 
@@ -43,7 +43,7 @@ Así se activa: no lo piensas, lo sientes.
 Esto interrumpe el programa por un momento. Pero el bloqueo tiene raíz en 3 capas: lo que heredaste, lo que repite tu subconsciente y tu frecuencia.
 
 [2:20–2:40 · CTA, mirando a cámara]
-Por eso el martes hacemos la hipnosis completa: Hipnosis para hackear tus bloqueos con el dinero. Comenta BLOQUEO y te mando el registro al live del martes 10 a las 7 PM (hora CDMX). Son las 5 de la tarde en Los Ángeles y las 8 de la noche en Nueva York. Es gratis, por Google Meet, y el registro también está en el link de mi perfil.
+Por eso el martes hacemos la hipnosis completa: Hipnosis para hackear tus bloqueos con el dinero. Comenta BLOQUEO y te mando el registro al live del martes 10, a las 11 AM o a las 7 PM (hora CDMX). Son las 5 de la tarde en Los Ángeles y las 8 de la noche en Nueva York. Es gratis, por Google Meet, y el registro también está en el link de mi perfil.
 
 [2:40 · CIERRE]
 Lo que no se activa, no cambia. @mabradiante
@@ -55,7 +55,7 @@ Lo que no se activa, no cambia. @mabradiante
 
 Si abrir tu cartera te aprieta el estómago, no es mala suerte: es un programa.
 Di estas 3 frases conmigo antes de pagar (guárdalo para tenerlo a la mano).
-Martes 10, 7 PM CDMX (5 PM Los Ángeles · 8 PM Nueva York): HIPNOSIS PARA HACKEAR TUS BLOQUEOS CON EL DINERO, gratis por Google Meet.
+Martes 10, 11 AM o 7 PM CDMX (9 AM o 5 PM Los Ángeles · 12 PM o 8 PM Nueva York): HIPNOSIS PARA HACKEAR TUS BLOQUEOS CON EL DINERO, gratis por Google Meet.
 Comenta BLOQUEO y te mando el registro. También está en el link de mi perfil.
 
 **Hashtags:** #hackeatumente #bloqueosconeldinero #abundancia #decretos #metodobnq #bioneuroabundancia #mabradiante
@@ -310,7 +310,7 @@ Y quiero leer la tuya: ¿cuál es tu historia con el dinero en una sola palabra?
 
 - **Venta:** sí
 - **Hook:** Si trabajas, cumples y decretas, y el dinero no se queda, cierra los ojos un minuto conmigo.
-- **CTA:** Comenta BLOQUEO y te mando el registro al live del martes 10 a las 7 PM (hora CDMX) + link en el perfil.
+- **CTA:** Comenta BLOQUEO y te mando el registro al live del martes 10, a las 11 AM o a las 7 PM (hora CDMX) + link en el perfil.
 
 ### Guion
 
@@ -349,7 +349,7 @@ Respira. Y abre los ojos despacio.
 Esto fue un minuto. Lo que no se activa, no cambia, y un bloqueo de años necesita más que un minuto.
 
 [2:30–2:50 · CTA, mirando a cámara]
-Mañana martes hacemos la hipnosis completa, en vivo: Hipnosis para hackear tus bloqueos con el dinero. Comenta BLOQUEO y te mando el registro al live del martes 10 a las 7 PM (hora CDMX). Son las 5 de la tarde en Los Ángeles y las 8 de la noche en Nueva York. Es gratis, por Google Meet, y el registro también está en el link de mi perfil.
+Mañana martes hacemos la hipnosis completa, en vivo: Hipnosis para hackear tus bloqueos con el dinero. Comenta BLOQUEO y te mando el registro al live del martes 10, a las 11 AM o a las 7 PM (hora CDMX). Son las 5 de la tarde en Los Ángeles y las 8 de la noche en Nueva York. Es gratis, por Google Meet, y el registro también está en el link de mi perfil.
 
 [2:50 · CIERRE]
 Lo que no se activa, no cambia. @mabradiante
@@ -360,7 +360,7 @@ Lo que no se activa, no cambia. @mabradiante
 **Copy:**
 
 Un minuto de hipnosis conmigo para hackear tu bloqueo con el dinero en sus 3 capas: BIO, NEURO y QUANTUM.
-Mañana martes 10, 7 PM CDMX (5 PM Los Ángeles · 8 PM Nueva York), la hipnosis completa, gratis por Google Meet.
+Mañana martes 10, 11 AM o 7 PM CDMX (9 AM o 5 PM Los Ángeles · 12 PM o 8 PM Nueva York), la hipnosis completa, gratis por Google Meet.
 Comenta BLOQUEO y te mando el registro. También está en el link de mi perfil.
 Práctica de bienestar; no sustituye atención médica ni psicológica. No lo hagas manejando.
 
@@ -465,7 +465,7 @@ Si pudieras preguntarme una sola cosa sobre tu relación con el dinero, ¿qué s
 
 - **Venta:** sí
 - **Hook:** Hoy a las 7 de la noche vamos a hackear el bloqueo que no te deja quedarte con el dinero. Y te doy 30 segundos de adelanto ahora mismo.
-- **CTA:** Comenta BLOQUEO y te mando el registro al live del martes 10 a las 7 PM (hora CDMX) (es hoy) + link en el perfil.
+- **CTA:** Comenta BLOQUEO y te mando el registro al live del martes 10, a las 11 AM o a las 7 PM (hora CDMX) (es hoy) + link en el perfil.
 
 ### Guion
 
@@ -496,7 +496,7 @@ Hoy hackeo el programa que no deja que el dinero se quede. [PAUSA LARGA]
 Esto es solo la puerta. Esta noche entramos completo.
 
 [1:55–2:20 · CTA, mirando a cámara]
-El live es hoy: Hipnosis para hackear tus bloqueos con el dinero. Comenta BLOQUEO y te mando el registro al live del martes 10 a las 7 PM (hora CDMX). Son las 5 de la tarde en Los Ángeles y las 8 de la noche en Nueva York. Es gratis, por Google Meet, y el registro también está en el link de mi perfil. Conéctate desde un lugar tranquilo, con audífonos, y no manejando.
+El live es hoy: Hipnosis para hackear tus bloqueos con el dinero. Comenta BLOQUEO y te mando el registro al live del martes 10, a las 11 AM o a las 7 PM (hora CDMX). Son las 5 de la tarde en Los Ángeles y las 8 de la noche en Nueva York. Es gratis, por Google Meet, y el registro también está en el link de mi perfil. Conéctate desde un lugar tranquilo, con audífonos, y no manejando.
 
 [2:20 · CIERRE]
 Lo que no se activa, no cambia. @mabradiante
@@ -506,7 +506,7 @@ Lo que no se activa, no cambia. @mabradiante
 
 **Copy:**
 
-HOY 7 PM CDMX (5 PM Los Ángeles · 8 PM Nueva York): HIPNOSIS PARA HACKEAR TUS BLOQUEOS CON EL DINERO, gratis por Google Meet.
+HOY 11 AM o 7 PM CDMX (9 AM o 5 PM Los Ángeles · 12 PM o 8 PM Nueva York): HIPNOSIS PARA HACKEAR TUS BLOQUEOS CON EL DINERO, gratis por Google Meet.
 Aquí tienes 30 segundos de adelanto para hacer conmigo.
 Comenta BLOQUEO y te mando el registro. También está en el link de mi perfil.
 Práctica de bienestar; no sustituye atención médica ni psicológica.
