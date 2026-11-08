@@ -29,3 +29,8 @@ Fuente: Apify clockworks/tiktok-scraper, 30 videos más recientes (tope $0.50 US
 - Botón único de Linktree para los videos faceless: **Activaciones Robóticas a $350 MXN ("precio especial TikTok")**.
 - CEI™: Mabel ya tiene la fórmula y el PDF; falta grabar la meditación-activación. Entrará después como order bump en Hotmart (+$150).
 - Pendiente: cuenta (@mabradiante o cuenta nueva faceless).
+
+## Ejemplos extra que mandó Mabel (Apify, 7 nov)
+- @subliminal946 "afirmaciones robóticas" (7 nov 2026): 47.9K vistas en <1 día, 6.2K likes (13%), 2,044 guardados, 153 comentarios, 79 s. 59.6K seguidores, 92 videos. Bio: "AFIRMACIONES ROBÓTICAS · Decreto. Repito. Recibo y agradezco. NO SOY UNA IA". Sin link en bio.
+- @diaviz "REPROGRAMA TU SUBCONSCIENTE MIENTRAS DUERMES CON ESTAS AFIRMACIONES POSITIVAS DE RIQUEZA Y ABUNDANCIA" (13 oct 2026): 92.7K vistas, 3,939 guardados, 1,803 compartidos, 166 s. Caption largo con palabras clave (SEO de TikTok). Cuenta de 230K que vende velas y cuarzos.
+- Lectura: el formato "afirmaciones robóticas" y "mientras duermes" está pegando AHORA. Coincide con el nombre del producto de Mabel (Activaciones Robóticas) y con su título del live 2. Ninguno de los dos tiene embudo a producto digital: ventaja de Mabel.
