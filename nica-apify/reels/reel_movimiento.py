@@ -3,7 +3,7 @@
 Uso:  python3 reel_movimiento.py guion.txt "TÍTULO HOOK" salida.mp4 [fondo.jpg]
 Guion: una frase por línea; una línea con solo un número = pausa en segundos.
 """
-import subprocess, sys, tempfile
+import random, subprocess, sys, tempfile
 from pathlib import Path
 
 AQUI = Path(__file__).parent
@@ -70,9 +70,20 @@ def main(guion, titulo, salida, fondo=FONDO):
            "Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, "
            "MarginR, MarginV, Encoding\n"
            "Style: Titulo,Liberation Serif,74,&H0060D8F5,&H000000FF,&H00102040,&H80000000,1,0,0,0,100,100,1,0,1,5,3,8,60,60,130,1\n"
-           "Style: Frase,DejaVu Sans,82,&H00FFFFFF,&H000000FF,&H00143C78,&H90000000,1,0,0,0,100,100,0,0,1,6,4,5,70,70,0,1\n\n"
+           "Style: Frase,DejaVu Sans,82,&H00FFFFFF,&H000000FF,&H00143C78,&H90000000,1,0,0,0,100,100,0,0,1,6,4,5,70,70,0,1\n"
+           "Style: Firma,Liberation Serif,58,&H0060D8F5,&H000000FF,&H00102040,&H80000000,1,0,0,0,100,100,2,0,1,3,2,2,60,60,150,1\n"
+           "Style: Destello,DejaVu Sans,40,&H00A0E6FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1\n\n"
            "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n")
     filas = [f"Dialogue: 1,{ts(0)},{ts(total)},Titulo,,0,0,0,,{ass_escape(partir(titulo.upper(), 20))}"]
+    filas.append(f"Dialogue: 1,{ts(0)},{ts(total)},Firma,,0,0,0,,@mabradiante")
+    random.seed(11)
+    for k in range(int(total * 3)):  # destellos al frente: se prenden y se apagan
+        a = random.uniform(0, max(total - 2, 0.1)); d = random.uniform(1.2, 2.6)
+        x, y = random.randint(40, 1040), random.randint(260, 1700)
+        tam = random.randint(160, 340); col = random.choice(["&HFFFFFF&", "&HA0E6FF&", "&H70D0FF&"])
+        efecto = (r"{\pos(%d,%d)\c%s\blur2\fscx%d\fscy%d\alpha&HFF&\t(0,%d,\alpha&H00&)\t(%d,%d,\alpha&HFF&)\frz%d}" %
+                  (x, y, col, tam, tam, int(d * 450), int(d * 550), int(d * 1000), random.randint(0, 45)))
+        filas.append(f"Dialogue: 0,{ts(a)},{ts(a + d)},Destello,,0,0,0,,{efecto}✦")
     for a, b, txt in eventos:
         anim = r"{\fad(120,120)\fscx70\fscy70\t(0,180,\fscx100\fscy100)}"
         filas.append(f"Dialogue: 2,{ts(a)},{ts(min(b, total))},Frase,,0,0,0,,{anim}{ass_escape(partir(txt))}")
@@ -85,9 +96,19 @@ def main(guion, titulo, salida, fondo=FONDO):
           f"eq=brightness=-0.12:saturation=1.1,"
           f""
           f"ass={ass}")
-    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(fondo), "-i", wav,
-                    "-vf", vf, "-t", f"{total:.2f}", "-c:v", "libx264", "-preset", "veryfast", "-pix_fmt", "yuv420p",
-                    "-r", str(FPS), "-c:a", "copy", "-shortest", "-movflags", "+faststart", salida], check=True)
+    musica = tmp / "musica.m4a"
+    pad = ("aevalsrc='0.06*(sin(2*PI*130.81*t)+0.8*sin(2*PI*196*t)+0.7*sin(2*PI*329.63*t)+0.5*sin(2*PI*587.33*t))"
+           "*(0.7+0.3*sin(2*PI*0.08*t))"
+           "+0.03*(sin(2*PI*174.61*t)+sin(2*PI*261.63*t)+sin(2*PI*440*t))*(0.5+0.5*sin(2*PI*0.05*t+1))"
+           "+0.015*sin(2*PI*1046.5*t)*(0.5+0.5*sin(2*PI*0.5*t))':s=44100:d=%.2f" % (total + 1))
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "lavfi", "-i", pad, "-af",
+                    "aecho=0.8:0.85:600|1200:0.35|0.25,lowpass=f=2500,afade=t=in:d=3,afade=t=out:st=%.2f:d=3,volume=0.55"
+                    % max(total - 3, 0), "-ac", "2", "-c:a", "aac", "-b:a", "128k", musica], check=True)
+    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(fondo), "-i", wav, "-i", musica,
+                    "-filter_complex", f"[0:v]{vf}[v];[2:a]volume=0.35[m];[1:a][m]amix=inputs=2:duration=first:normalize=0[a]",
+                    "-map", "[v]", "-map", "[a]", "-t", f"{total:.2f}", "-c:v", "libx264", "-preset", "veryfast",
+                    "-pix_fmt", "yuv420p", "-r", str(FPS), "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart",
+                    salida], check=True)
     print(salida, round(total, 1), "s")
 
 
