@@ -78,6 +78,9 @@ def main(guion, titulo, salida, geo="flor", fondo=FONDO):
            "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n")
     filas = [f"Dialogue: 1,{ts(0)},{ts(total)},Titulo,,0,0,0,,{ass_escape(partir(titulo.upper(), 20))}"]
     filas.append(f"Dialogue: 1,{ts(0)},{ts(total)},Firma,,0,0,0,,@mabradiante")
+    # CTA fijo al final: compra en el link del perfil
+    cta = r"{\an2\pos(540,1560)\fs76\c&H60D8F5&\3c&H102040&\bord5\fad(300,0)\t(0,600,\fscx108\fscy108)\t(600,1200,\fscx100\fscy100)}👉 VE AL LINK DE MI PERFIL"
+    filas.append(f"Dialogue: 3,{ts(max(total - 9, 0))},{ts(total)},Frase,,0,0,0,,{cta}")
     for a, b, txt in eventos:
         anim = r"{\fad(120,120)\fscx70\fscy70\t(0,180,\fscx100\fscy100)}"
         filas.append(f"Dialogue: 2,{ts(a)},{ts(min(b, total))},Frase,,0,0,0,,{anim}{ass_escape(partir(txt))}")
