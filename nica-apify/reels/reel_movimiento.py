@@ -10,7 +10,8 @@ AQUI = Path(__file__).parent
 sys.path.insert(0, str(AQUI.parent / "whatsapp"))
 import audio  # noqa: E402
 
-FONDO = AQUI.parent / "marca" / "fondo-cosmico-faceless.jpg"
+FONDO = AQUI.parent / "marca" / "fondo-cosmico-limpio.jpg"
+GEOS = ["flor", "metatron", "merkaba", "sriyantra", "semilla"]
 FPS = 30
 
 
@@ -39,7 +40,8 @@ def partir(t, n=22):
     return r"\N".join(lineas)
 
 
-def main(guion, titulo, salida, fondo=FONDO):
+def main(guion, titulo, salida, geo="flor", fondo=FONDO):
+    geo_png = AQUI.parent / "marca" / f"geo-{geo}.png"
     tmp = Path(tempfile.mkdtemp())
     partes, eventos, t = [], [], 0.0
     for i, linea in enumerate(Path(guion).read_text(encoding="utf-8").splitlines()):
@@ -76,14 +78,6 @@ def main(guion, titulo, salida, fondo=FONDO):
            "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n")
     filas = [f"Dialogue: 1,{ts(0)},{ts(total)},Titulo,,0,0,0,,{ass_escape(partir(titulo.upper(), 20))}"]
     filas.append(f"Dialogue: 1,{ts(0)},{ts(total)},Firma,,0,0,0,,@mabradiante")
-    random.seed(11)
-    for k in range(int(total * 3)):  # destellos al frente: se prenden y se apagan
-        a = random.uniform(0, max(total - 2, 0.1)); d = random.uniform(1.2, 2.6)
-        x, y = random.randint(40, 1040), random.randint(260, 1700)
-        tam = random.randint(160, 340); col = random.choice(["&HFFFFFF&", "&HA0E6FF&", "&H70D0FF&"])
-        efecto = (r"{\pos(%d,%d)\c%s\blur2\fscx%d\fscy%d\alpha&HFF&\t(0,%d,\alpha&H00&)\t(%d,%d,\alpha&HFF&)\frz%d}" %
-                  (x, y, col, tam, tam, int(d * 450), int(d * 550), int(d * 1000), random.randint(0, 45)))
-        filas.append(f"Dialogue: 0,{ts(a)},{ts(a + d)},Destello,,0,0,0,,{efecto}✦")
     for a, b, txt in eventos:
         anim = r"{\fad(120,120)\fscx70\fscy70\t(0,180,\fscx100\fscy100)}"
         filas.append(f"Dialogue: 2,{ts(a)},{ts(min(b, total))},Frase,,0,0,0,,{anim}{ass_escape(partir(txt))}")
@@ -104,8 +98,11 @@ def main(guion, titulo, salida, fondo=FONDO):
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "lavfi", "-i", pad, "-af",
                     "aecho=0.8:0.85:600|1200:0.35|0.25,lowpass=f=2500,afade=t=in:d=3,afade=t=out:st=%.2f:d=3,volume=0.55"
                     % max(total - 3, 0), "-ac", "2", "-c:a", "aac", "-b:a", "128k", musica], check=True)
+    vf_bg, vf_ass = vf.split(",ass=")
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(fondo), "-i", wav, "-i", musica,
-                    "-filter_complex", f"[0:v]{vf}[v];[2:a]volume=0.35[m];[1:a][m]amix=inputs=2:duration=first:normalize=0[a]",
+                    "-loop", "1", "-framerate", str(FPS), "-i", str(geo_png),
+                    "-filter_complex", f"[0:v]{vf_bg}[bg];[3:v]format=rgba,scale=980:980,rotate=a='t*0.12':c=none:ow=980:oh=980[g];"
+                    f"[bg][g]overlay=x=(W-w)/2:y=(H-h)/2-60:shortest=1,ass={vf_ass}[v];[2:a]volume=0.35[m];[1:a][m]amix=inputs=2:duration=first:normalize=0[a]",
                     "-map", "[v]", "-map", "[a]", "-t", f"{total:.2f}", "-c:v", "libx264", "-preset", "veryfast",
                     "-pix_fmt", "yuv420p", "-r", str(FPS), "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart",
                     salida], check=True)
@@ -113,4 +110,4 @@ def main(guion, titulo, salida, fondo=FONDO):
 
 
 if __name__ == "__main__":
-    main(*sys.argv[1:5])
+    main(*sys.argv[1:5])  # guion titulo salida [geometria]
