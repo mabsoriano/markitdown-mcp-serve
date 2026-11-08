@@ -24,3 +24,8 @@ Fuente: Apify clockworks/tiktok-scraper, 30 videos más recientes (tope $0.50 US
 - La coherencia corazón-cerebro ya es su F·01 CEI™ (metodología propia, en su libro).
 - Escalera completa detrás del producto de entrada (ADN Millonario, lives, Recorrido); la competencia solo tiene 1 producto.
 - Voz propia clonada en ElevenLabs ("Mab") + pipeline de reels faceless de NICA.
+
+## Decisión de Mabel (7 nov)
+- Botón único de Linktree para los videos faceless: **Activaciones Robóticas a $350 MXN ("precio especial TikTok")**.
+- CEI™: Mabel ya tiene la fórmula y el PDF; falta grabar la meditación-activación. Entrará después como order bump en Hotmart (+$150).
+- Pendiente: cuenta (@mabradiante o cuenta nueva faceless).
