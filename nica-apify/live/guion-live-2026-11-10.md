@@ -1,13 +1,13 @@
 # GUION DEL LIVE · HIPNOSIS PARA HACKEAR TUS BLOQUEOS CON EL DINERO
 
-Martes 10 de noviembre de 2026 · Google Meet · 2 horarios con el mismo guion: **11:00 AM** y **7:00 PM** (hora CDMX) · Duración: ~55 minutos
+Martes 10 de noviembre de 2026 · Zoom · 2 horarios con el mismo guion: **11:00 AM** y **7:00 PM** (hora CDMX) · Duración: ~55 minutos
 
 Método BNQ™ · Mabel Soriano @mabradiante · Temporada de Abundancia, live 1 de 3
 
 Cómo leer este guion:
 
 - **MINUTO:** cuándo pasa.
-- **QUÉ PROYECTAS:** lo que se ve en pantalla (si compartes pantalla en Meet). Si prefieres solo cámara, ignora esta parte.
+- **QUÉ PROYECTAS:** lo que se ve en pantalla (si compartes pantalla en Zoom). Si prefieres solo cámara, ignora esta parte.
 - **QUÉ DICES:** el texto completo para leer en voz alta.
 - Lo que va en *cursiva* es indicación para ti, no se dice.
 - [PAUSA] = respira y deja 2 a 3 segundos de silencio.
@@ -17,11 +17,10 @@ Cómo leer este guion:
 
 ## ANTES DE ABRIR (15 minutos antes)
 
-- Link de Meet del horario correcto abierto: [LINK MEET 11 AM] · [LINK MEET 7 PM].
-- Si tu cuenta de Google es gratuita, Meet corta las reuniones de grupo a los 60 minutos. Este guion dura 55: no te pases.
-- En un bloc de notas, listos para copiar y pegar en el chat: [LINK HOTMART ADN MILLONARIO], [LINK RECORRIDO COMPLETO], [LINK VIP], link de la comunidad de WhatsApp.
+- Link de Zoom del horario correcto abierto: [LINK ZOOM 11 AM] · [LINK ZOOM 7 PM].
+- En un bloc de notas, listos para copiar y pegar en el chat: https://go.hotmart.com/U104269730G?dp=1 (Activación Simultánea $555) y el link de la comunidad de WhatsApp.
 - Videos de testimonios de Kundalini cargados y probados con sonido (los que tú elijas, con permiso por escrito).
-- En Hotmart: el precio de $750 activo y la fecha real de cierre de la oferta: [jueves 12 de noviembre, a las [hora real] CDMX].
+- En Hotmart: confirma que el link ya cobra **$555**. La oferta vale **solo hoy, martes 10 de noviembre**.
 - Agua cerca. Audífonos para ti. Música suave lista para la hipnosis (opcional).
 
 ---
@@ -344,111 +343,90 @@ Usa tus tres palabras todos los días, sobre todo cuando pagues, cobres o revise
 
 ---
 
-## BLOQUE 6 · CIERRE: HOY HACKEASTE EL 1 DE 3
+## BLOQUE 6 · CIERRE Y OFERTA: ACTIVACIÓN SIMULTÁNEA
 
 **MINUTO:** 38:00 – 50:00
 
-### 38:00 – 40:00 · Hoy hackeaste el 1 de 3
+### 38:00 – 40:00 · Hoy abriste la puerta
 
-**QUÉ PROYECTAS:** Lámina "HOY HACKEASTE EL 1 DE 3" con las 3 capas: NEURO (subconsciente) marcada como "hoy" y BIO (heredado) y QUANTUM (frecuencia) marcadas como "falta".
-
-**QUÉ DICES:**
-
-Lo que acabas de vivir es muy poderoso. Pero quiero ser honesta contigo: **hoy hackeaste el 1 de 3.**
-
-Hoy abrimos la puerta de tu subconsciente. Pero ¿te acuerdas de las otras dos capas? Lo heredado, que vive en tu memoria celular. Y tu frecuencia, que necesita sostenerse todos los días.
-
-Una sola activación abre la puerta. **La repetición es la que reprograma.** ¿Te acuerdas de Hebb? Lo que repites, se instala. ¿Y de los taxistas de Londres? El cerebro cambia con la práctica, no con una sola vez.
-
-Si hoy te vas de aquí y no repites, el programa viejo va a hacer lo que sabe hacer: regresar. No porque tú estés mal, sino porque lleva años corriendo.
-
-Por eso hoy te traigo una forma de seguir.
-
-### 40:00 – 43:00 · Opción 1: ADN MILLONARIO + Activaciones Robóticas de regalo
-
-**QUÉ PROYECTAS:** Lámina de la oferta: "BIONEURO ABUNDANCIA: ADN MILLONARIO · $750 MXN" · "DE REGALO: Activaciones Robóticas Millonarias" · "Solo 48 horas · después [precio regular]" · "Garantía Hotmart 7 días".
+**QUÉ PROYECTAS:** Lámina 14 "Hoy abriste la puerta. La repetición instala." (las 3 capas).
 
 **QUÉ DICES:**
 
-*Pega el link en el chat AHORA: [LINK HOTMART ADN MILLONARIO]*
+Lo que acabas de vivir es muy poderoso. Hoy abriste la puerta en tus 3 capas: tu cuerpo, tu mente y tu energía. [PAUSA]
 
-Se llama **Bioneuro Abundancia: ADN Millonario.** Es la reinstalación.
+Pero quiero ser honesta contigo: **una sola activación abre la puerta. La repetición es la que instala.** ¿Te acuerdas de Hebb? Lo que repites, se instala. ¿Y de los taxistas de Londres? El cerebro cambia con la práctica, no con una sola vez.
 
-Es un protocolo de **21 noches** con un audio de **8 horas** que escuchas mientras duermes, con tres fórmulas de mi método: la Fórmula CEI™, la fórmula para reprogramar tu ADN Millonario y la fórmula de abundancia. [Confirma tú cómo se llama cada fórmula dentro del producto.]
+Si hoy te vas y no repites, el programa viejo va a hacer lo que sabe hacer: regresar. No porque estés mal, sino porque lleva años corriendo.
 
-Te lo explico simple: "ADN Millonario" es el nombre de la activación. Trabaja la capa heredada, la de las frases de tu casa y la memoria celular, noche tras noche, cuando tu mente está en ese estado entre despierta y dormida donde puedes reprogramar.
+Por eso hoy te traigo la forma de seguir, las 3 capas al mismo tiempo.
 
-Y además, **de regalo**, te llevas mis **Activaciones Robóticas Millonarias**: 10 audios de menos de un minuto para tu día a día. Son el interruptor: los escuchas antes de cobrar, antes de pagar, antes de abrir la app del banco. Así sostienes tu frecuencia durante el día.
+### 40:00 – 43:00 · La oferta: Hipnosis para Hackear tus Bloqueos con el Dinero · Activación Simultánea
 
-O sea: de noche, la reinstalación. De día, el interruptor. Y tus tres palabras: Merezco. Recibo. Sostengo.
+**QUÉ PROYECTAS:** Lámina 15 (la oferta con la portada, antes $1,200, HOY $555).
 
-Hoy, solo para quienes estuvieron aquí, ADN Millonario con las Robóticas de regalo es de **$750 pesos**. Este precio vale **solo 48 horas**: cierra el **[jueves 12 de noviembre a las [hora real] CDMX]**. Después sube a **[precio regular que pone Mabel]**. De verdad sube.
+**QUÉ DICES:**
 
-Ya te dejé el link en el chat.
+*Pega el link en el chat AHORA: https://go.hotmart.com/U104269730G?dp=1*
+
+Se llama **Hipnosis para Hackear tus Bloqueos con el Dinero · Activación Simultánea.** Simultánea, porque trabaja tus 3 capas al mismo tiempo, durante 21 días:
+
+- **BIO, tu cuerpo:** el **audio subliminal de 8 horas** que pones al dormir, 21 noches. Mientras tu mente consciente descansa, tu subconsciente y tu memoria celular siguen escuchando la nueva orden.
+- **NEURO, tu mente:** la **hipnosis completa del dinero**, más larga y más profunda que la de hoy, para repetirla los días 1, 7, 14 y 21.
+- **QUANTUM, tu energía:** mi **Fórmula Cuántica CEI™**, para poner tu mente, tu emoción y tu acción en la misma frecuencia cada mañana, en 5 minutos.
+- Y un **manual de activación** con tu protocolo de 21 días paso a paso.
+
+Y **de regalo**, mis **Activaciones Robóticas Millonarias**: audios cortos para tu día a día, para escucharlos antes de cobrar, pagar o abrir la app del banco.
+
+O sea: de noche, la reinstalación. En la mañana, tu coherencia. Durante el día, el interruptor.
+
+Su precio normal es de **$1,200 pesos**. Hoy, solo para quienes estuvieron aquí, es de **$555 pesos**, con las Robóticas de regalo. Este precio vale **solo hoy, martes 10 de noviembre**. Mañana regresa a su precio.
+
+Ya te dejé el link en el chat. También puedes escanear el QR.
 
 ### 43:00 – 45:00 · Testimonios
 
-**QUÉ PROYECTAS:** Video de testimonio 1 y video de testimonio 2: [Mabel elige cuáles · videos de Activación Kundalini · con permiso por escrito].
+**QUÉ PROYECTAS:** Video de testimonio 1 y 2 [Mabel elige · videos de Activación Kundalini · con permiso por escrito].
 
 **QUÉ DICES:**
 
-Quiero que escuches a alguien que ya vivió una activación conmigo. Estos testimonios son de mi **Activación Kundalini**, no de ADN Millonario. Te los comparto porque muestran lo que pasa cuando una persona se permite vivir la activación en vivo.
+Quiero que escuches a alguien que ya vivió una activación conmigo. Estos testimonios son de mi **Activación Kundalini**. Te los comparto porque muestran lo que pasa cuando una persona se permite vivir la activación.
 
-*Pon el video 1.* [PAUSA]
-
-*Pon el video 2.* [PAUSA]
+*Pon el video 1.* [PAUSA] *Pon el video 2.* [PAUSA]
 
 *Si alguien dio permiso de su palabra del chat de hoy, léela: "Y aquí, hace un momento, [nombre] escribió [palabra]."*
 
-Gracias a cada una por compartir lo que vivió.
+### 45:00 – 47:00 · Las 2 voces que aparecen
 
-### 45:00 – 47:00 · Las 2 razones por las que no decides
-
-**QUÉ PROYECTAS:** Lámina "LAS 2 RAZONES POR LAS QUE NO DECIDES": 1 · "Ahorita no es el momento" · 2 · "¿Y si a mí no me funciona?".
+**QUÉ PROYECTAS:** Lámina 16 "Las 2 voces que aparecen".
 
 **QUÉ DICES:**
 
 *Dilo con cariño, despacio, como amiga. Sin presión.*
 
-Te voy a decir algo con todo mi cariño. Cuando alguien está a punto de elegir algo para sí misma, casi siempre aparecen dos voces. No para juzgarte, sino para que las reconozcas.
+Cuando alguien está a punto de elegir algo para sí misma, casi siempre aparecen dos voces.
 
-**La primera: "ahorita no es el momento".** Escúchala bien. A veces es real, y si de verdad hoy no se puede, está perfecto: quédate en la comunidad, usa tus tres palabras y aquí sigo para ti. Pero a veces esa voz es el mismo programa del dinero hablando. El programa 1 dice "luego". El programa 2 dice "no te alcanza para ti". El programa 3 dice "no te lo mereces". Solo pregúntate, con honestidad: ¿esta voz es mi realidad, o es mi programa? [PAUSA]
+**La primera: "ahorita no es el momento".** A veces es real, y si hoy de verdad no se puede, está perfecto: quédate en la comunidad, usa tus tres palabras y aquí sigo para ti. Pero a veces esa voz es el mismo programa del dinero hablando. El programa 1 dice "luego". El programa 2 dice "no te alcanza para ti". El programa 3 dice "no te lo mereces". Pregúntate con honestidad: ¿esta voz es mi realidad, o es mi programa? [PAUSA]
 
-**La segunda: "¿y si a mí no me funciona?".** Es normal. Quizás ya probaste muchas cosas. Por eso no te pido que me creas: te pedí que lo vivieras, y hace un momento lo viviste. Y por eso existe la garantía, que ahorita te explico.
+**La segunda: "¿y si a mí no me funciona?".** Es normal. Por eso no te pido que me creas: te pedí que lo vivieras, y hace un momento lo viviste. Y por eso existe la garantía.
 
-Ninguna de las dos voces te hace una mala persona. Solo son programas. Y tú ya sabes qué se hace con un programa: se hackea.
+Ninguna de las dos voces te hace una mala persona. Son programas. Y tú ya sabes qué se hace con un programa: se hackea.
 
-### 47:00 – 48:30 · Regalo por decidir hoy, garantía y 48 horas
+### 47:00 – 50:00 · Si decides hoy
 
-**QUÉ PROYECTAS:** Lámina "SI DECIDES HOY, ANTES DE QUE TERMINE ESTE LIVE: [regalo · lo pone Mabel]" · "Garantía Hotmart: 7 días" · "Oferta: 48 horas".
+**QUÉ PROYECTAS:** Lámina 17 "Si decides hoy" con el QR.
 
 **QUÉ DICES:**
 
-Y para quien decide hoy, antes de que termine este live, tengo un regalo extra: **[regalo por decidir hoy: lo pone Mabel]**. Este regalo es solo para quien entra antes de que cerremos esta sala.
+Si decides hoy, te llevas la **Activación Simultánea a $555**, con las **Activaciones Robóticas Millonarias de regalo**.
 
-Y tienes la **garantía de Hotmart de 7 días**: si no es para ti, Hotmart te regresa tu dinero en 7 días. Sin pelear con nadie. El riesgo lo tomo yo.
+Y tienes la **garantía de Hotmart de 7 días**: si no es para ti, Hotmart te regresa tu dinero. El riesgo lo tomo yo.
 
-El precio de $750 con las Robóticas de regalo vale 48 horas, hasta el **[jueves 12 de noviembre a las [hora real] CDMX]**. Después sube a **[precio regular]**.
+Este precio vale **solo hoy, martes 10 de noviembre**.
 
 Cuando entres, escríbeme **"ACTIVADA"** en el chat para darte la bienvenida.
 
-*Lee en voz alta cada "ACTIVADA": "¡Bienvenida, [nombre]!" Eso anima a las demás. Vuelve a pegar el link: [LINK HOTMART ADN MILLONARIO].*
-
-### 48:30 – 50:00 · Opción 2: la opción profunda
-
-**QUÉ PROYECTAS:** Lámina "OPCIÓN PROFUNDA": "Recorrido Completo · $7,500 · [en pagos: confirmar cuántos en Hotmart]" y "Neurohackers VIP · $555 al mes".
-
-**QUÉ DICES:**
-
-Y si tú sientes que no es solo el dinero, que quieres hackear las 3 capas a fondo y en todas las áreas de tu vida, tengo dos caminos más profundos.
-
-El **Recorrido Completo**, de **$7,500 pesos**, que puedes pagar en **[número de pagos: confirmar en Hotmart]**. Es todo el camino de Las Fórmulas Cuánticas: los 5 niveles y el VIP de por vida. Te soy transparente: los niveles 1 y 2 ya están listos, y los niveles 3, 4 y 5 se van liberando conforme los termino.
-
-O **Neurohackers VIP**, de **$555 pesos al mes**: la comunidad conmigo, una activación al mes, y MENTOR BNQ™ incluido para tu práctica diaria.
-
-*Pega los links en el chat: [LINK RECORRIDO COMPLETO] · [LINK VIP].*
-
-Si tienes duda de cuál es para ti, escríbeme **"YO QUIERO"** y te ayudo a elegir.
+*Lee en voz alta cada "ACTIVADA": "¡Bienvenida, [nombre]!" Eso anima a las demás. Vuelve a pegar el link: https://go.hotmart.com/U104269730G?dp=1*
 
 ---
 
@@ -458,7 +436,7 @@ Si tienes duda de cuál es para ti, escríbeme **"YO QUIERO"** y te ayudo a eleg
 
 ### 50:00 – 54:00 · Preguntas
 
-**QUÉ PROYECTAS:** Lámina "PREGUNTAS" con el link de ADN Millonario y el QR: [LINK HOTMART ADN MILLONARIO].
+**QUÉ PROYECTAS:** Lámina 18 "Tus preguntas" con el QR.
 
 **QUÉ DICES:**
 
@@ -468,19 +446,19 @@ Ahora sí, tus preguntas. Escríbelas en el chat.
 
 Respuestas cortas para las dudas más comunes:
 
-- **"¿Cómo me llega?"** Al pagar, Hotmart te manda el acceso a tu correo. Ahí están el audio de ADN Millonario y tus Activaciones Robóticas de regalo.
-- **"¿Cómo lo uso?"** El audio largo lo escuchas al dormir, 21 noches. Las Robóticas, en el día, cuando las necesites: antes de cobrar, pagar o vender.
+- **"¿Cómo me llega?"** Al pagar, Hotmart te manda el acceso a tu correo. Ahí está todo: el manual, la Fórmula CEI™, la hipnosis, el audio de 8 horas y tus Robóticas de regalo.
+- **"¿Cómo lo uso?"** Tu manual te dice todo. En corto: el audio de 8 horas al dormir, 21 noches; la CEI™ cada mañana, 5 minutos; la hipnosis los días 1, 7, 14 y 21; y las Robóticas durante el día.
 - **"¿Y si no tengo tarjeta?"** Hotmart acepta varias formas de pago [revisa cuáles tienes activas: OXXO, transferencia, PayPal…].
-- **"¿Funciona si no creo mucho?"** No necesitas creer, necesitas repetir. Así funciona el cerebro: lo que repites, se instala.
-- **"¿Me va a pagar mis deudas?"** Te lo digo con honestidad: no te prometo cifras ni que se paguen tus deudas. Lo que sí hacemos es hackear el programa con el que piensas y decides con el dinero.
+- **"¿Funciona si no creo mucho?"** No necesitas creer, necesitas repetir. Lo que repites, se instala.
+- **"¿Me va a pagar mis deudas?"** Con honestidad: no te prometo cifras. Lo que sí hacemos es hackear el programa con el que piensas, sientes y decides con el dinero.
 - **"¿Sustituye la atención médica o psicológica?"** No. Es una práctica de bienestar que acompaña, no reemplaza a ningún profesional de la salud.
-- **"¿Hay grabación?"** [Lo decides tú: si compartes o no la grabación, y por cuánto tiempo.]
+- **"¿Hay grabación?"** [Lo decides tú.]
 
 *Lee en voz alta cada "ACTIVADA" que llegue.*
 
 ### 54:00 – 55:00 · Cierre con firma
 
-**QUÉ PROYECTAS:** Lámina final con tu foto real: "Lo que no se activa, no cambia. @mabradiante" y el link de la comunidad de WhatsApp.
+**QUÉ PROYECTAS:** Lámina 19 (comunidad con QR) y al final la lámina 20 (tu firma).
 
 **QUÉ DICES:**
 
@@ -492,7 +470,7 @@ Te dejo con mi fórmula: **la fórmula definitiva no es un decreto, es la BIO-NE
 
 Recuerda tus tres palabras: Merezco. Recibo. Sostengo.
 
-El link sigue en el chat. El precio de $750 con las Robóticas de regalo vale hasta el [jueves 12 de noviembre a las [hora real] CDMX].
+El link sigue en el chat. La Activación Simultánea a $555, con las Robóticas de regalo, vale solo hoy.
 
 Porque **lo que no se activa, no cambia.**
 
@@ -502,137 +480,6 @@ Soy Mabel Soriano, @mabradiante. Te mando un abrazo enorme.
 
 ---
 
-## SEGUIMIENTO DE 48 HORAS · ADN MILLONARIO $750
+## SEGUIMIENTO
 
-Reglas: urgencia real con fecha real. Sin humillar, sin prometer dinero ni pagar deudas, sin "AGOTADO" falso. Solo comentarios reales y con permiso. WhatsApp solo a quien te escribió primero (por eso el "YO QUIERO"). Correos por Gmail en tandas de 100.
-
-Como hay 2 horarios, los tiempos se cuentan desde el live de las 7 PM (el último). Así hay una sola fecha de cierre para todas: **[jueves 12 de noviembre a las [hora real] CDMX]**.
-
-| Cuándo | Fecha y hora sugerida (CDMX) | Canal | Mensaje |
-|---|---|---|---|
-| Al terminar cada live | Mar 10 · 12:00 PM y 8:00 PM | WhatsApp uno a uno | "¿Qué te quedó?" (sin venta) |
-| +1 hora | Mar 10 · 9:00 PM | Correo a todos los registrados | Resumen + link de la oferta |
-| +24 horas | Mié 11 · 7:00 PM | Grupo de WhatsApp y correo | "Te quedan 24 horas. Escríbeme YO QUIERO" |
-| +24 horas | Mié 11 · en cuanto llegue cada uno | WhatsApp uno a uno | A cada "YO QUIERO", con su nombre y el link |
-| +44 horas | Jue 12 · 3:00 PM | Grupo de WhatsApp y correo | "Cierra hoy a las [hora real]" + 1 comentario real con permiso |
-| +48 horas | Jue 12 · [hora real] | Hotmart | Sube el precio de verdad a [precio regular] |
-
-### 1. Al terminar · WhatsApp uno a uno (sin venta)
-
-A cada persona que escribió en el chat o te escribió por WhatsApp:
-
-Hola, [nombre]. Gracias por estar hoy en la hipnosis. Vi que escribiste "[su palabra]". ¿Qué te quedó de la activación? Te leo.
-
-### 2. +1 hora · Correo a todos los registrados
-
-**Asunto:** Tus 3 palabras (y lo que sigue)
-
-Hola, [nombre]:
-
-Hoy hicimos juntas la Hipnosis para hackear tus bloqueos con el dinero. Si estuviste, gracias. Si no pudiste llegar, esto también es para ti.
-
-Lo que vimos, en corto:
-
-- Hay 4 programas del dinero: llega y se va, cuesta que llegue, llega con culpa, y llega y se queda.
-- El bloqueo vive en 3 capas: BIO (lo heredado), NEURO (tu subconsciente) y QUANTUM (tu frecuencia).
-- Hoy hackeamos el 1 de 3. La repetición es la que reprograma.
-
-Tus tres palabras para todos los días, sobre todo al cobrar, pagar o revisar tu cuenta: **Merezco. Recibo. Sostengo.**
-
-Si quieres seguir con las otras dos capas: **Bioneuro Abundancia: ADN Millonario**, 21 noches con un audio de 8 horas para dormir, y de regalo mis **Activaciones Robóticas Millonarias** (10 audios de menos de 1 minuto para el día). Precio del live: **$750 MXN**, hasta el [jueves 12 de noviembre a las [hora real] CDMX]. Después sube a [precio regular].
-
-Entra aquí: [LINK HOTMART ADN MILLONARIO]
-
-Tienes la garantía de Hotmart de 7 días.
-
-Es una práctica de bienestar: no sustituye atención médica ni psicológica.
-
-La fórmula definitiva no es un decreto, es la BIO-NEUROABUNDANCIA: la reprogramación simultánea de tu ADN, tu energía y tu subconsciente. Porque lo que no se ACTIVA, NO CAMBIA.
-
-Mabel Soriano · @mabradiante
-
-### 3. +24 horas · Grupo de WhatsApp (Avisos) y correo
-
-**Grupo de WhatsApp:**
-
-Mi neurohacker, ¿cómo te sentiste hoy con tus tres palabras? Merezco. Recibo. Sostengo.
-
-Te recuerdo que el precio del live de ADN Millonario, $750 con las Activaciones Robóticas de regalo, vale 24 horas más: hasta el [jueves 12 a las [hora real] CDMX].
-
-Si tienes una duda o quieres el link, escríbeme **YO QUIERO** por mensaje y te respondo yo.
-
-Lo que no se activa, no cambia. @mabradiante
-
-**Correo · Asunto:** Te quedan 24 horas
-
-Hola, [nombre]:
-
-Ayer abrimos la puerta de tu subconsciente. Hoy te quiero recordar algo: una activación abre la puerta, la repetición es la que reprograma.
-
-ADN Millonario son 21 noches para trabajar la capa heredada, mientras duermes. Y las Activaciones Robóticas, de regalo, te sostienen durante el día.
-
-Te quedan 24 horas con el precio del live: $750 MXN, hasta el [jueves 12 de noviembre a las [hora real] CDMX]. Después, [precio regular].
-
-[LINK HOTMART ADN MILLONARIO]
-
-Si tienes una duda, contesta este correo o escríbeme YO QUIERO por WhatsApp.
-
-Garantía Hotmart de 7 días.
-
-Lo que no se activa, no cambia. Mabel Soriano · @mabradiante
-
-### 4. +24 horas · WhatsApp uno a uno (a cada "YO QUIERO")
-
-Hola, [nombre]. Qué gusto que me escribas. Aquí está tu link de ADN Millonario con las Activaciones Robóticas de regalo, a $750 hasta el [jueves 12 a las [hora real]]: [LINK HOTMART ADN MILLONARIO]
-
-Son 21 noches con el audio para dormir y 10 audios cortos para el día. Si te queda una duda, pregúntame lo que quieras. Y si sientes que hoy no es el momento, también está bien: aquí sigo.
-
-### 5. +44 horas · Grupo de WhatsApp (Avisos) y correo
-
-**Grupo de WhatsApp:**
-
-Hoy cierra. El precio del live de ADN Millonario, $750 con las Activaciones Robóticas de regalo, termina hoy a las [hora real] CDMX. Después sube a [precio regular].
-
-Una de las palabras que me escribieron en el live: "[comentario real, con permiso, y el nombre o inicial que autorizó]".
-
-Link: [LINK HOTMART ADN MILLONARIO]
-
-Lo que no se activa, no cambia. @mabradiante
-
-**Correo · Asunto:** Cierra hoy a las [hora real]
-
-Hola, [nombre]:
-
-Hoy a las [hora real] CDMX termina el precio del live.
-
-Esto me escribió [nombre o inicial autorizada] en el live: "[comentario real, con permiso]".
-
-Si sientes que es tu momento de seguir con las otras dos capas:
-
-**Bioneuro Abundancia: ADN Millonario + Activaciones Robóticas Millonarias de regalo · $750 MXN** · hasta hoy a las [hora real].
-
-[LINK HOTMART ADN MILLONARIO]
-
-Garantía Hotmart de 7 días. Práctica de bienestar: no sustituye atención médica ni psicológica.
-
-La fórmula definitiva no es un decreto, es la BIO-NEUROABUNDANCIA: la reprogramación simultánea de tu ADN, tu energía y tu subconsciente. Porque lo que no se ACTIVA, NO CAMBIA.
-
-Mabel Soriano · @mabradiante
-
-### 6. +48 horas · Hotmart
-
-A la hora real de cierre, cambia el precio en Hotmart a [precio regular] y quita el regalo de las Robóticas si así lo decides. Sin aviso de "AGOTADO": solo termina.
-
----
-
-## Pendientes de tu decisión
-
-1. Precio regular de ADN Millonario después de las 48 horas.
-2. Regalo para quien decide hoy, durante el live.
-3. Hora real de cierre (sugerencia: jueves 12 de noviembre, 7:00 PM CDMX, 48 horas después del último live).
-4. Link de pago de la oferta de ADN Millonario (el que conozco es pay.hotmart.com/U104269730G: confirma si es el mismo o uno nuevo con las Robóticas de regalo).
-5. Cuántos pagos permite Hotmart en México para el Recorrido Completo, y links del Recorrido y del VIP.
-6. Cuáles videos de Kundalini usar (con permiso por escrito).
-7. Si compartes la grabación y por cuánto tiempo.
-
-Lo que no se activa, no cambia. @mabradiante
+Pendiente de ajustar a la oferta de hoy ($555, solo hoy). Lo arma NICA después del live de las 11 AM.
