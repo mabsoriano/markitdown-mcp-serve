@@ -101,7 +101,7 @@ def s_oferta():
     y += 75
     items = ["Fórmula Cuántica CEI™", "Hipnosis completa del dinero",
              "Audio subliminal de 8 horas · 21 noches", "Manual de activación de 21 días",
-             "REGALO: Activaciones Robóticas Millonarias"]
+             "REGALO: 10 Activaciones Robóticas Millonarias"]
     for i, t in enumerate(items, 1):
         d.ellipse([92, y + 14, 112, y + 34], fill=ORO)
         d.text((135, y), t, font=f(SANS, 40), fill=ORO_CLARO if i == 5 else BLANCO)
@@ -111,6 +111,29 @@ def s_oferta():
     d.line([(1180, 868), (1180 + w, 868)], fill=(230, 90, 90), width=5)
     d.text((1180, 900), "HOY $500 MXN", font=f(SERIF, 92), fill=ORO_CLARO)
     d.text((90, H - 150), CIERRE, font=f(SANS, 40), fill=ORO)
+    pie(d)
+    return img
+
+
+def s_roboticas():
+    img = universo(40)
+    d = ImageDraw.Draw(img)
+    d.text((90, 70), "Y DE REGALO", font=f(SANS, 32), fill=ORO)
+    d.text((90, 110), "10 Activaciones Robóticas Millonarias", font=f(SERIF, 72), fill=ORO_CLARO)
+    parrafo(d, "10 audios de 1 min 15 seg para reprogramarte en 10 áreas del dinero, mientras manejas, "
+               "cocinas o caminas, donde quiera que estés.", f(SANS_REG, 36), 90, 205, 1740, BLANCO)
+    linea_oro(d, 92, 315, 520)
+    audios = ["Yo merezco recibir dinero con facilidad", "Mi dinero se queda donde yo lo coloco",
+              "Tener dinero me hace más libre, no peor persona", "Salgo de mis deudas con calma y con un plan",
+              "Suelto la escasez que heredé y escribo mi propia historia con el dinero",
+              "Atraigo clientes que valoran y pagan lo que ofrezco", "Me veo ganando más y ya no me da miedo",
+              "Mi dinero llega de muchas formas", "Dejo de compararme: mi dinero llega a mi ritmo",
+              "Mi dinero trabaja para mí mientras yo descanso"]
+    for i, t in enumerate(audios):
+        x = 90 + (i // 5) * 890
+        y = 350 + (i % 5) * 128
+        circulo_num(d, x + 30, y + 34, i + 1, 28)
+        parrafo(d, t, f(SANS, 34), x + 80, y + 8, 780, BLANCO, inter=1.15)
     pie(d)
     return img
 
@@ -132,7 +155,7 @@ def s_decide(kicker="SI DECIDES HOY", titulo="Activación Simultánea · $500"):
     img = universo(39)
     d = ImageDraw.Draw(img)
     y = encabezado(d, kicker, titulo, ancho=1050)
-    for t in ["De regalo: Activaciones Robóticas Millonarias", "Garantía Hotmart de 7 días",
+    for t in ["De regalo: 10 Activaciones Robóticas Millonarias", "Garantía Hotmart de 7 días",
               CIERRE, "Al entrar, escribe ACTIVADA en el chat"]:
         d.ellipse([92, y + 18, 112, y + 38], fill=ORO)
         parrafo(d, t, f(SANS, 46), 135, y, 960, BLANCO)
@@ -161,8 +184,8 @@ SLIDES = [("01_portada", P.d01_portada), ("02_cuidados", P.d02_cuidados), ("03_p
           ("04_capas", s_capas), ("05_bio", s_bio), ("06_duke", s_duke), ("07_hebb", s_hebb),
           ("08_quantum", s_quantum), ("09_taxistas", s_taxistas), ("10_quien_soy", P.d17_quien_soy),
           ("11_preparate", P.d18_preparate), ("12_hipnosis", s_hipnosis), ("13_sentiste", P.d20_sentiste),
-          ("14_puerta", s_puerta), ("15_oferta", s_oferta), ("16_razones", s_razones), ("17_decide", s_decide),
-          ("18_comunidad", P.d26_comunidad), ("19_cierre", P.d27_cierre)]
+          ("14_puerta", s_puerta), ("15_oferta", s_oferta), ("16_roboticas", s_roboticas), ("17_razones", s_razones), ("18_decide", s_decide),
+          ("19_comunidad", P.d26_comunidad), ("20_cierre", P.d27_cierre)]
 
 
 def armar():
