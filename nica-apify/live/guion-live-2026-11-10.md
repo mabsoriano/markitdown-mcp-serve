@@ -436,7 +436,7 @@ Cuando entres, escríbeme **"ACTIVADA"** en el chat para darte la bienvenida.
 
 ### 50:00 – 54:00 · Preguntas
 
-**QUÉ PROYECTAS:** Lámina 18 "Tus preguntas" con el QR.
+**QUÉ PROYECTAS:** Deja la lámina 17 (la del QR de $500).
 
 **QUÉ DICES:**
 
@@ -458,7 +458,7 @@ Respuestas cortas para las dudas más comunes:
 
 ### 54:00 – 55:00 · Cierre con firma
 
-**QUÉ PROYECTAS:** Lámina 19 (comunidad con QR) y al final la lámina 20 (tu firma).
+**QUÉ PROYECTAS:** Lámina 18 (comunidad con QR) y al final la lámina 19 (tu firma).
 
 **QUÉ DICES:**
 

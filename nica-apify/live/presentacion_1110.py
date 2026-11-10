@@ -10,7 +10,8 @@ import presentacion as P
 from presentacion import (W, H, ORO, ORO_CLARO, BLANCO, GRIS, SERIF, SANS, SANS_REG, f, universo, foto_derecha,
                           parrafo, linea_oro, caja, circulo_num, pie, encabezado, frase, numero, qr)
 
-LINK = "https://pay.hotmart.com/U104269730G?off=dwbelu1i"
+LINK = "https://hotmart.com/es/marketplace/productos/activacionadnmillonario/U104269730G"
+P.COMUNIDAD = "https://chat.whatsapp.com/Lw9TQt73zFrEN1bGreqr29?s=cl&p=i&mlu=4&ilr=4&iam=2"
 PORTADA = Path("/home/user/PORTADA-HOTMART-HIPNOSIS-DINERO.jpg")
 SALIDA = P.AQUI / "presentacion-1110"
 CIERRE = "Válido solo hoy, martes 10 de noviembre"
@@ -137,7 +138,7 @@ def s_decide(kicker="SI DECIDES HOY", titulo="Activación Simultánea · $500"):
         parrafo(d, t, f(SANS, 46), 135, y, 960, BLANCO)
         y += 120
     caja(img, (1260, 180, 1800, 880), 24, ORO_CLARO)
-    img.paste(qr(460), (1300, 220))
+    img.paste(qr(460, LINK), (1300, 220))
     d = ImageDraw.Draw(img)
     for i, t in enumerate(["Escanea y activa", "$500 solo hoy"]):
         d.text((1530 - d.textlength(t, font=f(SANS, 40)) / 2, 710 + i * 60), t, font=f(SANS, 40), fill=ORO_CLARO)
@@ -161,7 +162,7 @@ SLIDES = [("01_portada", P.d01_portada), ("02_cuidados", P.d02_cuidados), ("03_p
           ("08_quantum", s_quantum), ("09_taxistas", s_taxistas), ("10_quien_soy", P.d17_quien_soy),
           ("11_preparate", P.d18_preparate), ("12_hipnosis", s_hipnosis), ("13_sentiste", P.d20_sentiste),
           ("14_puerta", s_puerta), ("15_oferta", s_oferta), ("16_razones", s_razones), ("17_decide", s_decide),
-          ("18_preguntas", s_preguntas), ("19_comunidad", P.d26_comunidad), ("20_cierre", P.d27_cierre)]
+          ("18_comunidad", P.d26_comunidad), ("19_cierre", P.d27_cierre)]
 
 
 def armar():
