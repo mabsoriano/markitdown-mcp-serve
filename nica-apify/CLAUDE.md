@@ -377,3 +377,9 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
   mismo audio para YouTube y podcast, hecho en ElevenLabs con la voz "Mab").
 - `calendario/semana-<AAAA-MM-DD>.md`
 - `matriz/matriz-contenido-viral.md` y `matriz/patrones-de-viralidad.md`
+
+## Decisiones de Mabel (10-nov-2026)
+- **Estrategia en 2 caminos:** (1) gente NUEVA por pauta → live gratis "Hipnosis para hackear tus bloqueos con el dinero" → Activación Simultánea ($500 oferta; producto en Hotmart U104269730G, oferta off=dwbelu1i; página: https://hotmart.com/es/marketplace/productos/activacionadnmillonario/U104269730G). En correos se manda a la PÁGINA del producto, no al link de pago, y el precio va "+ impuestos". (2) COMUNIDAD (ya la conoce): un dolor/producto distinto cada 2 semanas para no aburrir.
+- **Próximo live a nuevos:** jueves 12 nov, mismo título (dinero).
+- **Cierre fijo de TODOS los correos:** invitación a seguirla en redes y a unirse a la comunidad Neurohackers (links de activaciones, material, hackeos y reprogramación antes que nadie).
+- El grupo de WhatsApp "Fórmulas Cuánticas" está suspendido en revisión (apelado). WhatsApp se restauró solo hasta el 14 sep: los contactos nuevos de WhatsApp se perdieron; los correos siguen en Brevo.
