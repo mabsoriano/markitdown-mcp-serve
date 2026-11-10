@@ -1,6 +1,6 @@
 """Presentación del LIVE del 10 nov 2026 (mismo estilo aprobado: universo azul/morado + dorado + foto real).
 
-Oferta: Hipnosis para Hackear tus Bloqueos con el Dinero · Activación Simultánea · $555 (antes $1,200), solo hoy.
+Oferta: Hipnosis para Hackear tus Bloqueos con el Dinero · Activación Simultánea · $500 (antes $1,200), solo hoy.
 Uso: python3 live/presentacion_1110.py → live/presentacion-1110/*.png + presentacion-live-2026-11-10.pptx/.pdf
 """
 from pathlib import Path
@@ -10,7 +10,7 @@ import presentacion as P
 from presentacion import (W, H, ORO, ORO_CLARO, BLANCO, GRIS, SERIF, SANS, SANS_REG, f, universo, foto_derecha,
                           parrafo, linea_oro, caja, circulo_num, pie, encabezado, frase, numero, qr)
 
-LINK = "https://go.hotmart.com/U104269730G?dp=1"
+LINK = "https://pay.hotmart.com/U104269730G?off=dwbelu1i"
 PORTADA = Path("/home/user/PORTADA-HOTMART-HIPNOSIS-DINERO.jpg")
 SALIDA = P.AQUI / "presentacion-1110"
 CIERRE = "Válido solo hoy, martes 10 de noviembre"
@@ -108,7 +108,7 @@ def s_oferta():
     d.text((1180, 840), "Antes $1,200", font=f(SANS, 46), fill=GRIS)
     w = d.textlength("Antes $1,200", font=f(SANS, 46))
     d.line([(1180, 868), (1180 + w, 868)], fill=(230, 90, 90), width=5)
-    d.text((1180, 900), "HOY $555 MXN", font=f(SERIF, 92), fill=ORO_CLARO)
+    d.text((1180, 900), "HOY $500 MXN", font=f(SERIF, 92), fill=ORO_CLARO)
     d.text((90, H - 150), CIERRE, font=f(SANS, 40), fill=ORO)
     pie(d)
     return img
@@ -127,7 +127,7 @@ def s_razones():
     return img
 
 
-def s_decide(kicker="SI DECIDES HOY", titulo="Activación Simultánea · $555"):
+def s_decide(kicker="SI DECIDES HOY", titulo="Activación Simultánea · $500"):
     img = universo(39)
     d = ImageDraw.Draw(img)
     y = encabezado(d, kicker, titulo, ancho=1050)
@@ -139,7 +139,7 @@ def s_decide(kicker="SI DECIDES HOY", titulo="Activación Simultánea · $555"):
     caja(img, (1260, 180, 1800, 880), 24, ORO_CLARO)
     img.paste(qr(460), (1300, 220))
     d = ImageDraw.Draw(img)
-    for i, t in enumerate(["Escanea y activa", "$555 solo hoy"]):
+    for i, t in enumerate(["Escanea y activa", "$500 solo hoy"]):
         d.text((1530 - d.textlength(t, font=f(SANS, 40)) / 2, 710 + i * 60), t, font=f(SANS, 40), fill=ORO_CLARO)
     pie(d)
     return img

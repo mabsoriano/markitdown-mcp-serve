@@ -18,9 +18,9 @@ Cómo leer este guion:
 ## ANTES DE ABRIR (15 minutos antes)
 
 - Link de Zoom del horario correcto abierto: [LINK ZOOM 11 AM] · [LINK ZOOM 7 PM].
-- En un bloc de notas, listos para copiar y pegar en el chat: https://go.hotmart.com/U104269730G?dp=1 (Activación Simultánea $555) y el link de la comunidad de WhatsApp.
+- En un bloc de notas, listos para copiar y pegar en el chat: https://pay.hotmart.com/U104269730G?off=dwbelu1i (Activación Simultánea $500) y el link de la comunidad de WhatsApp.
 - Videos de testimonios de Kundalini cargados y probados con sonido (los que tú elijas, con permiso por escrito).
-- En Hotmart: confirma que el link ya cobra **$555**. La oferta vale **solo hoy, martes 10 de noviembre**.
+- En Hotmart: confirma que el link ya cobra **$500**. La oferta vale **solo hoy, martes 10 de noviembre**.
 - Agua cerca. Audífonos para ti. Música suave lista para la hipnosis (opcional).
 
 ---
@@ -363,11 +363,11 @@ Por eso hoy te traigo la forma de seguir, las 3 capas al mismo tiempo.
 
 ### 40:00 – 43:00 · La oferta: Hipnosis para Hackear tus Bloqueos con el Dinero · Activación Simultánea
 
-**QUÉ PROYECTAS:** Lámina 15 (la oferta con la portada, antes $1,200, HOY $555).
+**QUÉ PROYECTAS:** Lámina 15 (la oferta con la portada, antes $1,200, HOY $500).
 
 **QUÉ DICES:**
 
-*Pega el link en el chat AHORA: https://go.hotmart.com/U104269730G?dp=1*
+*Pega el link en el chat AHORA: https://pay.hotmart.com/U104269730G?off=dwbelu1i*
 
 Se llama **Hipnosis para Hackear tus Bloqueos con el Dinero · Activación Simultánea.** Simultánea, porque trabaja tus 3 capas al mismo tiempo, durante 21 días:
 
@@ -380,7 +380,7 @@ Y **de regalo**, mis **Activaciones Robóticas Millonarias**: audios cortos para
 
 O sea: de noche, la reinstalación. En la mañana, tu coherencia. Durante el día, el interruptor.
 
-Su precio normal es de **$1,200 pesos**. Hoy, solo para quienes estuvieron aquí, es de **$555 pesos**, con las Robóticas de regalo. Este precio vale **solo hoy, martes 10 de noviembre**. Mañana regresa a su precio.
+Su precio normal es de **$1,200 pesos**. Hoy, solo para quienes estuvieron aquí, es de **$500 pesos**, con las Robóticas de regalo. Este precio vale **solo hoy, martes 10 de noviembre**. Mañana regresa a su precio.
 
 Ya te dejé el link en el chat. También puedes escanear el QR.
 
@@ -418,7 +418,7 @@ Ninguna de las dos voces te hace una mala persona. Son programas. Y tú ya sabes
 
 **QUÉ DICES:**
 
-Si decides hoy, te llevas la **Activación Simultánea a $555**, con las **Activaciones Robóticas Millonarias de regalo**.
+Si decides hoy, te llevas la **Activación Simultánea a $500**, con las **Activaciones Robóticas Millonarias de regalo**.
 
 Y tienes la **garantía de Hotmart de 7 días**: si no es para ti, Hotmart te regresa tu dinero. El riesgo lo tomo yo.
 
@@ -426,7 +426,7 @@ Este precio vale **solo hoy, martes 10 de noviembre**.
 
 Cuando entres, escríbeme **"ACTIVADA"** en el chat para darte la bienvenida.
 
-*Lee en voz alta cada "ACTIVADA": "¡Bienvenida, [nombre]!" Eso anima a las demás. Vuelve a pegar el link: https://go.hotmart.com/U104269730G?dp=1*
+*Lee en voz alta cada "ACTIVADA": "¡Bienvenida, [nombre]!" Eso anima a las demás. Vuelve a pegar el link: https://pay.hotmart.com/U104269730G?off=dwbelu1i*
 
 ---
 
@@ -470,7 +470,7 @@ Te dejo con mi fórmula: **la fórmula definitiva no es un decreto, es la BIO-NE
 
 Recuerda tus tres palabras: Merezco. Recibo. Sostengo.
 
-El link sigue en el chat. La Activación Simultánea a $555, con las Robóticas de regalo, vale solo hoy.
+El link sigue en el chat. La Activación Simultánea a $500, con las Robóticas de regalo, vale solo hoy.
 
 Porque **lo que no se activa, no cambia.**
 
@@ -482,4 +482,4 @@ Soy Mabel Soriano, @mabradiante. Te mando un abrazo enorme.
 
 ## SEGUIMIENTO
 
-Pendiente de ajustar a la oferta de hoy ($555, solo hoy). Lo arma NICA después del live de las 11 AM.
+Pendiente de ajustar a la oferta de hoy ($500, solo hoy). Lo arma NICA después del live de las 11 AM.
