@@ -167,7 +167,7 @@ Por si no me conoces: soy Mabel Soriano. Soy terapeuta cuántica y activadora de
 
 [Si quieres, 2 frases de tu propia historia con el dinero: cómo estabas antes y qué cambió. La llenas tú.]
 
-Son 3 bloqueos en 3 capas. **Hoy hackeamos el primero: tu subconsciente.** Porque es la puerta de entrada. Cuando se abre, las otras dos capas empiezan a escuchar.
+Son 3 bloqueos en 3 capas. **Hoy abrimos la puerta, empezando por tu subconsciente.** Porque es la entrada: cuando se abre, las otras dos capas empiezan a escuchar.
 
 No tienes que creerme nada de lo que te dije. **Compruébalo.** Vamos a vivirlo.
 
@@ -376,7 +376,22 @@ Se llama **Hipnosis para Hackear tus Bloqueos con el Dinero · Activación Simul
 - **QUANTUM, tu energía:** mi **Fórmula Cuántica CEI™**, para poner tu mente, tu emoción y tu acción en la misma frecuencia cada mañana, en 5 minutos.
 - Y un **manual de activación** con tu protocolo de 21 días paso a paso.
 
-Y **de regalo**, mis **Activaciones Robóticas Millonarias**: audios cortos para tu día a día, para escucharlos antes de cobrar, pagar o abrir la app del banco.
+*Cambia a la lámina 16 (las 10 Activaciones Robóticas).*
+
+Y **de regalo**, te llevas mis **10 Activaciones Robóticas Millonarias**: **10 audios de 1 minuto 15 segundos** para reprogramarte en **10 áreas del dinero**, mientras manejas, cocinas o caminas, donde quiera que estés. Te las leo:
+
+1. Yo merezco recibir dinero con facilidad.
+2. Mi dinero se queda donde yo lo coloco.
+3. Tener dinero me hace más libre, no peor persona.
+4. Salgo de mis deudas con calma y con un plan.
+5. Suelto la escasez que heredé y escribo mi propia historia con el dinero.
+6. Atraigo clientes que valoran y pagan lo que ofrezco.
+7. Me veo ganando más y ya no me da miedo.
+8. Mi dinero llega de muchas formas.
+9. Dejo de compararme: mi dinero llega a mi ritmo.
+10. Mi dinero trabaja para mí mientras yo descanso.
+
+¿Cuál de estas te tocó más? Escríbeme su número en el chat. [PAUSA] *Lee 2 o 3 números en voz alta.*
 
 O sea: de noche, la reinstalación. En la mañana, tu coherencia. Durante el día, el interruptor.
 
@@ -398,7 +413,7 @@ Quiero que escuches a alguien que ya vivió una activación conmigo. Estos testi
 
 ### 45:00 – 47:00 · Las 2 voces que aparecen
 
-**QUÉ PROYECTAS:** Lámina 16 "Las 2 voces que aparecen".
+**QUÉ PROYECTAS:** Lámina 17 "Las 2 voces que aparecen".
 
 **QUÉ DICES:**
 
@@ -414,11 +429,11 @@ Ninguna de las dos voces te hace una mala persona. Son programas. Y tú ya sabes
 
 ### 47:00 – 50:00 · Si decides hoy
 
-**QUÉ PROYECTAS:** Lámina 17 "Si decides hoy" con el QR.
+**QUÉ PROYECTAS:** Lámina 18 "Si decides hoy" con el QR.
 
 **QUÉ DICES:**
 
-Si decides hoy, te llevas la **Activación Simultánea a $500**, con las **Activaciones Robóticas Millonarias de regalo**.
+Si decides hoy, te llevas la **Activación Simultánea a $500**, con las **10 Activaciones Robóticas Millonarias de regalo**.
 
 Y tienes la **garantía de Hotmart de 7 días**: si no es para ti, Hotmart te regresa tu dinero. El riesgo lo tomo yo.
 
@@ -436,7 +451,7 @@ Cuando entres, escríbeme **"ACTIVADA"** en el chat para darte la bienvenida.
 
 ### 50:00 – 54:00 · Preguntas
 
-**QUÉ PROYECTAS:** Deja la lámina 17 (la del QR de $500).
+**QUÉ PROYECTAS:** Deja la lámina 18 (la del QR de $500).
 
 **QUÉ DICES:**
 
@@ -446,8 +461,8 @@ Ahora sí, tus preguntas. Escríbelas en el chat.
 
 Respuestas cortas para las dudas más comunes:
 
-- **"¿Cómo me llega?"** Al pagar, Hotmart te manda el acceso a tu correo. Ahí está todo: el manual, la Fórmula CEI™, la hipnosis, el audio de 8 horas y tus Robóticas de regalo.
-- **"¿Cómo lo uso?"** Tu manual te dice todo. En corto: el audio de 8 horas al dormir, 21 noches; la CEI™ cada mañana, 5 minutos; la hipnosis los días 1, 7, 14 y 21; y las Robóticas durante el día.
+- **"¿Cómo me llega?"** Al pagar, Hotmart te manda el acceso a tu correo. Ahí está todo: el manual, la Fórmula CEI™, la hipnosis, el audio de 8 horas y tus 10 Robóticas de regalo.
+- **"¿Cómo lo uso?"** Tu manual te dice todo. En corto: el audio de 8 horas al dormir, 21 noches; la CEI™ cada mañana, 5 minutos; la hipnosis los días 1, 7, 14 y 21; y las 10 Robóticas durante el día, donde estés.
 - **"¿Y si no tengo tarjeta?"** Hotmart acepta varias formas de pago [revisa cuáles tienes activas: OXXO, transferencia, PayPal…].
 - **"¿Funciona si no creo mucho?"** No necesitas creer, necesitas repetir. Lo que repites, se instala.
 - **"¿Me va a pagar mis deudas?"** Con honestidad: no te prometo cifras. Lo que sí hacemos es hackear el programa con el que piensas, sientes y decides con el dinero.
@@ -458,7 +473,7 @@ Respuestas cortas para las dudas más comunes:
 
 ### 54:00 – 55:00 · Cierre con firma
 
-**QUÉ PROYECTAS:** Lámina 18 (comunidad con QR) y al final la lámina 19 (tu firma).
+**QUÉ PROYECTAS:** Lámina 19 (comunidad con QR) y al final la lámina 20 (tu firma).
 
 **QUÉ DICES:**
 
