@@ -2,3 +2,4 @@ nica-apify/naia/PAQUETE_NAIA_calendario.zip
 nica-apify/naia/youtube/*.mp4
 nica-apify/naia/youtube/*.png
 nica-apify/reels/videos/
+__pycache__/
