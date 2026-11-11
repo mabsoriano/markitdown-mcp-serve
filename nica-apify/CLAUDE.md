@@ -387,3 +387,4 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
 - Hootsuite: Pinterest eliminado. Cuentas: TikTok mabradiante + bioneuroquantum, IG mabradiante + bioneuroblueprint (+ neuroquantumm por conectar), FB MabRadiante + Acreditaciones (se renombrará BioNeuroQuantum), YouTube. Límite del plan: revisar si vuelve el tope de 10 posts/24 h. NICA solo deja borradores con fecha; Mabel da "Programar".
 - ElevenLabs conectado: voz clonada "Mab" (voice_id jb6YRSEq0KRLXF7vrdCg). Cada generación gasta créditos: pedir OK antes.
 - Pendiente de Mabel: audio de YouTube en 3 partes (septiembre) sin subir por falta de memoria en su Mac.
+- **Esta semana (11-nov):** jueves 12 · 6:30 PM live de dinero para quien no entró el martes. Domingo 15 · 11 AM live de dinero CON PAUTA desde ya (Meta) para vender ese día. El producto nuevo (comunidad) arranca la semana del 17; Mabel y el estratega definen nombres de las activaciones.
