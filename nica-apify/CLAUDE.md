@@ -123,6 +123,15 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
 
 - **REGLA (3-nov-2026): toda miniatura de YouTube lleva la firma literal "BNQ Method - Fórmulas Cuánticas para hackear tu mente y la Matrix by @mabradiante".**
 
+- **REGLA DE MABEL (11-nov-2026) · CALENDARIO DE VIDEOS:**
+  - **NAIA (hackeo): 2 por semana, MARTES y VIERNES.**
+  - **Videos diarios faceless de ~1 min** (estilo @coherenciacardiaca, análisis en la rama quirky-hawking
+    `briefs/analisis-faceless-coherenciacardiaca-2026-11-07.md`): **1 diario**, para FOMENTAR LA COMPRA en el link
+    del perfil del **producto que se esté vendiendo esa semana**. Se hacen con `reels/reel_movimiento.py` ($0).
+  - Semana del 11 nov: producto = **Hipnosis para hackear tus bloqueos con el dinero** (live jueves 12 nov →
+    Activación Simultánea $500).
+  - Mabel quiere VER cada video antes de decidir cambios: siempre mandarle una muestra antes de producir el resto.
+
 ## Las 10 Fórmulas (para COMUNICAR en el contenido)
 F·01 Coherencia Energética Integral (CEI™) · F·02 Programación y Elevación de
 Consciencia · F·03 Activación Glándula Pineal · F·04 Reprogramación y Control
