@@ -383,3 +383,7 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
 - **Próximo live a nuevos:** jueves 12 nov, mismo título (dinero).
 - **Cierre fijo de TODOS los correos:** invitación a seguirla en redes y a unirse a la comunidad Neurohackers (links de activaciones, material, hackeos y reprogramación antes que nadie).
 - El grupo de WhatsApp "Fórmulas Cuánticas" está suspendido en revisión (apelado). WhatsApp se restauró solo hasta el 14 sep: los contactos nuevos de WhatsApp se perdieron; los correos siguen en Brevo.
+- **Calendario de lives (Mabel, 11-nov-2026):** NUEVOS (por pauta) · "Hipnosis para hackear tus bloqueos con el dinero": martes 7 PM y miércoles 11 AM. COMUNIDAD (producto nuevo): miércoles 10 AM. Extra si va bien: sábado 11 AM y domingo 11 AM. (Por confirmar: choque miércoles 10 y 11 AM; live del jueves 12 nov 6:30 PM.)
+- Hootsuite: Pinterest eliminado. Cuentas: TikTok mabradiante + bioneuroquantum, IG mabradiante + bioneuroblueprint (+ neuroquantumm por conectar), FB MabRadiante + Acreditaciones (se renombrará BioNeuroQuantum), YouTube. Límite del plan: revisar si vuelve el tope de 10 posts/24 h. NICA solo deja borradores con fecha; Mabel da "Programar".
+- ElevenLabs conectado: voz clonada "Mab" (voice_id jb6YRSEq0KRLXF7vrdCg). Cada generación gasta créditos: pedir OK antes.
+- Pendiente de Mabel: audio de YouTube en 3 partes (septiembre) sin subir por falta de memoria en su Mac.
