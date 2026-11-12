@@ -288,6 +288,12 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
 - **Resultados (leídos 12-nov):** Fase 1 · 3 nov "ANUNCIO 1" = $557.61, **235 registros a $2.37**
   (el GANADOR). 10 nov copia del mismo anuncio = $286.78, 51 registros a $5.62. Anuncio nuevo
   "10 NOV ANUNCIO 1" = $365.24, 14 registros a $26.09 (el perdedor). Total: $1,209.63 y 300 registros.
+- **Públicos acordados:** A ($400) = gente que NO la ha visto, EXCLUYENDO a quien ya la vio.
+  B ($100) = SOLO quien la vio pero NO llenó el formulario.
+- **Revisión 12-nov:** ninguna campaña tiene exclusiones y no existe un conjunto de B (reconexión).
+  La copia del 10 nov repitió el mismo público del 3 nov sin excluir a las 235 registradas. El anuncio
+  nuevo del 10 nov salió a hombres y mujeres de MX, EU y Sudamérica con un público similar → $26 por
+  registro. Los intereses traen relleno (videojuegos, póker, casino, bares, heavy metal).
 
 ## Recordatorios para Mabel (cuando sea oportuno)
 - **Meta Ads ($300 al día):** mandarlos a NAIA, cuando NAIA y los 5 niveles
