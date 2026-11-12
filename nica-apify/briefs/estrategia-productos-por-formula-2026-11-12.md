@@ -18,7 +18,7 @@ Lo único fijo: precio de entrada de live ($500, normal $1,200) y escalera hacia
 | Producto | Fórmula(s) | Qué lleva adentro (según su protocolo) |
 |---|---|---|
 | Dinero | ADN + CEI™ | Hipnosis del dinero + audio subliminal de 8 h (21 noches) + Fórmula CEI™ + regalo Robóticas (ya armado) |
-| Corte de fugas energéticas | Control de tu energía + Limpieza energética | Mapa "en mi control / fuera de mi control" para dejar de regalar tu energía + plan de limpieza en tus 4 cuerpos (físico, mental, emocional, espiritual) + activación guiada de limpieza energética |
+| Corte de fugas energéticas y activación de tus 7 chakras | Control de tu energía + Limpieza energética + chakras | Activación guiada de tus 7 chakras + Mapa "en mi control / fuera de mi control" para dejar de regalar tu energía + plan de limpieza en tus 4 cuerpos (físico, mental, emocional, espiritual) + activación guiada de limpieza energética |
 | Activación pineal | Glándula pineal + Conectarte con el Quantum | Práctica guiada de respiración de 11 min + técnica de las 3 bandas (video) + audio de frecuencias 432 a 963 Hz para meditar + mapa de la energía Kundalini (o sesión en vivo) |
 | Tu Yo Superior y tu 2027 | Yo Superior + Crear desde el campo cuántico | Audio para dormir en estado alpha con los 4 pasos del doble cuántico + guía para formular tu pregunta + diario de respuestas |
 | Sabotaje de diciembre | Salir de la Matrix + Coherencia integral | Hipnosis para reprogramar el subconsciente + práctica de los 3 pasos de coherencia (cerebro, corazón, ir más allá de ti) |
@@ -29,7 +29,7 @@ Lo único fijo: precio de entrada de live ($500, normal $1,200) y escalera hacia
 | Fechas | Área NAIA | Título-hack (lo que se pauta) | Fórmulas adentro | ¿Ya lo tienes? |
 |---|---|---|---|---|
 | 10 al 23 nov | Dinero | **Hipnosis para hackear tus bloqueos con el dinero** | ADN + CEI™ | ✅ Activación Simultánea $500 |
-| 24 nov al 7 dic | Salud / energía | **Corte de fugas energéticas: deja de regalar tu energía** | Control de energía + Limpieza energética + CEI™ | 🟡 Apaga el Modo Supervivencia ($750) + hipnosis de burnout (Pack) + 2 fórmulas |
+| 24 nov al 7 dic | Salud / energía | **Corte de fugas energéticas y activación de tus 7 chakras** | Control de energía + Limpieza energética + CEI™ | 🟡 Apaga el Modo Supervivencia ($750) + hipnosis de burnout (Pack) + 2 fórmulas |
 | 8 al 21 dic | Éxito | **Hackea el programa que te sabotea cada diciembre** | Salir de la Matrix + Coherencia integral | 🔴 Falta la hipnosis del subconsciente |
 | 22 dic al 4 ene | Todo / soberanía | **Reescribe tu 2027 antes de que empiece** | Materializar (3-6-9) + Yo Superior | 🔴 Falta la activación "2027" |
 
@@ -38,7 +38,7 @@ Lo único fijo: precio de entrada de live ($500, normal $1,200) y escalera hacia
 ## CAMINO 2 · COMUNIDAD (variedad cada 2 semanas)
 | Semana | Live miércoles 10 AM | Título-hack | Fórmulas adentro | ¿Ya lo tienes? |
 |---|---|---|---|---|
-| 18 nov (recomendado) | Energía | **Corte de fugas energéticas: deja de regalar tu energía hoy** | Control de energía + Limpieza energética | 🟡 Apaga el Modo Supervivencia + hipnosis de burnout (Pack) |
+| 18 nov (recomendado) | Energía | **Corte de fugas energéticas y activación de tus 7 chakras** | Control de energía + Limpieza energética | 🟡 Apaga el Modo Supervivencia + hipnosis de burnout (Pack) |
 | 2 dic | Intuición | **Activación pineal para dejar de sentir que pides y nada llega** | Glándula pineal + Conectarte con el Quantum | 🟡 Tu Activación Kundalini |
 | 16 dic | Éxito / propósito | **Tu Yo Superior ya sabe tu 2027: aprende a escucharlo** | Yo Superior + Crear desde el campo cuántico | 🔴 Falta la activación guiada |
 | 6 ene | Relaciones | **Hackea los patrones que repites en tus relaciones** | Materializar + Reprogramar subconsciente | 🟡 Hipnosis de relaciones tóxicas (Pack) |
