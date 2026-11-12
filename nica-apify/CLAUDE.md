@@ -283,6 +283,11 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
 - **Pauta actual:** A $400 + B $100 = **$500 MXN de gasto TOTAL** (no diario).
 - Cuenta de anuncios: **mabradiante (416436663729290)**. Meta aún no deja leerla directo;
   Mabel autorizó (12-nov) conectar **Facebook Ads en Windsor** para leer la pauta.
+  Ya está conectada en el Windsor de contacto@mabradiante.com (`facebook`, cuenta 416436663729290).
+- El formulario es **el de Meta** (formulario instantáneo), no uno en la web.
+- **Resultados (leídos 12-nov):** Fase 1 · 3 nov "ANUNCIO 1" = $557.61, **235 registros a $2.37**
+  (el GANADOR). 10 nov copia del mismo anuncio = $286.78, 51 registros a $5.62. Anuncio nuevo
+  "10 NOV ANUNCIO 1" = $365.24, 14 registros a $26.09 (el perdedor). Total: $1,209.63 y 300 registros.
 
 ## Recordatorios para Mabel (cuando sea oportuno)
 - **Meta Ads ($300 al día):** mandarlos a NAIA, cuando NAIA y los 5 niveles
