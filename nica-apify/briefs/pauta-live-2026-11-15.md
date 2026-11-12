@@ -20,7 +20,7 @@ Hipnosis para hackear tus bloqueos con el dinero · Mabel Soriano @mabradiante �
 - **Importante:** desactiva la opción de "formulario flexible" y conecta el Google Sheet o descarga los registros cada noche.
 
 ## 3. Arte
-El de Grok (prompt "ARTE 1 · Live del domingo 15"): cuadrado y vertical.
+El de Grok (prompt "ARTE 1 · Live del domingo 15"): cuadrado y vertical. **Siempre debe decir "BNQ Method™"** (abajo, junto a @mabradiante).
 
 ## 4. Copys (2 anuncios)
 
@@ -31,6 +31,7 @@ Este domingo lo hackeamos juntas en una hipnosis en vivo.
 HIPNOSIS PARA HACKEAR TUS BLOQUEOS CON EL DINERO
 Domingo 15 de noviembre · 11 AM CDMX (9 AM Los Ángeles · 12 PM Nueva York)
 Gratis, en vivo, por Zoom. Regístrate y te mando el acceso.
+Mabel Soriano · @mabradiante · BNQ Method™
 
 ### Copy 2 · Los 3 programas
 ¿Cuál de estos programas del dinero corres?
@@ -40,9 +41,10 @@ Gratis, en vivo, por Zoom. Regístrate y te mando el acceso.
 Este domingo descubres el tuyo y vives una hipnosis en vivo para empezar a hackearlo.
 Domingo 15 de noviembre · 11 AM CDMX · Gratis por Zoom.
 Lo que no se activa, no cambia. Regístrate aquí.
+Mabel Soriano · @mabradiante · BNQ Method™
 
 - **Título del anuncio:** Hipnosis en vivo GRATIS · Domingo 15 · 11 AM
-- **Descripción:** Hackea tus bloqueos con el dinero con Mabel Soriano
+- **Descripción:** Hackea tus bloqueos con el dinero con Mabel Soriano · BNQ Method™
 - **Botón:** Registrarte
 
 ## 5. Checklist antes de publicar
