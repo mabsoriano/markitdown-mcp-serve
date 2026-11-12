@@ -292,7 +292,7 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
   B ($100) = SOLO quien la vio pero NO llenó el formulario.
 - **Regla (12-nov):** la pauta es SIEMPRE para el **LIVE de Hipnosis** y SIEMPRE para **gente nueva**.
 - **Decisión de Mabel (12-nov):** **todavía NO se excluyen públicos** (ha pautado poco). Público:
-  **mujeres y hombres, solo México, 25 a 65 años**, como su público "holístico México".
+  **mujeres y hombres, solo México, 25 a 65 años**, con su público guardado "holístico México" (ya trae intereses).
   (Antes: el 3 nov fue solo mujeres. Comparar el costo por registro al meter hombres.)
 - Dato del 3 nov: los registros más baratos llegaron 1 y 2 días antes del LIVE (2-nov: 106 a $1.39).
 - **Revisión 12-nov:** ninguna campaña tiene exclusiones y no existe un conjunto de B (reconexión).
