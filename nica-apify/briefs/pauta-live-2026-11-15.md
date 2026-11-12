@@ -5,11 +5,14 @@ Hipnosis para hackear tus bloqueos con el dinero · Mabel Soriano @mabradiante �
 - **Duplica la campaña ganadora** "LIVE Hipnosis Dinero · Fase 2 · 10 nov - Copia" (registros a $9.21). Así conserva lo que ya aprendió Meta.
 - **Nombre:** LIVE 15 NOV · Dinero · Nuevos
 - **Objetivo:** Clientes potenciales, con **formulario instantáneo**.
-- **Presupuesto:** **$500 en total** (presupuesto del conjunto completo), de hoy jueves hasta el **domingo 15 a las 9 AM** (cerca de $165 al día).
-- **Resultado esperado:** con tu costo de antes, entre **45 y 55 registros**. Es un estimado, no una promesa.
-- **Público:** México (y EE. UU. hispano si quieres) · mujeres · 28 a 60 años · intereses: ley de atracción, Joe Dispenza, meditación, abundancia, hipnosis, espiritualidad.
+- **Presupuesto: $500 en total**, de hoy jueves al **domingo 15 a las 9 AM**, repartido en **2 conjuntos** (presupuesto por conjunto, no por campaña, para que se respete el reparto):
+  - **Conjunto A · NUEVOS · $400 (80%):** México (y EE. UU. hispano si quieres) · mujeres · 28 a 60 años · intereses: ley de atracción, Joe Dispenza, meditación, abundancia, hipnosis, espiritualidad. **Excluir** a quienes ya se registraron (formularios del 27 oct y del 10 nov).
+  - **Conjunto B · CASI SE REGISTRAN · $100 (20%):** público personalizado de los últimos 30 días: abrieron el formulario y no lo enviaron + interactuaron con tus anuncios o tu página + vieron el 50% de tus videos. **Excluir** a los que ya se registraron. Estas personas ya te vieron: suelen registrarse más barato.
+- **Resultado esperado:** entre **45 y 60 registros** en total. Es un estimado, no una promesa.
 - **Ubicaciones:** Advantage+ (automáticas).
-- **2 anuncios** dentro del mismo conjunto (copy 1 y copy 2). El sábado en la noche apagas el que tenga el registro más caro.
+- **Mismos pasos de siempre:** anuncio → formulario de registro → pantalla final con botón a tu WhatsApp.
+- **2 anuncios** en cada conjunto (copy 1 y copy 2). El sábado en la noche apagas el que tenga el registro más caro.
+- **Regla de seguridad:** si el sábado el conjunto B no ha gastado ni $40 (público muy chico), pasa su dinero al A.
 
 ## 2. Formulario nuevo · "REGISTRO 15 NOV"
 - **Título:** Reserva tu lugar · Hipnosis en vivo gratis
@@ -48,7 +51,7 @@ Mabel Soriano · @mabradiante · BNQ Method™
 - **Botón:** Registrarte
 
 ## 5. Checklist antes de publicar
-1. Duplicar la campaña ganadora y cambiar fechas y presupuesto ($500 hasta el domingo 9 AM).
+1. Duplicar la campaña ganadora, crear 2 conjuntos (A nuevos $400 · B casi se registran $100) y poner fin el domingo 9 AM.
 2. Crear el formulario "REGISTRO 15 NOV" con WhatsApp.
 3. Subir el arte (cuadrado y vertical) y los 2 copys.
 4. Apagar las campañas viejas que sigan prendidas.
