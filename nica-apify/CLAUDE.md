@@ -295,6 +295,12 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
   **mujeres y hombres, solo México, 25 a 65 años**, con su público guardado "holístico México" (ya trae intereses).
   (Antes: el 3 nov fue solo mujeres. Comparar el costo por registro al meter hombres.)
 - **Próximo LIVE pautado:** "Hipnosis para Hackear tus bloqueos con el Dinero" · **domingo 15 nov 2026, 11 AM hora MX**, gente nueva. Arte nuevo 4:5 (Mabel con billetes, fondo cósmico dorado).
+- **Campaña armada por NICA (12-nov, EN PAUSA):** "LIVE Hipnosis Dinero · 15 nov" (id 120254215834630237),
+  copia del conjunto del 3 nov → "LIVE HIPNOSIS 15 NOV · MX mujeres y hombres" (id 120254215836630237),
+  anuncio copiado id 120254215837940237. Mismos intereses, solo MX, 25-65, mujeres y hombres, termina dom 15
+  a las 10 AM. Presupuesto quedó DIARIO $150 (Meta no deja cambiar a total en un conjunto copiado).
+  Falta (Mabel en Ads Manager): cambiar imagen al arte nuevo 4:5 + 9:16, revisar texto y fecha del formulario,
+  límite de gasto de campaña $500, y publicar.
 - Dato del 3 nov: los registros más baratos llegaron 1 y 2 días antes del LIVE (2-nov: 106 a $1.39).
 - **Revisión 12-nov:** ninguna campaña tiene exclusiones y no existe un conjunto de B (reconexión).
   La copia del 10 nov repitió el mismo público del 3 nov sin excluir a las 235 registradas. El anuncio
