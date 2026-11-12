@@ -276,6 +276,14 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
      crédito de Apify llevamos en el mes.
   6. **Entrego el PDF de la semana** para grabar.
 
+## Pauta de Meta Ads (decisión de Mabel, 12-nov-2026)
+- **Systeme.io NO se usa para nada.** No mencionarlo ni mandar nada ahí.
+- **Camino del anuncio:** anuncio → **formulario de registro** (solo eso) → al terminar,
+  **WhatsApp** → Mabel los mete al grupo **"Fórmulas Cuánticas para Hackear la Matrix"**.
+- **Pauta actual:** A $400 + B $100 = **$500 MXN de gasto TOTAL** (no diario).
+- Cuenta de anuncios: **mabradiante (416436663729290)**. Meta aún no deja leerla directo;
+  Mabel autorizó (12-nov) conectar **Facebook Ads en Windsor** para leer la pauta.
+
 ## Recordatorios para Mabel (cuando sea oportuno)
 - **Meta Ads ($300 al día):** mandarlos a NAIA, cuando NAIA y los 5 niveles
   estén listos.
