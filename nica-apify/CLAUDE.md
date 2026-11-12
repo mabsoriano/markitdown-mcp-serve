@@ -388,3 +388,6 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
 - ElevenLabs conectado: voz clonada "Mab" (voice_id jb6YRSEq0KRLXF7vrdCg). Cada generación gasta créditos: pedir OK antes.
 - Pendiente de Mabel: audio de YouTube en 3 partes (septiembre) sin subir por falta de memoria en su Mac.
 - **Esta semana (11-nov):** jueves 12 · 6:30 PM live de dinero para quien no entró el martes. Domingo 15 · 11 AM live de dinero CON PAUTA desde ya (Meta) para vender ese día. El producto nuevo (comunidad) arranca la semana del 17; Mabel y el estratega definen nombres de las activaciones.
+- **Producto comunidad (12-nov):** "CORTE DE FUGAS ENERGÉTICAS Y ACTIVACIÓN DE TUS 7 CHAKRAS" · $499 + impuestos · activación en vivo (nunca "sanación" ni "taller"). Estrategia: `briefs/estrategia-productos-por-formula-2026-11-12.md`.
+- **Artes (Mabel, 12-nov):** SIEMPRE sale ella en las artes; ejemplos en Grok.
+- **Publicación doble:** Instagram @mabradiante se comparte solo a Facebook (Centro de cuentas de Meta). Si Hootsuite programa IG y FB, sale doble. Propuesta: quitar FB MabRadiante de Hootsuite (y así cabe IG "BNQ Method").
