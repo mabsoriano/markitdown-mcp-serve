@@ -298,7 +298,8 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
 - **Campaña armada por NICA (12-nov, EN PAUSA):** "LIVE Hipnosis Dinero · 15 nov" (id 120254215834630237),
   copia del conjunto del 3 nov → "LIVE HIPNOSIS 15 NOV · MX mujeres y hombres" (id 120254215836630237),
   anuncio copiado id 120254215837940237. Mismos intereses, solo MX, 25-65, mujeres y hombres, termina dom 15
-  a las 10 AM. Presupuesto quedó DIARIO $150 (Meta no deja cambiar a total en un conjunto copiado).
+  a las 10 AM. Presupuesto DIARIO $175 (≈ $500 en total hasta el domingo; Meta no deja ponerlo total en un
+  conjunto copiado ni un límite de campaña menor a $1,500).
   Falta (Mabel en Ads Manager): cambiar imagen al arte nuevo 4:5 + 9:16, revisar texto y fecha del formulario,
   límite de gasto de campaña $500, y publicar.
 - Dato del 3 nov: los registros más baratos llegaron 1 y 2 días antes del LIVE (2-nov: 106 a $1.39).
