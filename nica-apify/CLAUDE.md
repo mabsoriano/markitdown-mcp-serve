@@ -395,3 +395,18 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
 - **BNQ Method™ SIEMPRE (Mabel, 12-nov-2026):** TODAS las piezas (artes de Grok, copys de anuncios, correos, portadas, presentaciones, captions) llevan "BNQ Method™" visible, junto a @mabradiante. En prompts de Grok va como texto exacto obligatorio.
 - **Pauta 15 nov (12-nov):** copys APROBADOS, arte 4:5 aprobada (`live/artes/anuncio-live-2026-11-15-4x5.jpg`). Formato de anuncios: 4:5 (1080x1350) feed + 9:16 historias; ya no cuadrada. Mabel la está pautando.
 - **Producto CHAKRAS (aprobado 12-nov):** live miércoles 18 · 10 AM = "ACTIVACIÓN GRATIS EN VIVO" (meditación corta de coherencia), SOLO comunidad, NO se pauta (se pauta a nuevos la semana siguiente o la otra, según venda la hipnosis). Precio $499 + impuestos se dice DENTRO del live (arte sin insignia de precio). Contenido aprobado: 1) activación guiada de 7 chakras (audio), 2) mapa "en mi control / fuera de mi control", 3) plan de limpieza en 4 cuerpos (PDF), 4) activación guiada de limpieza energética (audio).
+
+## FORMATOS GANADORES DE MABEL (13-nov-2026 · mandan sobre la mezcla anterior)
+Las activaciones (decretos robóticos) van SOLO en NAIA. Las piezas de Mabel con CTA alternan estos 2 formatos:
+1. **FAMOSO + AUTORIDAD** (le funcionaron: Sara Blakely, Steve Jobs, Beyoncé): GANCHO con el dato del famoso →
+   GUARDAR Y COMPARTIR → DOLOR → LISTA DE 3 creencias → DATO/AUTORIDAD verificable → [TU HISTORIA] → HACKEO
+   (hazlo conmigo, frase 3 veces) → REVELACIÓN → CIERRE/CTA. Solo datos reales y verificables del famoso.
+2. **PODEROSA CONEXIÓN** (su estructura que le funcionó "cañón" en TikTok): VERDAD INCÓMODA ("eso no es crecimiento,
+   es entretenimiento disfrazado") → PATRÓN (ej. "me esfuerzo y no me va bien") → "Permíteme llevarte al siguiente
+   nivel con un bioneurohack + acción… no es motivación, es una activación" → ANTES: like + comenta [PALABRA] →
+   1 DETECTA (metaconsciente, sin autoengaño: ¿estoy ocupada o avanzo?) → 2 ROMPE EL PATRÓN INVISIBLE
+   (perfeccionismo, dispersión, evasión) → 3 REPROGRAMA CON ACCIÓN → 4 REPETICIÓN (7 días: qué acción incómoda hice
+   que sí genera resultados) → REGLA DE ORO ("si no te incomoda, no te está cambiando") → CUIDADO CON LA TRAMPA
+   ("no pienses de más: crea, ejecuta, claridad, repetición") → PROMESA ("si haces esto 7 días, tu pregunta dejará
+   de ser X y será ¿cómo escalo esto?") → QUIÉN SOY → CTA.
+Más 1 yapping diario (conexión, sin venta). Total: 2 piezas diarias con su cara + 1 NAIA.

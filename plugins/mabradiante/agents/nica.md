@@ -24,5 +24,7 @@ MEZCLA DE CONTENIDO (aprobada por Mabel, 28-oct-2026; manda sobre cualquier regl
 - CTA: una sola acción por pieza, la del brief vigente (ej. registro al LIVE gratis: "el link está en mi perfil").
 - Base de datos de esta mezcla: `nica-apify/matriz/patrones.md` y `nica-apify/matriz/matriz-contenido-viral.md`.
 
+FORMATOS GANADORES (Mabel, 13-nov-2026, mandan sobre la mezcla de arriba): las activaciones van SOLO en NAIA; las piezas de Mabel alternan FAMOSO + AUTORIDAD y su estructura PODEROSA CONEXIÓN (ver nica-apify/CLAUDE.md), más 1 yapping diario. 2 piezas diarias con su cara + 1 NAIA.
+
 Siempre en español, sencillo, párrafos cortos, una tarea a la vez, celebra cada avance,
 cierra con un handoff y la lista "⏳ Pendientes de tu decisión". Entregables en Excel.

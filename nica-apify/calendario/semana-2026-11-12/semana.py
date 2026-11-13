@@ -174,6 +174,89 @@ add("2026-11-18", "Miércoles 18", "9:30 PM", "NAIA (automático)", "NAIA · Aud
     "Clip fijo de NAIA + subtítulos. Frase clave: «MI ENERGÍA REGRESA A MÍ».",
     f"Recupera tu energía 🌈 Repite con NAIA y guárdalo para cuando te sientas drenada.\n{FIRMA}", H_NAIA, "Guardar")
 
+# ─────────── 13-nov · Mabel pidió volver a sus 2 formatos ganadores ───────────
+# FAMOSO (Sara Blakely, Steve Jobs, Beyoncé) y su estructura «PODEROSA CONEXIÓN» (le funcionó cañón en TikTok):
+# verdad incómoda → patrón → like + comenta → 1 Detecta → 2 Rompe el patrón invisible → 3 Reprograma con acción
+# → 4 Repetición 7 días → regla de oro → cuidado con la trampa → promesa → quién soy → CTA.
+H_FAMA = "#mabradiante #BNQMethod #hackeatumente #mentalidad #mty"
+def pc(patron, verdad, detecta, rompe, reprograma, palabra, cta):
+    return g(("VERDAD INCÓMODA", verdad),
+             ("PATRÓN", f"Si te repites «{patron}», esto es para ti. Permíteme llevarte al siguiente nivel con un bioneurohack + acción para que lo hackees de raíz en tiempo real. No es motivación, no es bla bla: es una activación."),
+             ("ANTES", f"Dale like y escribe {palabra} en comentarios."),
+             ("1 · DETECTA", detecta),
+             ("2 · ROMPE EL PATRÓN INVISIBLE", rompe),
+             ("3 · REPROGRAMA CON ACCIÓN", reprograma),
+             ("4 · REPETICIÓN", "Haz esto 7 días: cada noche escribe qué acción incómoda hiciste hoy que sí genera resultados. Sé honesta: qué, cómo y para qué."),
+             ("REGLA DE ORO", "Si no te incomoda, no te está cambiando."),
+             ("CUIDADO CON LA TRAMPA", "No pienses de más, no te paralices. Crea, ejecuta, claridad, repetición. Vuelve el ciclo."),
+             ("PROMESA", f"Si haces esto 7 días, tu pregunta va a dejar de ser «{patron}» y va a empezar a ser «¿cómo escalo esto?»."),
+             ("QUIÉN SOY", "[Quién soy en 1 frase: Mabel, neurohacker, creadora del BNQ Method™]"),
+             ("CTA", cta))
+NUEVAS = {
+ ("2026-11-13", "6:00 PM"): ["2026-11-13", "Viernes 13", "6:00 PM", "Mabel a cámara (2 min)", "FAMOSO + autoridad",
+    "12 EDITORIALES LE DIJERON QUE NO A J.K. ROWLING",
+    "Doce editoriales le dijeron que no a Harry Potter. Y tú dejaste de intentarlo con el primer no.",
+    g(("GANCHO", "Doce editoriales le dijeron que no a Harry Potter. Y tú dejaste de intentarlo con el primer no."),
+      ("GUARDAR Y COMPARTIR", "Guárdalo y compártelo con alguien que dejó un sueño por un «no»."),
+      ("DOLOR", "Ofreces lo que haces, alguien te dice que no, y tu mente lo traduce como «no sirvo» o «el dinero no es para mí»."),
+      ("LISTA DE 3", "3 creencias que J.K. Rowling no se permitió: 1. Un «no» es un veredicto. 2. Si no me compran, no valgo. 3. Hay que esperar a que alguien te elija."),
+      ("DATO / AUTORIDAD", "Ella ha contado que el manuscrito fue rechazado por una docena de editoriales antes de que una pequeña dijera que sí. Harry Potter es hoy una de las sagas más vendidas de la historia. Tu subconsciente también guardó qué significa un «no»."),
+      ("TU HISTORIA", "[15–20 s: un «no» que te frenó y qué hiciste después]"),
+      ("HACKEO (hazlo conmigo)", "Escribe el último «no» que recibiste y a un lado: «¿qué aprendí?». Repite conmigo: un no es información, no es mi valor. Un no es información, no es mi valor. Un no es información, no es mi valor."),
+      ("REVELACIÓN", "El dinero no se frena por los «no» que recibes. Se frena por los intentos que dejas de hacer."),
+      ("CTA", "El domingo 15 a las 11 de la mañana, hora CDMX, te guío gratis en una hipnosis para hackear tus bloqueos con el dinero. Regístrate: el link está en mi perfil.")),
+    "0–3 s: 12 EDITORIALES LE DIJERON QUE NO A J.K. ROWLING. Lista: 1 UN NO NO ES VEREDICTO · 2 TU VALOR NO DEPENDE DE UNA VENTA · 3 NO ESPERES QUE TE ELIJAN. Final: «LIVE GRATIS · DOMINGO 15 · 11 AM · BNQ Method™».",
+    f"12 editoriales le dijeron que no a J.K. Rowling 📚 y las 3 creencias que ella no se permitió.\nDomingo 15, 11 AM (CDMX): hipnosis gratis para hackear tus bloqueos con el dinero. {REG}\n{FIRMA}", H_FAMA, "LIVE dom 15"],
+ ("2026-11-14", "6:00 PM"): ["2026-11-14", "Sábado 14", "6:00 PM", "Mabel a cámara (2–3 min)", "PODEROSA CONEXIÓN (tu formato ganador)",
+    "«ME ESFUERZO Y NO ME VA BIEN»: ROMPE ESTE PATRÓN",
+    "Mucha gente cree que está creciendo porque escucha podcasts, lee libros y guarda frases. Pero sigue actuando igual.",
+    pc("me esfuerzo y no me va bien",
+       "Mucha gente cree que está creciendo porque escucha podcasts, lee libros y guarda frases. Pero sigue actuando igual. Eso no es crecimiento: es entretenimiento disfrazado. El crecimiento real se ve así: te das cuenta de un patrón, lo cuestionas aunque duela, cambias tu comportamiento y lo sostienes en el tiempo.",
+       "Sé metaconsciente, sin autoengaño: ¿estoy ocupada o avanzo de verdad? ¿Hago cosas que se ven productivas pero no generan resultados? ¿O estoy evitando lo incómodo? Si te dolió alguna, ahí está el punto.",
+       "El problema casi siempre es uno de estos 3: perfeccionismo (hasta que esté perfecto, avanzo), dispersión (haces mil cosas y ninguna escala) y evasión (evitas lo que sí mueve la aguja).",
+       "Aquí se separa la gente que de verdad quiere hackearse de la que hace scroll. Hoy elige UNA acción incómoda que sí mueva la aguja (cobrar, ofrecer, publicar, pedir) y hazla antes de dormir.",
+       "HACKEO",
+       "Y si quieres hackearlo de raíz, el domingo 15 a las 11 de la mañana, hora CDMX, te guío gratis en una hipnosis para hackear tus bloqueos con el dinero. El link está en mi perfil."),
+    "0–3 s: «ME ESFUERZO Y NO ME VA BIEN». Pasos en pantalla: 1 DETECTA · 2 ROMPE EL PATRÓN · 3 REPROGRAMA CON ACCIÓN · 4 REPETICIÓN. «Si no te incomoda, no te está cambiando». «BNQ Method™».",
+    f"«Me esfuerzo y no me va bien» 🔓 No es motivación: es un bioneurohack + acción para romper el patrón de raíz.\nComenta HACKEO 👇 y el domingo 15, 11 AM (CDMX), hipnosis gratis para hackear tus bloqueos con el dinero. Link en mi perfil.\n{FIRMA}", H_FAMA, "LIVE dom 15"],
+ ("2026-11-16", "6:00 PM"): ["2026-11-16", "Lunes 16", "6:00 PM", "Mabel a cámara (2–3 min)", "PODEROSA CONEXIÓN (tu formato ganador)",
+    "«ESTOY OCUPADA TODO EL DÍA Y NO AVANZO»",
+    "Estar ocupada no es lo mismo que avanzar. Y tu mente lo sabe, aunque no te lo diga.",
+    pc("estoy ocupada todo el día y no avanzo",
+       "Estar ocupada no es lo mismo que avanzar. Llenas el día de pendientes para sentir que haces algo, pero lo que de verdad te daría dinero sigue en la lista de «luego».",
+       "Pregúntate con honestidad: de todo lo que hice hoy, ¿qué me acercó a cobrar? Si la respuesta es «nada», no es falta de tiempo: es un patrón.",
+       "Revisa cuál es el tuyo: perfeccionismo (lo preparo de más), dispersión (empiezo diez cosas) o evasión (hago lo fácil para no hacer lo que da miedo).",
+       "Mañana, antes de abrir tus redes, haz durante 20 minutos la UNA tarea que más te acerca a cobrar. Solo una.",
+       "AVANZO",
+       "Y mañana martes, a las 11 de la mañana y a las 7 de la noche, hora CDMX, te guío gratis en una hipnosis para hackear tus bloqueos con el dinero. El link está en mi perfil."),
+    "0–3 s: «ESTOY OCUPADA TODO EL DÍA Y NO AVANZO». Pasos: 1 DETECTA · 2 ROMPE EL PATRÓN · 3 REPROGRAMA CON ACCIÓN · 4 REPETICIÓN. Final: «MAÑANA · 11 AM y 7 PM · LIVE GRATIS · BNQ Method™».",
+    f"Estar ocupada no es avanzar ⏳ Rompe el patrón con este bioneurohack + acción.\nComenta AVANZO 👇 y mañana martes, 11 AM y 7 PM (CDMX): hipnosis gratis para hackear tus bloqueos con el dinero. Link en mi perfil.\n{FIRMA}", H_FAMA, "LIVE mar 17"],
+ ("2026-11-18", "6:00 PM"): ["2026-11-18", "Miércoles 18", "6:00 PM", "Mabel a cámara (2 min)", "FAMOSO + autoridad",
+    "ARIANNA HUFFINGTON SE DESMAYÓ DE CANSANCIO",
+    "En 2007, Arianna Huffington, fundadora del HuffPost, se desmayó de agotamiento en su oficina. Y eso explica por qué tú vives cansada.",
+    g(("GANCHO", "En 2007, Arianna Huffington, fundadora del HuffPost, se desmayó de agotamiento en su oficina. Y eso explica por qué tú vives cansada."),
+      ("GUARDAR Y COMPARTIR", "Guárdalo y compártelo con quien está cansada de estar cansada."),
+      ("DOLOR", "Duermes y despiertas igual. Haces todo por todos y a ti no te queda energía para lo que de verdad quieres."),
+      ("LISTA DE 3", "3 fugas de energía que ella reconoció y tú quizá tienes: 1. Creer que descansar es de flojas. 2. Decir que sí cuando quieres decir que no. 3. Cargar lo que no puedes controlar."),
+      ("DATO / AUTORIDAD", "Ella misma contó que se golpeó la cara al caer y que eso la llevó a cambiar su forma de vivir; después escribió el libro «Thrive». Lo espiritual lo llama fuga de energía; la ciencia, agotamiento."),
+      ("TU HISTORIA", "[15–20 s: el momento en que tu cuerpo te dijo «ya basta»]"),
+      ("HACKEO (hazlo conmigo)", "Divide una hoja en dos: «en mi control» y «fuera de mi control». Suelta hoy una cosa de la segunda columna. Repite conmigo: mi energía regresa a mí. Mi energía regresa a mí. Mi energía regresa a mí."),
+      ("REVELACIÓN", "No te falta fuerza. Te sobran fugas."),
+      ("CIERRE", "Guárdalo y únete a mi comunidad Neurohackers: el link está en mi perfil.")),
+    "0–3 s: ARIANNA HUFFINGTON SE DESMAYÓ DE CANSANCIO. Lista: 1 DESCANSAR NO ES DE FLOJAS · 2 SÍ CUANDO ES NO · 3 LO QUE NO CONTROLAS. Aviso: práctica de bienestar, no es diagnóstico. «BNQ Method™».",
+    f"Arianna Huffington se desmayó de cansancio en 2007 ⚡ y las 3 fugas de energía que tú quizá tienes.\nÚnete a mi comunidad Neurohackers: link en mi perfil.\n{FIRMA}", "#energia #burnout #hackeatumente #mabradiante #BNQMethod", "Comunidad"],
+}
+F = [NUEVAS.get((r[0], r[2]), r) for r in F]
+URG_NUEVO = [
+ ["1", "Hoy viernes · ya", "Revisa cuántas personas se registraron para el domingo", "Administrador de anuncios (pauta del domingo 15) + chats de WhatsApp. Mándame captura.", "5 min"],
+ ["2", "Hoy viernes · 1 PM", "Yapping «Un día normal de una neurohacker con TDAH»", "Pestaña «Calendario». Sin guion.", "10 min"],
+ ["3", "Hoy viernes · 6 PM", "Video FAMOSO: J.K. Rowling (12 editoriales)", "Pestaña «Calendario». Invita al LIVE del domingo.", "20 min"],
+ ["4", "Sábado · 10 AM", "Acercamiento 1 a tus grupos", "Pestaña «Comunidad».", "5 min"],
+ ["5", "Sábado · 7 PM", "Correo de Brevo «Mañana, 11 AM»", "Pestaña «Correos Brevo».", "10 min"],
+ ["—", "Esta semana", "Hootsuite NO se toca", "Tus piezas van a otras horas que los videos sin rostro ya programados.", "—"],
+]
+URGENTE = URG_NUEVO
+
 # ─────────── COMUNIDAD (grupos de WhatsApp) ───────────
 COM = [
  ["Jueves 12 · 4:30 PM (HOY)", "Recordatorio", "Grupos de WhatsApp (Fórmulas Cuánticas + inscripciones)",
@@ -238,7 +321,7 @@ def hoja(ws, enc, filas, anchos, relleno=None):
         for c in r: c.alignment = Alignment(wrap_text=True, vertical="top")
         if relleno: relleno(r)
     ws.freeze_panes = "A2"
-ws = wb.active; ws.title = "1 · HOY jueves 12"
+ws = wb.active; ws.title = "1 · HOY viernes 13"
 hoja(ws, ["#", "Hora", "Qué haces", "Dónde está / cómo", "Tiempo"], URGENTE, [5, 22, 38, 70, 10])
 ws2 = wb.create_sheet("2 · Calendario 12–18")
 def pinta(r):
@@ -257,7 +340,7 @@ for a, b in GUIA:
 ws4 = wb.create_sheet("4 · Correos Brevo")
 hoja(ws4, ["Cuándo", "Asunto", "Vista previa", "Cuerpo (el cierre fijo ya va incluido)"], [c[:3] + [c[3] + CIERRE_CORREO] for c in CORREOS], [26, 32, 38, 90])
 ws5 = wb.create_sheet("5 · Reglas de la semana")
-for t in ["2 piezas diarias con tu cara: 1 yapping (conexión, sin venta) + 1 pieza con CTA. Más 1 de NAIA (automática).",
+for t in ["2 piezas diarias con tu cara: 1 yapping (conexión, sin venta) + 1 pieza con CTA en tus 2 formatos ganadores: FAMOSO + autoridad, o PODEROSA CONEXIÓN. Más 1 de NAIA (automática): las activaciones solo van en NAIA.",
           "Hootsuite: no se toca. Tus piezas van a otras horas que los 5 videos sin rostro ya programados.",
           "Palabras prohibidas: curso, masterclass, taller, terapia, sanación, coaching, ritual. Sin promesas de dinero ni de salud.",
           "Todo lleva «BNQ Method™» junto a @mabradiante. Precio siempre «+ impuestos». En correos: link a la PÁGINA del producto, no al de pago.",
