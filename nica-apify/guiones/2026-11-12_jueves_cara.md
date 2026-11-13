@@ -6,16 +6,16 @@ Orden sugerido para grabar: 1 → 2 → 3 (el yapping al final, ya suelta).
 ---
 
 ## VIDEO 1 · DINERO → LIVE GRATIS DEL DOMINGO 15
-**TÍTULO EN PANTALLA (primeros 3 s y portada):** EL DINERO NO SE TE VA POR GASTAR, SE TE VA POR ESTO
+**TÍTULO EN PANTALLA (primeros 3 s y portada):** SI EL DINERO NO TE LLEGA, NO ES TU CULPA: ES ESTO
 **Duración:** TikTok 1:30 a 2 min · Reel 60 a 90 s
 
 **HOOK (1a frase, sin saludar):**
-"Si el dinero te llega y se te va como agua, no es que no sepas administrarte. Es un programa."
+"Trabajas, cumples, decretas… y el dinero no llega. No es mala suerte ni falta de disciplina. Es un programa."
 
 **GUARDAR (antes de los 15 s):** "Guarda este video, porque al final hacemos un hackeo juntas."
 
 **PROBLEMA Y SÍNTOMAS · LISTA DE 3:** "Tienes un bloqueo con el dinero si…"
-1. Cuando por fin te llega algo extra, aparece un gasto inesperado.
+1. Trabajas el doble que otros y aun así no te alcanza.
 2. Te da pena cobrar lo que vales o te cuesta pedir.
 3. Te sientes culpable cuando te compras algo para ti.
 
@@ -34,7 +34,7 @@ Orden sugerido para grabar: 1 → 2 → 3 (el yapping al final, ya suelta).
 **CIERRE:** "Lo que no se activa, no cambia. Soy Mabel, BNQ Method."
 
 **COPY:**
-El dinero no se te va por gastar. Se te va por un programa que heredaste. 💸
+Trabajas, cumples, decretas… y el dinero no llega. 💸 Es un programa que heredaste.
 Este domingo 15 · 11 AM (hora MX) hackeamos ese programa en una HIPNOSIS EN VIVO GRATIS.
 Comenta HIPNOSIS y te mando el link 💛
 Lo que no se activa, no cambia. @mabradiante · BNQ Method™
