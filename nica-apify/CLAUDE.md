@@ -410,3 +410,5 @@ Las activaciones (decretos robóticos) van SOLO en NAIA. Las piezas de Mabel con
    ("no pienses de más: crea, ejecuta, claridad, repetición") → PROMESA ("si haces esto 7 días, tu pregunta dejará
    de ser X y será ¿cómo escalo esto?") → QUIÉN SOY → CTA.
 Más 1 yapping diario (conexión, sin venta). Total: 2 piezas diarias con su cara + 1 NAIA.
+- **HORA Y DÍA (Mabel, 12-nov):** antes de decir "hoy" o "mañana", calcular SIEMPRE la hora de Monterrey/CDMX (UTC-6); el reloj del sistema está en UTC y puede ir un día adelante.
+- **NAIA (Mabel, 12-nov):** le gusta el concepto, pero sola (puro decreto) no atrae gente. Sus audios mezclan FAMOSO + AUTORIDAD o PODEROSA CONEXIÓN al inicio (gancho con dato real o verdad incómoda) y luego la activación corta.
