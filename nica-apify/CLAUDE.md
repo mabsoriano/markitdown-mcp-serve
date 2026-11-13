@@ -304,6 +304,10 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
 - **Llegada al grupo (12-nov):** de 300 registros entraron ~65 a 80 (≈ 1 de cada 4). Cada persona que llegó
   al grupo costó ≈ $15 a $19. Contexto: le suspendieron el grupo y perdió contactos al reinstalar WhatsApp
   (respaldo solo hasta el 15 sep). Los teléfonos de los registros SÍ están en Meta (Clientes potenciales).
+- **13-nov · ALERTA:** la campaña del 15 nov lleva 51 formularios (dato de Mabel) y NO llegan a su WhatsApp.
+  Windsor gratis no se actualiza (datos hasta el 11-nov). Sospecha principal: el botón final del formulario
+  copiado del 3 nov apunta al link del grupo VIEJO (suspendido). Arreglo: descargar los 51 de Clientes
+  potenciales y escribirles con el link nuevo + revisar la pantalla final del formulario.
 - Dato del 3 nov: los registros más baratos llegaron 1 y 2 días antes del LIVE (2-nov: 106 a $1.39).
 - **Revisión 12-nov:** ninguna campaña tiene exclusiones y no existe un conjunto de B (reconexión).
   La copia del 10 nov repitió el mismo público del 3 nov sin excluir a las 235 registradas. El anuncio
