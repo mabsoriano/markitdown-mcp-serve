@@ -326,6 +326,72 @@ URGENTE = [
  ["—", "Esta semana", "Hootsuite NO se toca", "Ya están programados los 5 videos sin rostro del 11 al 15 (TikTok 8 PM; IG/YouTube 11 AM). Por eso tus piezas van a otras horas.", "—"],
 ]
 
+# ─────────── 12-nov, 7 PM · AJUSTE A LA REALIDAD (Mabel) ───────────
+# El LIVE del jueves 12 NO se hizo. Primer LIVE en TikTok: sábado 14 a las 5 PM. Siguen domingo 15 (Zoom) y martes 17.
+F = [r for r in F if (r[0], r[2]) not in {("2026-11-12", "1:00 PM"), ("2026-11-12", "8:30 PM")}]
+_sab = next(r for r in F if (r[0], r[2]) == ("2026-11-14", "6:00 PM"))
+hoy = list(_sab); hoy[0], hoy[1], hoy[2] = "2026-11-12", "Jueves 12 (HOY)", "9:00 PM"
+F = [r for r in F if (r[0], r[2]) != ("2026-11-14", "6:00 PM")] + [hoy]
+TT = "Y mañana sábado a las 5 de la tarde estoy en vivo aquí en TikTok. Actívale la campanita."
+for i, r in enumerate(F):
+    r = list(r)
+    if (r[0], r[2]) == ("2026-11-13", "6:00 PM"):
+        r[7] += "\n" + "AVISO DEL LIVE: " + TT
+        r[9] = r[9].replace("\n" + FIRMA, "\n📲 Mañana sábado, 5 PM: en vivo aquí en TikTok.\n" + FIRMA)
+    if (r[0], r[2]) == ("2026-11-14", "1:00 PM"):   # el yapping del sábado pasa a después del LIVE
+        r[2] = "7:30 PM"; r[5] = "MI PRIMER LIVE EN TIKTOK: ASÍ ME FUE"; r[6] = "Acabo de hacer mi primer LIVE en TikTok y te cuento cómo me fue."
+        r[7] = "Puntos guía:\n1. [Cuántas llegaron y qué sentiste]\n2. [Una palabra que escribieron en el chat (sin nombres)]\n3. [Qué vas a repetir y qué cambiarías]\nCierre: «Si estuviste, gracias. ¿A qué hora te gustaría el próximo?»"
+        r[8] = "0–3 s: MI PRIMER LIVE EN TIKTOK"
+        r[9] = f"Mi primer LIVE en TikTok 💛 Gracias a cada una que llegó.\n¿A qué hora te gustaría el próximo? 👇\n{FIRMA}"
+    F[i] = r
+F.append(["2026-11-14", "Sábado 14", "1:00 PM", "Mabel a cámara (15–30 s)", "Aviso del LIVE de hoy",
+    "HOY 5 PM: EN VIVO AQUÍ EN TIKTOK", "Hoy a las 5 de la tarde estoy en vivo aquí en TikTok.",
+    g(("GANCHO", "Hoy a las 5 de la tarde estoy en vivo aquí en TikTok."),
+      ("QUÉ HAREMOS", "Te enseño a detectar el bloqueo que no deja que el dinero llegue, y hacemos juntas una probadita de hackeo en tiempo real."),
+      ("CTA", "Actívale la campanita para que te avise.")),
+    "0–3 s: HOY 5 PM · EN VIVO EN TIKTOK. Final: «ACTIVA LA CAMPANITA · BNQ Method™».",
+    f"Hoy, 5 PM (hora CDMX), en vivo aquí en TikTok 🔴 Detectamos el bloqueo que no deja que el dinero llegue y hacemos una probadita de hackeo.\n{FIRMA}", H_LIVE, "LIVE TikTok hoy 5 PM"])
+F.append(["2026-11-14", "Sábado 14", "5:00 PM", "Mabel EN VIVO (45 min)", "LIVE EN TIKTOK",
+    "LIVE: EL BLOQUEO QUE NO DEJA QUE EL DINERO LLEGUE", "—",
+    "Guion completo en tu Word: guion-live-tiktok-venta.docx. Probadita de activación (7–10 min), nunca la completa. Ruta por dolor al link de tu perfil.\nCierre: «Hoy lo activamos juntas. Pero lo que no se activa, no cambia… y lo que no se repite, no se instala. Para repetirlo 21 días, la hipnosis para hackear tus bloqueos con el dinero está en el link de mi perfil.»",
+    "—", "—", "—", "Producto · link en perfil"])
+# NAIA nunca abre presentándose: primero el gancho, luego «Soy NAIA».
+GANCHOS_NAIA = {
+ "2026-11-12": "¿Das todo y aun así te cuesta recibir? No es mala suerte: es un programa.",
+ "2026-11-13": "Doce editoriales le dijeron que no a J.K. Rowling. Y tú dejaste de intentarlo con el primer no.",
+ "2026-11-14": "Si bajas tu precio antes de que te lo pidan, esto es para ti.",
+ "2026-11-15": "Si el domingo en la noche te llega la angustia del lunes, haz esto antes de dormir.",
+ "2026-11-16": "Trabajas y el dinero no se mueve. No es falta de esfuerzo: es un bloqueo.",
+ "2026-11-17": "No te da miedo fracasar. Te da miedo brillar.",
+ "2026-11-18": "No estás cansada: tienes fugas de energía.",
+}
+for i, r in enumerate(F):
+    if (r[3] or "").startswith("NAIA") and r[0] in GANCHOS_NAIA:
+        r = list(r); gch = GANCHOS_NAIA[r[0]]
+        r[3] = "NAIA · los 2 primeros segundos eres TÚ a cámara diciendo el gancho; luego NAIA con movimiento (acercamiento, partículas, cortes cada 2–3 s)"
+        r[6] = gch
+        r[7] = f"[TÚ, 0–2 s] {gch}\n[NAIA] " + r[7]
+        r[8] = f"0–2 s: tú a cámara + texto «{gch.upper()[:40]}». Después NAIA con acercamiento lento, partículas doradas y subtítulos palabra por palabra. Frase clave en grande. Fijo: «NAIA · @mabradiante · BNQ Method™»."
+        F[i] = r
+F.sort(key=lambda r: (r[0], __import__("datetime").datetime.strptime(r[2], "%I:%M %p")))
+URGENTE = [
+ ["1", "Hoy jueves · 9:00 PM", "Grabar y publicar «Me esfuerzo y no me va bien» (PODEROSA CONEXIÓN)", "Pestaña «Calendario», jueves 12, 9:00 PM. CTA: la hipnosis en el link de tu perfil.", "20 min"],
+ ["2", "Hoy jueves · 9:30 PM", "Publicar NAIA · Merecimiento (con tu gancho en los 2 primeros segundos)", "Pestaña «Calendario».", "10 min"],
+ ["3", "Viernes 13 · 1:00 PM", "Yapping «Un día normal de una neurohacker con TDAH»", "Sin guion.", "10 min"],
+ ["4", "Viernes 13 · 6:00 PM", "Video FAMOSO: J.K. Rowling + aviso «mañana 5 PM en vivo en TikTok»", "Pestaña «Calendario».", "20 min"],
+ ["5", "Sábado 14 · 1:00 PM", "Aviso «HOY 5 PM en vivo» + mensaje a tus grupos", "Pestañas «Calendario» y «Comunidad».", "15 min"],
+ ["6", "Sábado 14 · 5:00 PM", "LIVE EN TIKTOK (45 min)", "Guion: guion-live-tiktok-venta.docx. Linktree ordenado por dolor antes de empezar.", "45 min"],
+ ["—", "Esta semana", "Hootsuite NO se toca", "Tus piezas van a otras horas que los videos sin rostro ya programados.", "—"],
+]
+COM = [c for c in COM if not c[0].startswith("Jueves 12")]
+for c in COM:
+    if c[0].startswith("Sábado 14"):
+        c[0] = "Sábado 14 · 1:00 PM"
+        c[3] = ("Mis neurohackers 💛 Hoy a las 5 PM (hora CDMX) estoy EN VIVO en TikTok: cómo detectar el bloqueo que no deja que el dinero llegue, con una probadita de hackeo en tiempo real. Entra aquí: tiktok.com/@mabradiante\n"
+                "Y les dejo un regalo: la activación de NAIA para recibir (va el video aquí abajo). 💬 Cuéntenme con una palabra qué sintieron.\n"
+                "Y apártense el miércoles 18 a las 10 AM: ACTIVACIÓN GRATIS EN VIVO solo para ustedes, mi comunidad. Les mando el link el martes.\n" + FIRMA)
+CORREOS = [c for c in CORREOS if not c[0].startswith("Jueves 12")]
+
 wb = Workbook()
 ORO = PatternFill("solid", fgColor="F3E6C6"); AZUL = PatternFill("solid", fgColor="E3E8F7"); VERDE = PatternFill("solid", fgColor="DCF0E8")
 def hoja(ws, enc, filas, anchos, relleno=None):
@@ -337,7 +403,7 @@ def hoja(ws, enc, filas, anchos, relleno=None):
         for c in r: c.alignment = Alignment(wrap_text=True, vertical="top")
         if relleno: relleno(r)
     ws.freeze_panes = "A2"
-ws = wb.active; ws.title = "1 · HOY viernes 13"
+ws = wb.active; ws.title = "1 · HOY jueves 12 (noche)"
 hoja(ws, ["#", "Hora", "Qué haces", "Dónde está / cómo", "Tiempo"], URGENTE, [5, 22, 38, 70, 10])
 ws2 = wb.create_sheet("2 · Calendario 12–18")
 def pinta(r):
