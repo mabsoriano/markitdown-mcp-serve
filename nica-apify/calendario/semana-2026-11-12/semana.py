@@ -4,7 +4,7 @@ import os
 from openpyxl import Workbook
 from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 AQUI = os.path.dirname(os.path.abspath(__file__))
-FIRMA = "Lo que no se activa, no cambia. @mabradiante · BNQ Method™"
+FIRMA = "Lo que no se activa, no cambia. Y lo que no se repite, no se instala. @mabradiante · BNQ Method™"
 REG = "Regístrate gratis: el link está en mi perfil."
 PAGINA = "https://hotmart.com/es/marketplace/productos/activacionadnmillonario/U104269730G"
 H_LIVE = "#hipnosis #hackeatumente #bloqueosconeldinero #abundancia #livegratis #mabradiante #BNQMethod"

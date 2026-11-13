@@ -19,7 +19,7 @@ Siempre recomiendo lo que más resultado da, aunque cueste más dinero, pero
 - Libro: *Las Fórmulas Cuánticas para Hackear la Matrix*.
 - Podcast (Spotify) y canal de YouTube: **"Las Fórmulas Cuánticas para
   Hackear tu Mente y la Matrix"**.
-- Tagline: "Lo que no se activa, no cambia."
+- Tagline: "Lo que no se activa, no cambia. Y lo que no se repite, no se instala." (nuevo, 12-nov-2026)
 - **FIRMA Y SLOGAN OFICIAL (Mabel, 24-oct-2026):** *"La fórmula definitiva no es un decreto, es la
   BIO-NEUROABUNDANCIA: la reprogramación simultánea de tu ADN, tu energía y tu subconsciente.
   Porque lo que no se ACTIVA, NO CAMBIA. @mabradiante"*. Va al cierre de correos, descripciones de
@@ -413,3 +413,4 @@ Más 1 yapping diario (conexión, sin venta). Total: 2 piezas diarias con su car
 - **HORA Y DÍA (Mabel, 12-nov):** antes de decir "hoy" o "mañana", calcular SIEMPRE la hora de Monterrey/CDMX (UTC-6); el reloj del sistema está en UTC y puede ir un día adelante.
 - **NAIA (Mabel, 12-nov):** le gusta el concepto, pero sola (puro decreto) no atrae gente. Sus audios mezclan FAMOSO + AUTORIDAD o PODEROSA CONEXIÓN al inicio (gancho con dato real o verdad incómoda) y luego la activación corta.
 - **LIVES EN TIKTOK (Mabel, 12-nov-2026):** prueba LIVES en TikTok en vez de Zoom (se ahorra la pauta). 45 min, sin presentación (TikTok no la transmite). En TikTok y en Zoom, la activación SIEMPRE es una PROBADITA (7–10 min), nunca la activación completa: lo que se vende es la repetición (protocolo 21 días, audio 8 h, Fórmula). Se anuncia 3–4 h antes. Guion: `live/guion-live-tiktok-venta.docx`. Primer LIVE: sábado 14-nov, 5:00 PM (Mabel descartó el viernes: la gente sale).
+- **ESLOGAN NUEVO (Mabel, 12-nov-2026, manda sobre el anterior):** **"Lo que no se activa, no cambia. Y lo que no se repite, no se instala."** Va en cierres de videos, captions, correos, LIVES y artes, con @mabradiante · BNQ Method™. Es también el argumento de venta: el LIVE activa (probadita); el producto instala (repetición).
