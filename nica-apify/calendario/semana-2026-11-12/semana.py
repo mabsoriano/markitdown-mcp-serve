@@ -247,6 +247,22 @@ NUEVAS = {
     f"Arianna Huffington se desmayó de cansancio en 2007 ⚡ y las 3 fugas de energía que tú quizá tienes.\nÚnete a mi comunidad Neurohackers: link en mi perfil.\n{FIRMA}", "#energia #burnout #hackeatumente #mabradiante #BNQMethod", "Comunidad"],
 }
 F = [NUEVAS.get((r[0], r[2]), r) for r in F]
+# 13-nov · Mabel: todas las piezas con CTA llevan el CTA del PRODUCTO de la semana (no solo el LIVE).
+import re as _re
+PROD = "Hipnosis para hackear tus bloqueos con el dinero"
+CTA_PROD = f"Si quieres hackearlo de raíz, la {PROD} está en el link de mi perfil."
+def _prod(r):
+    if r[11] not in ("LIVE dom 15", "LIVE mar 17") or r[4] == "Aviso del LIVE de hoy":
+        return r
+    r = list(r)
+    r[7] = _re.sub(r"(CTA: ).*", lambda m: m.group(1) + CTA_PROD, r[7])
+    r[8] = _re.sub(r"Final: «[^»]*»", "Final: «HIPNOSIS PARA HACKEAR TUS BLOQUEOS CON EL DINERO · LINK EN MI PERFIL · BNQ Method™»", r[8])
+    primera = r[9].split("\n")[0]
+    r[9] = f"{primera}\n{PROD}: el link está en mi perfil 👆\n{FIRMA}"
+    r[11] = "Producto · link en perfil"
+    return r
+F = [_prod(r) for r in F]
+
 URG_NUEVO = [
  ["1", "Hoy viernes · ya", "Revisa cuántas personas se registraron para el domingo", "Administrador de anuncios (pauta del domingo 15) + chats de WhatsApp. Mándame captura.", "5 min"],
  ["2", "Hoy viernes · 1 PM", "Yapping «Un día normal de una neurohacker con TDAH»", "Pestaña «Calendario». Sin guion.", "10 min"],
