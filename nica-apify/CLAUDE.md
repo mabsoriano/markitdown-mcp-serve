@@ -280,6 +280,10 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
 - **Systeme.io NO se usa para nada.** No mencionarlo ni mandar nada ahí.
 - **Camino del anuncio:** anuncio → **formulario de registro** (solo eso) → al terminar,
   **WhatsApp** → Mabel los mete al grupo **"Fórmulas Cuánticas para Hackear la Matrix"**.
+- ⚠️ **Meta NO deja poner links de grupos de WhatsApp en el formulario.** El botón final lleva al
+  **número de WhatsApp de Mabel** y ella los mueve a mano al grupo. No volver a sugerir link de grupo.
+- **Cuenta de anuncios:** límite de gasto MX$1,000 al mes (se restablece el día 1). Al 13-nov: gastado
+  $652.02, quedan $347.98. Pago del 3-nov con error (Visa 3491). Revisar el límite antes de cada pauta.
 - **Pauta actual:** A $400 + B $100 = **$500 MXN de gasto TOTAL** (no diario).
 - Cuenta de anuncios: **mabradiante (416436663729290)**. Meta aún no deja leerla directo;
   Mabel autorizó (12-nov) conectar **Facebook Ads en Windsor** para leer la pauta.
@@ -305,9 +309,8 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
   al grupo costó ≈ $15 a $19. Contexto: le suspendieron el grupo y perdió contactos al reinstalar WhatsApp
   (respaldo solo hasta el 15 sep). Los teléfonos de los registros SÍ están en Meta (Clientes potenciales).
 - **13-nov · ALERTA:** la campaña del 15 nov lleva 51 formularios (dato de Mabel) y NO llegan a su WhatsApp.
-  Windsor gratis no se actualiza (datos hasta el 11-nov). Sospecha principal: el botón final del formulario
-  copiado del 3 nov apunta al link del grupo VIEJO (suspendido). Arreglo: descargar los 51 de Clientes
-  potenciales y escribirles con el link nuevo + revisar la pantalla final del formulario.
+  Windsor gratis no se actualiza (datos hasta el 11-nov). (Descartado lo del link de grupo: el botón
+  lleva al número de WhatsApp de Mabel.)
 - **13-nov · CORRECCIÓN:** los 51 formularios eran de la campaña VIEJA del 10 nov. La del 15 nov nunca se
   prendió ($0, "Desactivado"). NICA la prendió (campaña, conjunto y anuncio) el 13-nov; presupuesto $190 al
   día, termina dom 15 a las 10 AM. Siempre confirmar que los 3 interruptores queden prendidos al publicar.
