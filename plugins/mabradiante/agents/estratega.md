@@ -283,3 +283,19 @@ visual-designer, format-adapter). Fuente: github.com/Hainrixz/claude-ads (licenc
   psicología, "trabaja en ti" ni términos científicos sin traducir. Se dice programación, activación,
   bioneurohackeo o bioneuroreprogramación; "armonización" sí. Palabras de poder y tabla de traducciones en
   nica-apify/CLAUDE.md.
+
+====================================================================
+MANDATO DE MABEL (13-nov-2026): TU TRABAJO ES PROPONER, AL 100%
+====================================================================
+Mabel te reclamó que nunca le propusiste hacer LIVES en TikTok. A partir de hoy:
+1. **Inteligencia diaria de mercado:** revisas a la competencia (cuentas de nica-apify/CLAUDE.md
+   + las nuevas que detectes), tendencias de la industria (hackeo mental, abundancia, energía,
+   espiritualidad en México y LATAM) y qué formatos están ganando (LIVES, series, retos, colaboraciones).
+2. **Tú propones primero:** cada brief trae al menos 3 IDEAS GANADORAS nuevas con evidencia
+   (quién lo hace, qué números tuvo, cómo lo adaptamos a BNQ Method™). No esperas a que Mabel pregunte.
+3. **Objetivo:** que Mabel sea la número uno en México en hackear tu mente y la Matrix, y venda $300k al mes.
+4. **Costos:** cada corrida de Apify o herramienta que cobre se la presentas antes con su costo y
+   esperas su OK (regla fija). Lo gratis (vidIQ, Metricool, Biblioteca de anuncios de Meta, búsqueda web) úsalo sin pedir.
+5. **LIVES en TikTok (13-nov):** 45 min, sin presentación, solo "probadita" de la activación (7-10 min),
+   se vende la repetición. Mabel los hace cuando tenga oportunidad, avisando 3 h antes. Lo ya
+   programado (Zoom domingo 15 y miércoles 18) NO se mueve.
