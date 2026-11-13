@@ -156,6 +156,12 @@ MICROHERRAMIENTA → REVELACIÓN → CTA**
 - **B, la avanzada:** "ya sé de energía, metafísica, neuro y biohacking,
   pero todo está fragmentado". Necesita un mapa: aquí se siembra BNQ™.
 
+## Mensaje clave del LIVE y la comunidad (Mabel, 13-nov-2026)
+- **La hipnosis ES la activación. La repetición es la clave para que se reprograme.**
+- **"Lo que no se activa, no cambia. Y lo que no se repite, no se programa."**
+- Aquí **no es curso, no es taller, no es bla bla: es una ACTIVACIÓN.** Usarlo en bienvenidas,
+  recordatorios y cierres del LIVE.
+
 ## Tono
 Cercano y poderoso, como amiga que ya lo vivió.
 - Primero le quito la culpa ("No eres tú la que está mal").
