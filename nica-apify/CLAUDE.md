@@ -320,6 +320,9 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
 - **13-nov · CORRECCIÓN:** los 51 formularios eran de la campaña VIEJA del 10 nov. La del 15 nov nunca se
   prendió ($0, "Desactivado"). NICA la prendió (campaña, conjunto y anuncio) el 13-nov; presupuesto $190 al
   día, termina dom 15 a las 10 AM. Siempre confirmar que los 3 interruptores queden prendidos al publicar.
+- **Avance LIVE 15 nov (leído 14-nov):** 13-nov $197.50 → 33 registros a $5.98; 14-nov (parcial) $86.12 →
+  12 a $7.18. Total $283.62 y 45 registros (≈ $6.30 c/u). Costo por 1,000 vistas bajando ($164 → $104 → $57).
+  Decisión: no mover nada (está entre $6 y $8; cambiar reinicia el aprendizaje y termina dom 10 AM).
 - Dato del 3 nov: los registros más baratos llegaron 1 y 2 días antes del LIVE (2-nov: 106 a $1.39).
 - **Revisión 12-nov:** ninguna campaña tiene exclusiones y no existe un conjunto de B (reconexión).
   La copia del 10 nov repitió el mismo público del 3 nov sin excluir a las 235 registradas. El anuncio
