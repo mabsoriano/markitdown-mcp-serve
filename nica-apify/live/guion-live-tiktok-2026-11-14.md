@@ -39,7 +39,7 @@ Todo vale **solo hasta el lunes 16**. Todo está en el **link de mi perfil**.
 ## 10:00 – 20:00 · CICLO 2 · LA REPETICIÓN (aquí vendes)
 - **Re-gancho:** "Si acabas de llegar: estamos hackeando el programa del dinero. Comenta HIPNOSIS para la de mañana."
 - "¿Sabes por qué no te funcionan los decretos? Porque los dices despierta, con tu mente consciente. Tu programa vive en el subconsciente."
-- **Oferta 1:** "Por eso creé **Programa la Riqueza mientras Duermes**: un audio de 8 horas que pones al dormir, 21 noches, más 3 Fórmulas Cuánticas. Por Buen Fin está en **$500 más impuestos**, antes $1,200, y si compras antes del lunes **te regalo una activación en vivo conmigo el martes a las 11**. Está en el link de mi perfil."
+- **Oferta 1:** "Por eso creé **Programa la Riqueza mientras Duermes**: un audio de 8 horas que pones al dormir, 21 noches, más 3 Fórmulas Cuánticas. Por Buen Fin está en **$500 más impuestos**, antes $1,200, y si compras antes del lunes **te regalo la activación COMPLETA en vivo conmigo el martes a las 11**, y el miércoles a las 10 la mini activación de tus chakras. Escríbeme **YO** y te ayudo. Está en el link de mi perfil. Precio Buen Fin, no te lo puedes perder."
 - **Oferta rápida:** "Si quieres empezar con algo pequeño: **Activaciones Robóticas**, 10 audios de 1 minuto, $399 con el cupón **BUENFIN RADIANTE**."
 
 ## 20:00 – 30:00 · CICLO 3 · TU DOLOR EN UNA PALABRA

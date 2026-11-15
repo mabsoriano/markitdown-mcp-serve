@@ -267,7 +267,9 @@ Se llama **Programa la Riqueza mientras Duermes**, y trabaja tus 3 capas durante
 - **🧬 Fórmula Cuántica para reprogramar tus células (ADN):** para la capa BIO, lo heredado.
 - **💰 Fórmula Cuántica para desbloquear la riqueza y la abundancia.**
 
-**🎁 Y DE REGALO, solo para quienes compren antes del lunes 16:** una **activación EN VIVO conmigo el martes 17 de noviembre a las 11 AM** (hora México), solo para compradoras. Ahí vamos más profundo, juntas.
+**🎁 Y DE REGALO, solo para quienes compren antes del lunes 16:** la **ACTIVACIÓN COMPLETA EN VIVO conmigo el martes 17 de noviembre a las 11 AM** (hora México). Hoy fue la probadita; el martes vamos completas y profundo, juntas. Y el **miércoles 18 a las 10 AM** te regalo también la **mini activación de tus 7 chakras**.
+
+*Recalca:* hoy abriste la puerta; el audio de 21 noches la instala, y el martes la activamos completa. **Lo que no se repite, no se instala.**
 
 Su precio normal es de **$1,200**. **Por Buen Fin está en $500 más impuestos**, y el precio vale **solo hasta el lunes 16 de noviembre**.
 
@@ -299,11 +301,11 @@ Cuando estás a punto de elegir algo para ti, aparecen dos voces.
 
 **QUÉ DICES:**
 
-Si decides hoy, te llevas **Programa la Riqueza mientras Duermes a $500 + impuestos**, y tu **activación en vivo del martes 17** de regalo.
+Si decides hoy, te llevas **Programa la Riqueza mientras Duermes a $500 + impuestos**, tu **activación COMPLETA en vivo del martes 17 a las 11 AM** y la **mini activación de chakras del miércoles 18**, de regalo.
 
 Tienes la **garantía de Hotmart de 7 días**: si no es para ti, Hotmart te regresa tu dinero.
 
-Cuando entres, escríbeme **"ACTIVADA"** en el chat. *Lee cada "ACTIVADA": "¡Bienvenida, [nombre]!" Vuelve a pegar el link.*
+**Escríbeme "YO" en el chat** si lo quieres, y te ayudo personalmente. Cuando compres, te mando por WhatsApp tu acceso a la **activación completa del martes 11 AM**. *Lee cada "YO": "¡[Nombre], te escribo ahorita!" Vuelve a pegar el link.* **Precio Buen Fin: no te lo puedes perder, solo hasta el lunes 16.**
 
 ---
 
@@ -317,7 +319,9 @@ Cuando entres, escríbeme **"ACTIVADA"** en el chat. *Lee cada "ACTIVADA": "¡Bi
 
 - **"¿Cómo me llega?"** Al pagar, Hotmart te manda el acceso a tu correo: el audio de 8 horas y tus 3 Fórmulas Cuánticas.
 - **"¿Cómo lo uso?"** El audio al dormir, 21 noches seguidas. La CEI™ cada mañana, 5 minutos.
-- **"¿Y el regalo del martes?"** Te mando el link de Zoom por WhatsApp. Es solo para quienes compren antes del lunes 16.
+- **"¿Y el regalo del martes?"** Es la activación COMPLETA en vivo, martes 17 a las 11 AM. Te mando el link de Zoom por WhatsApp. Solo para quienes compren antes del lunes 16.
+- **"¿Y el miércoles?"** Mini activación de tus 7 chakras, miércoles 18 a las 10 AM.
+- *A cada "YO" que no haya comprado: escríbele por WhatsApp en menos de 1 hora.*
 - **"¿Y si no tengo tarjeta?"** Hotmart acepta varias formas de pago [revisa cuáles tienes activas].
 - **"¿Funciona si no creo mucho?"** No necesitas creer, necesitas repetir. Lo que repites, se instala.
 - **"¿Me va a pagar mis deudas?"** Con honestidad: no te prometo cifras. Lo que hacemos es hackear el programa con el que piensas, sientes y decides con el dinero.
