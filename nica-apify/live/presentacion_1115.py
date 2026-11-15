@@ -35,15 +35,15 @@ def s_oferta():
     items = ["Audio de activación de 8 horas · 21 noches", "Fórmula Cuántica CEI™",
              "Fórmula Cuántica ADN · reprograma tus células",
              "Fórmula Cuántica para desbloquear la riqueza",
-             "REGALO: activación en vivo · martes 17 · 11 AM"]
+             "REGALO: activación COMPLETA en vivo · martes 17 · 11 AM",
+             "REGALO: mini activación de chakras · miércoles 18 · 10 AM"]
     for i, t in enumerate(items, 1):
         d.ellipse([92, y + 14, 112, y + 34], fill=ORO)
-        y = max(parrafo(d, t, f(SANS, 36), 135, y, x0 - 200, ORO_CLARO if i == 5 else BLANCO), y + 50) + 16
+        y = max(parrafo(d, t, f(SANS, 33), 135, y, x0 - 200, ORO_CLARO if i >= 5 else BLANCO), y + 50) + 10
     d.text((90, y + 20), "Antes $1,200", font=f(SANS, 44), fill=GRIS)
     w = d.textlength("Antes $1,200", font=f(SANS, 44))
     d.line([(90, y + 47), (90 + w, y + 47)], fill=(230, 90, 90), width=5)
     d.text((90, y + 75), "$500 + impuestos", font=f(SERIF, 80), fill=ORO_CLARO)
-    d.text((90, H - 150), CIERRE, font=f(SANS, 38), fill=ORO)
     pie(d)
     return img
 
@@ -52,8 +52,8 @@ def s_decide():
     img = universo(39)
     d = ImageDraw.Draw(img)
     y = encabezado(d, "SI DECIDES HOY", "Programa la Riqueza · $500", ancho=1050)
-    for t in ["+ impuestos · antes $1,200", "REGALO: activación en vivo martes 17 · 11 AM",
-              "Garantía Hotmart de 7 días", CIERRE, "Al entrar, escribe ACTIVADA en el chat"]:
+    for t in ["+ impuestos · antes $1,200", "REGALO: activación COMPLETA en vivo · martes 17 · 11 AM",
+              "Garantía Hotmart de 7 días", CIERRE, "¿Lo quieres? Escribe YO en el chat"]:
         d.ellipse([92, y + 18, 112, y + 38], fill=ORO)
         y = max(parrafo(d, t, f(SANS, 42), 135, y, 960, BLANCO), y + 55) + 30
     caja(img, (1260, 180, 1800, 880), 24, ORO_CLARO)
