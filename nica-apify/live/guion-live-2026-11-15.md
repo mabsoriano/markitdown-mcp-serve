@@ -275,11 +275,13 @@ Su precio normal es de **$1,200**. **Por Buen Fin está en $500 más impuestos**
 
 Ya te dejé el link en el chat.
 
-### 37:00 – 39:00 · Testimonios
+### 37:00 – 39:00 · Testimonio (lámina 16 · NO ME CREAS, ESCÚCHALAS)
 
-**QUÉ PROYECTAS:** Video de testimonio 1 y 2 [Mabel elige · con permiso por escrito].
+**QUÉ PROYECTAS:** Lámina 16 con el video. **Da clic al video** (en Zoom, "Compartir sonido" activado).
 
-**QUÉ DICES:** Quiero que escuches a alguien que ya vivió una activación conmigo. *Pon los videos. Si alguien dio permiso de su palabra de hoy, léela.*
+**QUÉ DICES:** No me creas a mí. Escúchalas a ellas. Fíjate en lo que dice: *"lo escucho todos los días y poco a poco he visto los cambios"*. Eso es la repetición. *Pon el video (1 minuto).* [PAUSA]
+
+Al terminar: ¿Escuchaste? No fue una sola vez. **Lo escucha todos los días.** Lo que no se repite, no se instala.
 
 ### 39:00 – 42:00 · Las 2 voces que aparecen
 
