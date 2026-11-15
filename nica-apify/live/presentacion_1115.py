@@ -65,6 +65,29 @@ def s_decide():
     return img
 
 
+def s_regalo_roboticas():
+    img = universo(40)
+    d = ImageDraw.Draw(img)
+    d.text((90, 60), "Y POR SI FUERA POCO · SOLO HOY, NO MAÑANA", font=f(SANS, 36), fill=ORO)
+    d.text((90, 105), "DE REGALO: 10 Activaciones Robóticas Millonarias", font=f(SERIF, 64), fill=ORO_CLARO)
+    parrafo(d, "Porque es Buen Fin y ya casi es Navidad. 10 audios de 1 minuto para reprogramar tu dinero "
+               "donde estés: mientras manejas, cocinas o caminas.", f(SANS_REG, 34), 90, 195, 1740, BLANCO)
+    audios = ["Yo merezco recibir dinero con facilidad", "Mi dinero se queda donde yo lo coloco",
+              "Tener dinero me hace más libre, no peor persona", "Salgo de mis deudas con calma y con un plan",
+              "Suelto la escasez que heredé", "Atraigo clientes que valoran y pagan lo que ofrezco",
+              "Me veo ganando más y ya no me da miedo", "Mi dinero llega de muchas formas",
+              "Dejo de compararme: mi dinero llega a mi ritmo", "Mi dinero trabaja para mí mientras yo descanso"]
+    for i, t in enumerate(audios):
+        x = 90 + (i // 5) * 890
+        y = 330 + (i % 5) * 112
+        circulo_num(d, x + 30, y + 30, i + 1, 26)
+        parrafo(d, t, f(SANS, 32), x + 80, y + 8, 780, BLANCO, inter=1.1)
+    t1 = "Solo si compras HOY, domingo 15 · Escribe YO en el chat"
+    d.text((W / 2 - d.textlength(t1, font=f(SANS, 42)) / 2, H - 165), t1, font=f(SANS, 42), fill=ORO_CLARO)
+    pie(d)
+    return img
+
+
 def s_probadita():
     img = Q.s_hipnosis()
     d = ImageDraw.Draw(img)
@@ -77,7 +100,7 @@ SLIDES = [("01_portada", P.d01_portada), ("02_cuidados", P.d02_cuidados), ("03_p
           ("04_capas", Q.s_capas), ("05_bio", Q.s_bio), ("06_duke", Q.s_duke), ("07_hebb", Q.s_hebb),
           ("08_quantum", Q.s_quantum), ("09_taxistas", Q.s_taxistas), ("10_quien_soy", P.d17_quien_soy),
           ("11_preparate", P.d18_preparate), ("12_probadita", s_probadita), ("13_sentiste", P.d20_sentiste),
-          ("14_puerta", s_puerta), ("15_oferta", s_oferta), ("16_razones", Q.s_razones), ("17_decide", s_decide),
+          ("14_puerta", s_puerta), ("15_oferta", s_oferta), ("16_razones", Q.s_razones), ("17_decide", s_decide), ("17b_regalo_roboticas", s_regalo_roboticas),
           ("18_comunidad", P.d26_comunidad), ("19_cierre", P.d27_cierre)]
 
 

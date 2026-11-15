@@ -307,6 +307,12 @@ Tienes la **garantía de Hotmart de 7 días**: si no es para ti, Hotmart te regr
 
 **Escríbeme "YO" en el chat** si lo quieres, y te ayudo personalmente. Cuando compres, te mando por WhatsApp tu acceso a la **activación completa del martes 11 AM**. *Lee cada "YO": "¡[Nombre], te escribo ahorita!" Vuelve a pegar el link.* **Precio Buen Fin: no te lo puedes perder, solo hasta el lunes 16.**
 
+### 45:00 – 46:00 · Y por si fuera poco (lámina "DE REGALO: Activaciones Robóticas")
+
+**QUÉ DICES:** Y por si fuera poco… **solo hoy, no mañana**, porque es Buen Fin y ya casi es Navidad: si compras hoy, domingo 15, **te regalo mis 10 Activaciones Robóticas Millonarias**, 10 audios de 1 minuto para reprogramar tu dinero donde estés. *Lee 3 en voz alta.* Escríbeme **YO** en el chat.
+
+*Después del live: a cada compradora de HOY dale acceso a las Robóticas (producto aparte en Hotmart).*
+
 ---
 
 ## BLOQUE 7 · PREGUNTAS Y CIERRE
