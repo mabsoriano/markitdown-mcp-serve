@@ -88,6 +88,18 @@ def s_regalo_roboticas():
     return img
 
 
+def s_testimonios():
+    img = universo(36)
+    d = ImageDraw.Draw(img)
+    d.text((90, 70), "NO ME CREAS · ESCÚCHALAS", font=f(SANS, 34), fill=ORO)
+    parrafo(d, "Lo que dicen quienes ya lo están repitiendo", f(SERIF, 62), 90, 115, 760, ORO_CLARO)
+    parrafo(d, "Da clic en el video para reproducirlo.", f(SANS_REG, 34), 90, 420, 700, BLANCO)
+    parrafo(d, "Lo que no se repite, no se instala.", f(SANS, 40), 90, 560, 700, ORO_CLARO)
+    caja(img, (1090, 40, 1600, 1000), 20)
+    pie(d)
+    return img
+
+
 def s_probadita():
     img = Q.s_hipnosis()
     d = ImageDraw.Draw(img)
@@ -100,7 +112,7 @@ SLIDES = [("01_portada", P.d01_portada), ("02_cuidados", P.d02_cuidados), ("03_p
           ("04_capas", Q.s_capas), ("05_bio", Q.s_bio), ("06_duke", Q.s_duke), ("07_hebb", Q.s_hebb),
           ("08_quantum", Q.s_quantum), ("09_taxistas", Q.s_taxistas), ("10_quien_soy", P.d17_quien_soy),
           ("11_preparate", P.d18_preparate), ("12_probadita", s_probadita), ("13_sentiste", P.d20_sentiste),
-          ("14_puerta", s_puerta), ("15_oferta", s_oferta), ("16_razones", Q.s_razones), ("17_decide", s_decide), ("17b_regalo_roboticas", s_regalo_roboticas),
+          ("14_puerta", s_puerta), ("15_oferta", s_oferta), ("15b_testimonios", s_testimonios), ("16_razones", Q.s_razones), ("17_decide", s_decide), ("17b_regalo_roboticas", s_regalo_roboticas),
           ("18_comunidad", P.d26_comunidad), ("19_cierre", P.d27_cierre)]
 
 
@@ -118,6 +130,18 @@ def armar():
     for r in rutas:
         s = pres.slides.add_slide(pres.slide_layouts[6])
         s.shapes.add_picture(str(r), 0, 0, pres.slide_width, pres.slide_height)
+    # video testimonio dentro de la lámina (para Keynote / PowerPoint)
+    vid = P.AQUI / "testimonio-final.mp4"
+    idx = [n for n, _ in SLIDES].index("15b_testimonios")
+    if vid.exists():
+        poster = SALIDA / "poster-testimonio.jpg"
+        import subprocess
+        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-ss", "2", "-i", str(vid), "-frames:v", "1", str(poster)], check=True)
+        sl = pres.slides[idx]
+        emu = 12192000 / 1920
+        x, y, w, h = 1100, 50, 490, 940
+        sl.shapes.add_movie(str(vid), int(x * emu), int(y * emu), int(w * emu), int(h * emu),
+                            poster_frame_image=str(poster), mime_type="video/mp4")
     pres.save(P.AQUI / "presentacion-live-2026-11-15.pptx")
     imgs = [Image.open(r).convert("RGB") for r in rutas]
     imgs[0].save(P.AQUI / "presentacion-live-2026-11-15.pdf", save_all=True, append_images=imgs[1:])
