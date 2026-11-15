@@ -3,7 +3,9 @@
 
 ## Datos del brief (de Mabel)
 - **Producto:** Programa la Riqueza mientras Duermes (BNQ Method™) · **$500 + impuestos** (antes $1,200)
-- **Landing:** https://bioneuroabundancia.vercel.app/#oferta (no se pudo abrir desde aquí: s/d)
+- **Link del anuncio (Mabel, 15-nov): Hotmart, NO la de Vercel** →
+  https://hotmart.com/es/marketplace/productos/activacionadnmillonario/U104269730G
+  (es la Activación ADN Millonario, mismo código U104269730G. No se pudo abrir desde aquí: s/d)
 - **Fechas:** hoy domingo 15 → **viernes 20 de noviembre**
 - **Mensaje:** el Buen Fin se extiende esta semana + **regalo: activación en vivo** para quien compre ([FECHA Y HORA])
 - **Creativos:** video 12 s en 4:5 (1080×1350) y 9:16 (1080×1920), revisados ✅ + arte 4:5 aprobada
@@ -14,7 +16,7 @@
 - **1 campaña de Ventas** → 1 conjunto → **3 anuncios** (video 4:5, video 9:16, arte 4:5). Meta reparte solo al que mejor jale.
 - **Público:** el mismo que funcionó en los LIVES: México, 25 a 65, mujeres y hombres, intereses "holístico México".
 - **Optimizar por:** Compra (si el Pixel de Hotmart registra la compra) · si no, "Vistas de la página de destino".
-- **Botón:** "Comprar" → landing #oferta.
+- **Botón:** "Comprar" → página de Hotmart del producto.
 - **Termina:** viernes 20 nov, 11:59 PM.
 
 ## Presupuesto (para que Mabel elija)
@@ -66,4 +68,5 @@ Mabel Soriano · mabradiante · BNQ Method™
 2. Fecha y hora de la activación en vivo de regalo.
 3. Que "antes $1,200" fue un precio real (Meta y PROFECO castigan precios tachados inventados).
 4. Que el Pixel MabRadiante está conectado en Hotmart para contar las compras.
-5. Qué incluye exactamente el producto (¿es el audio de 21 noches de Bioneuro Abundancia?).
+5. Que el precio en Hotmart ya diga $500 (si dice $750 o $1,200, la gente se va).
+6. Qué incluye exactamente el producto (¿es el audio de 21 noches de Bioneuro Abundancia?).
