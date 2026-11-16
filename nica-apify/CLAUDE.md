@@ -442,3 +442,6 @@ Más 1 yapping diario (conexión, sin venta). Total: 2 piezas diarias con su car
 - **CAMPAÑA 15-21 nov (Mabel, 15-nov, tras live con 0 ventas):** se acabaron las probaditas largas a no compradoras. Pauta Meta desde dom 15 noche hasta sáb 21 directo a la página de Hotmart de Programa la Riqueza ($500 + imp). Regalo: HIPNOSIS COMPLETA EN VIVO dom 22 · 11 AM SOLO compradoras. Lives TikTok mar 17, jue 19, sáb 21 · 8:30 PM (sugerido). Plan: `briefs/campana-riqueza-2026-11-15-al-21.md`. Live dom 15: 62 inscritos → 25 entraron → 9 al final → 0 "YO".
 - **Decisión (Mabel, 15-nov tarde):** NO pauta pagada esta semana; vende Programa la Riqueza con LIVES en TikTok (mar 17, jue 19, sáb 21 · 8:30 PM sugerido). La primera compradora (1 "YO QUIERO" del live 15) recibe lo prometido el martes 17. La hipnosis/activación COMPLETA de compradoras va por Zoom privado, nunca en TikTok (es público).
 - ⛔ **SIN PRECIO EN AVISOS DE LIVE (Mabel, 15-nov):** las artes y copys que anuncian un live NO llevan precio ($). El precio solo se dice dentro del live.
+
+## TABLERO ÚNICO
+Antes de cualquier tarea, lee `nica-apify/ESTADO.md` (estado del negocio). Si contradice un brief viejo, manda ESTADO.md. Al terminar, agrega 2-3 líneas a su bitácora.
