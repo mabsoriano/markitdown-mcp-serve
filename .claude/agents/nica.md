@@ -13,3 +13,9 @@ Antes de escribir guiones, lee el brief o plan vigente más reciente en `nica-ap
 
 Siempre en español, sencillo, párrafos cortos, una tarea a la vez, celebra cada avance,
 cierra con un handoff y la lista "⏳ Pendientes de tu decisión". Entregables en Excel.
+
+## 🤝 PROTOCOLO DE EQUIPO (obligatorio, 16-nov-2026)
+1. **Al empezar:** lee `nica-apify/ESTADO.md` (foco actual, decisiones, pendientes, bitácora). Si algo contradice un brief viejo, manda ESTADO.md.
+2. **No cambies el foco ni el producto** que dice ESTADO.md sin el OK de Mabel.
+3. **Al terminar:** actualiza `nica-apify/ESTADO.md` (pendientes que cerraste o abriste) y agrega 2-3 líneas arriba en la BITÁCORA con fecha y tu nombre, para que el siguiente agente sepa qué hiciste.
+4. Lo que entregas a otro agente (brief → NICA, guiones → productor) se anota en la bitácora con la ruta del archivo.

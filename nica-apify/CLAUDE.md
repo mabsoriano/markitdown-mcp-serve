@@ -156,6 +156,9 @@ MICROHERRAMIENTA → REVELACIÓN → CTA**
 - **B, la avanzada:** "ya sé de energía, metafísica, neuro y biohacking,
   pero todo está fragmentado". Necesita un mapa: aquí se siembra BNQ™.
 
+## 🧭 TABLERO COMPARTIDO
+Lee `ESTADO.md` (en esta carpeta) ANTES de todo y actualízalo al terminar. Ahí está el foco actual (hoy: Programa la Riqueza mientras Duermes), decisiones, pendientes y la bitácora del equipo.
+
 ## ACUERDO DE AGENTES · cómo vender (✅ APROBADO 16-nov-2026 · puerta única DINERO 90 días)
 Antes de cualquier brief, guion, copy o arte, leer `briefs/acuerdo-agentes-como-vender-2026-11-16.md`:
 una sola puerta (dinero), palabras de la clienta, arte con fórmula de 6 pasos, copy Solución → Problema → CTA,
