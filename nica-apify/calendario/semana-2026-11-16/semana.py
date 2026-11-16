@@ -170,7 +170,7 @@ HOY = [
  ["5", "Martes 17 · 11:00 AM", "Live privado con tu(s) compradora(s)", "Lo prometido del Buen Fin, por Zoom privado.", "—"],
 ]
 NUM = [
- ["Ventas de la semana 10–16", "$0 (al domingo); 1 «YO QUIERO» en el live del 15"],
+ ["Ventas de la semana 10–16", "$0 (al domingo); 0 «YO» en el live del 15"],
  ["LIVES", "6 → 28 → 55–60 personas; live del dom 15: 62 inscritas, 25 entraron, 9 al final"],
  ["Correo", "1,132 enviados · 233 aperturas (20.6%)"],
  ["Linktree / web / NAIA", "27 clics · 44 visitas · 8 registros"],
