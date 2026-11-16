@@ -86,3 +86,7 @@ Mabel Soriano · mabradiante · BNQ Method™
 - **Revisión:** jueves 19 nov → apagar el anuncio más caro.
 - **Mabel aprobó (16-nov):** $600 total ($420 frío + $180 retargeting) y confirmó que "antes $1,200" fue un precio real.
   Se prende solo cuando estén los anuncios y el público de retargeting, y Mabel vea la vista previa.
+- **16-nov · PRENDIDA por NICA:** campaña + conjunto FRÍO + conjunto RETARGETING (Mabel subió los anuncios
+  en Ads Manager con `src=meta_riqueza` para ver ventas en Hotmart → Ventas → Origen).
+- Límites: el conector de Meta sigue bloqueado para esta cuenta ("se libera poco a poco"); Windsor gratis
+  lee con retraso y solo muestra lo que ya gastó. No sube videos de la compu ni crea públicos.
