@@ -156,6 +156,11 @@ MICROHERRAMIENTA → REVELACIÓN → CTA**
 - **B, la avanzada:** "ya sé de energía, metafísica, neuro y biohacking,
   pero todo está fragmentado". Necesita un mapa: aquí se siembra BNQ™.
 
+## ACUERDO DE AGENTES · cómo vender (propuesta 16-nov-2026, espera OK de Mabel)
+Antes de cualquier brief, guion, copy o arte, leer `briefs/acuerdo-agentes-como-vender-2026-11-16.md`:
+una sola puerta (dinero), palabras de la clienta, arte con fórmula de 6 pasos, copy Solución → Problema → CTA,
+y los 5 números de cada lunes.
+
 ## Mensaje clave del LIVE y la comunidad (Mabel, 13-nov-2026)
 - **La hipnosis ES la activación. La repetición es la clave para que se reprograme.**
 - **"Lo que no se activa, no cambia. Y lo que no se repite, no se programa."**
