@@ -156,6 +156,20 @@ MICROHERRAMIENTA → REVELACIÓN → CTA**
 - **B, la avanzada:** "ya sé de energía, metafísica, neuro y biohacking,
   pero todo está fragmentado". Necesita un mapa: aquí se siembra BNQ™.
 
+## 🧭 TABLERO COMPARTIDO
+Lee `ESTADO.md` (en esta carpeta) ANTES de todo y actualízalo al terminar. Ahí está el foco actual (hoy: Programa la Riqueza mientras Duermes), decisiones, pendientes y la bitácora del equipo.
+
+## ACUERDO DE AGENTES · cómo vender (✅ APROBADO 16-nov-2026 · puerta única DINERO 90 días)
+Antes de cualquier brief, guion, copy o arte, leer `briefs/acuerdo-agentes-como-vender-2026-11-16.md`:
+una sola puerta (dinero), palabras de la clienta, arte con fórmula de 6 pasos, copy Solución → Problema → CTA,
+y los 5 números de cada lunes.
+
+## Mensaje clave del LIVE y la comunidad (Mabel, 13-nov-2026)
+- **La hipnosis ES la activación. La repetición es la clave para que se reprograme.**
+- **"Lo que no se activa, no cambia. Y lo que no se repite, no se programa."**
+- Aquí **no es curso, no es taller, no es bla bla: es una ACTIVACIÓN.** Usarlo en bienvenidas,
+  recordatorios y cierres del LIVE.
+
 ## Tono
 Cercano y poderoso, como amiga que ya lo vivió.
 - Primero le quito la culpa ("No eres tú la que está mal").
@@ -275,6 +289,53 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
   5. **RESUMEN:** 5 líneas: qué aprendimos, qué toca publicar y cuánto
      crédito de Apify llevamos en el mes.
   6. **Entrego el PDF de la semana** para grabar.
+
+## Pauta de Meta Ads (decisión de Mabel, 12-nov-2026)
+- **Systeme.io NO se usa para nada.** No mencionarlo ni mandar nada ahí.
+- **Camino del anuncio:** anuncio → **formulario de registro** (solo eso) → al terminar,
+  **WhatsApp** → Mabel los mete al grupo **"Fórmulas Cuánticas para Hackear la Matrix"**.
+- ⚠️ **Meta NO deja poner links de grupos de WhatsApp en el formulario.** El botón final lleva al
+  **número de WhatsApp de Mabel** y ella los mueve a mano al grupo. No volver a sugerir link de grupo.
+- **Cuenta de anuncios:** límite de gasto MX$1,000 al mes (se restablece el día 1). Al 13-nov: gastado
+  $652.02, quedan $347.98. Pago del 3-nov con error (Visa 3491). Revisar el límite antes de cada pauta.
+- **Pauta actual:** A $400 + B $100 = **$500 MXN de gasto TOTAL** (no diario).
+- Cuenta de anuncios: **mabradiante (416436663729290)**. Meta aún no deja leerla directo;
+  Mabel autorizó (12-nov) conectar **Facebook Ads en Windsor** para leer la pauta.
+  Ya está conectada en el Windsor de contacto@mabradiante.com (`facebook`, cuenta 416436663729290).
+- El formulario es **el de Meta** (formulario instantáneo), no uno en la web.
+- **Resultados (leídos 12-nov):** Fase 1 · 3 nov "ANUNCIO 1" = $557.61, **235 registros a $2.37**
+  (el GANADOR). 10 nov copia del mismo anuncio = $286.78, 51 registros a $5.62. Anuncio nuevo
+  "10 NOV ANUNCIO 1" = $365.24, 14 registros a $26.09 (el perdedor). Total: $1,209.63 y 300 registros.
+- **Públicos acordados:** A ($400) = gente que NO la ha visto, EXCLUYENDO a quien ya la vio.
+  B ($100) = SOLO quien la vio pero NO llenó el formulario.
+- **Regla (12-nov):** la pauta es SIEMPRE para el **LIVE de Hipnosis** y SIEMPRE para **gente nueva**.
+- **Decisión de Mabel (12-nov):** **todavía NO se excluyen públicos** (ha pautado poco). Público:
+  **mujeres y hombres, solo México, 25 a 65 años**, con su público guardado "holístico México" (ya trae intereses).
+  (Antes: el 3 nov fue solo mujeres. Comparar el costo por registro al meter hombres.)
+- **Próximo LIVE pautado:** "Hipnosis para Hackear tus bloqueos con el Dinero" · **domingo 15 nov 2026, 11 AM hora MX**, gente nueva. Arte nuevo 4:5 (Mabel con billetes, fondo cósmico dorado).
+- **Campaña armada por NICA (12-nov, EN PAUSA):** "LIVE Hipnosis Dinero · 15 nov" (id 120254215834630237),
+  copia del conjunto del 3 nov → "LIVE HIPNOSIS 15 NOV · MX mujeres y hombres" (id 120254215836630237),
+  anuncio copiado id 120254215837940237. Mismos intereses, solo MX, 25-65, mujeres y hombres, termina dom 15
+  a las 10 AM. Presupuesto DIARIO $175 (≈ $500 en total hasta el domingo; Meta no deja ponerlo total en un
+  conjunto copiado ni un límite de campaña menor a $1,500).
+  Falta (Mabel en Ads Manager): cambiar imagen al arte nuevo 4:5 + 9:16, revisar texto y fecha del formulario, y publicar.
+- **Llegada al grupo (12-nov):** de 300 registros entraron ~65 a 80 (≈ 1 de cada 4). Cada persona que llegó
+  al grupo costó ≈ $15 a $19. Contexto: le suspendieron el grupo y perdió contactos al reinstalar WhatsApp
+  (respaldo solo hasta el 15 sep). Los teléfonos de los registros SÍ están en Meta (Clientes potenciales).
+- **13-nov · ALERTA:** la campaña del 15 nov lleva 51 formularios (dato de Mabel) y NO llegan a su WhatsApp.
+  Windsor gratis no se actualiza (datos hasta el 11-nov). (Descartado lo del link de grupo: el botón
+  lleva al número de WhatsApp de Mabel.)
+- **13-nov · CORRECCIÓN:** los 51 formularios eran de la campaña VIEJA del 10 nov. La del 15 nov nunca se
+  prendió ($0, "Desactivado"). NICA la prendió (campaña, conjunto y anuncio) el 13-nov; presupuesto $190 al
+  día, termina dom 15 a las 10 AM. Siempre confirmar que los 3 interruptores queden prendidos al publicar.
+- **Avance LIVE 15 nov (leído 14-nov):** 13-nov $197.50 → 33 registros a $5.98; 14-nov (parcial) $86.12 →
+  12 a $7.18. Total $283.62 y 45 registros (≈ $6.30 c/u). Costo por 1,000 vistas bajando ($164 → $104 → $57).
+  Decisión: no mover nada (está entre $6 y $8; cambiar reinicia el aprendizaje y termina dom 10 AM).
+- Dato del 3 nov: los registros más baratos llegaron 1 y 2 días antes del LIVE (2-nov: 106 a $1.39).
+- **Revisión 12-nov:** ninguna campaña tiene exclusiones y no existe un conjunto de B (reconexión).
+  La copia del 10 nov repitió el mismo público del 3 nov sin excluir a las 235 registradas. El anuncio
+  nuevo del 10 nov salió a hombres y mujeres de MX, EU y Sudamérica con un público similar → $26 por
+  registro. Los intereses traen relleno (videojuegos, póker, casino, bares, heavy metal).
 
 ## Recordatorios para Mabel (cuando sea oportuno)
 - **Meta Ads ($300 al día):** mandarlos a NAIA, cuando NAIA y los 5 niveles

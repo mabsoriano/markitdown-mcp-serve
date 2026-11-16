@@ -146,3 +146,9 @@ atribución que indique la sesión.
   de más de 30 s. Mabel autorizó 2 videos con avatar por semana. Usar formato 9:16.
 - Foto de referencia: la de Mabel con el libro (fondo blanco). Ojo: el texto del libro en
   esa foto está deformado por la IA; preferir una foto sin texto visible.
+
+## 🤝 PROTOCOLO DE EQUIPO (obligatorio, 16-nov-2026)
+1. **Al empezar:** lee `nica-apify/ESTADO.md` (foco actual, decisiones, pendientes, bitácora). Si algo contradice un brief viejo, manda ESTADO.md.
+2. **No cambies el foco ni el producto** que dice ESTADO.md sin el OK de Mabel.
+3. **Al terminar:** actualiza `nica-apify/ESTADO.md` (pendientes que cerraste o abriste) y agrega 2-3 líneas arriba en la BITÁCORA con fecha y tu nombre, para que el siguiente agente sepa qué hiciste.
+4. Lo que entregas a otro agente (brief → NICA, guiones → productor) se anota en la bitácora con la ruta del archivo.
