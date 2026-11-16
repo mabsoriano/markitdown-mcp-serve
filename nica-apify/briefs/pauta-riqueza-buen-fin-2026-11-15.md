@@ -84,3 +84,5 @@ Mabel Soriano · mabradiante · BNQ Method™
 - **Anuncios:** no se pudieron crear desde aquí (los videos deben subirse desde Ads Manager). 2 por conjunto:
   copy 1 + video/arte y copy 2 + video. Botón "Comprar" → Hotmart.
 - **Revisión:** jueves 19 nov → apagar el anuncio más caro.
+- **Mabel aprobó (16-nov):** $600 total ($420 frío + $180 retargeting) y confirmó que "antes $1,200" fue un precio real.
+  Se prende solo cuando estén los anuncios y el público de retargeting, y Mabel vea la vista previa.
