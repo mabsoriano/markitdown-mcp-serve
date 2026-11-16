@@ -46,6 +46,7 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- 16-nov noche · NICA: Mabel extiende Riqueza 2 semanas más (fecha de cierre por confirmar). Hice 3 faceless morados con CTA a Riqueza (07 nadie te enseñó, 08 mientras duermes, 09 app del banco). Pendiente: plan 2 semanas (contenido diario, variaciones de arte, pauta) y fecha real de cierre.
 - 16-nov · NICA (chat 2): copié el tablero a esta rama. Guion de conversación "¿Qué frase del dinero escuchabas en tu casa?" + mensaje "último día" (hoy) y "me lo pidieron, hasta sáb 21" (mar 17). Mabel graba 3 videos diarios: guiones completos, sin corchetes.
 - **16-nov · Estratega:** brief 16-22 nov listo: `briefs/brief-semana-2026-11-16.md` y `.xlsx`. Foco SOLO Riqueza
   mientras Duermes ($500, cierre sáb 21 11:59 PM, hipnosis Zoom dom 22 11 AM); venta mar 17, jue 19 y sáb 21 (1 de 3 piezas).
