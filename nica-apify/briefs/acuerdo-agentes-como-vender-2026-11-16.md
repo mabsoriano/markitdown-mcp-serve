@@ -1,7 +1,8 @@
-# ACUERDO DE AGENTES · Cómo vamos a vender (PROPUESTA · espera el OK de Mabel)
+# ACUERDO DE AGENTES · Cómo vamos a vender · ✅ APROBADO POR MABEL (16-nov-2026)
 > NICA · 16-nov-2026. Para **estratega, NICA y productor**. Basado en 2 pautas de María Montemayor que Mabel compartió
 > (la cabeza "Conecta con el dinero" y la abuela "¡CUIDADO!") y en los números reales de Mabel de oct-nov.
-> ⚠️ La presentación de María que Mabel mencionó NO llegó a esta conversación: s/d. Si llega, se actualiza este archivo.
+> ✅ Mabel compartió la presentación "sistema María Montemayor" (43 láminas) el 16-nov: integrada abajo.
+> ✅ **Puerta única DINERO por 90 días: APROBADA** (16-nov → 14-feb-2027).
 
 ## El diagnóstico (en una frase)
 **El método de Mabel es más completo. Lo que falla es cómo se ofrece:** muchas puertas, lenguaje de método,
@@ -43,3 +44,54 @@ Pendiente técnico: **conectar el Pixel en Hotmart** para que Meta aprenda quié
 - **Estratega:** el brief semanal (el último es del 26-oct, está viejo) parte de este acuerdo: un problema, una oferta, los 5 números.
 - **NICA:** guiones y copys en palabras de la clienta; fórmula Solución → Problema → CTA; CTA al registro del LIVE.
 - **Productor:** artes con la fórmula de 6 pasos; siempre 4:5 y 9:16; en Grok.
+
+---
+
+## EL SISTEMA COMPLETO DE MARÍA (de la presentación de 43 láminas)
+Copiamos la **estructura**, nunca su texto, imágenes ni promesas.
+
+### 1. Anuncios (puerta)
+- "TALLER GRATIS · Cómo crear riqueza y abundancia ilimitada rompiendo los 3 principales bloqueos espirituales".
+- Su foto sonriendo, fecha y hora grande, botón "TOCA EL BOTÓN", prueba social ("+30 mil personas ayudadas").
+- Carruseles de valor ("3 cosas que hago a diario…") y artes de choque (abuela, cabeza con frases).
+- Copy: historia personal corta (yo también estaba bloqueada → cambié → ahora fluyo) + 5 viñetas de lo que enseña + "¡Últimos cupos! Regístrate GRATIS".
+
+### 2. Registro → WhatsApp (aquí está la fuga de Mabel)
+- Página de registro (NO formulario de Meta) → página de gracias "¡Ya casi completas tu registro!" con **video de ella**
+  y **2 horarios a elegir (11:00 AM y 7:30 PM)** → botón al **grupo de WhatsApp**.
+- **Grupos numerados y SOLO ADMINISTRADORES** ("El secreto para pagar tus deudas ✨ AM #30"): ella publica, nadie escribe.
+  → No se suspenden, no hay spam, no hay que meter gente a mano.
+- Recordatorio "🔴 ¡¡CONÉCTATE AHORA!!" con el link a la hora de la clase.
+
+### 3. Venta inmediata chiquita (tripwire)
+- Al registrarse: "¡Espera! Tengo algo más para ti" → **ebook $7 USD** (antes $29).
+
+### 4. La clase en vivo (WebinarJam, ~2 horas)
+1. "Tómate esta clase en serio y quédate hasta el final" + **REGALO al final** (meditación).
+2. Testimonios en pantalla desde el inicio.
+3. El problema en 2 factores (bloqueos con el dinero / fugas de dinero).
+4. **4 escenarios → "¿con cuál te identificas? Escríbelo en el chat."** (engagement).
+5. Su marco propio (leyes, 7 dones internos, misión).
+6. Historia de autoridad (pantallazos de su facturación).
+7. "¿Cuántos años llevas bloqueada?" → urgencia del bloqueo.
+8. Resumen y corte: "Los que solo vinieron a ver la clase, gracias. Los que quieren invertir, levanten la mano."
+9. **Oferta grande**: programa de 12 módulos (~$7,000 MXN). Precio ancla 9 pagos de $90 USD → hoy 6 pagos,
+   o 1 pago de $397 USD (49% desc.), o **prueba gratis de 7 días**. Solo durante la clase. VIP "AGOTADO".
+10. **Garantía de 60 días.** Testimonios en video y en captura. Objeciones: "no me conoces" / "miedo a comprometerte".
+
+### 5. Página de pago
+- Básico vs VIP, bonos apilados, muro de testimonios, chat de ayuda.
+
+## LO QUE ESTO SIGNIFICA PARA MABEL (acuerdos nuevos)
+1. **En el LIVE no se vende algo de $500: se vende el programa grande.** Mabel ya lo tiene:
+   **Las Fórmulas Cuánticas (5 niveles) / Recorrido Completo $7,500** → en **6 pagos**, con garantía (la de Hotmart)
+   y bonos. Los productos de $500 (Riqueza, Robóticas) son **regalo, bono o venta chiquita**, no la oferta del LIVE.
+   (Meta 300K: 40 ventas de $7,500 = $300,000.)
+2. **Registro en página propia (Vercel) con página de gracias + video + 2 horarios + link al grupo.** El formulario de
+   Meta no deja poner link de grupo; por eso 3 de 4 se pierden. (Ya existe bioneuroabundancia.vercel.app.)
+3. **Grupos de WhatsApp numerados, solo administradores**, uno por LIVE. Así no los suspenden.
+4. **Venta chiquita al registrarse**: el libro Kindle o un Hack Digital CEI ($147).
+5. **LIVE con 2 horarios** (11 AM y 7:30 PM) y la estructura de 10 pasos de arriba.
+6. **Testimonios reales con permiso** (regla de credibilidad): juntar 5 antes del próximo LIVE.
+7. ⚠️ **NO copiamos**: "pagar tus deudas", "dinero inesperado", "le subieron el sueldo" como promesa (Meta, COFEPRIS
+   y Hotmart lo castigan). Testimonios sí, siempre reales y con permiso; Mabel nunca promete resultados.
