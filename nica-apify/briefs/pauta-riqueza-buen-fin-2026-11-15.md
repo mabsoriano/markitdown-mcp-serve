@@ -70,3 +70,17 @@ Mabel Soriano · mabradiante · BNQ Method™
 4. Que el Pixel MabRadiante está conectado en Hotmart para contar las compras.
 5. Que el precio en Hotmart ya diga $500 (si dice $750 o $1,200, la gente se va).
 6. Qué incluye exactamente el producto (¿es el audio de 21 noches de Bioneuro Abundancia?).
+
+## Armado en la cuenta (NICA, 16-nov · TODO EN PAUSA, $0 gastado)
+- **Pixeles:** ninguno recibe compras (MabRadiante: último disparo 8-oct; ADN: 24-ago) → objetivo **Tráfico** (clics al enlace), como pidió Mabel.
+- **Campaña:** "Riqueza mientras Duermes · Buen Fin 15-21 nov" · id 120254274133520237 · Tráfico.
+- **Conjunto 1 · FRÍO** (id 120254275783400237): mujeres 28-60, México, intereses meditación, yoga, kundalini,
+  astrología, riqueza, conocimiento personal, gratitud, filosofía, autoestima, inteligencia emocional, bienestar,
+  amor propio. **$420 total**, termina sáb 21 nov 11:59 PM. Falta agregar a mano: Joe Dispenza, ley de atracción,
+  hipnosis, espiritualidad, abundancia (no tengo sus códigos).
+- **Conjunto 2 · RETARGETING** (id 120254275794460237): **$180 total**, mismo cierre. **FALTA el público**
+  "interactuaron con página y anuncios 30 días" (crearlo en Ads Manager y ponerlo aquí).
+- **Total: $600.** Límite de la cuenta $1,000/mes → subirlo antes de prender.
+- **Anuncios:** no se pudieron crear desde aquí (los videos deben subirse desde Ads Manager). 2 por conjunto:
+  copy 1 + video/arte y copy 2 + video. Botón "Comprar" → Hotmart.
+- **Revisión:** jueves 19 nov → apagar el anuncio más caro.
