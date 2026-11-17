@@ -46,6 +46,7 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- 17-nov · NICA: Mabel extiende precios Buen Fin de TODO el catálogo hasta vie 20 11:59 PM ("porque ustedes lo pidieron"). Hipnosis completa en vivo DOMINGO 22 · 11 AM SOLO compradoras (confirmado por Mabel). Brevo campaña 16 BORRADOR (listas 3,2,9,10,8,7), luminosa. ⚠️ Captions de Hootsuite dicen "sábado 21": corregir a domingo 22 al reorganizar.
 - 17-nov · NICA: 4 borradores más en Hootsuite (IG + FB, 2 PM): mié 18 carrusel familia (6), jue 19 7 decretos (9), vie 20 testimonio, sáb 21 mensajes del alma (6). TikTok no (no acepta fotos).
 - 17-nov · NICA: 3 carruseles luminosos con foto real (mié familia, jue 7 decretos, sáb mensajes del alma) = 21 láminas + lámina testimonio. Generador reels/carrusel.py.
 - 17-nov · NICA: carpeta TESTIMONIOS en Drive revisada en parte; lámina muestra con chat real de la hipnosis (nombres tapados).
