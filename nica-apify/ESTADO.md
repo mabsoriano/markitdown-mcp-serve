@@ -46,6 +46,7 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- 17-nov · NICA: Mabel pide 2 piezas diarias CON ELLA: 1 video a cámara (estilo viral) + 1 foto suya con frases (carrusel estilo María) o testimonio REAL. Guion semana 18-22: guiones/2026-11-18_semana-mabel-camara-fotos.md. Testimonios: solo reales, pedí capturas.
 - 17-nov · NICA: DOS videos diarios = 1 ACTIVACIÓN (faceless problema→solución ~1 min) 6 PM + 1 VENTA DIRECTA 12 s (antes_despues.py) 8 PM. 10 borradores en Hootsuite mar 17→sáb 21 (IG+TikTok mabradiante+FB Acreditaciones). Mabel da Programar. Semana 2 (cierre vie 27/live sáb 28) arranca sáb 21.
 - 17-nov · NICA: formato aprobado = faceless PROBLEMA→SOLUCIÓN con clips del BANCO NICA (reels/problema_solucion.py). 5 videos hechos: PS-01 a PS-05. Pendiente: reemplazar borradores viejos de Hootsuite.
 - 17-nov · NICA: Mabel rechazó videos de 8 s sin voz. Nuevo formato 12-15 s con voz + música + antes/después (reels/antes_despues.py). Muestra hecha con su clip Grok. Me regañó por gastar créditos de vidIQ sin OK: regla agregada.
