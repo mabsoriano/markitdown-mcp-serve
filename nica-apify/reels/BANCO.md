@@ -24,3 +24,7 @@ Archivos locales en reels/banco/videos (no se suben a GitHub). Revisado 17-nov: 
 # TESTIMONIOS (Drive contacto@, carpeta 1IB9RPTaZneLB1RHkUMmqDRSgGYqGgPxZ) · revisado 17-nov
 ~40 archivos. Vistos: TESTIGO 1-4 (capturas de videos-testimonio en IG: mujer sudadera, joven "Testimonio", señor "Activación Kundalini · les recomiendo", señor chamarra) · chat Zoom hipnosis 10-nov ("calma", "mucha energía", "me vi en luz dorada y violeta", "mi piel vibraba"). Pendientes de ver: capturas 5-nov, 24-feb, 2-abr, dic-2025, video WhatsApp 22-oct-2024.
 Uso: SOLO tal cual, nombres y fotos tapados. Testimonios de Kundalini → solo para el producto Kundalini, no para Riqueza.
+
+# FOTOS DE MABEL (Drive: FOTOS MABEL = reales · MABEL IA = avatar) · 17-nov
+Bajadas a reels/banco/fotos: real-selfie-montana (selfie natural, ideal "mensajes del alma"), ia-banco-blanco (banco, fondo blanco; ⚠️ trae marca de agua @ENERGIANUTRITIVA abajo: SIEMPRE recortar), ia-senalando (blazer azul, señala arriba, cielo), ia-sillon-pensando (blanco, sillón negro, mano en mentón), ia-libro (leyendo; el libro trae texto mal escrito: no usar de cerca), mabel-brazos, mabel-sonrisa.
+Vistas sin usar: real con su hijo (personal; NO usar sin OK), real en puerta de madera, IA en nubes con traje azul (oscura). Faltan por ver ~6 IA y lo que siga subiendo.
