@@ -46,6 +46,7 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- 17-nov · NICA: Mabel aprobó artes 1 (Herencia) y 4 (8 Horas): "seguir esta línea, urgencia y directo al problema". No en todas sale ella. Leí 12 reels de María (IG @energianutritiva, vidIQ): formato ganador = video 7-9 s + caption con lista ❌ + palabra para comentar. transcripciones/instagram-2026-11-17-energianutritiva-maria.md. Agregarla a la revisión semanal.
 - 17-nov · NICA: análisis de hooks y urgencia de María + 5 artes nuevas (Herencia, Frase, 3 Fugas, 8 Horas, App del banco) con prompts de Grok y copys, mismo paquete Hotmart. briefs/artes-riqueza-estilo-maria-2026-11-17.md
 - 17-nov · NICA: Mabel cambia el modelo: NO más lives gratis de captación. Pauta de VENTA DIRECTA 15 días (17-nov → 1-dic) de PROGRAMA LA RIQUEZA MIENTRAS DUERMES ($500; corrección de Mabel: NO se cambia el nombre). Regalo semanal: live de compradoras sáb y dom 11 AM. Pineal después (ella avisa). Faceless: variar imagen (cerebro, ADN…) con mismo acomodo y pie "@mabradiante · Método BNQ™ · Las Fórmulas Cuánticas…". Plan: briefs/plan-15-dias-riqueza-2026-11-17.md (por aprobar).
 - 16-nov noche · NICA: Mabel extiende Riqueza 2 semanas más (fecha de cierre por confirmar). Hice 3 faceless morados con CTA a Riqueza (07 nadie te enseñó, 08 mientras duermes, 09 app del banco). Pendiente: plan 2 semanas (contenido diario, variaciones de arte, pauta) y fecha real de cierre.
