@@ -136,6 +136,9 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
   (dolor / resultado, protagonista mexicana o latina de 40 años), textos y firma encima (`doce/armar12.py`).
   **Publicación opción B:** TikTok e Instagram los publica Mabel desde la app con CANCIÓN DE MODA (versión sin audio);
   Facebook y YouTube Shorts van por Hootsuite con música gratis incluida (`doce/musica12.sh`, versión _MUSICA).
+- **(17-nov) Los videos de 12 s se hacen COMPLETOS en Grok:** texto en pantalla + VOZ en español mexicano que dice
+  EXACTAMENTE lo mismo que el título + música de fondo baja. Texto corto en pantalla; la fórmula completa va en el copy.
+  NICA da los 2 prompts (dolor / solución+CTA) y el copy; solo une los clips si Grok no los junta.
 - **NAIA presenta productos en 15 s:** dolor → solución → CTA "Con 10 Fórmulas Cuánticas hackeas y reprogramas
   [problema] en simultáneo en 3 niveles: subconsciente, memoria celular y energía, con BNQ Method de @mabradiante".
 
