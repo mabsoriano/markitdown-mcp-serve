@@ -16,4 +16,5 @@ Archivos locales en reels/banco/videos (no se suben a GitHub). Revisado 17-nov: 
 - v11 problema→solución "Programa la riqueza mientras duermes" (el ejemplo)
 - v15 ADN/infinito "imán de la abundancia"; v09 arte ADN Millonario; v04 ojo Matrix verde
 - v01 otra mujer hablando (no usar)
-## FALTA (prompts en el PDF): más clips de PROBLEMA, sin texto.
+- p1-p4 (de v18, 4 escenas cortadas): cocina monedas · tarjeta rechazada · escritorio con recibos · sentada en el piso junto a la ventana ✅
+## FALTA: por ahora nada para dinero. Revisar las ~49 imágenes que faltan.

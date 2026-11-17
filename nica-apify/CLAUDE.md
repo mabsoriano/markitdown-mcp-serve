@@ -451,5 +451,5 @@ Antes de cualquier tarea, lee `nica-apify/ESTADO.md` (estado del negocio). Si co
 - ANTES/DESPUÉS: ~6 s de alguien angustiado + ~6 s de alguien en abundancia/feliz/transformándose (clips de Grok de 6 s).
 - Firmas fijas: título arriba, "@mabradiante" + "Método BNQ™ · Las Fórmulas Cuánticas para Hackear tu Mente y la Matrix" abajo.
 - Generador: `reels/antes_despues.py guion.txt "TÍTULO" clip_antes.mp4 clip_despues.mp4 salida.mp4`.
-- SIN GROK (preferido, 17-nov): faceless de siempre con fondo GRIS que se ACTIVA a dorado en la frase N: `python3 reels/reel_movimiento.py guion.txt "TÍTULO" salida.mp4 [geometria] [N]`. Variar geometría en cada video.
+- ✅ FORMATO APROBADO (17-nov): faceless PROBLEMA→SOLUCIÓN con clips reales del BANCO NICA, sin morado ni geometría: `reels/problema_solucion.py guion.txt "TÍTULO" salida.mp4 N "problema1,problema2" "solucion1,solucion2"`. Inventario: `reels/BANCO.md`.
 - ⛔ NO gastar créditos (vidIQ, Apify, ElevenLabs, nada) sin su OK previo, aunque sea poco.

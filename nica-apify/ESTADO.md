@@ -46,6 +46,7 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- 17-nov · NICA: formato aprobado = faceless PROBLEMA→SOLUCIÓN con clips del BANCO NICA (reels/problema_solucion.py). 5 videos hechos: PS-01 a PS-05. Pendiente: reemplazar borradores viejos de Hootsuite.
 - 17-nov · NICA: Mabel rechazó videos de 8 s sin voz. Nuevo formato 12-15 s con voz + música + antes/después (reels/antes_despues.py). Muestra hecha con su clip Grok. Me regañó por gastar créditos de vidIQ sin OK: regla agregada.
 - 17-nov · NICA: pauta Meta $100/día aprobada. 5 videos de 8 s (reels/ocho.py) + textos. Sin ManyChat: CTA al link del perfil. Hootsuite: borradores con fecha FACELESS 07/08/09 mar 17, mié 18, jue 19 · 7 PM (IG + TikTok mabradiante + FB Acreditaciones); Mabel da Programar.
 - 17-nov · NICA: Mabel aprobó artes 1 (Herencia) y 4 (8 Horas): "seguir esta línea, urgencia y directo al problema". No en todas sale ella. Leí 12 reels de María (IG @energianutritiva, vidIQ): formato ganador = video 7-9 s + caption con lista ❌ + palabra para comentar. transcripciones/instagram-2026-11-17-energianutritiva-maria.md. Agregarla a la revisión semanal.
