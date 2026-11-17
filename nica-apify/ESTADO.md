@@ -46,6 +46,7 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- 17-nov · NICA: 3 carruseles luminosos con foto real (mié familia, jue 7 decretos, sáb mensajes del alma) = 21 láminas + lámina testimonio. Generador reels/carrusel.py.
 - 17-nov · NICA: carpeta TESTIMONIOS en Drive revisada en parte; lámina muestra con chat real de la hipnosis (nombres tapados).
 - 17-nov · NICA: Mabel pide 2 piezas diarias CON ELLA: 1 video a cámara (estilo viral) + 1 foto suya con frases (carrusel estilo María) o testimonio REAL. Guion semana 18-22: guiones/2026-11-18_semana-mabel-camara-fotos.md. Testimonios: solo reales, pedí capturas.
 - 17-nov · NICA: DOS videos diarios = 1 ACTIVACIÓN (faceless problema→solución ~1 min) 6 PM + 1 VENTA DIRECTA 12 s (antes_despues.py) 8 PM. 10 borradores en Hootsuite mar 17→sáb 21 (IG+TikTok mabradiante+FB Acreditaciones). Mabel da Programar. Semana 2 (cierre vie 27/live sáb 28) arranca sáb 21.
