@@ -17,4 +17,6 @@ Archivos locales en reels/banco/videos (no se suben a GitHub). Revisado 17-nov: 
 - v15 ADN/infinito "imán de la abundancia"; v09 arte ADN Millonario; v04 ojo Matrix verde
 - v01 otra mujer hablando (no usar)
 - p1-p4 (de v18, 4 escenas cortadas): cocina monedas · tarjeta rechazada · escritorio con recibos · sentada en el piso junto a la ventana ✅
+- v19 anuncio terminado 12 s (problema→solución, voz de Grok, "Link en mi perfil") · listo para pauta
+- v20 arte animada Hipnosis Buen Fin $500 (fechas 13-20 nov: VIEJAS) · v21 arte animada LIVE GRATIS 15 nov (VIEJA)
 ## FALTA: por ahora nada para dinero. Revisar las ~49 imágenes que faltan.
