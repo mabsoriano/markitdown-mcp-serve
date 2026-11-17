@@ -30,7 +30,7 @@ No other text, no logos, no watermark.
 No es que gastes mal: es un programa de escasez que corre en automático.
 🎧 PROGRAMA LA RIQUEZA MIENTRAS DUERMES · audio de 8 horas para 21 noches.
 Con 10 Fórmulas Cuánticas hackeas y reprogramas tu escasez en simultáneo en 3 niveles: subconsciente, memoria celular y energía, con BNQ Method de @mabradiante.
-🎁 Compra antes del viernes y el sábado hacemos juntas la hipnosis completa en vivo.
+🎁 Compra antes del sábado y el domingo hacemos juntas la hipnosis completa en vivo.
 👉 Link en mi perfil.
 #riqueza #abundancia #dinero #reprogramacion #hackeatumente #parati
 ```
@@ -64,13 +64,13 @@ No other text, no logos, no watermark.
 No es humildad: es un programa que te dice que recibir es malo.
 🎧 PROGRAMA LA RIQUEZA MIENTRAS DUERMES · audio de 8 horas para 21 noches.
 Con 10 Fórmulas Cuánticas hackeas y reprogramas tu escasez en simultáneo en 3 niveles: subconsciente, memoria celular y energía, con BNQ Method de @mabradiante.
-🎁 Compra antes del viernes y el sábado hacemos juntas la hipnosis completa en vivo.
+🎁 Compra antes del sábado y el domingo hacemos juntas la hipnosis completa en vivo.
 👉 Link en mi perfil.
 #riqueza #abundancia #dinero #reprogramacion #hackeatumente #parati
 ```
 
-## Viernes 20 · CIERRE · Las deudas no te dejan dormir
-**Se escucha:** clip 1 "¿Las deudas no te dejan dormir?" → clip 2 "Hoy es el último día. Programa la riqueza mientras duermes. Link en mi perfil."
+## Viernes 20 · Las deudas no te dejan dormir
+**Se escucha:** clip 1 "¿Las deudas no te dejan dormir?" → clip 2 "Programa la riqueza mientras duermes. Link en mi perfil."
 
 **Clip 1 · DOLOR**
 ```
@@ -86,8 +86,8 @@ No other text, no logos, no watermark.
 ```
 6-second VERTICAL video, 9:16 full screen (NOT square), high quality, realistic, cinematic, sharp 1080p — keep the same quality and style as previous videos.
 SCENE: the SAME Mexican Latina woman from the previous clip (early 40s, warm brown skin, dark wavy hair), now sleeping peacefully with soft headphones on, a gentle golden glow around her head, then waking up smiling and radiant in a bright bedroom full of morning golden light.
-VOICE-OVER: the SAME warm, clear female voice with a natural Mexican Spanish accent, says EXACTLY in Spanish, nothing else, NO English: "Hoy es el último día. Programa la riqueza mientras duermes. Link en mi perfil."
-ON-SCREEN CAPTIONS synced with the voice, bold white Spanish text in the lower third, key words highlighted in gold, EXACTLY: "HOY ES EL ÚLTIMO DÍA" then "PROGRAMA LA RIQUEZA mientras duermes · 👉 Link en mi perfil". Small gold text at the top: "@mabradiante".
+VOICE-OVER: the SAME warm, clear female voice with a natural Mexican Spanish accent, says EXACTLY in Spanish, nothing else, NO English: "Programa la riqueza mientras duermes. Link en mi perfil."
+ON-SCREEN CAPTIONS synced with the voice, bold white Spanish text in the lower third, key words highlighted in gold, EXACTLY: "PROGRAMA LA RIQUEZA mientras duermes" then "👉 Link en mi perfil". Small gold text at the top: "@mabradiante".
 SPELLING: check every word for correct Spanish spelling and accents (¿ ? á é í ó ú ñ) before finishing; text must match the voice word for word.
 MUSIC: uplifting, inspiring, luxurious background music, low volume under the voice.
 No other text, no logos, no watermark.
@@ -96,16 +96,15 @@ No other text, no logos, no watermark.
 ```
 ¿Las deudas no te dejan dormir? 🌙
 No eres tú: es un programa de alarma que se activa cada noche.
-⏰ HOY ES EL ÚLTIMO DÍA del precio y del regalo.
 🎧 PROGRAMA LA RIQUEZA MIENTRAS DUERMES · audio de 8 horas para 21 noches.
 Con 10 Fórmulas Cuánticas hackeas y reprogramas tu escasez en simultáneo en 3 niveles: subconsciente, memoria celular y energía, con BNQ Method de @mabradiante.
-🎁 Compra hoy y mañana sábado hacemos juntas la hipnosis completa en vivo.
+🎁 Compra antes del sábado y el domingo hacemos juntas la hipnosis completa en vivo.
 👉 Link en mi perfil.
 #riqueza #abundancia #dinero #reprogramacion #hackeatumente #parati
 ```
 
-## Sábado 21 · Repites la historia de tu familia
-**Se escucha:** clip 1 "¿Repites la misma historia de dinero de tu familia?" → clip 2 "Rompe el programa. Programa la riqueza mientras duermes. Link en mi perfil."
+## Sábado 21 · CIERRE · Repites la historia de tu familia
+**Se escucha:** clip 1 "¿Repites la misma historia de dinero de tu familia?" → clip 2 "Hoy es el último día. Programa la riqueza mientras duermes. Link en mi perfil."
 
 **Clip 1 · DOLOR**
 ```
@@ -121,8 +120,8 @@ No other text, no logos, no watermark.
 ```
 6-second VERTICAL video, 9:16 full screen (NOT square), high quality, realistic, cinematic, sharp 1080p — keep the same quality and style as previous videos.
 SCENE: the SAME Mexican Latina woman from the previous clip (early 40s, warm brown skin, dark wavy hair), now joyful and elegant in a cream outfit, hugging her teenage daughter in a beautiful bright home, both smiling, golden sunlight and sparkles, a feeling of a new legacy.
-VOICE-OVER: the SAME warm, clear female voice with a natural Mexican Spanish accent, says EXACTLY in Spanish, nothing else, NO English: "Rompe el programa. Programa la riqueza mientras duermes. Link en mi perfil."
-ON-SCREEN CAPTIONS synced with the voice, bold white Spanish text in the lower third, key words highlighted in gold, EXACTLY: "ROMPE EL PROGRAMA" then "PROGRAMA LA RIQUEZA mientras duermes · 👉 Link en mi perfil". Small gold text at the top: "@mabradiante".
+VOICE-OVER: the SAME warm, clear female voice with a natural Mexican Spanish accent, says EXACTLY in Spanish, nothing else, NO English: "Hoy es el último día. Programa la riqueza mientras duermes. Link en mi perfil."
+ON-SCREEN CAPTIONS synced with the voice, bold white Spanish text in the lower third, key words highlighted in gold, EXACTLY: "HOY ES EL ÚLTIMO DÍA" then "PROGRAMA LA RIQUEZA mientras duermes · 👉 Link en mi perfil". Small gold text at the top: "@mabradiante".
 SPELLING: check every word for correct Spanish spelling and accents (¿ ? á é í ó ú ñ) before finishing; text must match the voice word for word.
 MUSIC: uplifting, inspiring, luxurious background music, low volume under the voice.
 No other text, no logos, no watermark.
@@ -133,7 +132,7 @@ No other text, no logos, no watermark.
 No es destino: es un programa heredado. Y se puede reprogramar.
 🎧 PROGRAMA LA RIQUEZA MIENTRAS DUERMES · audio de 8 horas para 21 noches.
 Con 10 Fórmulas Cuánticas hackeas y reprogramas tu escasez en simultáneo en 3 niveles: subconsciente, memoria celular y energía, con BNQ Method de @mabradiante.
-🎁 Compra antes del viernes 27 y el sábado 28 hacemos juntas la hipnosis completa en vivo.
+⏰ HOY ES EL ÚLTIMO DÍA: compra hoy y mañana domingo hacemos juntas la hipnosis completa en vivo.
 👉 Link en mi perfil.
 #riqueza #abundancia #dinero #reprogramacion #hackeatumente #parati
 ```

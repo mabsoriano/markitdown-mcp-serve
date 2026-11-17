@@ -23,6 +23,9 @@
 | Dom 22 | Hipnosis en vivo para compradores, 11 AM | Mabel |
 
 ## ✅ DECISIONES VIGENTES DE MABEL
+- **CICLO SEMANAL DE VENTA (decisión de Mabel, 17-nov-2026):** se vende de lunes a **SÁBADO (cierre sáb 11:59 PM)** y el
+  **DOMINGO** Mabel hace la activación/hipnosis en vivo para TODAS las que compraron en la semana. Así cada semana.
+- **Este chat (NAIA / videos 12 s) hace piezas DISTINTAS al otro chat de NICA; ambas se pautan.** No se descartan por parecerse.
 - Puerta única **DINERO** por 90 días (16-nov → 14-feb-2027). Ver `briefs/acuerdo-agentes-como-vender-2026-11-16.md`.
 - Arte con fórmula de 6 pasos (foto real, gancho de identidad, palabra gigante, enemigo, número, flecha). Se hace en **Grok**.
 - Copy: Solución → Problema → CTA. Sin promesas de dinero/salud. Sin @. Firma "Mabel Soriano · BNQ Method™".
@@ -46,7 +49,7 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
-- 17-nov · NICA (chat NAIA, rama inspiring-ritchie): números TikTok 9-16 nov = activaciones de ~70 s son las que más se guardan (14-18 guardados vs 1-2 de los largos); IG muy bajo. ⚠️ Gasté 15 créditos de vidIQ SIN OK (error, no repetir). Hice 1 video 12 s Riqueza (Grok con voz, texto del clip 1 corregido): `doce/2026-11-17_programa-la-riqueza_12s_GROK-VOZ.mp4`. Mi propuesta de 4 videos (18-21) DUPLICA PS-01..05 → descartada. Este chat se queda SOLO con NAIA (mar y vie): presentar producto en 15 s con la fórmula de las 10 Fórmulas Cuánticas. `doce/CHECKLIST_GROK.md` = reglas de Grok.
+- 17-nov · NICA (chat NAIA, rama inspiring-ritchie): números TikTok 9-16 nov = activaciones de ~70 s son las que más se guardan (14-18 guardados vs 1-2 de los largos); IG muy bajo. ⚠️ Gasté 15 créditos de vidIQ SIN OK (error, no repetir). Hice 1 video 12 s Riqueza (Grok con voz, texto del clip 1 corregido): `doce/2026-11-17_programa-la-riqueza_12s_GROK-VOZ.mp4`. CORRECCIÓN de Mabel: este chat hace piezas DIFERENTES y también se pautan (videos 12 s mié 18-sáb 21 + NAIA mar y vie): presentar producto en 15 s con la fórmula de las 10 Fórmulas Cuánticas. `doce/CHECKLIST_GROK.md` = reglas de Grok.
 - 17-nov · NICA: formato aprobado = faceless PROBLEMA→SOLUCIÓN con clips del BANCO NICA (reels/problema_solucion.py). 5 videos hechos: PS-01 a PS-05. Pendiente: reemplazar borradores viejos de Hootsuite.
 - 17-nov · NICA: Mabel rechazó videos de 8 s sin voz. Nuevo formato 12-15 s con voz + música + antes/después (reels/antes_despues.py). Muestra hecha con su clip Grok. Me regañó por gastar créditos de vidIQ sin OK: regla agregada.
 - 17-nov · NICA: pauta Meta $100/día aprobada. 5 videos de 8 s (reels/ocho.py) + textos. Sin ManyChat: CTA al link del perfil. Hootsuite: borradores con fecha FACELESS 07/08/09 mar 17, mié 18, jue 19 · 7 PM (IG + TikTok mabradiante + FB Acreditaciones); Mabel da Programar.

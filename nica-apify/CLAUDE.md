@@ -143,6 +143,10 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
 - **NAIA presenta productos en 15 s:** dolor → solución → CTA "Con 10 Fórmulas Cuánticas hackeas y reprogramas
   [problema] en simultáneo en 3 niveles: subconsciente, memoria celular y energía, con BNQ Method de @mabradiante".
 
+- **CICLO SEMANAL DE VENTA (decisión de Mabel, 17-nov-2026):** se vende de lunes a **SÁBADO (cierre sáb 11:59 PM)** y el
+  **DOMINGO** Mabel hace la activación/hipnosis en vivo para TODAS las que compraron en la semana. Así cada semana.
+- **Este chat (NAIA / videos 12 s) hace piezas DISTINTAS al otro chat de NICA; ambas se pautan.** No se descartan por parecerse.
+
 ## Las 10 Fórmulas (para COMUNICAR en el contenido)
 F·01 Coherencia Energética Integral (CEI™) · F·02 Programación y Elevación de
 Consciencia · F·03 Activación Glándula Pineal · F·04 Reprogramación y Control
