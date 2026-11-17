@@ -6,6 +6,9 @@ import subprocess, sys, tempfile
 from pathlib import Path
 
 c1, c2, textos, salida = sys.argv[1:5]
+w, h = map(int, subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries",
+    "stream=width,height", "-of", "csv=p=0", c1], capture_output=True, text=True).stdout.strip().split(","))
+CUADRADO = w / h > 0.7   # Grok a veces entrega 1:1 en vez de 9:16
 dolor, solucion, formula, cta = [l.strip() for l in Path(textos).read_text(encoding="utf-8").splitlines()[:4]]
 ass = f"""[Script Info]
 ScriptType: v4.00+
@@ -29,8 +32,14 @@ Dialogue: 0,0:00:07.00,0:00:12.00,Formula,,0,0,0,,{{\\pos(540,820)\\fad(250,0)}}
 Dialogue: 0,0:00:08.50,0:00:12.00,Cta,,0,0,0,,{{\\pos(540,1080)\\fad(200,0)}}{cta}
 Dialogue: 0,0:00:00.00,0:00:12.00,Firma,,0,0,0,,{{\\pos(540,1290)}}@mabradiante
 """
+if CUADRADO:   # textos fuera del video: arriba (dolor/título) y abajo (fórmula y CTA)
+    for a, b in [("pos(540,620)", "pos(540,175)"), ("pos(540,520)", "pos(540,175)"),
+                 ("pos(540,820)", "pos(540,1500)"), ("pos(540,1080)", "pos(540,1610)"), ("pos(540,1290)", "pos(540,1418)")]:
+        ass = ass.replace(a, b)
 f = tempfile.NamedTemporaryFile("w", suffix=".ass", delete=False, encoding="utf-8"); f.write(ass); f.close()
-norm = "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1,fps=30,trim=0:6,setpts=PTS-STARTPTS"
+cuad = ("split[x][y];[x]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=40:4,"
+        "eq=brightness=-0.35[fondo];[y]scale=1080:1080[c];[fondo][c]overlay=0:300,setsar=1,fps=30,trim=0:6,setpts=PTS-STARTPTS")
+norm = cuad if CUADRADO else "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1,fps=30,trim=0:6,setpts=PTS-STARTPTS"
 subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", c1, "-i", c2, "-filter_complex",
     f"[0:v]{norm},eq=brightness=-0.08[a];[1:v]{norm}[b];[a][b]xfade=transition=fade:duration=0.3:offset=5.85,"
     f"ass={f.name}[v]", "-map", "[v]", "-an", "-t", "12", "-c:v", "libx264", "-crf", "19", "-pix_fmt", "yuv420p",
