@@ -1,11 +1,11 @@
-# PLAN DE 15 DÍAS · HIPNOSIS PARA HACKEAR TUS BLOQUEOS CON EL DINERO
+# PLAN DE 15 DÍAS · PROGRAMA LA RIQUEZA MIENTRAS DUERMES
 Martes 17 de noviembre → martes 1 de diciembre de 2026 · Mabel Soriano · BNQ Method™
 NICA + Estratega + Productor · versión para aprobar
 
 ## La decisión de Mabel (17-nov)
 - **Se acabaron los lives gratis para captar gente.** No vendieron.
 - **Ahora: pauta de VENTA DIRECTA** a la página de Hotmart.
-- **Nombre de venta:** *Hipnosis para hackear tus bloqueos con el dinero* (con ese nombre sí vendía). Adentro es el mismo paquete: audio de 8 h para 21 noches + Fórmula CEI™ + Fórmula ADN + Fórmula de la riqueza.
+- **Producto que se vende:** *Programa la Riqueza mientras Duermes* (audio de 8 h para 21 noches + Fórmula CEI™ + Fórmula ADN + Fórmula de la riqueza). NO se cambia el nombre.
 - **Precio:** $500 + impuestos (antes $1,200).
 - **El regalo (la urgencia de cada semana):** LIVE privado por Zoom **solo para quienes compran**: **sábado en la mañana y domingo**. Todas las que compraron en la semana entran. Ahí reciben la hipnosis COMPLETA.
 - **Glándula Pineal:** después, cuando Mabel avise (tiene testimonios en video).
@@ -21,16 +21,16 @@ Frase de urgencia: **"Compra antes del viernes y el sábado hacemos juntas la hi
 
 ## La pauta (Meta · venta directa)
 - **Objetivo:** Ventas (si el píxel no está en Hotmart, Tráfico mientras se instala).
-- **Destino:** página de Hotmart, con `?src=meta_hipnosis`.
+- **Destino:** página de Hotmart, con `?src=meta_riqueza`.
 - **Público:** mujeres 28 a 60, México + EE. UU. hispano; intereses: ley de atracción, Joe Dispenza, meditación, hipnosis, abundancia. + Retargeting: quien vio tus videos o interactuó en 30 días.
 - **Presupuesto sugerido:** $100 al día (≈ $1,500 en 15 días). **Lo decide Mabel.**
 - **Regla:** 2 anuncios a la vez. Cada 3 días se apaga el más caro y entra una variación nueva.
 - **La meta:** 3 ventas para pagar la pauta; 6 o más para seguir. Es meta, no promesa.
 
 ### Copy base (Solución → Problema → CTA)
-**Hackea tus bloqueos con el dinero mientras duermes.**
+**Programa la riqueza mientras duermes.**
 Trabajas, cumples, decretas… y el dinero no se queda. No es mala suerte. No es falta de disciplina. Es un programa que heredaste y que corre en automático.
-🎧 Hipnosis de 8 horas para 21 noches + 3 Fórmulas Cuánticas.
+🎧 Audio de activación de 8 horas para 21 noches + 3 Fórmulas Cuánticas.
 🎁 Compra antes del viernes y el sábado hacemos juntas la hipnosis COMPLETA en vivo.
 $500 + impuestos (antes $1,200).
 Lo que no se activa, no cambia. Y lo que no se repite, no se instala.
