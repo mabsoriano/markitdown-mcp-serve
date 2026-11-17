@@ -7,7 +7,7 @@
 ## 🎯 FOCO ACTUAL (no cambiar sin OK de Mabel)
 **Campaña activa: PROGRAMA LA RIQUEZA MIENTRAS DUERMES · Buen Fin extendido**
 - Producto: audio de activación de 8 h para dormir 21 noches + Fórmula CEI™ + Fórmula ADN + Fórmula para desbloquear la riqueza (+ hipnosis completa y manual de 21 noches, según su página).
-- ⚠️ 17-nov: la página de Hotmart NO coincide con el anuncio → texto nuevo en `briefs/hotmart-pagina-riqueza-2026-11-17.md` para que Mabel lo pegue.
+- ✅ 17-nov: Mabel PEGÓ en Hotmart el texto nuevo (`briefs/hotmart-pagina-riqueza-2026-11-17.md`). Medir compras 24 h después (mié 18 tarde).
 - Precio: **$500 + impuestos (antes $1,200, precio real)**.
 - Regalo: **hipnosis COMPLETA en vivo por Zoom privado, dom 22 nov 11 AM**, solo compradores.
 - Cierre real: **sáb 21 nov 11:59 PM**.
@@ -49,6 +49,8 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **17-nov noche · NICA:** Mabel ya pegó el texto nuevo en Hotmart. Le di el mensaje de WhatsApp para su gente caliente
+  (grupo + registrados de los LIVES). Próxima revisión de compras: mié 18 tarde.
 - **17-nov tarde · NICA:** pauta Riqueza acumulado $114.97 · 350 clics ($0.33) · 226 visitas a Hotmart · 2 al pago · 0 compras.
   El anuncio sigue estable; la conversión sigue en 0 → prioridad: texto nuevo en Hotmart + mensaje a registrados por WhatsApp.
 - **17-nov · NICA (pauta Riqueza, 16-17 nov):** $104.65 gastados · 320 clics a ~$0.33 · CTR ~10% (excelente).
