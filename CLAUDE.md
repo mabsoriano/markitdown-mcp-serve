@@ -7,3 +7,4 @@ Agentes disponibles (`.claude/agents/`):
 - **nica**: contenido y community manager (guiones, calendario, WhatsApp, copys).
 - **estratega**: qué se vende, cuándo, a quién, por qué canal (briefs y planes).
 - **productor**: paquete de producción para grabar y publicar.
+- **copywriter**: hooks, captions, asuntos y aperturas de correo, copys de anuncios. Revisa TODO texto antes de publicar.
