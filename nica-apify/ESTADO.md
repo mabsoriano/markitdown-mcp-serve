@@ -49,6 +49,8 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **17-nov tarde · NICA:** pauta Riqueza acumulado $114.97 · 350 clics ($0.33) · 226 visitas a Hotmart · 2 al pago · 0 compras.
+  El anuncio sigue estable; la conversión sigue en 0 → prioridad: texto nuevo en Hotmart + mensaje a registrados por WhatsApp.
 - **17-nov · NICA (pauta Riqueza, 16-17 nov):** $104.65 gastados · 320 clics a ~$0.33 · CTR ~10% (excelente).
   Pixel en Hotmart: 189 visitas a la página del producto, 2 ViewContent, 0 compras registradas. El anuncio jala;
   la página de Hotmart no está convirtiendo. Solo hay 1 anuncio por conjunto (no 2). Mabel revisa ventas src=meta_riqueza.
