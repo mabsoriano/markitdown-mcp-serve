@@ -132,6 +132,13 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
     Activación Simultánea $500).
   - Mabel quiere VER cada video antes de decidir cambios: siempre mandarle una muestra antes de producir el resto.
 
+- **REGLA DE MABEL (17-nov-2026) · VIDEOS DE 12 s (dolor → solución → CTA):** 2 clips de Grok de 6 s
+  (dolor / resultado, protagonista mexicana o latina de 40 años), textos y firma encima (`doce/armar12.py`).
+  **Publicación opción B:** TikTok e Instagram los publica Mabel desde la app con CANCIÓN DE MODA (versión sin audio);
+  Facebook y YouTube Shorts van por Hootsuite con música gratis incluida (`doce/musica12.sh`, versión _MUSICA).
+- **NAIA presenta productos en 15 s:** dolor → solución → CTA "Con 10 Fórmulas Cuánticas hackeas y reprogramas
+  [problema] en simultáneo en 3 niveles: subconsciente, memoria celular y energía, con BNQ Method de @mabradiante".
+
 ## Las 10 Fórmulas (para COMUNICAR en el contenido)
 F·01 Coherencia Energética Integral (CEI™) · F·02 Programación y Elevación de
 Consciencia · F·03 Activación Glándula Pineal · F·04 Reprogramación y Control
