@@ -47,6 +47,9 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **17-nov · NICA (pauta Riqueza, 16-17 nov):** $104.65 gastados · 320 clics a ~$0.33 · CTR ~10% (excelente).
+  Pixel en Hotmart: 189 visitas a la página del producto, 2 ViewContent, 0 compras registradas. El anuncio jala;
+  la página de Hotmart no está convirtiendo. Solo hay 1 anuncio por conjunto (no 2). Mabel revisa ventas src=meta_riqueza.
 - **17-nov · NICA:** Mabel conectó el Pixel MabRadiante en Hotmart (WEB). Aún sin eventos al revisarlo (normal recién guardado).
   Con el Pixel ya se podrán hacer campañas de VENTAS en lugar de Tráfico. Falta el token de API de conversiones.
 - **16-nov · Estratega:** brief 16-22 nov listo: `briefs/brief-semana-2026-11-16.md` y `.xlsx`. Foco SOLO Riqueza
