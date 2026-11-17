@@ -445,3 +445,10 @@ Más 1 yapping diario (conexión, sin venta). Total: 2 piezas diarias con su car
 
 ## TABLERO ÚNICO
 Antes de cualquier tarea, lee `nica-apify/ESTADO.md` (estado del negocio). Si contradice un brief viejo, manda ESTADO.md. Al terminar, agrega 2-3 líneas a su bitácora.
+
+## VIDEOS CORTOS (Mabel, 17-nov-2026 · manda sobre los de 8 s)
+- SIEMPRE con VOZ (Google gratis) + la MÚSICA de siempre. Duración 12 a 15 s.
+- ANTES/DESPUÉS: ~6 s de alguien angustiado + ~6 s de alguien en abundancia/feliz/transformándose (clips de Grok de 6 s).
+- Firmas fijas: título arriba, "@mabradiante" + "Método BNQ™ · Las Fórmulas Cuánticas para Hackear tu Mente y la Matrix" abajo.
+- Generador: `reels/antes_despues.py guion.txt "TÍTULO" clip_antes.mp4 clip_despues.mp4 salida.mp4`.
+- ⛔ NO gastar créditos (vidIQ, Apify, ElevenLabs, nada) sin su OK previo, aunque sea poco.
