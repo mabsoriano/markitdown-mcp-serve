@@ -1,11 +1,13 @@
 # 🧭 ESTADO DEL NEGOCIO · tablero compartido del equipo de Mabel
 > **Todos los agentes (NICA, estratega, productor) LEEN este archivo PRIMERO y lo ACTUALIZAN AL TERMINAR.**
 > Si algo aquí contradice un brief viejo, **manda este archivo**. Una sola fuente de verdad.
+> **REGLA DE MABEL (17-nov): antes de preguntarle algo, búscalo en este tablero, en `briefs/` y en el historial de la conversación. Si ella ya lo dijo, no se pregunta. Cada vez que hable, revisa primero los últimos acuerdos y llega con la solución.**
 > Última actualización: 17-nov-2026 · NICA
 
 ## 🎯 FOCO ACTUAL (no cambiar sin OK de Mabel)
 **Campaña activa: PROGRAMA LA RIQUEZA MIENTRAS DUERMES · Buen Fin extendido**
-- Producto: audio de activación de 8 h para dormir 21 noches + Fórmula CEI™ + Fórmula ADN + Fórmula para desbloquear la riqueza.
+- Producto: audio de activación de 8 h para dormir 21 noches + Fórmula CEI™ + Fórmula ADN + Fórmula para desbloquear la riqueza (+ hipnosis completa y manual de 21 noches, según su página).
+- ⚠️ 17-nov: la página de Hotmart NO coincide con el anuncio → texto nuevo en `briefs/hotmart-pagina-riqueza-2026-11-17.md` para que Mabel lo pegue.
 - Precio: **$500 + impuestos (antes $1,200, precio real)**.
 - Regalo: **hipnosis COMPLETA en vivo por Zoom privado, dom 22 nov 11 AM**, solo compradores.
 - Cierre real: **sáb 21 nov 11:59 PM**.

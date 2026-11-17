@@ -19,6 +19,8 @@ LO QUE RECIBES HOY:
 🎧 Audio de activación de 8 horas para escuchar al dormir, durante 21 noches.
 🧘 Hipnosis completa para hackear tus bloqueos con el dinero.
 ⚡ Fórmula Cuántica de Coherencia Energética Integral (CEI™).
+🧬 Fórmula Cuántica ADN.
+💰 Fórmula Cuántica para desbloquear la riqueza y la abundancia.
 📖 Manual con tu protocolo de 21 noches, paso a paso.
 🎁 REGALO 1: Hipnosis completa EN VIVO conmigo, domingo 22 de noviembre a las 11 AM (solo esta semana).
 🎁 REGALO 2: Activaciones Robóticas Millonarias.
@@ -39,8 +41,7 @@ Autora del libro "Las Fórmulas Cuánticas para Hackear tu Mente y la Matrix".
 Práctica de bienestar; no sustituye atención médica ni psicológica. Los resultados dependen de la práctica de cada persona.
 
 ## Pendiente de confirmar con Mabel
-- El anuncio dice "Fórmula ADN" y "Fórmula para desbloquear la riqueza"; la página dice "Manual de 21 días" y "Robóticas".
-  Que el anuncio y la página digan LO MISMO. Si no incluye Fórmula ADN, se quita del anuncio.
+- ✅ RESUELTO con el brief de Mabel (16-nov): el producto SÍ incluye Fórmula CEI™, Fórmula ADN y Fórmula para desbloquear la riqueza.
 - Nombre del producto en Hotmart: "Hipnosis para Hackear tus Bloqueos con el Dinero" ≠ "Programa la Riqueza mientras Duermes".
   Si Hotmart deja cambiar el nombre sin revisión larga, cambiarlo; si no, la primera línea de la descripción hace el trabajo.
 - Plazo de garantía real en Hotmart (7, 15 o 30 días).
