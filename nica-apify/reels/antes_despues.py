@@ -41,7 +41,7 @@ def main(guion, titulo, antes, despues, salida):
            "+0.03*(sin(2*PI*174.61*t)+sin(2*PI*261.63*t)+sin(2*PI*440*t))*(0.5+0.5*sin(2*PI*0.05*t+1))':s=44100:d=%.2f" % (total+1))
     musica = tmp/"m.m4a"
     subprocess.run(["ffmpeg","-y","-loglevel","error","-f","lavfi","-i",pad,"-af","aecho=0.8:0.85:600|1200:0.35|0.25,lowpass=f=2500,afade=t=in:d=1,afade=t=out:st=%.2f:d=1.5,volume=0.55"%(total-1.5),"-ac","2","-c:a","aac",musica],check=True)
-    base = "scale=-2:1920,crop=1080:1920,fps=30"
+    base = "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,fps=30"
     gris = ",eq=saturation=0.05:brightness=-0.12:contrast=0.9" if antes == despues else ""
     def tramo(src, d, extra):
         return ["-stream_loop","-1","-i",src], f"{base},trim=0:{d:.2f},setpts=PTS-STARTPTS{extra}"
