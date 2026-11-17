@@ -1,7 +1,7 @@
 # 🧭 ESTADO DEL NEGOCIO · tablero compartido del equipo de Mabel
 > **Todos los agentes (NICA, estratega, productor) LEEN este archivo PRIMERO y lo ACTUALIZAN AL TERMINAR.**
 > Si algo aquí contradice un brief viejo, **manda este archivo**. Una sola fuente de verdad.
-> Última actualización: 16-nov-2026 · Estratega
+> Última actualización: 17-nov-2026 · NICA
 
 ## 🎯 FOCO ACTUAL (no cambiar sin OK de Mabel)
 **Campaña activa: PROGRAMA LA RIQUEZA MIENTRAS DUERMES · Buen Fin extendido**
@@ -36,6 +36,7 @@
 3. ~~Estratega · Brief semana 16-22 nov alineado a este foco.~~ ✅ Hecho 16-nov (`briefs/brief-semana-2026-11-16.md`).
 4. Mabel · Ventas de los LIVES del 3, 10 y 15 nov (s/d).
 5. Mabel · Antes del 15 dic: ¿sigue o cancela Hootsuite (US$149/mes)?
+6. ✅ 17-nov · Pixel MabRadiante (859771230313179) conectado en Hotmart (facebook + Instagram, 3 eventos, todos los métodos, diferenciando pagos inmediatos). Token de API de conversiones: pendiente. NICA verifica que lleguen eventos.
 
 ## 📊 NÚMEROS (se actualizan cada lunes)
 | Semana | Gasto Meta | Registros | Llegaron a WhatsApp | Asistieron LIVE | Ventas |
@@ -46,6 +47,8 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **17-nov · NICA:** Mabel conectó el Pixel MabRadiante en Hotmart (WEB). Aún sin eventos al revisarlo (normal recién guardado).
+  Con el Pixel ya se podrán hacer campañas de VENTAS en lugar de Tráfico. Falta el token de API de conversiones.
 - **16-nov · Estratega:** brief 16-22 nov listo: `briefs/brief-semana-2026-11-16.md` y `.xlsx`. Foco SOLO Riqueza
   mientras Duermes ($500, cierre sáb 21 11:59 PM, hipnosis Zoom dom 22 11 AM); venta mar 17, jue 19 y sáb 21 (1 de 3 piezas).
   Plan 90 días solo como tabla "después del 22 nov, a definir con Mabel" (sin producto ni precio). LIVE propuesto: mar 8 dic.
