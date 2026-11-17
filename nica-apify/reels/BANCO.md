@@ -20,3 +20,7 @@ Archivos locales en reels/banco/videos (no se suben a GitHub). Revisado 17-nov: 
 - v19 anuncio terminado 12 s (problema→solución, voz de Grok, "Link en mi perfil") · listo para pauta
 - v20 arte animada Hipnosis Buen Fin $500 (fechas 13-20 nov: VIEJAS) · v21 arte animada LIVE GRATIS 15 nov (VIEJA)
 ## FALTA: por ahora nada para dinero. Revisar las ~49 imágenes que faltan.
+
+# TESTIMONIOS (Drive contacto@, carpeta 1IB9RPTaZneLB1RHkUMmqDRSgGYqGgPxZ) · revisado 17-nov
+~40 archivos. Vistos: TESTIGO 1-4 (capturas de videos-testimonio en IG: mujer sudadera, joven "Testimonio", señor "Activación Kundalini · les recomiendo", señor chamarra) · chat Zoom hipnosis 10-nov ("calma", "mucha energía", "me vi en luz dorada y violeta", "mi piel vibraba"). Pendientes de ver: capturas 5-nov, 24-feb, 2-abr, dic-2025, video WhatsApp 22-oct-2024.
+Uso: SOLO tal cual, nombres y fotos tapados. Testimonios de Kundalini → solo para el producto Kundalini, no para Riqueza.
