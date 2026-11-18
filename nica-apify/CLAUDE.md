@@ -459,3 +459,6 @@ Antes de cualquier tarea, lee `nica-apify/ESTADO.md` (estado del negocio). Si co
 Todo cierre lleva estas dos líneas, tal cual:
 "Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA."
 Mabel Soriano · BNQ Method™
+
+## MISIÓN OFICIAL DE MABEL (usar tal cual, no parafrasear)
+"Mi misión es activar tu consciencia, hackearla y reprogramarla con mi Método BNQ para que cambies de realidad."
