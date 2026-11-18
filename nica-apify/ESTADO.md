@@ -69,6 +69,6 @@
 ### 2026-11-18 · HANDOFF desde proyecto INVERSIÓN (decisiones de Mabel)
 - Dx: 0 ventas desde mayo. Brevo abre 18-21%; LIVES gratis = ~3x clics que venta directa. Catálogo bajó apertura a 10%. 5 correos en 9 días = cansancio.
 - Meta Ads: cuenta mabradiante no habilitada en la conexión; $500/sem 2 semanas sin ventas.
-- DECISIONES: 1) Pausar pauta. 2) UN producto: ADN Millonario $750. 3) Embudo: LIVE gratis → grupo WhatsApp → oferta ADN al cierre del LIVE. 4) Validar 1 a 1 con 10 personas del LIVE del 10 nov. 5) Paralelo: oferta de servicios de mercadotecnia por honorarios.
-- Meta: $10k/mes ≈ 14 ventas ADN/mes.
+- DECISIONES: 1) Pausar pauta. 2) UN producto: PROGRAMA LA RIQUEZA MIENTRAS DUERMES (corrección de Mabel: NO es ADN Millonario; mismo link Hotmart U104269730G). 3) Embudo: LIVE gratis → grupo WhatsApp → oferta de Programa la Riqueza al cierre del LIVE. 4) Validar 1 a 1 con 10 personas del LIVE del 10 nov. 5) Paralelo: oferta de servicios de mercadotecnia por honorarios.
+- Meta: $10k/mes (recalcular ventas/mes con precio de Programa la Riqueza).
 - Siguiente tarea: mensaje WhatsApp 1 a 1 para las 10 personas (entregado en chat). Landing: en pausa hasta tener las respuestas.

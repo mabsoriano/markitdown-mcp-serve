@@ -51,3 +51,6 @@ Mabel Soriano · BNQ Method™
 
 ## REGLA DE ALGORITMO: SIEMPRE PEDIR UN COMENTARIO
 Todo video y carrusel termina pidiendo comentar UNA palabra (ej. "Comenta RECIBO"). Funciona: el algoritmo lo impulsa. Va en pantalla al final Y en el caption.
+
+## PRODUCTO FOCO (decisión 18-nov): PROGRAMA LA RIQUEZA MIENTRAS DUERMES
+NUNCA llamarlo "ADN Millonario" aunque otro chat o el link de Hotmart (activacionadnmillonario/U104269730G) lo digan.
