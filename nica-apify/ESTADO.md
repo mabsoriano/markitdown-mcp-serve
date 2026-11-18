@@ -2,7 +2,7 @@
 > **Todos los agentes (NICA, estratega, productor) LEEN este archivo PRIMERO y lo ACTUALIZAN AL TERMINAR.**
 > Si algo aquí contradice un brief viejo, **manda este archivo**. Una sola fuente de verdad.
 > **REGLA DE MABEL (17-nov): antes de preguntarle algo, búscalo en este tablero, en `briefs/` y en el historial de la conversación. Si ella ya lo dijo, no se pregunta. Cada vez que hable, revisa primero los últimos acuerdos y llega con la solución.**
-> Última actualización: 17-nov-2026 · NICA
+> Última actualización: 18-nov-2026 · NICA
 
 ## 🎯 FOCO ACTUAL (no cambiar sin OK de Mabel)
 **Campaña activa: PROGRAMA LA RIQUEZA MIENTRAS DUERMES · Buen Fin extendido**
@@ -49,6 +49,9 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **18-nov mañana · NICA:** acumulado $182.76 · 526 clics ($0.35) · 405 visitas a Hotmart · 2 al pago · 0 compras.
+  Con el texto nuevo (desde anoche) aún 0 pagos. Propuesta: verificar que el precio visible sea $500 y mandar el anuncio
+  DIRECTO al pago (pay.hotmart.com/U104269730G?src=meta_riqueza) para saltar la página del marketplace. Espera OK de Mabel.
 - **17-nov noche · NICA:** Mabel ya pegó el texto nuevo en Hotmart. Le di el mensaje de WhatsApp para su gente caliente
   (grupo + registrados de los LIVES). Próxima revisión de compras: mié 18 tarde.
 - **17-nov tarde · NICA:** pauta Riqueza acumulado $114.97 · 350 clics ($0.33) · 226 visitas a Hotmart · 2 al pago · 0 compras.
