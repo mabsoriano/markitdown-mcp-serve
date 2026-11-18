@@ -454,3 +454,8 @@ Antes de cualquier tarea, lee `nica-apify/ESTADO.md` (estado del negocio). Si co
 - Generador: `reels/antes_despues.py guion.txt "TÍTULO" clip_antes.mp4 clip_despues.mp4 salida.mp4`.
 - ✅ FORMATO APROBADO (17-nov): faceless PROBLEMA→SOLUCIÓN con clips reales del BANCO NICA, sin morado ni geometría: `reels/problema_solucion.py guion.txt "TÍTULO" salida.mp4 N "problema1,problema2" "solucion1,solucion2"`. Inventario: `reels/BANCO.md`.
 - ⛔ NO gastar créditos (vidIQ, Apify, ElevenLabs, nada) sin su OK previo, aunque sea poco.
+
+## FIRMA Y SLOGAN OFICIAL (SIEMPRE COMPLETO, NUNCA RECORTADO)
+Todo cierre lleva estas dos líneas, tal cual:
+"Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA."
+Mabel Soriano · BNQ Method™

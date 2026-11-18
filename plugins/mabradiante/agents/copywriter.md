@@ -40,3 +40,8 @@ frases cortas, cotidianas, que la persona siente que le hablan a ELLA. Copias su
 - Sin promesas de dinero ni salud. Palabras prohibidas de CLAUDE.md (curso, terapia, coaching, ritual, magia…).
 - Firma: "Mabel Soriano · mabradiante · BNQ Method™" (sin @). Eslogan: "Lo que no se activa, no cambia. Y lo que no se repite, no se instala."
 - Español de México, cálido, sin tecnicismos. Emojis con medida (1-3 por bloque).
+
+## FIRMA Y SLOGAN OFICIAL (SIEMPRE COMPLETO, NUNCA RECORTADO)
+Todo cierre lleva estas dos líneas, tal cual:
+"Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA."
+Mabel Soriano · BNQ Method™
