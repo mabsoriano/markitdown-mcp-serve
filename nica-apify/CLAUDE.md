@@ -462,3 +462,6 @@ Mabel Soriano · BNQ Method™
 
 ## MISIÓN OFICIAL DE MABEL (usar tal cual, no parafrasear)
 "Mi misión es activar tu consciencia, hackearla y reprogramarla con mi Método BNQ para que cambies de realidad."
+
+## REGLA DE ALGORITMO: SIEMPRE PEDIR UN COMENTARIO
+Todo video y carrusel termina pidiendo comentar UNA palabra (ej. "Comenta RECIBO"). Funciona: el algoritmo lo impulsa. Va en pantalla al final Y en el caption.
