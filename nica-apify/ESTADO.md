@@ -11,7 +11,7 @@
 - Precio: **$500 + impuestos (antes $1,200, precio real)**.
 - Regalo: **hipnosis COMPLETA en vivo por Zoom privado, dom 22 nov 11 AM**, solo compradores.
 - Cierre real: **sáb 21 nov 11:59 PM**.
-- Link: https://hotmart.com/es/marketplace/productos/activacionadnmillonario/U104269730G (parámetro `src=meta_riqueza`).
+- Link del anuncio (desde 18-nov): **https://pay.hotmart.com/U104269730G** (directo al pago, con `src=meta_riqueza`). Antes: página del marketplace (405 visitas, 0 compras).
 - Pauta Meta: campaña "Riqueza mientras Duermes · Buen Fin 15-21 nov" (Tráfico) · FRÍO $420 + RETARGETING $180 = **$600** · PRENDIDA 16-nov.
 - Copys aprobados: Solución → Problema → CTA, gancho "DESBLOQUEA TU RIQUEZA MIENTRAS DUERMES".
 - **Todo el contenido de esta semana empuja ESTE producto.** No se ofrece otro producto hasta el 22 nov.
@@ -49,6 +49,9 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **18-nov · NICA:** con OK de Mabel, cambié el link de los 2 anuncios (frío 120254278272800237 y retargeting
+  120254278149780237) a pay.hotmart.com/U104269730G. Mabel confirmó precio $500 + impuestos y ya mandó WhatsApp a sus chats.
+  Revisar compras jue 19.
 - **18-nov mañana · NICA:** acumulado $182.76 · 526 clics ($0.35) · 405 visitas a Hotmart · 2 al pago · 0 compras.
   Con el texto nuevo (desde anoche) aún 0 pagos. Propuesta: verificar que el precio visible sea $500 y mandar el anuncio
   DIRECTO al pago (pay.hotmart.com/U104269730G?src=meta_riqueza) para saltar la página del marketplace. Espera OK de Mabel.
