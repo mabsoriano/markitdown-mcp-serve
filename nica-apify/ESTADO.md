@@ -46,6 +46,7 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- 18-nov · Estratega: `briefs/pauta-que-vende-2026-11-18.md` (por aprobar). Mismo dinero ($72/día) en 3 campañas: WhatsApp "RECIBO" $40 · calientes con testimonios al checkout $20 · promoción del orgánico "Comenta RECIBO" $12. Apagar a $150 sin señal o $500 sin venta; subir a $100/día solo con 1 venta o 15 conversaciones a <$25. Faltan: video a cámara 15-20 s, lámina "compra antes del dom 22", testimonios en la página de Hotmart y guion de WhatsApp.
 - 17-nov · NICA: Mabel extiende precios Buen Fin de TODO el catálogo hasta vie 20 11:59 PM ("porque ustedes lo pidieron"). Hipnosis completa en vivo DOMINGO 22 · 11 AM SOLO compradoras (confirmado por Mabel). Brevo campaña 16 BORRADOR (listas 3,2,9,10,8,7), luminosa. ⚠️ Captions de Hootsuite dicen "sábado 21": corregir a domingo 22 al reorganizar.
 - 17-nov · NICA: 4 borradores más en Hootsuite (IG + FB, 2 PM): mié 18 carrusel familia (6), jue 19 7 decretos (9), vie 20 testimonio, sáb 21 mensajes del alma (6). TikTok no (no acepta fotos).
 - 17-nov · NICA: 3 carruseles luminosos con foto real (mié familia, jue 7 decretos, sáb mensajes del alma) = 21 láminas + lámina testimonio. Generador reels/carrusel.py.
