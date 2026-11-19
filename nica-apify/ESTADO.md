@@ -2,7 +2,7 @@
 > **Todos los agentes (NICA, estratega, productor) LEEN este archivo PRIMERO y lo ACTUALIZAN AL TERMINAR.**
 > Si algo aquí contradice un brief viejo, **manda este archivo**. Una sola fuente de verdad.
 > **REGLA DE MABEL (17-nov): antes de preguntarle algo, búscalo en este tablero, en `briefs/` y en el historial de la conversación. Si ella ya lo dijo, no se pregunta. Cada vez que hable, revisa primero los últimos acuerdos y llega con la solución.**
-> Última actualización: 18-nov-2026 · NICA
+> Última actualización: 19-nov-2026 · NICA
 
 ## 🎯 FOCO ACTUAL (no cambiar sin OK de Mabel)
 **Campaña activa: PROGRAMA LA RIQUEZA MIENTRAS DUERMES · Buen Fin extendido**
@@ -11,7 +11,7 @@
 - Precio: **$500 + impuestos (antes $1,200, precio real)**.
 - Regalo: **hipnosis COMPLETA en vivo por Zoom privado, dom 22 nov 11 AM**, solo compradores.
 - Cierre real: **sáb 21 nov 11:59 PM**.
-- Link del anuncio (desde 18-nov): **https://pay.hotmart.com/U104269730G** (directo al pago, con `src=meta_riqueza`). Antes: página del marketplace (405 visitas, 0 compras).
+- Link del anuncio (desde 19-nov, landing nueva de Mabel): **https://pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10** (con `src=meta_riqueza`). 18-nov: pay.hotmart.com/U104269730G. Antes: página del marketplace (405 visitas, 0 compras).
 - Pauta Meta: campaña "Riqueza mientras Duermes · Buen Fin 15-21 nov" (Tráfico) · FRÍO $420 + RETARGETING $180 = **$600** · PRENDIDA 16-nov.
 - Copys aprobados: Solución → Problema → CTA, gancho "DESBLOQUEA TU RIQUEZA MIENTRAS DUERMES".
 - **Todo el contenido de esta semana empuja ESTE producto.** No se ofrece otro producto hasta el 22 nov.
@@ -49,6 +49,8 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **19-nov · NICA:** a pedido de Mabel, los 2 anuncios ahora van a su landing de venta nueva
+  (pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10). Meta los revisa de nuevo.
 - **18-nov · NICA:** con OK de Mabel, cambié el link de los 2 anuncios (frío 120254278272800237 y retargeting
   120254278149780237) a pay.hotmart.com/U104269730G. Mabel confirmó precio $500 + impuestos y ya mandó WhatsApp a sus chats.
   Revisar compras jue 19.
