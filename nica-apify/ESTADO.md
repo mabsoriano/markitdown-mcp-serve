@@ -49,6 +49,10 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **19-nov 10 AM · NICA:** acumulado $266.13 · 754 clics. Visitas a la página de PAGO: 82 (18-nov) + 71 (19-nov a las 10 AM)
+  = 153. Compras registradas: 0. CORRECCIÓN: "InitiateCheckout" se dispara al abrir la página de pago (el anuncio lleva
+  directo ahí), NO significa que empezaron a pagar. Retargeting sin gasto hoy (posible revisión por cambio de link).
+  Propuesta a Mabel: confirmar ventas en Hotmart; si son 0, pausar FRÍO y quedarse con retargeting + WhatsApp hasta el sáb.
 - **19-nov · NICA:** acumulado al 18-nov: $213.42 · 617 clics. Al mandar directo al pago (18-nov): 44 personas
   INICIARON el pago en un día (antes 2 en total) → el cambio funcionó. Compras registradas por Pixel: 0 (al 18-nov noche).
   Acción: Mabel revisa Ventas y Abandono de carrito en Hotmart y escribe por WhatsApp a quien no terminó de pagar.
