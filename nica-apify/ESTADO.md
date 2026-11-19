@@ -81,3 +81,5 @@
 - 19-nov · Mabel: link oficial ya cambiado en sus anuncios activos. Hootsuite opción B: FB MabRadiante en todos los borradores nuevos.
 
 - 19-nov · ESTRATEGA (veredicto): campaña actual se queda hasta vie 20 con link nuevo; único cambio = agregar Anuncio 1 (carrusel 4 láminas) en el MISMO conjunto, sin tocar presupuesto. Siguiente ventana (compra antes vie 27 → hipnosis dom 29): sáb 21 Campaña B Ventas $20/día + Campaña C Comenta RECIBO $12/día; lun 23 Campaña A WhatsApp $40/día si aprueba Anuncio 2. Viernes noche anotar: gasto, clics por anuncio, Inicio de pago (píxel), ventas Hotmart.
+
+- 19-nov · PENDIENTE TIKTOK: Mabel NO ha pautado nada en TikTok (prioridad 1, 74K). NICA no se lo recordó: error. Propuesta: Promocionar (app) su video orgánico con más vistas/comentarios, objetivo clics al sitio → link oficial. Presupuesto POR APROBAR. Recordarlo en cada handoff hasta que se decida.
