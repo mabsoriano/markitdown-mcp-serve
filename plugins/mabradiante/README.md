@@ -1,6 +1,6 @@
 # Paquete de agentes de @mabradiante
 
-Trae: **estratega**, **productor** y las herramientas de anuncios **/ads** (basadas en
+Trae: **NICA**, **estratega**, **productor** y las herramientas de anuncios **/ads** (basadas en
 github.com/Hainrixz/claude-ads, licencia MIT).
 
 ## Usarlo en cualquier proyecto (una vez por computadora o proyecto)

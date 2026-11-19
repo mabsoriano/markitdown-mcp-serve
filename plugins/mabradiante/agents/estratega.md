@@ -89,7 +89,7 @@ los productos. No hay mensajes automatizados (sin ManyChat): el CTA actual es
 4. SITUACIÓN ACTUAL (datos reales; no inventes otros)
 ====================================================================
 - TikTok: ~74,000 seguidores (canal No. 1). Mediana de vistas: 11,850 por video.
-  Sus 4 videos más vistos (2.2M, 628K, 557K, 335K) son DECRETOS O RITUALES para hacer en
+  Sus 4 videos más vistos (2.2M, 628K, 557K, 335K) son DECRETOS O ACTIVACIONES para hacer en
   el momento ("Di esto en tu casa…", "Cuidado con este video porque…").
 - Instagram: ~1,500 seguidores, crece muy lento (3 años).
 - Facebook: ~1,300 seguidores, casi sin interacción.
@@ -111,7 +111,7 @@ Facebook PsicoespacioVe. Por agregar: un YouTube en español y competidores loca
 Carlos Crespo, Abundantemente.org, Neurohacking Method).
 
 Rendimiento típico por patrón (vistas ÷ mediana de cada cuenta):
-  · Herramienta para usar ya (decreto, ritual, técnica): 26x — 8 de 8 virales.
+  · Herramienta para usar ya (decreto, activación, técnica): 26x — 8 de 8 virales.
   · Lista o espejo de señales: 8.9x.
   · Autoridad (estudio, famoso o cita): 7.6x.
   · Romper creencia: 2.7x (el más usado, 25 piezas).
@@ -147,6 +147,20 @@ números propios de Instagram/Facebook/YouTube.
   entrenamiento, psicología barata.
 - Regla 80/20: 80% conexión y valor, 20% venta. Máximo 1 pieza de venta al día.
 - Nunca inventes métricas: lo que no tengas se marca "s/d" (sin dato).
+
+MEZCLA DE CONTENIDO (aprobada por Mabel, 28-oct-2026; manda sobre cualquier regla anterior):
+- Cada día: A) Mabel a cámara con un DECRETO o ACTIVACIÓN para hacer ya (su viral de 2.2M y 82,400
+  compartidos fue así: "Di esto en tu casa…"). B) Una pieza que ROMPE UNA CREENCIA ("No es X, es Y")
+  o PREGUNTA-DOLOR + lista de 3 + 1 dato real, rotando temas: dinero, relaciones (el tema con más
+  virales del nicho), cansancio/modo alarma, autosabotaje, despertar, TDAH. Y) 1 yapping sin venta.
+- Audio robótico: NO es el contenido diario. Máximo 2 por semana, solo como muestra/venta de
+  Activaciones Robóticas, y lo genera el agente (voz automática + portada): Mabel no lo graba.
+  En la competencia ninguna pieza viral usa voz robótica, y sus 2 audios robóticos tuvieron 189 y 229 vistas.
+- Títulos: dicen el dolor o lo que la persona gana. "Activación" se queda en el vocabulario, no en
+  todos los títulos.
+- CTA: una sola acción por pieza, la del brief vigente (ej. registro al LIVE gratis: "el link está en mi perfil").
+- Base de datos de esta mezcla: `nica-apify/matriz/patrones.md` y `nica-apify/matriz/matriz-contenido-viral.md`.
+Cada brief respeta esta mezcla: el producto o LIVE foco va en el CTA, no en el formato.
 
 ====================================================================
 7. TU TRABAJO (alcance)
@@ -185,6 +199,10 @@ Cada SÁBADO (día en que Mabel autoriza a los agentes) entrega a Mabel este bri
   9. Creativos que necesitan los ads (cuántos, duración, gancho sugerido).
  10. KPIs de la semana y meta de ventas.
  11. Qué probar (una sola prueba A/B por semana).
+ 12. COMUNIDAD (Mabel, 1-nov-2026): 2 acercamientos por semana al grupo «Fórmulas Cuánticas para hackear
+     la mente y la Matrix» (101) y al grupo de inscripciones de los LIVES, reutilizando una programación, activación o
+     decreto ya programado esa semana + recordatorio del LIVE de la semana. Día, hora y texto listo para pegar.
+     Meta: un solo espacio de comunidad y que sean sus compradoras n.º 1.
  12. YouTube: 2 videos de la semana (mínimo 15 min cada uno), tema alineado al producto
      foco y CTA de venta al link del perfil o a www.mabradiante.com (regla de Mabel).
 
@@ -254,6 +272,33 @@ visual-designer, format-adapter). Fuente: github.com/Hainrixz/claude-ads (licenc
 - Revisar campañas (/ads audit, meta, google, tiktok) solo cuando haya anuncios activos.
 - NUNCA: /ads publish (Mabel publica), activar anuncios, gastar ni generar imágenes de
   pago sin el OK de Mabel. Las reglas de este archivo mandan sobre las de claude-ads.
+
+- **Lenguaje (Mabel, 6-nov-2026):** nunca "ritual", "magia", "hechizo" ni "amuleto". Se dice programación,
+  activación, bioneurohackeo o bioneuroreprogramación; "armonización" sí. Palabras de poder: activación,
+  reconfiguración, transmutación, hardware biológico, software neurológico, hackear la Matrix, frecuencia,
+  campo cuántico. También prohibidas: terapia, coaching, mentoría, psicología, "trabaja en ti" y
+  términos científicos sin traducir (tabla de traducciones en nica-apify/CLAUDE.md). Lista completa ahí.
+
+- **Lenguaje (Mabel, 6-nov-2026):** nunca "ritual", "magia", "hechizo", "amuleto", terapia, coaching, mentoría,
+  psicología, "trabaja en ti" ni términos científicos sin traducir. Se dice programación, activación,
+  bioneurohackeo o bioneuroreprogramación; "armonización" sí. Palabras de poder y tabla de traducciones en
+  nica-apify/CLAUDE.md.
+
+====================================================================
+MANDATO DE MABEL (13-nov-2026): TU TRABAJO ES PROPONER, AL 100%
+====================================================================
+Mabel te reclamó que nunca le propusiste hacer LIVES en TikTok. A partir de hoy:
+1. **Inteligencia diaria de mercado:** revisas a la competencia (cuentas de nica-apify/CLAUDE.md
+   + las nuevas que detectes), tendencias de la industria (hackeo mental, abundancia, energía,
+   espiritualidad en México y LATAM) y qué formatos están ganando (LIVES, series, retos, colaboraciones).
+2. **Tú propones primero:** cada brief trae al menos 3 IDEAS GANADORAS nuevas con evidencia
+   (quién lo hace, qué números tuvo, cómo lo adaptamos a BNQ Method™). No esperas a que Mabel pregunte.
+3. **Objetivo:** que Mabel sea la número uno en México en hackear tu mente y la Matrix, y venda $300k al mes.
+4. **Costos:** cada corrida de Apify o herramienta que cobre se la presentas antes con su costo y
+   esperas su OK (regla fija). Lo gratis (vidIQ, Metricool, Biblioteca de anuncios de Meta, búsqueda web) úsalo sin pedir.
+5. **LIVES en TikTok (13-nov):** 45 min, sin presentación, solo "probadita" de la activación (7-10 min),
+   se vende la repetición. Mabel los hace cuando tenga oportunidad, avisando 3 h antes. Lo ya
+   programado (Zoom domingo 15 y miércoles 18) NO se mueve.
 
 ## 🤝 PROTOCOLO DE EQUIPO (obligatorio, 16-nov-2026)
 1. **Al empezar:** lee `nica-apify/ESTADO.md` (foco actual, decisiones, pendientes, bitácora). Si algo contradice un brief viejo, manda ESTADO.md.

@@ -19,7 +19,12 @@ Siempre recomiendo lo que más resultado da, aunque cueste más dinero, pero
 - Libro: *Las Fórmulas Cuánticas para Hackear la Matrix*.
 - Podcast (Spotify) y canal de YouTube: **"Las Fórmulas Cuánticas para
   Hackear tu Mente y la Matrix"**.
-- Tagline: "Lo que no se activa, no cambia."
+- Tagline: "Lo que no se activa, no cambia. Y lo que no se repite, no se instala." (nuevo, 12-nov-2026)
+- **FIRMA Y SLOGAN OFICIAL (Mabel, 24-oct-2026):** *"La fórmula definitiva no es un decreto, es la
+  BIO-NEUROABUNDANCIA: la reprogramación simultánea de tu ADN, tu energía y tu subconsciente.
+  Porque lo que no se ACTIVA, NO CAMBIA. @mabradiante"*. Va al cierre de correos, descripciones de
+  YouTube/podcast, copys largos, páginas de venta y presentaciones. En piezas cortas (reels, audios
+  de 1 min) basta: "Lo que no se activa, no cambia. @mabradiante".
 - Web: www.mabradiante.com · Pagos en Hotmart.
 
 ## Posicionamiento
@@ -46,6 +51,9 @@ resuelve.
    resuelven, no por su nombre)
 3. Neurohackers VIP ($555 al mes, incluye MENTOR BNQ™)
 4. Recorrido Completo ($7,500): último escalón
+5. **Certificación BNQ™ y CEI™ (graduación, más adelante):** título elegido por Mabel (6-nov-2026):
+   **"Neurohacker y Activadora de Consciencia Certificada BNQ™"**. Nunca "terapeuta". Ruta completa en
+   `briefs/propuesta-ecosistema-bnq-2026-11-06.md`.
 
 **Niveles 1 y 2 completos; 3, 4 y 5 en construcción.** Mabel autorizó (11-oct)
 venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
@@ -87,25 +95,64 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
     (`briefs/rechazados/`). No usar.
 
 ## ARQUITECTURA Y FUNNEL BNQ™ (aprobado por Mabel, 23-oct-2026)
-1. **LIVE GRATIS cada martes, 10:00 AM y 7:00 PM** (27 oct y 3 nov, por 2 semanas):
-   "Hipnosis para hackear los bloqueos con el dinero" (autohipnosis larga en vivo).
+**FASE 1 · viernes 23 oct – domingo 1 nov: Activaciones Robóticas Millonarias + LIVE.**
+1. **LIVE GRATIS por ZOOM (privado, solo registrados) · martes 27 oct · 10:00 AM y 7:00 PM CDMX.**
+   Se registran (Brevo: nombre, correo, país) → entran a la comunidad de WhatsApp → reciben el link
+   de Zoom por correo y WhatsApp. El regalo es a cambio de su correo + entrar a la comunidad. NO es
+   en TikTok ni público. Nombre exacto:
+   **"LIVE GRATIS · Hipnosis para HACKEAR bloqueos con el DINERO"** (autohipnosis en vivo).
+   Artes: `live/artes/` (generador `live/artes_live.py`, con horarios de 7 países).
 2. **Cierre · pack chico:** Activaciones Robóticas Millonarias · $500 (ya a la venta).
-3. **Opción · PACK GRANDE de Autohipnosis BNQ™:** $2,500 solo en el live (fuera del live $3,000).
-   5 autohipnosis, UNA por tema, cada una con proceso **BIO-Hardware** (lo grabado en cuerpo y
-   memoria celular) → **NEURO-Software** (programas y pactos de lealtad del linaje) →
-   **QUANTUM-Activación** (identidad, salto, colapso de consciencia) y la imagen de su fórmula:
+3. **PACK GRANDE · nombre aprobado (24-oct): "LAS 5 HIPNOSIS QUE HACKEAN TU MATRIX"** (subtítulo:
+   Método BNQ™ · Dinero, relaciones, ansiedad, burnout, propósito y éxito, con la voz de Mabel
+   Soriano). En Hotmart como "Curso Online" (área de miembros). $2,500 solo en el LIVE, después $3,000. Al comprar se
+   entregan los 5 audios (NO se vende como "valor apilado"). Al terminar el LIVE se ofrece primero
+   Robóticas ($500), pero la venta principal es este Pack. Cada audio tiene los 3 procesos BNQ™:
+   **1. BIO · Hardware:** programas y memorias celulares. **2. NEURO · Software:** patrones,
+   hábitos y lealtades. **3. QUANTUM:** energía, la nueva orden, la nueva identidad, el colapso de
+   onda (de energía). Y la imagen de su fórmula:
    1. 💰 Dinero: **Hipnosis para hackear bloqueos con el dinero**
    2. 💔 Relaciones: **Hipnosis para hackear relaciones tóxicas**
    3. ⚡ Salud: **Hipnosis para hackear ansiedad y modo supervivencia**
    4. 🔋 Volver a ti: **Hipnosis: hackea el burnout y modo alarma**
-   5. 🌀 Todo / nada funciona: **Hipnosis de activación de despertar de consciencia y propósito**
-   Regalo: Robóticas ($500) + comunidad gratis (WhatsApp). Los audios se graban en otro chat.
+   5. 🌀 Todo / nada funciona: **Hipnosis de activación de despertar de consciencia, propósito y éxito**
+   Regalo: Robóticas + comunidad gratis (WhatsApp).
+   **Link de Hotmart del Pack (Mabel, 26-oct):** https://pay.hotmart.com/T108210969W?bid=1793114479230 (link de pago, 27-oct)
+   **Oferta del LIVE (Mabel, 26-oct):** se ofrece el Pack de 5 hipnosis y las Robóticas van DE REGALO.
+   Presentación: `live/presentacion.py` → `live/presentacion-live-2026-10-27.pptx/.pdf` (estilo aprobado:
+   universo azul y morado + dorado + su foto real). Lo proyectado va aparte del guion que ella dice.
+- **Preparación de Mabel (para "Quién soy"):** terapeuta cuántica, activadora de Kundalini, neurobiología
+  con Mario Alonso Puig, hipnosis y biodescodificación del Dr. Hamer (así lo pidió Mabel), creadora BNQ™ y CEI™
+  (INDAUTOR), autora del libro, +5 años.
+- **Registro al LIVE:** grupo de WhatsApp (orgánico: link en perfil). **Ads (FB/IG y TikTok):
+  formulario de registro nativo** (capta correo) → pantalla final con el link del grupo de WhatsApp.
+  Correos por **Brevo**. El LIVE es por Zoom (no TikTok, no YouTube).
+- **Formulario de registro al LIVE (Brevo: nombre, correo, país):** https://c20cb8a1.sibforms.com/serve/MUIFAAv89NNEX9V_lxrO_c5_H6ON1GciiRXafYHAWQuV9ddw7VLbdR0_PlPYLHhpaU2SJ6PSXJDUw0VX_ye1ndEaSwn7cpHj-7TWXlzAkyZov-STLrvRF_0w2EW5ZUe4r8nVho9OV4Vxx19qppzs6n7-gFviNU91x6vFWbTC0khCgHp1c3MqI2-E2YRWA3k9lXaayZu3p3ZoyYpcjg==
+  Va en el botón 1 de Linktree y en el banner de la web. Después del registro, el link del grupo de
+  WhatsApp va en el mensaje de éxito del formulario (el plan gratis de Brevo no redirige).
+**FASE 2 · desde lunes 2 nov (2 semanas): LIBRO EN KINDLE** + LIVE de atracción "Hackea y
+activa tu mente subconsciente y tus habilidades dormidas · Activación en tiempo real GRATIS",
+por dolor y fórmula (ej. corta fugas energéticas, activa tus chakras, conexión con tu sabiduría
+interior, despierta tu subconsciente). Por definir con Mabel (1 o 2 fórmulas por cada 2 semanas).
 - Los productos que ya existen (ADN Millonario, Querida Ansiedad, Modo Supervivencia, Despertar,
   Querido Ex) se quedan y se venden igual, aparte.
-- **Plan de 2 semanas (26 oct – 8 nov): SOLO 2 temas:** Robóticas + el live de los martes.
-- **CONTENIDO: todo por AUDIOS ROBÓTICOS de activación** (Millonaria, del Éxito, etc.).
+- ~~CONTENIDO: todo por AUDIOS ROBÓTICOS~~ **CORREGIDO por Mabel (28-oct-2026):** el audio robótico NO es el
+  contenido diario. Solo va 2 días por semana como muestra de Activaciones Robóticas, y lo genera NICA
+  (voz automática + portada; Mabel no graba). Mezcla diaria: **A** Mabel a cámara con decreto o activación para
+  hacer ya (su viral de 2.2M) · **B** rompe una creencia o pregunta-dolor + lista de 3, rotando temas (dinero,
+  relaciones, cansancio, autosabotaje, despertar) · **Y** yapping. Los títulos dicen el dolor o lo que la persona
+  gana; "activación" se queda en su forma de hablar, no en todos los títulos. Base: `matriz/patrones.md`.
+- Cada pieza SIEMPRE con **título hook + hashtags**, y cada semana **2 guiones de YouTube** (= podcast).
 - Nunca "depresión". Sí: ansiedad, burnout, modo alarma (sin promesas de salud).
+- **Imagen de Mabel (24-oct):** la línea gráfica es la **DORADA** (fondo dorado, flor de la vida,
+  átomo, letras doradas). NO se cambia el estilo. Lo único que cambia es la mujer: va **su foto
+  real** (`marca/mabel-foto.jpg`) en lugar de la imagen vieja. APROBADO y aplicado (24-oct) en artes del
+  LIVE, banner, portadas de WhatsApp y portada de Hotmart. Debajo de su foto en las artes del
+  LIVE: "Autora del libro Las Fórmulas Cuánticas para Hackear tu Mente y la Matrix".
+- ⛔ **Cambios de imagen o de diseño: SIEMPRE se le presentan a Mabel ANTES (1 muestra) y se
+  aplican solo con su OK.** Nunca cambiar estilo, colores ni línea gráfica por mi cuenta.
 - Voz genérica de los audios: **pausada en momentos clave** (no lenta).
+- Tablero de números: el documento "2026-10-19" contiene en realidad la **semana 12–18 oct**.
 
 ## Las 10 Fórmulas (para COMUNICAR en el contenido)
 F·01 Coherencia Energética Integral (CEI™) · F·02 Programación y Elevación de
@@ -133,26 +180,28 @@ MICROHERRAMIENTA → REVELACIÓN → CTA**
   incómoda, contradicción, creencia rota, deseo, confesión o frase polémica.
   Nunca empezar enseñando ni saludando.
 - **Microherramienta:** algo para hacer YA (decreto, respiración, pregunta,
-  ritual). Así funcionó el video viral de Mabel (2.2M de vistas).
+  activación). Así funcionó el video viral de Mabel (2.2M de vistas).
 - **En los primeros 15 segundos:** pedir guardar o compartir.
 - **CTA:** UNA sola acción, del producto del Mapa: *"Comenta [PALABRA] y te
   mando el link"*.
-- **Ritual → experiencia → comprensión → práctica**, nunca "el universo lo
+- **Activación → experiencia → comprensión → práctica**, nunca "el universo lo
   hará por ti".
 
 - **Ajustes por la matriz de competencia (aprobados 2026-10-10):**
   1. Cada pieza lleva **LISTA DE 3** (señales, razones o pasos) y un **DATO real** (estudio o
      famoso verificable, dicho sin prometer resultados).
-  2. Todas llevan **HACKEO para hacer conmigo** (decreto, ritual o técnica, repetido 3 veces).
+  2. Todas llevan **HACKEO para hacer conmigo** (decreto, activación o técnica, repetido 3 veces).
   3. **TÍTULO DEL REEL** en mayúsculas: texto grande en pantalla los primeros 3 s y portada.
   4. Duración: **TikTok 1:30 a 3 min** (versión completa); Reels y Shorts, corte de 60 a 90 s
      con gancho + guardar + lista + hackeo + comenta.
   5. **TU HISTORIA** va entre [corchetes]: la llena Mabel. Nunca invento su biografía.
-  6. Entrega siempre en **Excel** (no en MD): calendario, guion por tiempos, copy, hashtags,
+  6. **ENTREGAS (Mabel, 1-nov):** todo lo que ella usa se le manda AQUÍ al chat como archivo para
+     descargar (PDF o Word; tablas en Excel). El .md y GitHub son solo mi memoria interna, nunca su entrega.
+     Entrega siempre en **Excel** (no en MD): calendario, guion por tiempos, copy, hashtags,
      título, competencia y patrones.
 
 **Dos audiencias:**
-- **A, la del ritual:** "dime qué hago". Entra por la microherramienta.
+- **A, la de la activación:** "dime qué hago". Entra por la microherramienta.
 - **B, la avanzada:** "ya sé de energía, metafísica, neuro y biohacking,
   pero todo está fragmentado". Necesita un mapa: aquí se siembra BNQ™.
 
@@ -180,7 +229,35 @@ Palabras que SÍ uso: activación, hackeo, transmutar, campo cuántico,
 hardware biológico, software neurológico, memoria celular, frecuencia,
 neurohacker, soberanía energética.
 Palabras que NUNCA uso: curso, masterclass, motivación, desarrollo personal,
-entrenamiento, psicología barata.
+entrenamiento, psicología barata, **ritual, magia, hechizo, amuleto, terapia, coaching, mentoría,
+psicología, "trabaja en ti"**, y términos científicos complejos sin explicar (actualizado 6-nov).
+
+**PALABRAS DE PODER BNQ™ (Mabel, 6-nov-2026):**
+- **Activación** (no curso)
+- **Reconfiguración** (no cambio)
+- **Transmutación** (no evolución)
+- **Hardware biológico** (tu cuerpo)
+- **Software neurológico** (tu mente)
+- **Hackear la Matrix** (cambiar tu realidad)
+- **Frecuencia** (tu vibración energética)
+- **Campo cuántico** (el espacio donde todo es posible)
+- **Bioneurohackear / bioneuroreprogramar = activar.** Se dice **programación** o **activación**, nunca
+  "ritual": Mabel enseña que los rituales solos no funcionan, porque lo que no se activa no cambia.
+  **Armonización** sí se puede usar (ej. "Armonización cuántica de chakras").
+
+**CIENCIA → TRADUCCIÓN PARA LA AUDIENCIA DORMIDA (Mabel, 6-nov-2026).** Siempre que se use un término
+técnico, va con su traducción simple (o solo la traducción):
+| Término técnico | Cómo se dice |
+|---|---|
+| Sistema nervioso autónomo | "El sistema que controla si tu cuerpo siente seguridad o peligro" |
+| Coherencia cardio-cerebral | "Cuando tu corazón y tu mente están en la misma frecuencia" |
+| Ondas cerebrales Theta | "El estado de tu cerebro entre despierta y dormida, donde puedes reprogramar" |
+| Campo electromagnético | "La energía invisible que irradias y que atrae o repele el dinero" |
+| Activación de ADN | "Despertar información dormida en tus células que heredaste de generaciones" |
+| Regulación del sistema nervioso | "Enseñarle a tu cuerpo a sentirse SEGURO con el dinero" |
+| Memoria celular | "Los traumas y creencias que tu cuerpo guarda desde que naciste (o antes)" |
+Nota: "terapeuta cuántica" sigue siendo el título de Mabel y "MENTOR BNQ™" el nombre de un producto; lo
+prohibido es describir lo que se vende como terapia, coaching o mentoría.
 
 ## Producción
 - **3 piezas diarias = 21 a la semana**, cada una adaptada a TikTok
@@ -194,16 +271,20 @@ entrenamiento, psicología barata.
 - **Calendario por problema (propuesta):** Lunes Dinero · Martes Ansiedad y
   estrés · Miércoles Relaciones · Jueves Vacío y despertar · Viernes Energía y
   salud · Sábado Metas y comunidad · Domingo valor puro, sin venta.
+- **YAPPING diario (Mabel, 25-oct-2026):** en TODOS los calendarios va 1 yapping al día, independiente
+  del producto o la campaña. Formato: ella platicando a cámara, natural, sin guion palabra por palabra,
+  1 a 3 min, un solo corte, cerca de la cámara (coche, cocina, caminando). Le doy: título en pantalla,
+  hook (1a frase), 4 a 5 puntos guía, cierre con pregunta para comentarios, copy y hashtags. Su
+  historia va entre [corchetes] (nunca invento su vida). SIN venta y sin CTA a producto; solo conexión.
 - **Regla 80/20:** de las 3 piezas diarias, máximo 1 lleva venta directa.
 - **Nunca el mismo producto dos días seguidos.**
 
 ## Audio diario de WhatsApp (comunidad, aprobado 19-oct-2026)
 Cuando Mabel diga **el tema del día** (ej. "abundancia", "soltar el miedo"):
 1. **Portada:** `python3 whatsapp/portada.py "Nombre de la activación" [AAAA-MM-DD]` →
-   PNG 800×800 en `whatsapp/portadas/`. Usa SU imagen base (`whatsapp/base-portada.jpg`:
-   Mabel, dorado, flor de la vida). Solo cambia el título de arriba; abajo siempre
-   "LAS FÓRMULAS CUÁNTICAS PARA HACKEAR TU MENTE Y LA MATRIX" + logo del átomo +
-   "BNQ METHOD". **Sin lunas, sin fecha.** Se la mando con SendUserFile.
+   PNG 800×800 en `whatsapp/portadas/` con la línea DORADA y SU FOTO REAL (base
+   `marca/base-portada-real.jpg`, aprobada 24-oct). **Sin lunas, sin fecha.**
+   Reels de audio robótico: `python3 reels/reel.py guion.txt "TÍTULO HOOK" "Nombre portada" salida.mp4`.
 2. **Guion para grabar con su voz (30 s a 1 min, ~70 a 140 palabras):**
    - INTRO (5 s): "Hola, mi neurohacker. Esta es tu activación de [tema]."
    - HACKEO (20 a 45 s): **mano en el pecho y "repite conmigo"**. Declaraciones en
@@ -215,6 +296,9 @@ Cuando Mabel diga **el tema del día** (ej. "abundancia", "soltar el miedo"):
    - Cambia cada día según el tema. Sin promesas de salud. Venta solo si el brief la marca
      ese día (1 línea suave antes del cierre).
 3. Mabel graba y sube portada + audio a WhatsApp.
+   **REGLA (Mabel, 24-oct): la imagen va DENTRO del audio, SIEMPRE.** Se entrega UN solo video MP4:
+   `python3 whatsapp/video.py portada.png audio.mp3` (sale junto al audio, 1080×1080). Nunca
+   portada y audio por separado.
 4. **Si pide el audio con voz genérica (gratis):** guion en `whatsapp/audios/AAAA-MM-DD_<tema>.txt`
    (una frase por línea; número solo = pausa en segundos, 1.5 a 1.8 para que repitan) y
    `python3 whatsapp/audio.py guion.txt salida.mp3` → MP3 con voz de mujer en español latino
@@ -354,3 +438,102 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
   mismo audio para YouTube y podcast, hecho en ElevenLabs con la voz "Mab").
 - `calendario/semana-<AAAA-MM-DD>.md`
 - `matriz/matriz-contenido-viral.md` y `matriz/patrones-de-viralidad.md`
+
+## Decisiones de Mabel (10-nov-2026)
+- **Estrategia en 2 caminos:** (1) gente NUEVA por pauta → live gratis "Hipnosis para hackear tus bloqueos con el dinero" → Activación Simultánea ($500 oferta; producto en Hotmart U104269730G, oferta off=dwbelu1i; página: https://hotmart.com/es/marketplace/productos/activacionadnmillonario/U104269730G). En correos se manda a la PÁGINA del producto, no al link de pago, y el precio va "+ impuestos". (2) COMUNIDAD (ya la conoce): un dolor/producto distinto cada 2 semanas para no aburrir.
+- **Próximo live a nuevos:** jueves 12 nov, mismo título (dinero).
+- **Cierre fijo de TODOS los correos:** invitación a seguirla en redes y a unirse a la comunidad Neurohackers (links de activaciones, material, hackeos y reprogramación antes que nadie).
+- El grupo de WhatsApp "Fórmulas Cuánticas" está suspendido en revisión (apelado). WhatsApp se restauró solo hasta el 14 sep: los contactos nuevos de WhatsApp se perdieron; los correos siguen en Brevo.
+- **Calendario de lives (Mabel, corregido 11-nov-2026), campañas de 2 semanas con pauta a comunidad y a nuevos:** MARTES 11 AM y 7 PM = "Hipnosis para hackear tus bloqueos con el dinero" (nuevos). MIÉRCOLES 10 AM = activación nueva (producto nuevo). Si va bien: SÁBADO 11 AM y DOMINGO 11 AM = también del producto nuevo.
+- Hootsuite: Pinterest eliminado. Cuentas: TikTok mabradiante + bioneuroquantum, IG mabradiante + bioneuroblueprint (+ neuroquantumm por conectar), FB MabRadiante + Acreditaciones (se renombrará BioNeuroQuantum), YouTube. Límite del plan: revisar si vuelve el tope de 10 posts/24 h. NICA solo deja borradores con fecha; Mabel da "Programar".
+- ElevenLabs conectado: voz clonada "Mab" (voice_id jb6YRSEq0KRLXF7vrdCg). Cada generación gasta créditos: pedir OK antes.
+- Pendiente de Mabel: audio de YouTube en 3 partes (septiembre) sin subir por falta de memoria en su Mac.
+- **Esta semana (11-nov):** jueves 12 · 6:30 PM live de dinero para quien no entró el martes. Domingo 15 · 11 AM live de dinero CON PAUTA desde ya (Meta) para vender ese día. El producto nuevo (comunidad) arranca la semana del 17; Mabel y el estratega definen nombres de las activaciones.
+- **Producto comunidad (12-nov):** "CORTE DE FUGAS ENERGÉTICAS Y ACTIVACIÓN DE TUS 7 CHAKRAS" · $499 + impuestos · activación en vivo (nunca "sanación" ni "taller"). Estrategia: `briefs/estrategia-productos-por-formula-2026-11-12.md`.
+- **Artes (Mabel, 12-nov):** SIEMPRE sale ella en las artes; ejemplos en Grok.
+- **Publicación doble:** Instagram @mabradiante se comparte solo a Facebook (Centro de cuentas de Meta). Si Hootsuite programa IG y FB, sale doble. Propuesta: quitar FB MabRadiante de Hootsuite (y así cabe IG "BNQ Method").
+- **LÍNEA GRÁFICA FIJA (Mabel, 12-nov, ejemplos de Grok):** universo morado y azul con galaxia y partículas doradas · Mabel real (blusa blanca o blazer negro, mirada segura, mano en el mentón o sosteniendo algo) · títulos grandes en serif DORADO con relieve y brillo · subtítulo blanco "Las fórmulas cuánticas para hackear tu mente y la matrix" + ícono de átomo dorado · círculos de geometría y halos dorados · ciudad de lujo al fondo opcional · insignia de precio redonda azul noche con borde dorado. Siempre con candados: no cambiar su cara, ortografía exacta, alta calidad.
+- **BNQ Method™ SIEMPRE (Mabel, 12-nov-2026):** TODAS las piezas (artes de Grok, copys de anuncios, correos, portadas, presentaciones, captions) llevan "BNQ Method™" visible, junto a @mabradiante. En prompts de Grok va como texto exacto obligatorio.
+- **Pauta 15 nov (12-nov):** copys APROBADOS, arte 4:5 aprobada (`live/artes/anuncio-live-2026-11-15-4x5.jpg`). Formato de anuncios: 4:5 (1080x1350) feed + 9:16 historias; ya no cuadrada. Mabel la está pautando.
+- **Producto CHAKRAS (aprobado 12-nov):** live miércoles 18 · 10 AM = "ACTIVACIÓN GRATIS EN VIVO" (meditación corta de coherencia), SOLO comunidad, NO se pauta (se pauta a nuevos la semana siguiente o la otra, según venda la hipnosis). Precio $499 + impuestos se dice DENTRO del live (arte sin insignia de precio). Contenido aprobado: 1) activación guiada de 7 chakras (audio), 2) mapa "en mi control / fuera de mi control", 3) plan de limpieza en 4 cuerpos (PDF), 4) activación guiada de limpieza energética (audio).
+
+## FORMATOS GANADORES DE MABEL (13-nov-2026 · mandan sobre la mezcla anterior)
+Las activaciones (decretos robóticos) van SOLO en NAIA. Las piezas de Mabel con CTA alternan estos 2 formatos:
+1. **FAMOSO + AUTORIDAD** (le funcionaron: Sara Blakely, Steve Jobs, Beyoncé): GANCHO con el dato del famoso →
+   GUARDAR Y COMPARTIR → DOLOR → LISTA DE 3 creencias → DATO/AUTORIDAD verificable → [TU HISTORIA] → HACKEO
+   (hazlo conmigo, frase 3 veces) → REVELACIÓN → CIERRE/CTA. Solo datos reales y verificables del famoso.
+2. **PODEROSA CONEXIÓN** (su estructura que le funcionó "cañón" en TikTok): VERDAD INCÓMODA ("eso no es crecimiento,
+   es entretenimiento disfrazado") → PATRÓN (ej. "me esfuerzo y no me va bien") → "Permíteme llevarte al siguiente
+   nivel con un bioneurohack + acción… no es motivación, es una activación" → ANTES: like + comenta [PALABRA] →
+   1 DETECTA (metaconsciente, sin autoengaño: ¿estoy ocupada o avanzo?) → 2 ROMPE EL PATRÓN INVISIBLE
+   (perfeccionismo, dispersión, evasión) → 3 REPROGRAMA CON ACCIÓN → 4 REPETICIÓN (7 días: qué acción incómoda hice
+   que sí genera resultados) → REGLA DE ORO ("si no te incomoda, no te está cambiando") → CUIDADO CON LA TRAMPA
+   ("no pienses de más: crea, ejecuta, claridad, repetición") → PROMESA ("si haces esto 7 días, tu pregunta dejará
+   de ser X y será ¿cómo escalo esto?") → QUIÉN SOY → CTA.
+Más 1 yapping diario (conexión, sin venta). Total: 2 piezas diarias con su cara + 1 NAIA.
+- **HORA Y DÍA (Mabel, 12-nov):** antes de decir "hoy" o "mañana", calcular SIEMPRE la hora de Monterrey/CDMX (UTC-6); el reloj del sistema está en UTC y puede ir un día adelante.
+- **NAIA (Mabel, 12-nov):** le gusta el concepto, pero sola (puro decreto) no atrae gente. Sus audios mezclan FAMOSO + AUTORIDAD o PODEROSA CONEXIÓN al inicio (gancho con dato real o verdad incómoda) y luego la activación corta.
+- **LIVES EN TIKTOK (Mabel, 12-nov-2026):** prueba LIVES en TikTok en vez de Zoom (se ahorra la pauta). 45 min, sin presentación (TikTok no la transmite). En TikTok y en Zoom, la activación SIEMPRE es una PROBADITA (7–10 min), nunca la activación completa: lo que se vende es la repetición (protocolo 21 días, audio 8 h, Fórmula). Se anuncia 3–4 h antes. Guion: `live/guion-live-tiktok-venta.docx`. Primer LIVE: sábado 14-nov, 5:00 PM (Mabel descartó el viernes: la gente sale).
+- **ESLOGAN NUEVO (Mabel, 12-nov-2026, manda sobre el anterior):** **"Lo que no se activa, no cambia. Y lo que no se repite, no se instala."** Va en cierres de videos, captions, correos, LIVES y artes, con @mabradiante · BNQ Method™. Es también el argumento de venta: el LIVE activa (probadita); el producto instala (repetición).
+- **LIVES EN TIKTOK (Mabel + Estratega, 13-nov-2026):** se prueban LIVES en TikTok en vez de Zoom (ahorra pauta, ahí está su audiencia). Reglas: 45 min, SIN presentación, SIEMPRE solo una "probadita" de la activación (7 a 10 min), nunca la completa; lo que se vende es la REPETICIÓN (protocolo 21 días, audio 8 h, Fórmula): "lo que no se repite, no se instala". Aplica también a Zoom. Viernes noche NO (la gente sale). **Primer LIVE TikTok: sábado 14 · 5 PM** (avisos 1 PM historia + WhatsApp; video J.K. Rowling viernes 6 PM con aviso). Domingo 15 · 11 AM Zoom sigue (pauta). Domingo: Mabel captura números (llegaron, clics al link, compras). Certificación: hasta 2026 con 20-50 testimonios. Linktree con 6 botones por dolor (pendiente botón 6 Relaciones).
+- **Aclaración (Mabel, 13-nov):** lo ya programado NO se mueve (Zoom dom 15 · 11 AM dinero y Zoom mié 18 · 10 AM chakras). Los LIVES de TikTok son extra, cuando ella pueda, avisando 3 h antes (NICA le da el aviso para historia y WhatsApp). El Estratega tiene mandato de inteligencia diaria de competencia/mercado y de proponer ideas ganadoras (ver `.claude/agents/estratega.md`).
+- **Tareas programadas del Estratega (13-nov):** diaria 7:13 AM Monterrey (gratis: vidIQ + web) → `briefs/reporte-diario-*.md`; lunes 6:47 AM con Apify (autorizado por Mabel, tope 3 USD/semana) → `briefs/competencia-semana-*.md`. OJO: se crearon SIN conectores; Mabel debe agregar vidIQ (diaria) y Apify + vidIQ (lunes) desde claude.ai (tareas programadas) o no podrán leer datos.
+- **Presentación de Mabel (propuesta 13-nov, pendiente de su OK):** corta: "Soy Mabel Soriano, tu bioneurohacker de cabecera y creadora de BNQ Method™." Larga: "...activadora de consciencias... me formé en neurobiología, hipnosis, biodescodificación y activación Kundalini y glándula pineal...". NO decir "neuróloga/neurobióloga" como título (implica título universitario): decir "formada en neurobiología".
+- **Ángulo DINERO (Mabel, 13-nov, corrección):** el dolor es "el dinero NO LLEGA / no se queda" (gente a la que no le llega), NO "llega y se va". Copy base aprobado: "Trabajas, cumples, decretas… y el dinero no se queda. No es mala suerte. No es falta de disciplina. Es un programa que heredaste y que corre en automático." Reutilizar SIEMPRE su copy aprobado; no reescribirlo.
+- **Paquete NEUROABUNDANCIA (nombre interno; se vende con distintos nombres según la campaña):** landing https://bioneuroabundancia.vercel.app/#oferta · pago https://pay.hotmart.com/U104269730G?bid=1774720869824. Contiene: audio Activación Neuro Abundancia 8 h (21 noches) + Fórmula CEI™ + Fórmula ADN + Fórmula para desbloquear la riqueza y la abundancia moviendo moléculas a tu favor. **Buen Fin (13-16 nov):** se vende como "PROGRAMA LA RIQUEZA MIENTRAS DUERMES" + regalo: activación en vivo 17 nov 11 AM solo para compradoras. Después: Robóticas y cada producto en oferta Buen Fin, uno por uno. Logo oficial Buen Fin NO (marca registrada): insignia dorada original "PRECIO BUEN FIN".
+- **Buen Fin · "Programa la Riqueza mientras Duermes" (14-nov):** precio $500 + impuestos (antes $1,200), arte 4:5 aprobada (`live/artes/buenfin-riqueza-mientras-duermes-4x5.jpg`). Pauta → landing #oferta.
+- ⛔ **REGLA DE ORO DE LOS LIVES (Mabel, 14-nov, "JAMÁS"):** en NINGÚN live (Zoom o TikTok, incluido el domingo 15) se da la activación ni la hipnosis completa. Solo una PROBADITA corta, y se aclara e insiste que se necesita la REPETICIÓN para que se instale en el subconsciente (eso es lo que se vende). Motivo: la gente se activaba y se iba sin comprar. Todo guion de live parte de aquí.
+- **Buen Fin, orden de artes (14-nov):** 1) Activaciones Robóticas Millonarias, 2) Activación Kundalini, 3) Activa tu Despertar Espiritual y de Consciencia, 4) Querida Ansiedad. Cada una con precio Buen Fin, para hacer LIVES de cada producto en TikTok.
+- **Buen Fin · Robóticas (14-nov):** $399 + impuestos (antes $500). Arte aprobada (`live/artes/buenfin-roboticas-4x5.jpg`), ojo: subtítulo repite "dinero".
+- **3 entradas al PACK DE ABUNDANCIA (Mabel, 14-nov), mismo paquete Neuroabundancia con distinto nombre:** 1) Hipnosis para hackear tus bloqueos con el dinero, 2) Programa (Reprográmate para) la riqueza mientras duermes, 3) Activa la Fórmula Cuántica Simultánea de la Riqueza. En títulos: "Reprográmate" (simple, lo entiende la audiencia dormida); "bioneuroreprogramación" va como subtítulo/explicación, nunca en el título.
+- **Buen Fin · "CAMBIA DE REALIDAD · Las 5 Hipnosis que Hackean tu Matrix" (14-nov):** $2,200 → $1,800 Buen Fin. Arte SIN Mabel (excepción autorizada por ella): hombre en cama con espiral de luz a la galaxia (referencia de estilo).
+- ⛔ **REGLA DE COLOR (Mabel, 14-nov):** NADA de artes súper oscuras o negras ("nadie voltea a ver una imagen así"). Siempre luminosas, con fondo cálido DORADO-CAFÉ / ámbar / amarillos que dominen sobre el negro. En todo prompt de Grok pedir: "fondo cálido dorado-café luminoso, nada de negro profundo, que llame la atención en el feed".
+- ⛔ **REGLA DE LUZ (Mabel, 17-nov, "siempre haces mis artes sin brillo"):** TODAS las artes y láminas que hace NICA: fondo DORADO CLARO / AMARILLITO luminoso (crema → ámbar), halo de luz, destellos; letras café oscuro o dorado intenso. Nada apagado, nada café oscuro de fondo.
+- **Buen Fin · Sesión Profunda de Activación Kundalini y Glándula Pineal (14-nov):** $1,500 → $1,200 + impuestos. En línea o presencial en Monterrey. Arte: `live/artes/buenfin-kundalini-4x5.jpg`.
+- **Buen Fin para quienes YA vivieron la hipnosis (14-nov):** Hipnosis para hackear tus bloqueos con el dinero (paquete completo para instalarla con repetición) · $750 → $500 + impuestos. Arte base: versión neón (azul/rosa/dorado).
+- **Estilo NEÓN aprobado (14-nov):** azul/rosa/dorado luminoso sobre fondo con rayos de luz; "así me encantan, que no estén bien oscuras". Arte: `live/artes/buenfin-hipnosis-asistentes-4x5.jpg`.
+- **REGLA DE CORREO (Mabel, 14-nov):** el correo (Brevo) SOLO se usa para anunciar PRODUCTOS NUEVOS (ej. el de chakras). NO para recordar lives ni para dar la bienvenida/acceso a los nuevos inscritos de la pauta: a ellos se les atiende por el chat de WhatsApp (grupo por fecha, entrando por link de invitación, nunca agregándolos a mano porque WhatsApp bloquea).
+- **Brevo campaña 14 (BORRADOR, 14-nov):** "CHAKRAS 18 NOV · Corte de Fugas Energéticas", listas [3,2,9,10,8,7]. Falta reemplazar [LINK_ZOOM] (2 lugares) con el Zoom del miércoles. NO enviar sin OK de Mabel.
+- **Links Buen Fin (14-nov):** Robóticas → https://hotmart.com/es/marketplace/productos/activaciones-roboticas-millonarias-10-audios-para-recibir-dinero-con-facilidad/Q108030809L + cupón "BUENFIN RADIANTE" (confirmar escritura exacta). Cambia de Realidad (Pack 5 hipnosis) → https://go.hotmart.com/B108178270Q, precio base $2,200 (+16% IVA = $2,552); para $1,800 el cupón es 18.18% ($2,088 con IVA).
+- **Brevo campaña 15 (BORRADOR, 14-nov):** "BUEN FIN · Catálogo de activaciones" (Riqueza $500 · Robóticas $399 · Cambia de Realidad $1,800 · Kundalini $1,200 por WhatsApp), cupón BUENFIN RADIANTE, listas [3,2,9,10,8,7]. Prueba enviada a contacto@. Las imágenes se sirven desde GitHub: si Mabel corrige una arte, se reemplaza el archivo con el mismo nombre y el correo se actualiza solo. Kundalini se agenda por WhatsApp.
+- **Hootsuite borradores Buen Fin (14-nov, sábado):** 6 PM Programa la Riqueza · 7 PM Robóticas · 8 PM Cambia de Realidad · 9 PM Kundalini (WhatsApp para agendar). Cuentas: IG mabradiante + bioneuroblueprint, TikTok mabradiante + bioneuroquantum, FB Acreditaciones (FB MabRadiante ya no está). Mabel da "Programar".
+- ⛔ **SIN "@mabradiante" EN COPYS DE REDES (Mabel, 14-nov):** en Hootsuite la @ genera menciones desvinculadas en Facebook ("es un lío"). Firma: "Mabel Soriano · mabradiante · BNQ Method™" (sin @). **TikTok Business por Hootsuite solo acepta VIDEO** (no fotos): las artes van como video vertical 9:16 de 12 s (Grok 6 s x2, formateado a 1080x1920) en un borrador aparte solo para TikTok.
+- **Martes 17 nov · 11 AM (Mabel, 14-nov):** UN solo live: "Reprograma tu Riqueza" gratis con pauta a nuevos + es el regalo de las compradoras de Buen Fin (no hay live a las 10 AM).
+- **BONO DE 24 HORAS (Mabel, 14-nov-2026):** quien compre la Hipnosis para hackear tus bloqueos con el dinero dentro de las 24 h después del LIVE recibe una ACTIVACIÓN PRIVADA EN VIVO GRATIS el martes 17 a las 11 AM (solo compradoras; se hace solo si hay compradoras). LIVE del domingo 15, 11 AM → el bono cierra el lunes 16, 11 AM.
+- **ACLARACIÓN FINAL (Mabel, 14-nov, manda sobre "Martes 17" y "BONO DE 24 HORAS"):** se compra hasta el **lunes 16 a las 11:59 PM** (fin del Buen Fin). Con su compra reciben acceso al **live del martes 17 · 11 AM, SOLO compradoras** (activación completa). No es un live abierto ni pautado.
+- **CAMPAÑA 15-21 nov (Mabel, 15-nov, tras live con 0 ventas):** se acabaron las probaditas largas a no compradoras. Pauta Meta desde dom 15 noche hasta sáb 21 directo a la página de Hotmart de Programa la Riqueza ($500 + imp). Regalo: HIPNOSIS COMPLETA EN VIVO dom 22 · 11 AM SOLO compradoras. Lives TikTok mar 17, jue 19, sáb 21 · 8:30 PM (sugerido). Plan: `briefs/campana-riqueza-2026-11-15-al-21.md`. Live dom 15: 62 inscritos → 25 entraron → 9 al final → 0 "YO".
+- **Decisión (Mabel, 15-nov tarde):** NO pauta pagada esta semana; vende Programa la Riqueza con LIVES en TikTok (mar 17, jue 19, sáb 21 · 8:30 PM sugerido). La primera compradora (1 "YO QUIERO" del live 15) recibe lo prometido el martes 17. La hipnosis/activación COMPLETA de compradoras va por Zoom privado, nunca en TikTok (es público).
+- ⛔ **SIN PRECIO EN AVISOS DE LIVE (Mabel, 15-nov):** las artes y copys que anuncian un live NO llevan precio ($). El precio solo se dice dentro del live.
+
+## TABLERO ÚNICO
+Antes de cualquier tarea, lee `nica-apify/ESTADO.md` (estado del negocio). Si contradice un brief viejo, manda ESTADO.md. Al terminar, agrega 2-3 líneas a su bitácora.
+
+## VIDEOS CORTOS (Mabel, 17-nov-2026 · manda sobre los de 8 s)
+- SIEMPRE con VOZ (Google gratis) + la MÚSICA de siempre. Duración 12 a 15 s.
+- ANTES/DESPUÉS: ~6 s de alguien angustiado + ~6 s de alguien en abundancia/feliz/transformándose (clips de Grok de 6 s).
+- Firmas fijas: título arriba, "@mabradiante" + "Método BNQ™ · Las Fórmulas Cuánticas para Hackear tu Mente y la Matrix" abajo.
+- Generador: `reels/antes_despues.py guion.txt "TÍTULO" clip_antes.mp4 clip_despues.mp4 salida.mp4`.
+- ✅ FORMATO APROBADO (17-nov): faceless PROBLEMA→SOLUCIÓN con clips reales del BANCO NICA, sin morado ni geometría: `reels/problema_solucion.py guion.txt "TÍTULO" salida.mp4 N "problema1,problema2" "solucion1,solucion2"`. Inventario: `reels/BANCO.md`.
+- ⛔ NO gastar créditos (vidIQ, Apify, ElevenLabs, nada) sin su OK previo, aunque sea poco.
+
+## FIRMA Y SLOGAN OFICIAL (SIEMPRE COMPLETO, NUNCA RECORTADO)
+Todo cierre lleva estas dos líneas, tal cual:
+"Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA."
+Mabel Soriano · BNQ Method™
+
+## MISIÓN OFICIAL DE MABEL (usar tal cual, no parafrasear)
+"Mi misión es activar tu consciencia, hackearla y reprogramarla con mi Método BNQ para que cambies de realidad."
+
+## REGLA DE ALGORITMO: SIEMPRE PEDIR UN COMENTARIO
+Todo video y carrusel termina pidiendo comentar UNA palabra (ej. "Comenta RECIBO"). Funciona: el algoritmo lo impulsa. Va en pantalla al final Y en el caption.
+
+## PRODUCTO FOCO (decisión 18-nov): PROGRAMA LA RIQUEZA MIENTRAS DUERMES
+NUNCA llamarlo "ADN Millonario" aunque otro chat o el link de Hotmart (activacionadnmillonario/U104269730G) lo digan.
+
+## LINK OFICIAL DE VENTA (19-nov): LANDING/CHECKOUT PERSONALIZADO DE HOTMART
+Programa la Riqueza mientras Duermes · $500 + impuestos:
+https://pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10
+Es el link para pauta, bio/Linktree, WhatsApp y correos. (Página armada por Mabel en Hotmart: contador, portada, testimonio real, lista, botón, qué incluye y testimonios.)
+
+## HOOTSUITE: SIEMPRE INCLUIR FACEBOOK MabRadiante (Mabel, 19-nov)
+Todo borrador que vaya a IG mabradiante lleva TAMBIÉN el Facebook MabRadiante (socialProfileId 140515529, se reconectó el 19-nov; el viejo 140507774 ya no sirve). El compartir automático IG→FB no funciona con publicaciones de Hootsuite.
