@@ -49,6 +49,9 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **19-nov · NICA:** acumulado al 18-nov: $213.42 · 617 clics. Al mandar directo al pago (18-nov): 44 personas
+  INICIARON el pago en un día (antes 2 en total) → el cambio funcionó. Compras registradas por Pixel: 0 (al 18-nov noche).
+  Acción: Mabel revisa Ventas y Abandono de carrito en Hotmart y escribe por WhatsApp a quien no terminó de pagar.
 - **19-nov · NICA:** a pedido de Mabel, los 2 anuncios ahora van a su landing de venta nueva
   (pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10). Meta los revisa de nuevo.
 - **18-nov · NICA:** con OK de Mabel, cambié el link de los 2 anuncios (frío 120254278272800237 y retargeting
