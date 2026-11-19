@@ -475,4 +475,4 @@ https://pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10
 Es el link para pauta, bio/Linktree, WhatsApp y correos. (Página armada por Mabel en Hotmart: contador, portada, testimonio real, lista, botón, qué incluye y testimonios.)
 
 ## HOOTSUITE: SIEMPRE INCLUIR FACEBOOK MabRadiante (Mabel, 19-nov)
-Todo borrador que vaya a IG mabradiante lleva TAMBIÉN el Facebook MabRadiante (socialProfileId 140507774). El compartir automático IG→FB no funciona con publicaciones de Hootsuite.
+Todo borrador que vaya a IG mabradiante lleva TAMBIÉN el Facebook MabRadiante (socialProfileId 140515529, se reconectó el 19-nov; el viejo 140507774 ya no sirve). El compartir automático IG→FB no funciona con publicaciones de Hootsuite.
