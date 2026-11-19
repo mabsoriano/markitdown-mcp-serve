@@ -73,3 +73,5 @@
 - DECISIONES: 1) Pauta SIGUE ACTIVA (Mabel decidió NO apagarla, 18-nov); mejorar el anuncio en vez de pausar. 2) UN producto: PROGRAMA LA RIQUEZA MIENTRAS DUERMES (corrección de Mabel: NO es ADN Millonario; mismo link Hotmart U104269730G). 3) Embudo: LIVE gratis → grupo WhatsApp → oferta de Programa la Riqueza al cierre del LIVE. 4) Validar 1 a 1 con 10 personas del LIVE del 10 nov. 5) Paralelo: oferta de servicios de mercadotecnia por honorarios.
 - Meta: $10k/mes (recalcular ventas/mes con precio de Programa la Riqueza).
 - Siguiente tarea: mensaje WhatsApp 1 a 1 para las 10 personas (entregado en chat). Landing: en pausa hasta tener las respuestas.
+
+- 19-nov · Landing (checkout personalizado Hotmart, plantilla Saturn IB) PUBLICADA por Mabel. Link oficial: https://pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10. Siguiente: cambiar link en bios/Linktree y armar 3 anuncios (muestras antes de pautar).

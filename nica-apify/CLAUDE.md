@@ -468,3 +468,8 @@ Todo video y carrusel termina pidiendo comentar UNA palabra (ej. "Comenta RECIBO
 
 ## PRODUCTO FOCO (decisión 18-nov): PROGRAMA LA RIQUEZA MIENTRAS DUERMES
 NUNCA llamarlo "ADN Millonario" aunque otro chat o el link de Hotmart (activacionadnmillonario/U104269730G) lo digan.
+
+## LINK OFICIAL DE VENTA (19-nov): LANDING/CHECKOUT PERSONALIZADO DE HOTMART
+Programa la Riqueza mientras Duermes · $500 + impuestos:
+https://pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10
+Es el link para pauta, bio/Linktree, WhatsApp y correos. (Página armada por Mabel en Hotmart: contador, portada, testimonio real, lista, botón, qué incluye y testimonios.)
