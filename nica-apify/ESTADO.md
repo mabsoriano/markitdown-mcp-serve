@@ -79,3 +79,5 @@
 - 19-nov · Píxel de Meta YA configurado en Hotmart (producto 7144289): ID 859771230313179, evento web + API (token) activos. Garantía Hotmart 7 días activa. Precio base 27 USD no editable; no afecta (link oficial usa off=dwbelu1i = $500 MXN).
 
 - 19-nov · Mabel: link oficial ya cambiado en sus anuncios activos. Hootsuite opción B: FB MabRadiante en todos los borradores nuevos.
+
+- 19-nov · ESTRATEGA (veredicto): campaña actual se queda hasta vie 20 con link nuevo; único cambio = agregar Anuncio 1 (carrusel 4 láminas) en el MISMO conjunto, sin tocar presupuesto. Siguiente ventana (compra antes vie 27 → hipnosis dom 29): sáb 21 Campaña B Ventas $20/día + Campaña C Comenta RECIBO $12/día; lun 23 Campaña A WhatsApp $40/día si aprueba Anuncio 2. Viernes noche anotar: gasto, clics por anuncio, Inicio de pago (píxel), ventas Hotmart.
