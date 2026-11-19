@@ -77,3 +77,5 @@
 - 19-nov · Landing (checkout personalizado Hotmart, plantilla Saturn IB) PUBLICADA por Mabel. Link oficial: https://pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10. Siguiente: cambiar link en bios/Linktree y armar 3 anuncios (muestras antes de pautar).
 
 - 19-nov · Píxel de Meta YA configurado en Hotmart (producto 7144289): ID 859771230313179, evento web + API (token) activos. Garantía Hotmart 7 días activa. Precio base 27 USD no editable; no afecta (link oficial usa off=dwbelu1i = $500 MXN).
+
+- 19-nov · Mabel: link oficial ya cambiado en sus anuncios activos. Hootsuite opción B: FB MabRadiante en todos los borradores nuevos.
