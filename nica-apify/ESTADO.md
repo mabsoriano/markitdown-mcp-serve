@@ -49,6 +49,9 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **19-nov · NICA (ads-meta):** Mabel confirma 0 ventas. Análisis en `briefs/analisis-pauta-riqueza-2026-11-19.md`:
+  anuncio excelente, falla venta directa en frío + página de pago sin persuasión + objetivo Tráfico. NO meter más dinero.
+  Propuesta: pausar FRÍO, vender a gente caliente hasta el sáb; próxima campaña = Clientes potenciales → LIVE → venta.
 - **19-nov 10 AM · NICA:** acumulado $266.13 · 754 clics. Visitas a la página de PAGO: 82 (18-nov) + 71 (19-nov a las 10 AM)
   = 153. Compras registradas: 0. CORRECCIÓN: "InitiateCheckout" se dispara al abrir la página de pago (el anuncio lleva
   directo ahí), NO significa que empezaron a pagar. Retargeting sin gasto hoy (posible revisión por cambio de link).
