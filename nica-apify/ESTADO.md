@@ -40,6 +40,12 @@
 5. Mabel · Antes del 15 dic: ¿sigue o cancela Hootsuite (US$149/mes)?
 6. ✅ 17-nov · Pixel MabRadiante (859771230313179) conectado en Hotmart (facebook + Instagram, 3 eventos, todos los métodos, diferenciando pagos inmediatos). Token de API de conversiones: pendiente. NICA verifica que lleguen eventos.
 
+## ⚠️ DATO CLAVE DE MABEL (19-nov)
+- Ha hecho **5 LIVES** (3 de Hipnosis en nov + 2 de ADN Millonario en oct) y **nadie compró** en ninguno.
+  Por eso decidió venta directa con precio Buen Fin. NO volver a proponer "LIVE gratis → venta" como solución mágica:
+  primero entender por qué no compran en el LIVE (asistencia, oferta, cierre, testimonios).
+- 18-nov: Mabel hizo una **landing de venta en Hotmart con conteo regresivo** (checkoutMode=10). Es la que tiene la pauta desde el 19-nov.
+
 ## 📊 NÚMEROS (se actualizan cada lunes)
 | Semana | Gasto Meta | Registros | Llegaron a WhatsApp | Asistieron LIVE | Ventas |
 |---|---|---|---|---|---|
