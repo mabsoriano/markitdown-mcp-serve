@@ -87,3 +87,5 @@
 - 19-nov · Hootsuite: borradores Buen Fin extendido creados (video 12 s, IG mab+bnb, FB MabRadiante 140515529 + Acreditaciones, TikTok mab, YouTube): Robóticas jue 19 11 AM, Kundalini jue 19 3 PM, Cambia de Realidad vie 20 11 AM. Comentar palabra: ROBÓTICAS / KUNDALINI / REALIDAD. OJO: TikTok bioneuroquantum ya NO aparece en Hootsuite (desconectado). Estratega: tarea diaria ahora revisa EJECUCIÓN (borradores sin programar, FB MabRadiante, YouTube, TikTok ads); le faltan conectores Hootsuite/vidIQ en la tarea programada.
 
 - 19-nov · Plan de ventas del equipo (estratega+copywriter+NICA): briefs/plan-ventas-equipo-2026-11-19.md. Pendiente OK de Mabel: live gratis mié 25, palabra única, bloque de grabación lunes, presupuesto TikTok.
+
+- 20-nov · EQUIPO AGENCIA creado (OK de Mabel): agentes trafficker, analista, embudos, closer; estratega ascendido a DIRECTOR DE ESTRATEGIA.
