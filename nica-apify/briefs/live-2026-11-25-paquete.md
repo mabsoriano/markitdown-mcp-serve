@@ -2,7 +2,7 @@
 **Campaña:** Hackeo Simultáneo (aprobada por Mabel, 20-nov 10:30)
 **Agente:** Embudos · 20-nov-2026 · **TODO ES BORRADOR** (nada enviado, nada publicado, nada creado en Brevo ni en ManyChat)
 **Revisión de textos:** pendiente del copywriter antes de publicar.
-**Versión:** 2 (reemplaza la versión "Herencia Invisible" y el formulario de Brevo).
+**Versión:** 3 · 20-nov (sección 5 reescrita: OFERTA AL MINUTO 20, guion minuto a minuto). La v2 reemplazó "Herencia Invisible" y el formulario de Brevo.
 
 ## Datos fijos (una sola fuente; si algo cambia, se cambia aquí primero)
 | Dato | Valor |
@@ -248,32 +248,151 @@ Mabel Soriano · BNQ Method™
 
 ---
 
-## 5) Guion del CIERRE en el live (2 min · palabras exactas de Mabel)
-*Va DESPUÉS de la probadita. Pantalla: precio, fecha, link. Una persona del equipo pega el link en el chat de Zoom cuando Mabel diga "te lo dejo en el chat".*
+## 5) GUION DEL LIVE · OFERTA AL MINUTO 20 (minuto a minuto · palabras de Mabel)
+**Versión 3 · 20-nov · ajuste aprobado por Mabel (brief del Director `campanas/ajuste-director-2026-11-20.md`).** Reemplaza el "cierre de 2 minutos al final".
+**Duración:** 45 min (si siguen muchas personas, las preguntas se alargan hasta los 60 min).
 
-"Lo que acabas de sentir fue una probadita. Y quiero que me escuches bien: una probadita activa, pero no instala.
+**Reglas de este live (pégalas junto a la pantalla):**
+1. **A las 20:00 en punto va la oferta**, aunque vayas atrasada. Si te atrasaste, se recorta la probadita, nunca la oferta.
+2. La probadita es **corta** (8 a 10 min). **Nunca** la hipnosis completa: esa es el regalo del domingo 29.
+3. Una persona del equipo **pega el link en el chat de Zoom** a las 20:00, 24:00, 33:00 y 40:00, y anota para el analista: personas conectadas a las 20:00, cuántas escriben LISTA y cuántas compras.
 
-Hoy viste que tu bloqueo con el dinero no está en un solo lugar. Está en tu subconsciente, que aprendiste de niña. Está en tu memoria celular, que viene de tus generaciones. Y está en tu energía, que es 100% tuya. Por eso lo hackeamos en simultáneo. Y lo que no se repite, no se instala.
+Link que se pega en el chat: https://pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10
 
-Por eso creé **Programa la Riqueza mientras Duermes**. Es un audio de activación de 8 horas. Le das play, te duermes, y durante 21 noches tu mente lo escucha cuando ya no discute. No tienes que hacer nada más que dar play.
+---
 
-Ya probaste decretar. Decretar le habla a tu mente despierta, y tu mente despierta discute. Esto le habla cuando duermes.
+### 00:00 – 03:00 · GANCHO
+"Bienvenida, bienvenido. Si estás aquí es porque con el dinero ya lo intentaste: trabajas, te esfuerzas, decretas… y el dinero llega, pero no se queda. Hoy te voy a enseñar por qué no es tu culpa. Y vamos a hacer juntas un hackeo en vivo.
 
-Su precio real es de mil doscientos pesos. Para las que están aquí hoy, queda en **quinientos pesos más impuestos**.
+Escríbeme en el chat desde dónde te conectas."
 
-Y hay algo más: si entras **antes de este viernes 27 a las 11:59 de la noche**, te regalo tu lugar en la **hipnosis COMPLETA en vivo, este domingo 29 a las 11 de la mañana**, conmigo, por Zoom privado. Esa es la experiencia completa, la que hoy no te di. Solo para compradoras.
+*Lee 3 o 4 nombres con su ciudad: "Hola, [nombre], desde [ciudad]. Bienvenida."*
 
-Y una sorpresa: cuando estés pagando, Hotmart te va a mostrar las **Activaciones Robóticas Millonarias por solo 199 pesos más**. Son 10 audios de menos de un minuto para escuchar justo antes de cobrar, pagar o vender. Si las quieres, solo marca la casilla. Solo aparece ahí, al pagar.
+"Quédate conmigo, porque en unos minutos te comparto algo que es solo para quienes están aquí en vivo.
 
-Además, Hotmart te da 7 días de garantía.
+Tres cuidados rápidos, porque vamos a vivir una probadita de hipnosis:
+Uno: si estás manejando o haciendo algo que pide tu atención, solo escucha. La vives después, en un lugar tranquilo.
+Dos: si puedes, ponte audífonos.
+Tres: esto es una práctica de bienestar. No sustituye atención médica ni psicológica. Si estás pasando por un momento muy difícil, está la Línea de la Vida: 800 911 2000, gratis, las 24 horas."
+
+### 03:00 – 08:00 · MAPA BNQ · TUS 3 NIVELES
+"[TU HISTORIA · máximo 1 minuto: el momento en que te diste cuenta de que tu problema con el dinero no era falta de esfuerzo.]
+
+Tu bloqueo con el dinero no vive en un solo lugar. Vive en tres al mismo tiempo.
+
+**Uno: tu subconsciente.** Se programó desde niña, con lo que escuchabas en casa: 'no alcanza', 'el dinero cuesta mucho', 'eso no es para nosotros'. Eso es **aprendido**. No viene de sangre. Y lo que se aprende, se puede reprogramar.
+
+**Dos: tu memoria celular.** Esta **sí se hereda**. Viene de tus generaciones: tu mamá, tu abuela, tu bisabuela. Lo que ellas vivieron con el dinero, tu cuerpo lo guarda.
+
+**Tres: tu energía.** Esta es **100% tuya**. Nadie te la heredó y nadie te la enseñó. Es tu frecuencia.
+
+Si trabajas solo uno, los otros dos lo jalan de regreso. Por eso decretas y no pasa nada. Por eso con el Método BNQ los hackeamos **en simultáneo**. Y cada problema se resuelve con una **Fórmula Cuántica**.
+
+Escríbeme en el chat: ¿qué frase escuchabas en tu casa sobre el dinero?"
+
+*Lee 3 frases en voz alta, con cariño, sin juzgar.*
+
+### 08:00 – 18:00 · PROBADITA DE HACKEO (corta)
+"Lo que vamos a hacer ahora es una **probadita**. Unos minutos para que tu cuerpo sienta cómo se abre la puerta. Una sola vez abre, pero no instala. Al final te digo cómo se instala.
+
+Acomódate. Suelta los hombros. Si quieres, apaga tu cámara. Tú siempre estás presente y en control. [PAUSA]
+
+Cierra los ojos. Inhala profundo… y suelta lento por la boca. [PAUSA] Otra vez… inhala… y suelta. [PAUSA]
+
+Con cada respiración, tu cuerpo baja el ruido. Tu frente se suaviza. Tu quijada se suelta. [PAUSA]
+
+**Primero, tu subconsciente.** Escucha dentro de ti la frase de tu casa sobre el dinero. Solo obsérvala. No pelees con ella. Era un programa que aprendiste de niña. [PAUSA] Repite en tu mente: **'Esa frase no es mía. Hoy la suelto.'** [PAUSA]
+
+**Ahora, tu memoria celular.** Pon una mano en tu abdomen. Siente detrás de ti a tu mamá, a tu abuela, a las mujeres y hombres de tu familia. [PAUSA] Diles en tu mente: **'Gracias por lo que vivieron. Lo que fue difícil se queda con ustedes. Yo tomo la vida y la abundancia.'** [PAUSA]
+
+**Y ahora, tu energía.** Pon las dos manos en el pecho. Esta parte es 100% tuya. Imagina que tu pecho se llena de luz dorada, una luz que se siente segura con el dinero. [PAUSA] Repite conmigo, despacio: **'Merezco. Recibo. Sostengo.'** [PAUSA] Otra vez… **Merezco. Recibo. Sostengo.** [PAUSA] Y una última… **Merezco. Recibo. Sostengo.** [PAUSA]
+
+*Aquí te detienes. NO sigas con la instalación profunda.*
+
+Quédate aquí tres respiraciones. Siente eso. [PAUSA larga]
+
+Cuento del 1 al 3 y regresas: 1… mueve tus dedos. 2… respira profundo. 3… abre los ojos."
+
+### 18:00 – 20:00 · ¿QUÉ SENTISTE? · 1 palabra en el chat
+"Escríbeme en el chat, en **una sola palabra**, qué sentiste."
+
+*Lee 4 a 6 palabras con su nombre: "[nombre] escribe paz… [nombre] escribe calor…". Agradece cada una.*
+
+*Si alguien escribe "nada": "Gracias por tu honestidad. Eso es justo lo que te iba a explicar: una sola vez no alcanza. Ese programa lleva años; se necesita repetición."*
+
+"Si me das permiso de compartir tu palabra, escribe SÍ junto a ella.
+
+Eso que sentiste fue la puerta abriéndose. Pero escúchame bien: una probadita activa, no instala. La pregunta ahora es: ¿la vas a dejar abierta, o se va a volver a cerrar mañana? Te digo cómo se queda abierta."
+
+### 20:00 – 27:00 · LA OFERTA (a las 20:00 en punto)
+*Equipo: pega el link en el chat AHORA.*
+
+"Lo que no se repite, no se instala. Por eso creé **Programa la Riqueza mientras Duermes**.
+
+Trabaja tus tres niveles en simultáneo, igual que hoy:
+- Para tu **subconsciente**: un **audio de activación de 8 horas**. Le das play, te duermes, y durante **21 noches** tu mente lo escucha cuando ya no discute. Decretar le habla a tu mente despierta, y tu mente despierta discute. Esto le habla cuando duermes.
+- Para tu **memoria celular**: la **Fórmula Cuántica para reprogramar tus células**, para trabajar lo que heredaste de tu familia sobre el dinero.
+- Para tu **energía**: la **Fórmula Cuántica de Coherencia Energética Integral, CEI™**, y la **Fórmula Cuántica para desbloquear la riqueza y la abundancia**. Unos minutos en la mañana para sostener tu nueva frecuencia.
+
+Antes costaba mil doscientos pesos. Hoy está en **quinientos pesos más impuestos**.
+
+Y aquí viene lo que te dije que era solo para quienes están en vivo: si entras **antes de este viernes 27 de noviembre a las 11:59 de la noche**, te regalo tu lugar en la **hipnosis COMPLETA en vivo, este domingo 29 a las 11 de la mañana**, conmigo, por Zoom privado. Es la experiencia completa, la que hoy no te di. Solo para compradoras.
+
+Cuando estés pagando, Hotmart te va a mostrar las **Activaciones Robóticas Millonarias por 199 pesos más**. Son 10 audios de menos de un minuto para escuchar justo antes de cobrar, pagar o vender. Si las quieres, marcas la casilla. Solo aparecen ahí, al pagar.
+
+Y estás protegida: **Hotmart te da 7 días de garantía.** Si no es para ti, pides tu reembolso desde Hotmart.
 
 No te pido que me creas. Te pido 21 noches.
 
-Te lo dejo en el chat. Si ya entraste, escribe 'LISTA' para que te dé la bienvenida.
+Te lo dejé en el chat. Dale clic ahora, mientras seguimos aquí. Si ya entraste, escribe **LISTA** para darte la bienvenida."
 
-Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA."
+*Pausa de 1 minuto en silencio o con música suave mientras compran. Cuando alguien escriba LISTA: "¡Bienvenida, [nombre]! Nos vemos el domingo 29 a las 11."*
 
-*(Tiempo estimado: 2 min a ritmo tranquilo.)*
+### 27:00 – 40:00 · PREGUNTAS, TESTIMONIOS Y REPETIR LA OFERTA
+"Ahora sí, pregúntame lo que quieras. Escríbelo en el chat."
+
+*Respuestas cortas a las dudas que más llegan:*
+- **"¿Cómo lo recibo?"** → "Al pagar te llega un correo de Hotmart con tu acceso. Ahí está tu audio de 8 horas y tus Fórmulas. El audio lo descargas una vez a tu celular y lo escuchas sin internet."
+- **"¿Y si me despierto en la noche?"** → "No pasa nada. Te vuelves a dormir con el audio. Tu subconsciente sigue escuchando."
+- **"¿Sirve para hombres?"** → "Sí. El subconsciente, la memoria celular y la energía son de todos."
+- **"¿Y si no puedo estar el domingo a las 11?"** → "[CONFIRMAR CON MABEL: ¿habrá grabación para compradoras?]"
+- **"¿Cómo puedo pagar?"** → "[CONFIRMAR CON MABEL: métodos de pago activos en Hotmart (tarjeta, OXXO, meses)]"
+- **"Hoy no tengo para pagarlo."** → "Te entiendo, y está bien. Sin presión. Si es tu momento, el precio y el regalo del domingo son hasta el viernes 27 a las 11:59 de la noche."
+
+**30:00 · Testimonio real:**
+"Te leo lo que me escribió una de las mujeres que ya lo vivió: [TESTIMONIO REAL CON PERMISO · nombre o iniciales]."
+
+**33:00 · Repite la oferta (30 segundos):** *Equipo: pega el link otra vez.*
+"Si acabas de llegar: Programa la Riqueza mientras Duermes. 21 noches, audio de 8 horas y tus Fórmulas Cuánticas. Quinientos pesos más impuestos. Si entras antes del viernes 27 a las 11:59 de la noche, tu regalo es la hipnosis completa en vivo el domingo 29 a las 11. Garantía de 7 días de Hotmart. El link está en el chat. Escribe LISTA cuando entres."
+
+**36:00 · Bienvenida a las nuevas:** *Lee en voz alta cada nombre que escribió LISTA. Celébralas.*
+
+**40:00 · Última repetición:** *Equipo: pega el link por última vez.*
+"Lo vuelvo a dejar en el chat. Recuerda: el regalo del domingo es solo hasta el viernes 27 a las 11:59 de la noche."
+
+### 40:00 – 45:00 · CIERRE
+"Hoy viste que tu bloqueo con el dinero vive en tres lugares: tu subconsciente, que aprendiste de niña; tu memoria celular, que viene de tus generaciones; y tu energía, que es 100% tuya. Y sentiste que se pueden hackear en simultáneo.
+
+Hoy se abrió la puerta. Programa la Riqueza mientras Duermes la deja abierta 21 noches. Y el domingo 29 a las 11 la activamos completa, juntas.
+
+Gracias por estar aquí.
+
+Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA.
+Soy Mabel Soriano · BNQ Method™."
+
+*Si a los 45 min siguen 10 personas o más: abre otra ronda de preguntas hasta los 60 min y repite la oferta (bloque 33:00) antes de despedirte.*
+
+### Checklist del guion · listo / falta
+| Pieza | Estado |
+|---|---|
+| Oferta a las 20:00, con precio, fecha de cierre, regalo, order bump, garantía y link | LISTO |
+| Concepto (subconsciente aprendido · memoria celular heredada · energía 100% tuya · Fórmula Cuántica) | LISTO |
+| Fechas iguales al resto del paquete (mié 25 · vie 27 11:59 PM · dom 29 11 AM) | LISTO |
+| Slogan completo y firma | LISTO |
+| [TU HISTORIA] (1 min) | FALTA · Mabel |
+| [TESTIMONIO REAL CON PERMISO] | FALTA · Mabel |
+| Grabación del domingo y métodos de pago | FALTA · confirmar Mabel |
+| Persona del equipo que pega el link y anota números | FALTA · Mabel decide quién |
 
 ---
 
@@ -298,10 +417,9 @@ Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA."
 | 8 | Sin precio antes del live | LISTO | — |
 | 9 | 3 correos en BORRADOR (sáb 21, jue 26, vie 27) | LISTO (texto) | Mabel da OK para dejarlos como borrador en Brevo |
 | 10 | 7 Avisos de la comunidad | LISTO (texto) | Mabel los manda a mano en su hora |
-| 11 | Order bump en el guion de cierre | LISTO | Confirmar que ya está ACTIVO en Hotmart antes del 25 |
+| 11 | Order bump en el guion del live (minuto 20) | LISTO | Confirmar que ya está ACTIVO en Hotmart antes del 25, y que el producto NO trae ya las Robóticas de regalo (el manual de la Hipnosis del dinero las lista como regalo) |
+| 11b | Guion del live con oferta al minuto 20 (sección 5) | LISTO (texto) | [TU HISTORIA], testimonio, grabación del domingo y métodos de pago |
 | 12 | Renombrar el grupo del live y dejarlo "solo admins" | FALTA | Mabel (1 min) |
-| 13 | `[LINK_ZOOM]` del 25 (Aviso 5 y grupo, 7:55 PM) | FALTA | Crear la reunión de Zoom |
-| 14 | Zoom de la hipnosis del dom 29 (solo compradoras) | FALTA | Crear y mandarlo a compradoras |
 | 15 | `[TESTIMONIO REAL]` correo 2 | FALTA | Captura real con permiso |
 | 16 | `[LINK_REDES]` del cierre fijo de correos | FALTA | Confirmar si es https://linktr.ee/mabradiante |
 | 17 | Quitar compradoras de los correos 2-3 | FALTA | Bajar compradoras de Hotmart y excluirlas |
