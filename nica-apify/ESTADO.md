@@ -109,3 +109,5 @@
 
 - 20-nov · EMBUDOS: paquete del live 25-nov REESCRITO a Hackeo Simultáneo (`briefs/live-2026-11-25-paquete.md` + `/home/user/LIVE-25-NOV-PAQUETE.docx`): registro = grupo WhatsApp (sin formulario Brevo), 3 correos BORRADOR (sáb 21 invitación, jue 26 testimonio+oferta, vie 27 último día), 7 Avisos de comunidad (21, 23, 25 x3, 26, 27), order bump Robóticas +$199 en el guion de cierre. Nada enviado ni creado en Brevo.
 - 20-nov · EMBUDOS: FALTAN [LINK_ZOOM], [TESTIMONIO REAL], [LINK_REDES], renombrar grupo del live, confirmar order bump y recuperador de carrito ACTIVOS en Hotmart, ManyChat ABUNDANCIA con link del grupo, revisión del copywriter.
+
+- 20-nov · NICA: Hackeo Simultáneo · 5 guiones a cámara (sáb 21 → mié 25 · 7 PM; subconsciente/memoria celular/energía/simultáneo/hoy 8 PM) en guiones/2026-11-21_hackeo-simultaneo-5-videos.md (+ /home/user/GUIONES-HACKEO-SIMULTANEO.docx). Arte del live sin precio, luminosa con foto real: /home/user/LIVE-25-ARTE-4x5.jpg y -9x16.jpg (generador live/artes_live_2026-11-25.py). Pendiente: revisión del copywriter y OK de Mabel antes de publicar/pautar.
