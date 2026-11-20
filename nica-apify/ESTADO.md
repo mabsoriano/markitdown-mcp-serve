@@ -96,3 +96,5 @@
 - 20-nov · EMBUDOS: FALTAN [LINK_REGISTRO] (formulario nuevo con WhatsApp), [LINK_GRUPO], [LINK_ZOOM], testimonio real y revisión del copywriter. Decisión de Mabel: ¿correos de recordatorio del live? (choca con su regla de correo del 14-nov).
 
 - 20-nov · META: cuenta mabradiante (416436663729290) bloqueada en conector ads_fb (rollout de Meta, +1 mes). SOLUCIÓN: Windsor.ai YA tiene esa cuenta conectada → lectura de pauta vía Windsor (connector 'facebook'). Últimos 7 días: LIVE Hipnosis 15-nov $481 / 143 clics enlace; Riqueza Buen Fin 15-21 $296 / 11,758 impresiones / 821 clics enlace / 0 ventas → revisar ubicaciones (Audience Network) y calidad de clic.
+
+- 20-nov · DECISIÓN Mabel: la pauta va a MUJERES Y HOMBRES (no solo mujeres) — no restringir sexo. Conjunto RETARGETING (sin público personalizado, Advantage+) PAUSADO por Mabel; el trafficker lo rearma con público 'interactuaron 30 días' para la siguiente ventana.
