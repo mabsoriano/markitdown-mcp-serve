@@ -91,3 +91,6 @@
 - 20-nov · EQUIPO AGENCIA creado (OK de Mabel): agentes trafficker, analista, embudos, closer; estratega ascendido a DIRECTOR DE ESTRATEGIA.
 
 - 20-nov · Mabel: SÍ a todo. Agente youtube-podcast creado. LIVE GRATIS con registro CONFIRMADO: mié 25 nov · 8 PM, "Descubre cuál de los 3 programas del dinero heredaste", producto Programa la Riqueza mientras Duermes, oferta: compra antes vie 27 → hipnosis completa dom 29. Palabra única: ABUNDANCIA. TikTok $500 (5 días x $100) aprobado en el plan; ManyChat: Mabel ya tiene cuenta (no hay conector; se configura en ManyChat). Pendiente: Mabel reconecta Meta con su cuenta publicitaria.
+
+- 20-nov · EMBUDOS: paquete del live gratis mié 25 · 8 PM listo en BORRADOR: `briefs/live-2026-11-25-paquete.md` (formulario, ManyChat ABUNDANCIA, 5 correos Brevo 21/25/25/26/27, 3 WhatsApp, guion de cierre 2 min, checklist). Nada creado ni enviado. Fechas verificadas: live mié 25 · cierre vie 27 11:59 PM · hipnosis dom 29 11 AM.
+- 20-nov · EMBUDOS: FALTAN [LINK_REGISTRO] (formulario nuevo con WhatsApp), [LINK_GRUPO], [LINK_ZOOM], testimonio real y revisión del copywriter. Decisión de Mabel: ¿correos de recordatorio del live? (choca con su regla de correo del 14-nov).
