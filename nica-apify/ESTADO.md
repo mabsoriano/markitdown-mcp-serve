@@ -98,3 +98,5 @@
 - 20-nov · META: cuenta mabradiante (416436663729290) bloqueada en conector ads_fb (rollout de Meta, +1 mes). SOLUCIÓN: Windsor.ai YA tiene esa cuenta conectada → lectura de pauta vía Windsor (connector 'facebook'). Últimos 7 días: LIVE Hipnosis 15-nov $481 / 143 clics enlace; Riqueza Buen Fin 15-21 $296 / 11,758 impresiones / 821 clics enlace / 0 ventas → revisar ubicaciones (Audience Network) y calidad de clic.
 
 - 20-nov · DECISIÓN Mabel: la pauta va a MUJERES Y HOMBRES (no solo mujeres) — no restringir sexo. Conjunto RETARGETING (sin público personalizado, Advantage+) PAUSADO por Mabel; el trafficker lo rearma con público 'interactuaron 30 días' para la siguiente ventana.
+
+- 20-nov · DIRECTOR: plan completo campaña 'La Herencia Invisible' (21-nov → 2-dic) en nica-apify/campanas/campana-herencia-invisible-2026-11-21.md. Pendiente OK de Mabel: campaña, ~$1,000 pauta, order bump Robóticas +$199 y recuperador de carrito.
