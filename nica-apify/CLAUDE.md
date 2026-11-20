@@ -488,7 +488,7 @@ NO decir que los 3 se heredan. El Método BNQ hackea tus bloqueos con el dinero 
 Cada problema se resuelve con una FÓRMULA CUÁNTICA (de su libro). Título del live 25-nov: 'Hackea tus bloqueos con el dinero en simultáneo'.
 
 ## REGLA: SEGMENTAR ANTES DE MANDAR (20 nov 2026)
-- Comunidad de WhatsApp = gente que YA vio lives y no compró. No se le manda la misma invitación que a gente nueva. Primero confianza (encuesta de qué la frenó, testimonios), después la oferta con otro ángulo.
+- Comunidad de WhatsApp = gente que YA vio lives y no compró. No se le manda la misma invitación que a gente nueva. Se le propone OTRO MODELO de oferta (ver "LO QUE YA SE PROBÓ"), nunca encuesta.
 - Live gratis con registro = para gente NUEVA (TikTok, pauta, correos que nunca han ido).
 
 ## ZOOM: NO PEDIR EL LINK (Mabel, 20-nov)
