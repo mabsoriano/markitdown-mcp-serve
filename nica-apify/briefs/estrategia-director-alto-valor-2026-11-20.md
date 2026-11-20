@@ -1,4 +1,4 @@
-# Estrategia del Director · 20-nov-2026 · "Vender alto, no barato" (PROPUESTA, falta OK de Mabel)
+# Estrategia del Director · 20-nov-2026 · "Vender alto" · AJUSTADA: $7,500 SOLO a gente que ya compró (escalera), NO a público frío (Mabel tiene razón: sin confianza no se vende alto en frío)
 
 ## Diagnóstico
 - Atraer SÍ funciona: lives llenos, registro a $3, 945 clics a $0.36.
@@ -26,3 +26,8 @@ GENERACIÓN FUNDADORA BNQ™ (nombre por definir con Mabel): programa de 12 sema
 ## Riesgos
 - Prometer solo lo que existe; N3-N5 se entregan en vivo semana a semana (decirlo claro).
 - Sin promesas de dinero ni salud. Garantía Hotmart 7 días.
+
+## AJUSTE (Mabel, 20-nov): análisis de caminos
+- Camino de Mabel (live gratis → producto accesible → dentro presenta quién es y su escalera) es el CORRECTO para público frío.
+- No falla el modelo: falla el VOLUMEN en el momento de la oferta. Live 15-nov: 9 personas al momento de la oferta. Con 5-10% de conversión típica = 0.5 a 1 venta. Para 20 ventas/mes se necesitan ~200-400 personas presentes en la oferta al mes.
+- Palancas: 1) más gente en la oferta (TikTok LIVE gratis, retención: oferta al minuto 20), 2) pauta con objetivo Ventas, 3) ascenso dominical a compradoras (VIP $555/mes; Recorrido $7,500 solo a quien ya compró).
