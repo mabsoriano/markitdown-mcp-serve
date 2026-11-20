@@ -1,5 +1,3 @@
-> ⚠️ CORRECCIÓN 20-nov: el concepto correcto es Hackeo Simultáneo (subconsciente aprendido + memoria celular heredada + energía 100% tuya). Revisar frases de "herencia" en este documento.
-
 # CAMPAÑA "HACKEO SIMULTÁNEO" · Plan del Director
 **Producto:** Programa la Riqueza mientras Duermes · $500 + impuestos
 **Fechas:** sábado 21 de noviembre → miércoles 2 de diciembre de 2026
@@ -24,7 +22,7 @@
 2. **Copiamos el modelo que sí vende** (María Montemayor): ella nunca vende en el video, invita a una **clase gratis con registro** y vende ahí.
 3. **Tus propios datos** dicen que los lives atraen 3 veces más que la venta directa.
 4. **Ya tienes todo lo necesario:** landing, testimonios reales, 74K en TikTok, 1,123 correos, ~130 en WhatsApp, ManyChat en TikTok, Brevo y Hootsuite.
-5. **La gran idea** (copywriter): el enemigo es *"Hackeo Simultáneo"* (la escasez que aprendiste en casa); la salida es *"La Reprogramación de Medianoche"* (8 horas, 21 noches, mientras tu mente no discute).
+5. **La gran idea** (copywriter): el Método BNQ hackea tus bloqueos con el dinero EN SIMULTÁNEO: subconsciente (lo que aprendiste desde niña), memoria celular (lo que heredaste) y energía (100% tuya), con una Fórmula Cuántica para cada problema. Y "La Reprogramación de Medianoche": 8 horas, 21 noches, mientras tu mente no discute.
 
 ## 3. El camino de la clienta (embudo)
 **Video/anuncio** → escribe **ABUNDANCIA** por mensaje (TikTok: ManyChat; IG: tú) → **se registra** al live gratis (formulario Brevo: nombre, correo, WhatsApp) → entra al **grupo de WhatsApp** → **LIVE miércoles 25 · 8 PM** ("Hackea tus bloqueos con el dinero en simultáneo", solo probadita) → **oferta** con fecha real → **checkout Hotmart** (landing nueva) → **seguimiento** a quien no compró → **hipnosis completa domingo 29** (compradoras) → **testimonios** nuevos.
