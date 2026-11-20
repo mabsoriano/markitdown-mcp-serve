@@ -119,3 +119,6 @@
 
 - 20-nov · CLOSER: mensajes 1 a 1 en BORRADOR en `campanas/closer-mensajes-2026-11-20.md` (+ /home/user/MENSAJES-CLOSER-20-NOV.docx): 2 "yo quiero" de chakras, 5 compradoras (audio 30 s con permiso + hipnosis dom 22 · 11 AM), respuestas TikTok LIVE sáb 21/mar 24 (ABUNDANCIA, objeciones), seguimiento Zoom 25 (+1 h, +24 h, vie 27) y ascenso NeurohackersVIP $555. Nada enviado.
 - 20-nov · CLOSER: FALTAN link de pago VIP + qué incluye + cancelación, link del producto de chakras, testimonio real con permiso (sin él, el +24 h va sin testimonio), OK de TikTok LIVE y revisión del copywriter.
+
+- 20-nov · TRAFFICKER: plan de pauta 21→27 nov en `campanas/trafficker-pauta-21-nov.md` (+ /home/user/PAUTA-21-NOV-VENTAS.docx): Meta VENTAS $72/día × 7 = $504 (evento Iniciar pago, México, 28-60, todos, sin Audience Network, carrusel testimonios + video); TikTok $150/$100/$150/$100 para LIVE sáb 21 y mar 24. Buen Fin (Windsor 15-20 nov): $346 · 967 clics · 0 inicios de pago · 0 ventas; $30 en Audience Network → dejar terminar hoy 11:59 PM, no borrar ni duplicar.
+- 20-nov · TRAFFICKER: PENDIENTE OK de Mabel + prueba del píxel ("Probar eventos") ANTES de prender; 967 clics con 0 inicios de pago = clics de mala calidad o píxel sin contar en el link checkoutMode=10. Nada creado ni prendido.
