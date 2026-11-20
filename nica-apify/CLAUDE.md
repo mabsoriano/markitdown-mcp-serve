@@ -486,3 +486,7 @@ NO decir que los 3 se heredan. El Método BNQ hackea tus bloqueos con el dinero 
 2. MEMORIA CELULAR: esta sí se hereda (generaciones).
 3. ENERGÍA: es 100% tuya.
 Cada problema se resuelve con una FÓRMULA CUÁNTICA (de su libro). Título del live 25-nov: 'Hackea tus bloqueos con el dinero en simultáneo'.
+
+## REGLA: SEGMENTAR ANTES DE MANDAR (20 nov 2026)
+- Comunidad de WhatsApp = gente que YA vio lives y no compró. No se le manda la misma invitación que a gente nueva. Primero confianza (encuesta de qué la frenó, testimonios), después la oferta con otro ángulo.
+- Live gratis con registro = para gente NUEVA (TikTok, pauta, correos que nunca han ido).
