@@ -537,3 +537,13 @@ Es el link para pauta, bio/Linktree, WhatsApp y correos. (Página armada por Mab
 
 ## HOOTSUITE: SIEMPRE INCLUIR FACEBOOK MabRadiante (Mabel, 19-nov)
 Todo borrador que vaya a IG mabradiante lleva TAMBIÉN el Facebook MabRadiante (socialProfileId 140515529, se reconectó el 19-nov; el viejo 140507774 ya no sirve). El compartir automático IG→FB no funciona con publicaciones de Hootsuite.
+
+## WHATSAPP: COMUNIDAD Y REGISTRO (Mabel, 20-nov)
+Comunidad 'Las Fórmulas Cuánticas · Comunidad BNQ'. Avisos = mensajes a todos (solo Mabel). NUNCA agregar personas a mano (suspensiones). Registro al live = link del grupo del live: https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm (se manda por chat 1 a 1, ManyChat o correo; nunca en el anuncio de Meta).
+
+## CONCEPTO BNQ PARA DINERO (Mabel, 20-nov · manda sobre 'La Herencia Invisible' y '3 programas que heredaste')
+NO decir que los 3 se heredan. El Método BNQ hackea tus bloqueos con el dinero EN SIMULTÁNEO en 3 niveles:
+1. SUBCONSCIENTE: se programó desde niña, por lo que escuchaste en casa (aprendido, no por sangre).
+2. MEMORIA CELULAR: esta sí se hereda (generaciones).
+3. ENERGÍA: es 100% tuya.
+Cada problema se resuelve con una FÓRMULA CUÁNTICA (de su libro). Título del live 25-nov: 'Hackea tus bloqueos con el dinero en simultáneo'.

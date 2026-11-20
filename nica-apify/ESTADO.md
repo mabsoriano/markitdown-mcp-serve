@@ -124,3 +124,31 @@ Desde hoy, todo agente hace `git fetch` y lee TODAS las ramas `claude/*` antes d
 - 19-nov · ESTRATEGA (veredicto): campaña actual se queda hasta vie 20 con link nuevo; único cambio = agregar Anuncio 1 (carrusel 4 láminas) en el MISMO conjunto, sin tocar presupuesto. Siguiente ventana (compra antes vie 27 → hipnosis dom 29): sáb 21 Campaña B Ventas $20/día + Campaña C Comenta RECIBO $12/día; lun 23 Campaña A WhatsApp $40/día si aprueba Anuncio 2. Viernes noche anotar: gasto, clics por anuncio, Inicio de pago (píxel), ventas Hotmart.
 - 19-nov · PENDIENTE TIKTOK: Mabel NO ha pautado nada en TikTok (prioridad 1, 74K). NICA no se lo recordó: error. Propuesta: Promocionar (app) su video orgánico con más vistas/comentarios, objetivo clics al sitio → link oficial. Presupuesto POR APROBAR. Recordarlo en cada handoff hasta que se decida.
 - 19-nov · Hootsuite: borradores Buen Fin extendido creados (video 12 s, IG mab+bnb, FB MabRadiante 140515529 + Acreditaciones, TikTok mab, YouTube): Robóticas jue 19 11 AM, Kundalini jue 19 3 PM, Cambia de Realidad vie 20 11 AM. Comentar palabra: ROBÓTICAS / KUNDALINI / REALIDAD. OJO: TikTok bioneuroquantum ya NO aparece en Hootsuite (desconectado). Estratega: tarea diaria ahora revisa EJECUCIÓN (borradores sin programar, FB MabRadiante, YouTube, TikTok ads); le faltan conectores Hootsuite/vidIQ en la tarea programada.
+
+- 19-nov · Plan de ventas del equipo (estratega+copywriter+NICA): briefs/plan-ventas-equipo-2026-11-19.md. Pendiente OK de Mabel: live gratis mié 25, palabra única, bloque de grabación lunes, presupuesto TikTok.
+
+- 20-nov 11:30 · NICA (pauta Riqueza, cierre): acumulado 16→20 nov $338 · 945 clics · 293 visitas a la página de pago (18-20 nov) · 0 ventas.
+  Ubicaciones: 86% del gasto en FEED DE FACEBOOK ($290); Instagram solo $1.30; Audience Network $29. El objetivo Tráfico
+  mandó la pauta a los clics más baratos (FB feed), no a la gente de Instagram/Reels que sigue a Mabel. Para Hackeo Simultáneo
+  (trafficker): objetivo Clientes potenciales/Ventas, revisar ubicaciones y quitar Audience Network.
+- 20-nov · EQUIPO AGENCIA creado (OK de Mabel): agentes trafficker, analista, embudos, closer; estratega ascendido a DIRECTOR DE ESTRATEGIA.
+
+- 20-nov · Mabel: SÍ a todo. Agente youtube-podcast creado. LIVE GRATIS con registro CONFIRMADO: mié 25 nov · 8 PM, "Descubre cuál de los 3 programas del dinero heredaste", producto Programa la Riqueza mientras Duermes, oferta: compra antes vie 27 → hipnosis completa dom 29. Palabra única: ABUNDANCIA. TikTok $500 (5 días x $100) aprobado en el plan; ManyChat: Mabel ya tiene cuenta (no hay conector; se configura en ManyChat). Pendiente: Mabel reconecta Meta con su cuenta publicitaria.
+
+- 20-nov · EMBUDOS: paquete del live gratis mié 25 · 8 PM listo en BORRADOR: `briefs/live-2026-11-25-paquete.md` (formulario, ManyChat ABUNDANCIA, 5 correos Brevo 21/25/25/26/27, 3 WhatsApp, guion de cierre 2 min, checklist). Nada creado ni enviado. Fechas verificadas: live mié 25 · cierre vie 27 11:59 PM · hipnosis dom 29 11 AM.
+- 20-nov · EMBUDOS: FALTAN [LINK_REGISTRO] (formulario nuevo con WhatsApp), [LINK_GRUPO], [LINK_ZOOM], testimonio real y revisión del copywriter. Decisión de Mabel: ¿correos de recordatorio del live? (choca con su regla de correo del 14-nov).
+
+- 20-nov · META: cuenta mabradiante (416436663729290) bloqueada en conector ads_fb (rollout de Meta, +1 mes). SOLUCIÓN: Windsor.ai YA tiene esa cuenta conectada → lectura de pauta vía Windsor (connector 'facebook'). Últimos 7 días: LIVE Hipnosis 15-nov $481 / 143 clics enlace; Riqueza Buen Fin 15-21 $296 / 11,758 impresiones / 821 clics enlace / 0 ventas → revisar ubicaciones (Audience Network) y calidad de clic.
+
+- 20-nov · DECISIÓN Mabel: la pauta va a MUJERES Y HOMBRES (no solo mujeres) — no restringir sexo. Conjunto RETARGETING (sin público personalizado, Advantage+) PAUSADO por Mabel; el trafficker lo rearma con público 'interactuaron 30 días' para la siguiente ventana.
+
+- 20-nov · DIRECTOR: plan completo campaña 'La Herencia Invisible' (21-nov → 2-dic) en nica-apify/campanas/campana-herencia-invisible-2026-11-21.md. Pendiente OK de Mabel: campaña, ~$1,000 pauta, order bump Robóticas +$199 y recuperador de carrito.
+
+- 20-nov · COMUNIDAD WhatsApp creada: 'Las Fórmulas Cuánticas · Comunidad BNQ' (6 grupos, ~210 personas; Avisos = canal para todos, solo Mabel escribe). REGLA: nunca agregar a mano (causa suspensiones); siempre mandar link de invitación por chat 1 a 1. Grupo del LIVE 25-nov = antiguo '10 Y 15 NOV HIPNOSIS' (renombrar 'LIVE GRATIS 25 NOV · La Herencia Invisible', solo admins). Link: https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm  → este link ES el registro al live (más simple que el formulario de Brevo).
+
+- 20-nov · CORRECCIÓN de Mabel: el live NO es 'Descubre cuál de los 3 programas del dinero heredaste'. Es 'LIVE GRATIS · Hackea tus bloqueos con el dinero en simultáneo' (subconsciente aprendido desde niña + memoria celular heredada + energía 100% tuya = Método BNQ, cada problema se resuelve con una Fórmula Cuántica). Campaña se renombra 'Hackeo Simultáneo' (ya no 'La Herencia Invisible'). Corregir todas las piezas.
+
+- 20-nov 10:30 · Mabel APROBÓ TODO: campaña Hackeo Simultáneo (21-nov→2-dic), ~$1,000 pauta (Meta $504 + TikTok $500), order bump Robóticas +$199 y recuperador de carrito en Hotmart. EJECUCIÓN INICIA HOY.
+
+- 20-nov · EMBUDOS: paquete del live 25-nov REESCRITO a Hackeo Simultáneo (`briefs/live-2026-11-25-paquete.md` + `/home/user/LIVE-25-NOV-PAQUETE.docx`): registro = grupo WhatsApp (sin formulario Brevo), 3 correos BORRADOR (sáb 21 invitación, jue 26 testimonio+oferta, vie 27 último día), 7 Avisos de comunidad (21, 23, 25 x3, 26, 27), order bump Robóticas +$199 en el guion de cierre. Nada enviado ni creado en Brevo.
+- 20-nov · EMBUDOS: FALTAN [LINK_ZOOM], [TESTIMONIO REAL], [LINK_REDES], renombrar grupo del live, confirmar order bump y recuperador de carrito ACTIVOS en Hotmart, ManyChat ABUNDANCIA con link del grupo, revisión del copywriter.
