@@ -1,3 +1,5 @@
+> ⚠️ CORRECCIÓN DE MABEL (20-nov, manda sobre este archivo): NO hay 5 compradoras (dato mal leído; esta semana 0). Solo 2 respondieron "yo quiero" al live de chakras. NO se pauta TikTok (ni lives ni videos). La pauta de Meta va SOLO a REGISTROS para el live del Zoom 25 (anuncio de mensajes a WhatsApp, sin link de grupo en el anuncio) y la venta se hace DENTRO del live. Domingo 22 sin hipnosis (no hay compradoras).
+
 # CLOSER · Mensajes 1 a 1 · 20-nov-2026
 **Campaña Hackeo Simultáneo · Programa la Riqueza mientras Duermes · BORRADORES (nada enviado)**
 

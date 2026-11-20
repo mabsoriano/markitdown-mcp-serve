@@ -1,3 +1,5 @@
+> ⚠️ CORRECCIÓN DE MABEL (20-nov, manda sobre este archivo): NO hay 5 compradoras (dato mal leído; esta semana 0). Solo 2 respondieron "yo quiero" al live de chakras. NO se pauta TikTok (ni lives ni videos). La pauta de Meta va SOLO a REGISTROS para el live del Zoom 25 (anuncio de mensajes a WhatsApp, sin link de grupo en el anuncio) y la venta se hace DENTRO del live. Domingo 22 sin hipnosis (no hay compradoras).
+
 # PAUTA 21 → 27 NOV · Programa la Riqueza mientras Duermes · objetivo VENTAS
 *Propuesta del Trafficker para el OK de Mabel · nada está creado, cambiado ni prendido.*
 *Campaña: Hackeo Simultáneo · compra antes del viernes 27 · 11:59 PM → hipnosis completa en vivo domingo 29 · 11 AM (solo compradoras).*
