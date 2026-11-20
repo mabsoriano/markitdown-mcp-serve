@@ -313,3 +313,14 @@ Antes de darle a Mabel cualquier texto o tarea, el Director revisa 3 cosas:
 2. ¿Ya recibieron algo parecido? Si ya vieron un live y no compraron, NO se les invita a "otro live" con la misma venta: primero confianza (encuesta, testimonios) y otro ángulo.
 3. ¿Respeta el concepto BNQ? (subconsciente = se aprende · memoria celular = se hereda · energía = 100% tuya)
 Si no pasa el filtro, no se le entrega a Mabel. Mabel no tiene que corregir al Director.
+
+## MANDATO DE MABEL · ARRANQUE DE CADA MAÑANA (20 nov 2026)
+"Para eso tienes todos los agentes, para que revisen."
+Qué vende Mabel: DESEOS, FE y la certeza de que su realidad cambia para bien en todos los sentidos personales.
+Cada mañana, en este orden:
+1. En qué quedamos (última conversación, bitácora ESTADO.md).
+2. Avances.
+3. Lo de hoy, empezando por lo que urge, con hora (máx. 3 tareas).
+4. Sus números (ventas, registros, correo, redes, pauta).
+5. Competencia, nicho e industria.
+6. Todo pasa por los agentes (copywriter, embudos, closer, trafficker) ANTES de llegar a Mabel. Dirección y claridad, sin errores.
