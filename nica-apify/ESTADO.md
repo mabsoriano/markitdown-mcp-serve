@@ -106,3 +106,6 @@
 - 20-nov · CORRECCIÓN de Mabel: el live NO es 'Descubre cuál de los 3 programas del dinero heredaste'. Es 'LIVE GRATIS · Hackea tus bloqueos con el dinero en simultáneo' (subconsciente aprendido desde niña + memoria celular heredada + energía 100% tuya = Método BNQ, cada problema se resuelve con una Fórmula Cuántica). Campaña se renombra 'Hackeo Simultáneo' (ya no 'La Herencia Invisible'). Corregir todas las piezas.
 
 - 20-nov 10:30 · Mabel APROBÓ TODO: campaña Hackeo Simultáneo (21-nov→2-dic), ~$1,000 pauta (Meta $504 + TikTok $500), order bump Robóticas +$199 y recuperador de carrito en Hotmart. EJECUCIÓN INICIA HOY.
+
+- 20-nov · EMBUDOS: paquete del live 25-nov REESCRITO a Hackeo Simultáneo (`briefs/live-2026-11-25-paquete.md` + `/home/user/LIVE-25-NOV-PAQUETE.docx`): registro = grupo WhatsApp (sin formulario Brevo), 3 correos BORRADOR (sáb 21 invitación, jue 26 testimonio+oferta, vie 27 último día), 7 Avisos de comunidad (21, 23, 25 x3, 26, 27), order bump Robóticas +$199 en el guion de cierre. Nada enviado ni creado en Brevo.
+- 20-nov · EMBUDOS: FALTAN [LINK_ZOOM], [TESTIMONIO REAL], [LINK_REDES], renombrar grupo del live, confirmar order bump y recuperador de carrito ACTIVOS en Hotmart, ManyChat ABUNDANCIA con link del grupo, revisión del copywriter.
