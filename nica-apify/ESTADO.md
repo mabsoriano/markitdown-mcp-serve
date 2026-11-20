@@ -104,3 +104,5 @@
 - 20-nov · COMUNIDAD WhatsApp creada: 'Las Fórmulas Cuánticas · Comunidad BNQ' (6 grupos, ~210 personas; Avisos = canal para todos, solo Mabel escribe). REGLA: nunca agregar a mano (causa suspensiones); siempre mandar link de invitación por chat 1 a 1. Grupo del LIVE 25-nov = antiguo '10 Y 15 NOV HIPNOSIS' (renombrar 'LIVE GRATIS 25 NOV · La Herencia Invisible', solo admins). Link: https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm  → este link ES el registro al live (más simple que el formulario de Brevo).
 
 - 20-nov · CORRECCIÓN de Mabel: el live NO es 'Descubre cuál de los 3 programas del dinero heredaste'. Es 'LIVE GRATIS · Hackea tus bloqueos con el dinero en simultáneo' (subconsciente aprendido desde niña + memoria celular heredada + energía 100% tuya = Método BNQ, cada problema se resuelve con una Fórmula Cuántica). Campaña se renombra 'Hackeo Simultáneo' (ya no 'La Herencia Invisible'). Corregir todas las piezas.
+
+- 20-nov 10:30 · Mabel APROBÓ TODO: campaña Hackeo Simultáneo (21-nov→2-dic), ~$1,000 pauta (Meta $504 + TikTok $500), order bump Robóticas +$199 y recuperador de carrito en Hotmart. EJECUCIÓN INICIA HOY.
