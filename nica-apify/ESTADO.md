@@ -94,3 +94,5 @@
 
 - 20-nov · EMBUDOS: paquete del live gratis mié 25 · 8 PM listo en BORRADOR: `briefs/live-2026-11-25-paquete.md` (formulario, ManyChat ABUNDANCIA, 5 correos Brevo 21/25/25/26/27, 3 WhatsApp, guion de cierre 2 min, checklist). Nada creado ni enviado. Fechas verificadas: live mié 25 · cierre vie 27 11:59 PM · hipnosis dom 29 11 AM.
 - 20-nov · EMBUDOS: FALTAN [LINK_REGISTRO] (formulario nuevo con WhatsApp), [LINK_GRUPO], [LINK_ZOOM], testimonio real y revisión del copywriter. Decisión de Mabel: ¿correos de recordatorio del live? (choca con su regla de correo del 14-nov).
+
+- 20-nov · META: cuenta mabradiante (416436663729290) bloqueada en conector ads_fb (rollout de Meta, +1 mes). SOLUCIÓN: Windsor.ai YA tiene esa cuenta conectada → lectura de pauta vía Windsor (connector 'facebook'). Últimos 7 días: LIVE Hipnosis 15-nov $481 / 143 clics enlace; Riqueza Buen Fin 15-21 $296 / 11,758 impresiones / 821 clics enlace / 0 ventas → revisar ubicaciones (Audience Network) y calidad de clic.
