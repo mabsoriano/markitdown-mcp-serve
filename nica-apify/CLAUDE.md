@@ -490,3 +490,11 @@ Cada problema se resuelve con una FÓRMULA CUÁNTICA (de su libro). Título del 
 ## REGLA: SEGMENTAR ANTES DE MANDAR (20 nov 2026)
 - Comunidad de WhatsApp = gente que YA vio lives y no compró. No se le manda la misma invitación que a gente nueva. Primero confianza (encuesta de qué la frenó, testimonios), después la oferta con otro ángulo.
 - Live gratis con registro = para gente NUEVA (TikTok, pauta, correos que nunca han ido).
+
+## ZOOM: NO PEDIR EL LINK (Mabel, 20-nov)
+El link de Zoom lo comparte Mabel: un día antes por la tarde-noche, la mañana del live y en el momento del live. NUNCA ponerlo como pendiente ni pedirlo.
+
+## LO QUE YA SE PROBÓ CON LA COMUNIDAD (Mabel, 20-nov) · NO REPETIR
+- Encuesta de tema (hace ~1 mes): SIEMPRE gana DINERO. No volver a proponer encuesta.
+- 3 lives de dinero (27-oct, 3-nov, 10-nov; los 2 últimos "Hipnosis para hackear tus bloqueos con el dinero") + 15-nov: SE LLENAN, NADIE COMPRA (15-nov: 62 inscritos → 25 entraron → 9 al final → 0). Títulos nuevos tampoco venden.
+- Conclusión: el problema NO es el tema ni el título; es el modelo (gratis + probadita + oferta al final). El Director debe proponer modelos y temas que vendan en la industria, no encuestas.
