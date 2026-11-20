@@ -100,3 +100,5 @@
 - 20-nov · DECISIÓN Mabel: la pauta va a MUJERES Y HOMBRES (no solo mujeres) — no restringir sexo. Conjunto RETARGETING (sin público personalizado, Advantage+) PAUSADO por Mabel; el trafficker lo rearma con público 'interactuaron 30 días' para la siguiente ventana.
 
 - 20-nov · DIRECTOR: plan completo campaña 'La Herencia Invisible' (21-nov → 2-dic) en nica-apify/campanas/campana-herencia-invisible-2026-11-21.md. Pendiente OK de Mabel: campaña, ~$1,000 pauta, order bump Robóticas +$199 y recuperador de carrito.
+
+- 20-nov · COMUNIDAD WhatsApp creada: 'Las Fórmulas Cuánticas · Comunidad BNQ' (6 grupos, ~210 personas; Avisos = canal para todos, solo Mabel escribe). REGLA: nunca agregar a mano (causa suspensiones); siempre mandar link de invitación por chat 1 a 1. Grupo del LIVE 25-nov = antiguo '10 Y 15 NOV HIPNOSIS' (renombrar 'LIVE GRATIS 25 NOV · La Herencia Invisible', solo admins). Link: https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm  → este link ES el registro al live (más simple que el formulario de Brevo).
