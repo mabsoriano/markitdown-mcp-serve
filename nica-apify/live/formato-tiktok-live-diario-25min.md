@@ -1,6 +1,6 @@
-# TikTok LIVE DIARIO · 25 min · 2 al día (decisión de Mabel, 20-nov-2026)
+# TikTok LIVE DIARIO · 25 min · 1 al día por la tarde (decisión de Mabel, 20-nov-2026)
 Referencia: @yosoylauniversa (98.4K, ~386 en vivo, 2 lives al día, vende audios robóticos y eventos).
-Horario propuesto: 9:00 AM y 7:00 PM (Monterrey/CDMX). Miércoles 25: solo 9 AM (en la noche es el Zoom de las 8 PM). Domingo: 11 AM hipnosis de compradoras (solo si hay).
+Horario: 7:00 PM diario (Monterrey/CDMX). Mañanas NO (lleva a su hijo a la escuela y va al gym). Miércoles 25: sin TikTok LIVE (8 PM es el Zoom). Domingo: 11 AM hipnosis de compradoras (solo si hay).
 Objetivo: que la gente la conozca todos los días + vender la oferta de la semana. Sin presentación.
 
 | Min | Qué pasa |
