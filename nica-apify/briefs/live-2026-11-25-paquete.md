@@ -1,3 +1,5 @@
+> ⚠️ CORRECCIÓN 20-nov: el concepto correcto es Hackeo Simultáneo (subconsciente aprendido + memoria celular heredada + energía 100% tuya). Revisar frases de "herencia" en este documento.
+
 # PAQUETE DEL LIVE GRATIS · miércoles 25 de noviembre · 8:00 PM
 **Agente:** Embudos · 20-nov-2026 · **TODO ES BORRADOR** (nada enviado, nada creado en Brevo ni en ManyChat)
 **Revisión de textos:** pendiente del copywriter antes de publicar.
@@ -5,7 +7,7 @@
 ## Datos fijos (una sola fuente; si algo cambia, se cambia aquí primero)
 | Dato | Valor |
 |---|---|
-| Live | "Descubre cuál de los 3 programas del dinero heredaste" |
+| Live | "Hackea tus bloqueos con el dinero en simultáneo" |
 | Fecha y hora | **miércoles 25 de noviembre · 8:00 PM** (hora Monterrey / CDMX) |
 | Dónde | Zoom privado, solo registradas |
 | Palabra única en redes | **ABUNDANCIA** |
@@ -23,7 +25,7 @@ Huecos por llenar: `[LINK_REGISTRO]` `[LINK_GRUPO]` `[LINK_ZOOM]` `[TESTIMONIO R
 ## 1) Formulario de registro (Brevo)
 
 **Título:**
-Descubre cuál de los 3 programas del dinero heredaste
+Hackea tus bloqueos con el dinero en simultáneo
 
 **Subtítulo:**
 Live gratis por Zoom privado · miércoles 25 de noviembre · 8:00 PM (hora CDMX). Solo entran las registradas.
@@ -56,7 +58,7 @@ Te acabo de escribir por mensaje. Revísalo.
 
 **Mensaje 1 (al instante, por DM):**
 Hola, {{first_name}}. Qué bueno que comentaste ABUNDANCIA.
-Este miércoles 25 de noviembre a las 8:00 PM (hora CDMX) hago un live gratis por Zoom: "Descubre cuál de los 3 programas del dinero heredaste".
+Este miércoles 25 de noviembre a las 8:00 PM (hora CDMX) hago un live gratis por Zoom: "Hackea tus bloqueos con el dinero en simultáneo".
 Es privado: solo entran las registradas.
 Aparta tu lugar aquí: [LINK_REGISTRO]
 
@@ -179,7 +181,7 @@ Mabel
 
 ### WA 1 · Bienvenida (fijar arriba en el grupo y en la descripción)
 ¡Bienvenida! Ya estás dentro.
-Este grupo es solo para el live gratis "Descubre cuál de los 3 programas del dinero heredaste".
+Este grupo es solo para el live gratis "Hackea tus bloqueos con el dinero en simultáneo".
 Miércoles 25 de noviembre · 8:00 PM (hora CDMX) · por Zoom privado.
 El link de Zoom lo mando aquí el mismo miércoles. Activa las notificaciones del grupo para no perdértelo.
 Mientras: cuéntame en una palabra, ¿qué frase del dinero escuchabas en tu casa?
