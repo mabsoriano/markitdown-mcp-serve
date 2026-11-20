@@ -89,3 +89,5 @@
 - 19-nov · Plan de ventas del equipo (estratega+copywriter+NICA): briefs/plan-ventas-equipo-2026-11-19.md. Pendiente OK de Mabel: live gratis mié 25, palabra única, bloque de grabación lunes, presupuesto TikTok.
 
 - 20-nov · EQUIPO AGENCIA creado (OK de Mabel): agentes trafficker, analista, embudos, closer; estratega ascendido a DIRECTOR DE ESTRATEGIA.
+
+- 20-nov · Mabel: SÍ a todo. Agente youtube-podcast creado. LIVE GRATIS con registro CONFIRMADO: mié 25 nov · 8 PM, "Descubre cuál de los 3 programas del dinero heredaste", producto Programa la Riqueza mientras Duermes, oferta: compra antes vie 27 → hipnosis completa dom 29. Palabra única: ABUNDANCIA. TikTok $500 (5 días x $100) aprobado en el plan; ManyChat: Mabel ya tiene cuenta (no hay conector; se configura en ManyChat). Pendiente: Mabel reconecta Meta con su cuenta publicitaria.
