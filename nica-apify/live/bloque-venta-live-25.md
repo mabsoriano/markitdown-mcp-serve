@@ -32,9 +32,9 @@ Mostrar en pantalla 2 testimonios reales (carrusel de testimonios aprobado, con 
 ## 6 · La oferta (min 23-25)
 "Su precio normal es de $1,200. Hoy está en $500 + impuestos. Y tienes la garantía de 7 días de Hotmart: si no es para ti, te regresan tu dinero."
 
-## 7 · Urgencia REAL (min 25-26)
-"Y aquí va lo más importante: quien compre antes del viernes 27 a las 11:59 PM entra a la HIPNOSIS COMPLETA en vivo conmigo, el domingo 29 a las 11 AM. Esa sesión no se repite y no queda grabada para quien no compró."
-[BONO SOLO EN VIVO: por decidir con Mabel. Ejemplo: quien compre antes de que termine este live recibe ______.]
+## 7 · Lo que te llevas + urgencia REAL (min 25-26)
+"Y aquí está lo que nadie más te da: con tu compra entras a mi HIPNOSIS EN VIVO de cada DOMINGO a las 11 AM, conmigo, hasta 5 domingos. Porque lo que no se repite, no se instala. Tu primer domingo es el 29 de noviembre si compras antes del viernes 27 a las 11:59 PM."
+[BONO SOLO EN VIVO: por decidir con Mabel.]
 
 ## 8 · Objeciones (min 26-28)
 - Dinero: "Son $500. Es menos de lo que se te va en una semana en imprevistos. Y eso es justo lo que vamos a cortar."
