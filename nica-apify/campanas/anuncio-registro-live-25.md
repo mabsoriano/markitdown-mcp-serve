@@ -15,7 +15,7 @@ Descripción: Hipnosis para hackear tus bloqueos con el dinero
 Botón: Registrarte
 
 Formulario: nombre, correo, WhatsApp (teléfono). Pregunta opcional: "¿Qué te frena con el dinero?" (a) no me llega (b) no se queda (c) me da culpa recibir.
-Pantalla final: "¡Listo! Toca el botón y escríbeme ABUNDANCIA por WhatsApp para recibir tu acceso al live." Botón → WhatsApp de Mabel (wa.me/message/VI25SFOR2KLBL1 o "Enviar mensaje de WhatsApp"). En el chat se manda el link del grupo del live. (Link de GRUPO directo en Meta: NO, Meta lo rechaza.)
+Pantalla final: "¡Listo! Toca el botón y escríbeme ABUNDANCIA por WhatsApp para recibir tu acceso al live." Botón "Ver sitio web" → https://sites.google.com/view/registromabradiante (página con botón al grupo de WhatsApp, como la competencia). (Link de GRUPO directo en Meta: NO, Meta lo rechaza.)
 Público: mujeres y hombres 28-60, México. Sin Audience Network.
 
 ## TikTok · video 30 s
