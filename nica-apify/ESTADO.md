@@ -152,3 +152,4 @@
 - 21-nov · Mabel: anuncio Kundalini SÍ va, pero DESPUÉS (primero lo primero: página live, pauta registro 25, checkout Robóticas). No mencionarlo hasta que ella diga.
 - 21-nov · Mabel rechazó el checkout de Robóticas en crema/café ('revisa mi línea'). Rehecho en su línea: galaxia morada/azul + dorado + foto. Regla agregada a CLAUDE.md.
 - 21-nov · Página puente del live: https://sites.google.com/view/registromabradiante (Google Sites, botón al grupo de WhatsApp). Va en la pantalla final del formulario de Meta (botón 'Ver sitio web').
+- 21-nov · Página puente probada por Mabel: abre el grupo 'LIVE GRATIS 25 NOV' correcto. Contador Robóticas comunidad cierra dom 29 nov 11:59 PM. REGLA: comunidad siempre 20% con cupón COMUNIDAD.
