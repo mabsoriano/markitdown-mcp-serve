@@ -21,3 +21,11 @@ Público: mujeres y hombres 28-60, México. Sin Audience Network.
 ## TikTok · video 30 s
 Texto: ¿El dinero no llega aunque trabajes? Miércoles 25 · 11 AM · LIVE GRATIS: Hipnosis para hackear tus bloqueos con el dinero. Escríbeme ABUNDANCIA 👇
 Destino: formulario instantáneo de TikTok (o mensaje directo, que ManyChat responde con ABUNDANCIA).
+
+## VEREDICTO DEL TRAFFICKER · presupuesto (21-nov)
+Dato real: oct-nov, formulario de Meta = $3.06 por registro (182 por $557). Live 15-nov: 62 inscritos → 25 entraron → 9 en la oferta.
+Meta: para tener ~60 personas en la oferta hacen falta ~180-200 registros.
+- Meta (FB+IG, formulario): $120/día × sáb 21 → mar 24 (4 días) + mié 25 hasta las 10 AM ≈ $500.
+- TikTok (video, formulario/DM): $100/día × 4.5 días ≈ $450.
+- Total ≈ $950 (dentro de los ~$1,000 ya aprobados).
+Reglas: si tras $150 en una red el registro cuesta más de $10 → cambiar arte/copy (no subir dinero). Si a los $300 el registro cuesta menos de $4 → subir 20%. Apagar todo mié 25 a las 10 AM.

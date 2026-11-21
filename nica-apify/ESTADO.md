@@ -137,3 +137,4 @@
 - 21-nov · AGENTES NUEVOS: agenda (agenda + publicación por Metricool), atencion-clientes, buscador-clientes. Metricool (marca MabRadiante, gratis) ya tiene TikTok, YouTube, Pinterest y Google Business; falta conectar IG y FB para dejar Hootsuite.
 - 21-nov · APROBADO Mabel: comunidad = Activaciones Robóticas Millonarias (precio pendiente). Pautar Sesión de Activación Kundalini con video testimonio real (de su Drive). Anuncio de registro al live 25 (formulario Meta → WhatsApp): campanas/anuncio-registro-live-25.md, pendiente OK.
 - 21-nov · PRECIOS (Mabel): Kundalini público $1,200 / comunidad $1,000; Robóticas público $500 / comunidad $399. Todo + impuestos.
+- 21-nov · TRAFFICKER: pauta registro live 25 = Meta $120/día + TikTok $100/día (≈$950 total, del 21 al mié 25 10 AM). Reglas en campanas/anuncio-registro-live-25.md.
