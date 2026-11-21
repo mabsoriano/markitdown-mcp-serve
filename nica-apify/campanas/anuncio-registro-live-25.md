@@ -42,3 +42,9 @@ Descripción: Hipnosis gratis · miércoles 25 nov · 11 AM
 Botón: Registrarte
 ## PÚBLICO: excluir a quien ya se registró
 Excluir público personalizado "Formularios de clientes potenciales · personas que enviaron el formulario · 90 días" (de las campañas del 3, 10 y 15 nov) + lista de compradores si existe.
+
+## CREADO EN META POR WINDSOR (21-nov) · TODO EN PAUSA, $0 gastado
+- Campaña "LIVE 25 NOV · Registro" (Clientes potenciales) id 120254366723690237.
+- Conjunto copiado de la ganadora Fase 1 (3-nov): id 120254366723900237 · "LIVE 25 NOV · Registro · Mujeres y hombres" · México · 25-65 · mujeres y hombres (la original era solo mujeres) · Advantage+ público · $120/día · termina mié 25 10:00 AM.
+- Anuncio id 120254366724200237 · arte NEÓN 4x5 · copy ganador con fecha nueva.
+- FALTA (Mabel en Administrador): formulario nuevo (duplicar el del 3-nov, cambiar fecha y botón final a https://sites.google.com/view/registromabradiante), 9x16 en historias, 2º anuncio con arte dorada, excluir registrados, y encender.
