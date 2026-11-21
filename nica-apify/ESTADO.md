@@ -161,3 +161,4 @@
 - 21-nov · KUNDALINI: se vende por WhatsApp directo (agenda), NUNCA precio en anuncios. $1,500, promo $1,200 (solo en el chat). Video de testimonios rehecho sin precio: título 'Activa tu tercer ojo y enciende tu glándula pineal' + AGENDA ABIERTA.
 - 21-nov · Pauta live 25 CREADA vía Windsor en pausa (campaña 120254366723690237, conjunto 120254366723900237, anuncio 120254366724200237). Falta formulario nuevo + encender (Mabel).
 - 21-nov · Kundalini = 2 pautas separadas de la del live: A presencial (Nuevo León) y B en línea. Director recomienda flujo anuncio → WhatsApp → precio en el chat → link Hotmart → agenda (pendiente OK).
+- 21-nov · Kundalini presupuesto APROBADO: EN LÍNEA todo México $50/día + PRESENCIAL solo Monterrey $50/día. Se arman cuando lleguen los 3 clips de Grok. Flujo: WhatsApp → precio en chat → link Hotmart → agenda.
