@@ -1,7 +1,7 @@
 # 🧭 ESTADO DEL NEGOCIO · tablero compartido del equipo de Mabel
 > **Todos los agentes (NICA, estratega, productor) LEEN este archivo PRIMERO y lo ACTUALIZAN AL TERMINAR.**
 > Si algo aquí contradice un brief viejo, **manda este archivo**. Una sola fuente de verdad.
-> Última actualización: 16-nov-2026 · Estratega
+> Última actualización: 21-nov-2026 · NICA
 
 ## 🎯 FOCO ACTUAL (no cambiar sin OK de Mabel)
 **Campaña activa: PROGRAMA LA RIQUEZA MIENTRAS DUERMES · Buen Fin extendido**
@@ -36,6 +36,7 @@
 3. ~~Estratega · Brief semana 16-22 nov alineado a este foco.~~ ✅ Hecho 16-nov (`briefs/brief-semana-2026-11-16.md`).
 4. Mabel · Ventas de los LIVES del 3, 10 y 15 nov (s/d).
 5. Mabel · Antes del 15 dic: ¿sigue o cancela Hootsuite (US$149/mes)?
+6. NICA · DESPUÉS del 22 nov, con OK de Mabel: revisar dominio (.com/.mx), usuarios TikTok/IG y registro IMPI de **Efecto Viral** (nombre elegido para la agencia). Proyecto aparte de BNQ.
 
 ## 📊 NÚMEROS (se actualizan cada lunes)
 | Semana | Gasto Meta | Registros | Llegaron a WhatsApp | Asistieron LIVE | Ventas |
@@ -46,6 +47,8 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **21-nov · NICA:** Mabel eligió **Efecto Viral** como nombre de su agencia de consultoría y publicidad (falta verificar dominio, redes e IMPI).
+  Va como proyecto separado de BNQ y arranca después del 22 nov. Hoy sigue el foco: cierre de Riqueza mientras Duermes.
 - **16-nov · Estratega:** brief 16-22 nov listo: `briefs/brief-semana-2026-11-16.md` y `.xlsx`. Foco SOLO Riqueza
   mientras Duermes ($500, cierre sáb 21 11:59 PM, hipnosis Zoom dom 22 11 AM); venta mar 17, jue 19 y sáb 21 (1 de 3 piezas).
   Plan 90 días solo como tabla "después del 22 nov, a definir con Mabel" (sin producto ni precio). LIVE propuesto: mar 8 dic.
