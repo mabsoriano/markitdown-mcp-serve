@@ -138,3 +138,4 @@
 - 21-nov · APROBADO Mabel: comunidad = Activaciones Robóticas Millonarias (precio pendiente). Pautar Sesión de Activación Kundalini con video testimonio real (de su Drive). Anuncio de registro al live 25 (formulario Meta → WhatsApp): campanas/anuncio-registro-live-25.md, pendiente OK.
 - 21-nov · PRECIOS (Mabel): Kundalini público $1,200 / comunidad $1,000; Robóticas público $500 / comunidad $399. Todo + impuestos.
 - 21-nov · TRAFFICKER: pauta registro live 25 = Meta $120/día + TikTok $100/día (≈$950 total, del 21 al mié 25 10 AM). Reglas en campanas/anuncio-registro-live-25.md.
+- 21-nov · Mabel aprueba la PAUTA (Meta $120/día + TikTok $100/día). Pidió arte NUEVA para que el público no vea la misma: estilo NEÓN (base 14-nov) → live/arte_live_25_neon.py → LIVE-25-NEON 4x5 y 9x16 + video TikTok ANUNCIO-TIKTOK-LIVE-25-NEON.mp4. Sin precio. Pendiente su OK al arte.
