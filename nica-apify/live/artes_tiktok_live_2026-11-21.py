@@ -1,4 +1,4 @@
-"""Arte AVISO TikTok LIVE (sáb 21 y mar 24 · 8:30 PM), 9:16, sin precio, sin @.
+"""Arte AVISO TikTok LIVE (sáb 21 y mar 24 · 7:00 PM), 9:16, sin precio, sin @.
 Reutiliza el generador del live del 25 (live/artes_live_2026-11-25.py): mismas funciones de fondo, foto y textos."""
 import pathlib
 from PIL import ImageDraw
@@ -20,7 +20,7 @@ for t in items:
     d.rounded_rectangle((x, yr, x+tw+60, yr+76), 38, fill=(255, 246, 214), outline=ORO, width=3)
     d.text((x+30, yr+18), t, font=f, fill=CAFE); x += tw + 60 + 20
 d.rounded_rectangle((150, 1430, 930, 1592), 30, fill=ORO)
-centro(d, "HOY · 8:30 PM", F(SER, 72), 1440, (255, 238, 180), 150, 780)
+centro(d, "HOY · 7:00 PM", F(SER, 72), 1440, (255, 238, 180), 150, 780)
 centro(d, "hora Monterrey / CDMX", F(SAN, 36), 1530, CREMA, 150, 780)
 pill(d, "Comenta ABUNDANCIA", F(SAN, 54), W/2, 1618, CAFE, ORO2, padx=60, pady=24, outline=ORO2)
 centro(d, "Mabel Soriano · BNQ Method™", F(SAN, 34), 1748, CAFE, 0, W)
