@@ -160,3 +160,4 @@
 - 21-nov · Kundalini: copy = el aprobado de Mabel ('TU GLÁNDULA PINEAL: EL PORTAL QUE CASI NADIE ACTIVA') + CTA agenda abierta. Guion 15 s rehecho desde dolor/beneficio. Regla 'siempre desde el dolor y el beneficio' en CLAUDE.md.
 - 21-nov · KUNDALINI: se vende por WhatsApp directo (agenda), NUNCA precio en anuncios. $1,500, promo $1,200 (solo en el chat). Video de testimonios rehecho sin precio: título 'Activa tu tercer ojo y enciende tu glándula pineal' + AGENDA ABIERTA.
 - 21-nov · Pauta live 25 CREADA vía Windsor en pausa (campaña 120254366723690237, conjunto 120254366723900237, anuncio 120254366724200237). Falta formulario nuevo + encender (Mabel).
+- 21-nov · Kundalini = 2 pautas separadas de la del live: A presencial (Nuevo León) y B en línea. Director recomienda flujo anuncio → WhatsApp → precio en el chat → link Hotmart → agenda (pendiente OK).

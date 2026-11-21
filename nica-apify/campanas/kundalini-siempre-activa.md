@@ -38,3 +38,8 @@ Personal, guiada por mí, en línea o presencial en Monterrey.
 📅 AGENDA ABIERTA · Escríbeme KUNDALINI y te comparto horarios.
 Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA.
 Mabel Soriano · BNQ Method™
+
+## ESTRUCTURA (Mabel, 21-nov) · 2 PAUTAS SEPARADAS, aparte de la del live
+A) PRESENCIAL · público Nuevo León (Monterrey y área) · copy "presencial en Monterrey".
+B) EN LÍNEA · resto de México (y LATAM si se decide) · copy "en línea, desde donde estés".
+Flujo recomendado por el Director (pendiente OK): anuncio → WhatsApp de Mabel (anuncio de Mensajes/Click-to-WhatsApp) → conversación (closer) → ahí se dice el precio ($1,500, promo $1,200) → link de pago Hotmart para apartar → se agenda fecha. Motivo: el precio no va en el anuncio y una sesión 1 a 1 de $1,200 se cierra platicando, no con gente fría pagando directo.
