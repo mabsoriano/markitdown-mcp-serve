@@ -52,7 +52,7 @@ Vas a entender por qué tus bloqueos con el dinero no están en un solo lugar:
 - y tu energía, que es 100% tuya.
 Y vas a vivir conmigo una probadita de cómo se hackean los 3 al mismo tiempo.
 
-El link de Zoom lo mando aquí y en Avisos el mismo miércoles a las 7:55 PM. Activa las notificaciones para no perdértelo.
+El acceso a Zoom te lo comparto aquí el mismo miércoles antes de las 11:00 AM. Activa las notificaciones para no perdértelo.
 Si ya estás dentro, reacciona con un corazón a este mensaje.
 
 Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA.
@@ -83,6 +83,8 @@ https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm
 ---
 
 ## 3) Correos Brevo · 3 BORRADORES (plan aprobado)
+> **ACTUALIZACIÓN 21-nov (Embudos):** esta sección queda REEMPLAZADA por `campanas/checklist-semana-21-27.md` (regla de correo: 1 solo correo, lun 23 · 10 AM, a quien nunca ha ido a un live; la comunidad recibe Robóticas, no la invitación al live; recordatorios del live van en el grupo del live a las 11 AM, 10 AM y 10:50 AM).
+
 **Ya no hay correos de recordatorio del live:** esos van por WhatsApp (Avisos y grupo).
 **Lista:** las listas actuales de Brevo (como ya no hay formulario, no hay "lista de registradas"). Correos del 26 y 27: **todas MENOS compradoras** (bajarlas de Hotmart y excluirlas).
 **Cierre fijo al final de los 3 correos** (regla del 10-nov + firma oficial):
@@ -161,6 +163,8 @@ Mabel
 ---
 
 ## 4) AVISOS de la comunidad (solo Mabel escribe · llegan a toda la comunidad)
+> **ACTUALIZACIÓN 21-nov (Embudos):** esta sección queda REEMPLAZADA por `campanas/checklist-semana-21-27.md` (regla de correo: 1 solo correo, lun 23 · 10 AM, a quien nunca ha ido a un live; la comunidad recibe Robóticas, no la invitación al live; recordatorios del live van en el grupo del live a las 11 AM, 10 AM y 10:50 AM).
+
 Todos cierran con la firma oficial. Del 21 al 25: **sin precio**. 26 y 27: con precio y link de Hotmart.
 
 ### Aviso 1 · sábado 21 · (sugerido 6:00 PM)
