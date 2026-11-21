@@ -509,3 +509,6 @@ Todo precio que se escriba lleva "+ impuestos".
 - Nunca 2 publicaciones seguidas con el mismo tipo de portada. Rotar: (1) Mabel a cámara · (2) carrusel/testimonio real · (3) arte de producto (dorada/neón) · (4) foto lifestyle de Mabel · (5) faceless problema→solución (máx. 1 de cada 4) · (6) yapping.
 - La portada (primer cuadro) de cada video se elige a propósito: la mayoría con la CARA de Mabel y luz dorada, no gente triste.
 - Banco de material de Mabel en marca/banco-mabel/ (pedirle material nuevo cada domingo).
+
+## LÍNEA GRÁFICA DE PRODUCTOS Y CHECKOUT (Mabel, 21-nov: "revisa mi línea")
+Artes de producto, checkout y anuncios de venta = SU LÍNEA DE GROK: universo morado/azul con galaxia y partículas doradas, títulos serif DORADOS con brillo, texto blanco, su foto real con halo dorado, átomo dorado, botones dorados. NO fondo crema/amarillo/café (eso queda solo para láminas del live hechas por NICA si ella lo pide). Generador: landing/checkout_roboticas_galaxia.py.

@@ -150,3 +150,4 @@
 - 21-nov · Mabel: el feed se ve igual (puros faceless de mujer triste). Regla FEED VARIADO en CLAUDE.md + lista de material que Mabel graba/manda.
 - 21-nov · COMUNIDAD esta semana: Robóticas producto único, cupón COMUNIDAD 20% ($400 + imp), regalo entrada a NeurohackersVIP. Piezas de checkout con contador: landing/checkout_roboticas.py → /home/user/CHECKOUT-ROBOTICAS (para OK). Mabel arma el checkout en Hotmart como el de Riqueza.
 - 21-nov · Mabel: anuncio Kundalini SÍ va, pero DESPUÉS (primero lo primero: página live, pauta registro 25, checkout Robóticas). No mencionarlo hasta que ella diga.
+- 21-nov · Mabel rechazó el checkout de Robóticas en crema/café ('revisa mi línea'). Rehecho en su línea: galaxia morada/azul + dorado + foto. Regla agregada a CLAUDE.md.
