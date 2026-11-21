@@ -139,3 +139,4 @@
 - 21-nov · PRECIOS (Mabel): Kundalini público $1,200 / comunidad $1,000; Robóticas público $500 / comunidad $399. Todo + impuestos.
 - 21-nov · TRAFFICKER: pauta registro live 25 = Meta $120/día + TikTok $100/día (≈$950 total, del 21 al mié 25 10 AM). Reglas en campanas/anuncio-registro-live-25.md.
 - 21-nov · Mabel aprueba la PAUTA (Meta $120/día + TikTok $100/día). Pidió arte NUEVA para que el público no vea la misma: estilo NEÓN (base 14-nov) → live/arte_live_25_neon.py → LIVE-25-NEON 4x5 y 9x16 + video TikTok ANUNCIO-TIKTOK-LIVE-25-NEON.mp4. Sin precio. Pendiente su OK al arte.
+- 21-nov · Mabel: OK a la pauta y al arte neón. Iniciando paso a paso Meta (Clientes potenciales · formulario instantáneo · $120/día · hasta mié 25 10 AM). Anuncios: neón (A) + dorada billetes (B).
