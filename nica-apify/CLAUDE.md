@@ -501,7 +501,7 @@ El link de Zoom lo comparte Mabel: un día antes por la tarde-noche, la mañana 
 
 ## PRECIOS VIGENTES (Mabel, 21-nov) · SIEMPRE "+ impuestos"
 - Sesión de Activación Kundalini: público $1,200 + impuestos · comunidad $1,000 + impuestos.
-- Activaciones Robóticas Millonarias: público $500 + impuestos · comunidad $399 + impuestos.
+- Activaciones Robóticas Millonarias: público $500 + impuestos · comunidad 20% con cupón COMUNIDAD = $400 + impuestos. Regalo: entrada a NeurohackersVIP. Link: https://hotmart.com/es/marketplace/productos/activaciones-roboticas-millonarias-10-audios-para-recibir-dinero-con-facilidad/Q108030809L
 - Programa la Riqueza mientras Duermes: $500 + impuestos.
 Todo precio que se escriba lleva "+ impuestos".
 
