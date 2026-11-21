@@ -500,7 +500,7 @@ El link de Zoom lo comparte Mabel: un día antes por la tarde-noche, la mañana 
 - Conclusión: el problema NO es el tema ni el título; es el modelo (gratis + probadita + oferta al final). El Director debe proponer modelos y temas que vendan en la industria, no encuestas.
 
 ## PRECIOS VIGENTES (Mabel, 21-nov) · SIEMPRE "+ impuestos"
-- Sesión de Activación Kundalini: público $1,200 + impuestos · comunidad $1,000 + impuestos.
+- Sesión de Activación Kundalini: NO se vende por Hotmart; se agenda por WhatsApp directo. El precio NUNCA va en anuncios, copys ni videos: se dice solo cuando la persona escribe. Precio $1,500, promoción $1,200 (comunidad: preguntar a Mabel).
 - Activaciones Robóticas Millonarias: público $500 + impuestos · comunidad 20% con cupón COMUNIDAD = $400 + impuestos. Regalo: entrada a NeurohackersVIP. Link: https://hotmart.com/es/marketplace/productos/activaciones-roboticas-millonarias-10-audios-para-recibir-dinero-con-facilidad/Q108030809L
 - Programa la Riqueza mientras Duermes: $500 + impuestos.
 Todo precio que se escriba lleva "+ impuestos".

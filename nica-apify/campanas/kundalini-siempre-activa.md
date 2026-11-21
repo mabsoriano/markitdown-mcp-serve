@@ -1,6 +1,6 @@
 # KUNDALINI · PAUTA SIEMPRE ACTIVA (Mabel, 21-nov) · comunidad + pauta, desde ya
 Ángulo: "ACTIVA TU TERCER OJO Y ENCIENDE TU GLÁNDULA PINEAL" · dos polos: ESPIRITUAL (tercer ojo, Kundalini, despertar) + CIENTÍFICO (glándula pineal, melatonina, ciclos de sueño), con traducción simple. Sin promesas de salud.
-Precio: público $1,200 + impuestos · comunidad 20% con cupón COMUNIDAD (confirmar: $960 + impuestos vs $1,000 acordado antes).
+Venta por WhatsApp directo (agenda). PRECIO NUNCA EN EL ANUNCIO: $1,500, promoción $1,200; se dice solo en el chat.
 Agenda abierta · En línea o presencial en Monterrey · por WhatsApp.
 
 ## Video del anuncio (Mabel graba SOLO los primeros 15 s; NICA arma el resto) · DESDE EL DOLOR Y EL BENEFICIO
@@ -35,6 +35,6 @@ Personal, guiada por mí, en línea o presencial en Monterrey.
 
 👤 SOY MABEL SORIANO en 5 años he acompañado a más de 800 personas con este método. Te llevo a donde necesitas estar.
 
-📅 AGENDA ABIERTA · Escríbeme KUNDALINI y te comparto horarios. $1,200 + impuestos.
+📅 AGENDA ABIERTA · Escríbeme KUNDALINI y te comparto horarios.
 Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA.
 Mabel Soriano · BNQ Method™
