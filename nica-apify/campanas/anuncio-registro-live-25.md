@@ -29,3 +29,16 @@ Meta: para tener ~60 personas en la oferta hacen falta ~180-200 registros.
 - TikTok (video, formulario/DM): $100/día × 4.5 días ≈ $450.
 - Total ≈ $950 (dentro de los ~$1,000 ya aprobados).
 Reglas: si tras $150 en una red el registro cuesta más de $10 → cambiar arte/copy (no subir dinero). Si a los $300 el registro cuesta menos de $4 → subir 20%. Apagar todo mié 25 a las 10 AM.
+
+## COPY FINAL (basado en el anuncio GANADOR del 3-nov, T1 impersonal, apto Meta) · 21-nov
+Texto principal:
+¿Por qué el dinero no llega, aunque haya trabajo y ganas?
+Muchas veces no es falta de esfuerzo: es un bloqueo aprendido que lo frena antes de empezar.
+LIVE GRATIS · Hipnosis para hackear bloqueos con el dinero.
+Miércoles 25 de noviembre, 11 AM (hora CDMX), por Zoom. Una práctica de bienestar, en vivo.
+Regístrate aquí.
+Título: ¿Por qué el dinero no llega?
+Descripción: Hipnosis gratis · miércoles 25 nov · 11 AM
+Botón: Registrarte
+## PÚBLICO: excluir a quien ya se registró
+Excluir público personalizado "Formularios de clientes potenciales · personas que enviaron el formulario · 90 días" (de las campañas del 3, 10 y 15 nov) + lista de compradores si existe.
