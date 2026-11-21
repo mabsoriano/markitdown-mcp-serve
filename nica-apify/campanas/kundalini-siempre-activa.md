@@ -3,21 +3,38 @@
 Precio: público $1,200 + impuestos · comunidad 20% con cupón COMUNIDAD (confirmar: $960 + impuestos vs $1,000 acordado antes).
 Agenda abierta · En línea o presencial en Monterrey · por WhatsApp.
 
-## Video del anuncio (Mabel graba SOLO los primeros 15 s; NICA arma el resto)
-0-15 s · Mabel a cámara (luz natural, blusa blanca, mano en el pecho al final):
-"¿Sabías que tienes un tercer ojo? La tradición espiritual lo llama así. La ciencia lo conoce como tu glándula pineal, la que produce melatonina y marca tus ciclos de sueño. En mi Sesión de Activación Kundalini la encendemos con el Método BNQ™. Mira lo que vivieron ellos."
-15-75 s · 3 testimonios reales (video ya enviado por Mabel).
-Cierre (texto en pantalla 4 s): AGENDA ABIERTA · En línea o presencial en Monterrey · Escríbeme KUNDALINI · Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA. · Mabel Soriano · BNQ Method™
+## Video del anuncio (Mabel graba SOLO los primeros 15 s; NICA arma el resto) · DESDE EL DOLOR Y EL BENEFICIO
+0-15 s · Mabel a cámara:
+"¿Duermes y no descansas? ¿Pides señales y no llegan? No eres tú: es tu glándula pineal, tu tercer ojo, apagada. En mi sesión la activamos con tu energía Kundalini para que tu claridad y tu intuición despierten. Mira lo que vivieron ellos."
+15-75 s · 3 testimonios reales.
+Cierre (4 s): AGENDA ABIERTA · En línea o presencial en Monterrey · Escríbeme KUNDALINI · slogan completo · Mabel Soriano · BNQ Method™
 
-## Copy del anuncio (Meta, mensajes a WhatsApp)
-Activa tu tercer ojo y enciende tu glándula pineal. ✨
-La tradición espiritual lo llama tercer ojo. La ciencia lo conoce como glándula pineal: la pequeña glándula que produce melatonina y marca tus ciclos de sueño y vigilia.
-En mi Sesión de Activación Kundalini y Glándula Pineal trabajamos los dos mundos a la vez con el Método BNQ™: despertamos la energía dormida en tu interior y la reprogramamos para que vuelvas a fluir.
-Escucha lo que vivieron quienes ya la tomaron.
-📅 Agenda abierta · En línea o presencial en Monterrey.
-Escríbeme KUNDALINI y te comparto horarios. $1,200 + impuestos.
+## Copy del anuncio = COPY APROBADO DE MABEL (reutilizar, no reescribir)
+🛑 TU GLÁNDULA PINEAL: EL PORTAL QUE CASI NADIE ACTIVA.
+
+Duermes y no descansas. Pides señales y no llegan. Tu intuición está en silencio y sientes que la abundancia pasa de largo.
+No eres tú. Es tu antena apagada: estás operando con un radio desconectado.
+
+🧠 LO QUE DICE LA CIENCIA:
+✔️ La glándula pineal produce la melatonina, la hormona que ordena tu sueño y tus ritmos.
+✔️ Varios estudios encuentran que en muchos adultos se calcifica con la edad.
+✔️ La luz de las pantallas en la noche apaga esa melatonina, y el estrés de todos los días te mantiene en modo alarma.
+
+🌀 LO QUE DICE LA TRADICIÓN:
+Por siglos se le ha llamado "el tercer ojo": tu puerta a la intuición, a la claridad y a tu conexión con el campo cuántico.
+
+🛠️ EL PROTOCOLO DE ACTIVACIÓN:
+Lo que no se activa, no puede cambiar. En esta sesión activamos juntas la Fórmula Cuántica N.º 3 de Las 10 Fórmulas Cuánticas para Hackear la Matrix, junto con tu energía Kundalini 🧠🧬💥
+
+✅ Tu claridad y tu intuición despiertan.
+✅ Tu conexión con el campo cuántico se vuelve directa.
+✅ Empiezas a notar las sincronías que antes pasabas de largo.
+
+✨ SESIÓN PROFUNDA DE ACTIVACIÓN KUNDALINI Y GLÁNDULA PINEAL
+Personal, guiada por mí, en línea o presencial en Monterrey.
+
+👤 SOY MABEL SORIANO en 5 años he acompañado a más de 800 personas con este método. Te llevo a donde necesitas estar.
+
+📅 AGENDA ABIERTA · Escríbeme KUNDALINI y te comparto horarios. $1,200 + impuestos.
 Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA.
 Mabel Soriano · BNQ Method™
-Título: Activa tu tercer ojo · Sesión Kundalini
-Botón: Enviar mensaje (WhatsApp)
-Nota: es una práctica de bienestar; no sustituye atención médica ni psicológica.

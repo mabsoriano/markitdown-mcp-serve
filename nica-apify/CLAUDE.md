@@ -520,3 +520,6 @@ Todo producto que se le ofrezca a la comunidad lleva SIEMPRE 20% de descuento co
 1. GENTE NUEVA (pauta): live gratis "Hipnosis para hackear tus bloqueos con el dinero" → se les da el link del PACK DE ABUNDANCIA (Programa la Riqueza mientras Duermes, $500 + impuestos).
 2. COMPRADORAS: CADA DOMINGO 11 AM live de hipnosis en vivo para todas las que compraron esa semana; se van sumando las de las semanas siguientes. Cada compradora puede tomar la hipnosis hasta 5 domingos (máximo 5) para que se instale la programación. Es parte de la oferta: "5 hipnosis en vivo conmigo".
 3. COMUNIDAD (ya está en su chat): agenda semanal con herramientas de activación para su día a día (audios, decretos, hackeos) + UN PRODUCTO DISTINTO CADA SEMANA con 20% (cupón COMUNIDAD). Objetivo: que siempre estén comprando y se queden cautivos. Semana 23-29 nov: Activaciones Robóticas Millonarias.
+
+## SIEMPRE DESDE EL DOLOR Y EL BENEFICIO (Mabel, 21-nov)
+Todo copy y guion habla primero del DOLOR que quita y del BENEFICIO que da (qué le resuelve a la persona), no solo de qué "activa". Antes de escribir, buscar si Mabel ya tiene un copy aprobado de ese producto y REUTILIZARLO (ej. Kundalini/Pineal: campanas/kundalini-siempre-activa.md).
