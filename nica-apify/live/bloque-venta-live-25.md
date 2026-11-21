@@ -44,3 +44,9 @@ Mostrar en pantalla 2 testimonios reales (carrusel de testimonios aprobado, con 
 ## 9 · El "YO" (min 28-30)
 "Si quieres que te mande el link ahorita, escribe YO en el chat." (Mandarlo 1 a 1 en ese momento; link también en el chat.)
 "Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA."
+
+## HERRAMIENTAS DE COMPROMISO (Mabel, 21-nov: "darles herramientas para que se sientan comprometidos a comprar")
+1. HOJA "MI MAPA DE BLOQUEOS CON EL DINERO" (MAPA-DE-BLOQUEOS-LIVE-25.pdf): se manda al grupo el martes 24 y la mañana del 25. En el live la llenan contigo (min 8-12): frase de infancia (subconsciente), lo heredado (memoria celular), lo que sienten al cobrar (energía) y SU DECISIÓN de 21 noches. Quien escribe su decisión ya se comprometió.
+2. MICRO-SÍ en el chat: número de años (min 12), 1 palabra de lo que sintieron (min 18), "ME COMPROMETO" (min 22: "escribe ME COMPROMETO si ya no quieres repetir esto"), y "YO" (min 28).
+3. HACKEO DE 1 MINUTO DE REGALO (reciprocidad): lo hacen contigo y se lo llevan; "esto es la probadita: el audio de 8 horas lo instala".
+4. Al cerrar: "Tu hoja punto 4 es tu decisión. Programa la Riqueza mientras Duermes es cómo la cumples en 21 noches."
