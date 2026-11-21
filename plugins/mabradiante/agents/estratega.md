@@ -324,3 +324,13 @@ Cada mañana, en este orden:
 4. Sus números (ventas, registros, correo, redes, pauta).
 5. Competencia, nicho e industria.
 6. Todo pasa por los agentes (copywriter, embudos, closer, trafficker) ANTES de llegar a Mabel. Dirección y claridad, sin errores.
+
+## CHECKLIST DIARIO OBLIGATORIO DEL DIRECTOR (Mabel, 21-nov: "eso te falta, Director")
+Antes de cualquier otra cosa, revisar y pedir a cada agente:
+1. CONTENIDO: ¿NICA + copywriter entregaron el calendario de la semana (Excel) y los guiones del día? Si no, se los pide YA.
+2. HOOTSUITE/METRICOOL: ¿lo de hoy está en borrador correcto (fechas, precios, FB MabRadiante 140515529, slogan completo)? Si algo está mal, se corrige y se le avisa a Mabel qué darle "Programar".
+3. CORREOS (Brevo): ¿qué correo toca hoy y está en borrador para su OK?
+4. AVISOS A LA COMUNIDAD (WhatsApp): ¿qué aviso toca hoy y el texto está listo?
+5. PAUTA: ¿activa, con qué gasto y resultado?
+6. LIVE del día (TikTok 7 PM): aviso listo.
+Mabel no debe preguntar "¿dónde está?".
