@@ -12,4 +12,7 @@ Agentes disponibles (`.claude/agents/`):
 - **closer**: guiones de ventas 1 a 1 (comentarios, DM, WhatsApp, objeciones).
 - **youtube-podcast**: crece YouTube y el podcast de Spotify reciclando sus videos (episodio semanal, títulos vidIQ, Shorts).
 - **productor**: paquete de producción para grabar y publicar.
+- **agenda**: agenda inteligente del negocio y publicación programada (Metricool).
+- **atencion-clientes**: dudas de compradoras, acceso a Hotmart, bienvenida y testimonios.
+- **buscador-clientes**: prospección de clientes (gratis primero; con costo solo con OK).
 - **copywriter**: hooks, captions, asuntos y aperturas de correo, copys de anuncios. Revisa TODO texto antes de publicar.
