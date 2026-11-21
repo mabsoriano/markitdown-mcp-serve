@@ -504,3 +504,8 @@ El link de Zoom lo comparte Mabel: un día antes por la tarde-noche, la mañana 
 - Activaciones Robóticas Millonarias: público $500 + impuestos · comunidad $399 + impuestos.
 - Programa la Riqueza mientras Duermes: $500 + impuestos.
 Todo precio que se escriba lleva "+ impuestos".
+
+## FEED VARIADO (Mabel, 21-nov: "no me gusta que se vean todas las publicaciones iguales")
+- Nunca 2 publicaciones seguidas con el mismo tipo de portada. Rotar: (1) Mabel a cámara · (2) carrusel/testimonio real · (3) arte de producto (dorada/neón) · (4) foto lifestyle de Mabel · (5) faceless problema→solución (máx. 1 de cada 4) · (6) yapping.
+- La portada (primer cuadro) de cada video se elige a propósito: la mayoría con la CARA de Mabel y luz dorada, no gente triste.
+- Banco de material de Mabel en marca/banco-mabel/ (pedirle material nuevo cada domingo).
