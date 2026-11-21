@@ -498,3 +498,9 @@ El link de Zoom lo comparte Mabel: un día antes por la tarde-noche, la mañana 
 - Encuesta de tema (hace ~1 mes): SIEMPRE gana DINERO. No volver a proponer encuesta.
 - 3 lives de dinero (27-oct, 3-nov, 10-nov; los 2 últimos "Hipnosis para hackear tus bloqueos con el dinero") + 15-nov: SE LLENAN, NADIE COMPRA (15-nov: 62 inscritos → 25 entraron → 9 al final → 0). Títulos nuevos tampoco venden.
 - Conclusión: el problema NO es el tema ni el título; es el modelo (gratis + probadita + oferta al final). El Director debe proponer modelos y temas que vendan en la industria, no encuestas.
+
+## PRECIOS VIGENTES (Mabel, 21-nov) · SIEMPRE "+ impuestos"
+- Sesión de Activación Kundalini: público $1,200 + impuestos · comunidad $1,000 + impuestos.
+- Activaciones Robóticas Millonarias: público $500 + impuestos · comunidad $399 + impuestos.
+- Programa la Riqueza mientras Duermes: $500 + impuestos.
+Todo precio que se escriba lleva "+ impuestos".
