@@ -1,6 +1,15 @@
-# BLOQUE DE VENTA · LIVE 25 NOV · 11 AM (minuto 12 al 30)
+# BLOQUE DE VENTA · LIVE 25 NOV · 11 AM (quién soy min 3-7 + venta min 12-30)
 Objetivo (Mabel, 21-nov): convencer dentro del live. Aunque sean 9, que compre la mitad.
 Orden: NECESIDAD → COSTO DE NO HACERLO → SOLUCIÓN → PRUEBA → OFERTA → URGENCIA → OBJECIONES → "YO".
+
+
+## 0 · QUIÉN SOY Y QUÉ TE SOLUCIONO (min 3-7, ANTES del contenido) · Mabel: "que me conozcan, eso hace la diferencia"
+"Antes de empezar, déjame presentarme, porque quiero que sepas con quién estás."
+"Soy Mabel Soriano, creadora del Método BNQ™ y autora del libro Las Fórmulas Cuánticas para Hackear tu Mente y la Matrix. Me formé en neurobiología, hipnosis, biodescodificación y activación Kundalini, y llevo más de 5 años activando consciencias."
+"Mi misión es activar tu consciencia, hackearla y reprogramarla con mi Método BNQ para que cambies de realidad."
+"[TU HISTORIA CON EL DINERO: cómo estabas antes, qué te pasaba, qué descubriste. 3 o 4 frases, tuyas.]"
+"Lo que yo resuelvo es esto: personas que trabajan, cumplen y decretan, y aun así el dinero no llega o no se queda. Porque el bloqueo vive en 3 lugares al mismo tiempo: tu subconsciente, que lo aprendió de niña; tu memoria celular, que lo heredó; y tu energía, que es 100% tuya. Con mi método los hackeamos en simultáneo."
+"Hoy te voy a enseñar cómo, y vas a sentir el primer hackeo aquí conmigo."
 
 ## 1 · Prender el foco de necesidad (min 12-15)
 "Escribe en el chat: ¿cuántos años llevas trabajando, cumpliendo, decretando… y el dinero no se queda? Pon el número."
