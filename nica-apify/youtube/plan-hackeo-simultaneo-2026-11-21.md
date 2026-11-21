@@ -7,7 +7,7 @@ author: "Agente YouTube y Podcast · Mabel Soriano · BNQ Method™"
 # YouTube y Podcast · Plan Hackeo Simultáneo
 
 **Canal y podcast:** "Las Fórmulas Cuánticas para Hackear tu Mente y la Matrix".
-**Meta de la semana:** que YouTube y Spotify también manden gente al **LIVE GRATIS del miércoles 25 · 8 PM (CDMX)** con la palabra **ABUNDANCIA**.
+**Meta de la semana:** que YouTube y Spotify también manden gente al **LIVE GRATIS del miércoles 25 · 11 AM (CDMX)** con la palabra **ABUNDANCIA**.
 **Regla de oro:** no grabas nada extra. Todo sale de los 5 videos a cámara de la semana y de un TikTok LIVE (o del Zoom del 25).
 **Concepto que no se cambia:** el **subconsciente se aprende** (en casa, desde niña) · la **memoria celular se hereda** (tu linaje) · la **energía es 100% tuya**. Se hackean **en simultáneo**, con una Fórmula Cuántica.
 **Sin precio** en Shorts, episodio ni descripciones de esta semana. Nada se publica sin tu OK. No se crearon borradores: aquí solo se propone.
@@ -41,7 +41,7 @@ author: "Agente YouTube y Podcast · Mabel Soriano · BNQ Method™"
 
 > ¿Qué frase del dinero escuchabas en tu casa? Tu subconsciente no nació con ella: la aprendió. Y lo aprendido se reprograma.
 >
-> LIVE GRATIS · miércoles 25 · 8 PM (CDMX): Hackea tus bloqueos con el dinero en simultáneo.
+> LIVE GRATIS · miércoles 25 · 11 AM (CDMX): Hackea tus bloqueos con el dinero en simultáneo.
 > Comenta ABUNDANCIA y entra al link de mi perfil para tu lugar: linktr.ee/mabradiante
 >
 > Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA.
@@ -57,7 +57,7 @@ author: "Agente YouTube y Podcast · Mabel Soriano · BNQ Method™"
 
 > Tu subconsciente lo aprendiste. Tu memoria celular, la heredaste. Por eso hay miedos al dinero que ni siquiera son tuyos.
 >
-> LIVE GRATIS · miércoles 25 · 8 PM (CDMX): Hackea tus bloqueos con el dinero en simultáneo.
+> LIVE GRATIS · miércoles 25 · 11 AM (CDMX): Hackea tus bloqueos con el dinero en simultáneo.
 > Comenta ABUNDANCIA y entra al link de mi perfil para tu lugar: linktr.ee/mabradiante
 >
 > Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA.
@@ -73,7 +73,7 @@ author: "Agente YouTube y Podcast · Mabel Soriano · BNQ Method™"
 
 > Lo que aprendiste no lo elegiste. Lo que heredaste, tampoco. Pero tu energía es 100% tuya. ¿Cuál de las 3 fugas tienes tú? Te leo en comentarios.
 >
-> LIVE GRATIS · miércoles 25 · 8 PM (CDMX): Hackea tus bloqueos con el dinero en simultáneo.
+> LIVE GRATIS · miércoles 25 · 11 AM (CDMX): Hackea tus bloqueos con el dinero en simultáneo.
 > Comenta ABUNDANCIA y entra al link de mi perfil para tu lugar: linktr.ee/mabradiante
 >
 > Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA.
@@ -89,7 +89,7 @@ author: "Agente YouTube y Podcast · Mabel Soriano · BNQ Method™"
 
 > Subconsciente (lo aprendiste) + memoria celular (la heredaste) + energía (es 100% tuya). Si hackeas solo uno, los otros dos te regresan. Se hackean EN SIMULTÁNEO. Mañana te enseño cómo, en vivo y gratis.
 >
-> LIVE GRATIS · miércoles 25 · 8 PM (CDMX).
+> LIVE GRATIS · miércoles 25 · 11 AM (CDMX).
 > Comenta ABUNDANCIA y entra al link de mi perfil para tu lugar: linktr.ee/mabradiante
 >
 > Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA.
@@ -97,15 +97,15 @@ author: "Agente YouTube y Podcast · Mabel Soriano · BNQ Method™"
 >
 > #decretos #abundancia #dinero #hackeatumente #formulascuanticas #BNQMethod #Shorts
 
-### Short 5 · miércoles 25 · 6 PM en YouTube (7 PM en TikTok) · HOY 8 PM
+### Short 5 · miércoles 25 · 6 PM en YouTube (7 PM en TikTok) · HOY 11 AM
 
-**Título:** HOY 8 PM: hackeamos tus bloqueos con el dinero en vivo (gratis)
+**Título:** HOY 11 AM: hackeamos tus bloqueos con el dinero en vivo (gratis)
 
-En YouTube sale **1 hora antes** (6 PM), porque YouTube tarda más en mostrar los Shorts. **El jueves 26 se cambia a "No listado"** (ya no sirve un "hoy 8 PM").
+En YouTube sale **1 hora antes** (6 PM), porque YouTube tarda más en mostrar los Shorts. **El jueves 26 se cambia a "No listado"** (ya no sirve un "hoy 11 AM").
 
 **Descripción:**
 
-> HOY · 8 PM (CDMX) · LIVE GRATIS. Hackea tus bloqueos con el dinero en simultáneo: subconsciente · memoria celular · energía.
+> HOY · 11 AM (CDMX) · LIVE GRATIS. Hackea tus bloqueos con el dinero en simultáneo: subconsciente · memoria celular · energía.
 > Comenta ABUNDANCIA y entra al link de mi perfil para tu lugar: linktr.ee/mabradiante
 > Solo entran las registradas.
 >
@@ -157,7 +157,7 @@ Lo que se dice en el live sobre "el link está en mi perfil", "comenta ABUNDANCI
 > y tu ENERGÍA, que es 100% tuya.
 > Si hackeas solo uno, los otros dos te regresan. En este episodio te explico los 3 niveles y hacemos juntas una probadita de hackeo en simultáneo, en vivo, con una Fórmula Cuántica.
 >
-> LIVE GRATIS · miércoles 25 de noviembre · 8 PM (CDMX): "Hackea tus bloqueos con el dinero en simultáneo".
+> LIVE GRATIS · miércoles 25 de noviembre · 11 AM (CDMX): "Hackea tus bloqueos con el dinero en simultáneo".
 > Comenta ABUNDANCIA aquí abajo y entra al link de mi perfil para tu lugar: https://linktr.ee/mabradiante
 >
 > CAPÍTULOS

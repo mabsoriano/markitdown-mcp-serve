@@ -7,7 +7,7 @@ author: "NICA · Mabel Soriano · BNQ Method™"
 # HACKEO SIMULTÁNEO · 5 videos a cámara
 
 **Campaña aprobada por Mabel (20-nov):** "Hackeo Simultáneo" · 21-nov → 2-dic.
-**Meta de estos 5 videos:** que la gente escriba **ABUNDANCIA** por mensaje y se registre al **LIVE GRATIS del miércoles 25 · 8 PM (CDMX)**.
+**Meta de estos 5 videos:** que la gente escriba **ABUNDANCIA** por mensaje y se registre al **LIVE GRATIS del miércoles 25 · 11 AM (CDMX)**.
 **Sin precio** en ningún video, caption ni comentario (el precio solo se dice dentro del live).
 
 ## El concepto (no se cambia)
@@ -26,12 +26,12 @@ Cada problema se resuelve con una **Fórmula Cuántica** (de su libro). ⛔ Nunc
 | 2 | Dom 22 · 7 PM | Memoria celular | PODEROSA CONEXIÓN (+ dato del Invierno del Hambre) | TU CUERPO RECUERDA LA ESCASEZ DE TU ABUELA |
 | 3 | Lun 23 · 7 PM | Energía | FAMOSO + AUTORIDAD (Jim Carrey) | TU ENERGÍA ES 100% TUYA (Y EL DINERO LA LEE) |
 | 4 | Mar 24 · 7 PM | Los 3 en simultáneo | PODEROSA CONEXIÓN | POR QUÉ DECRETAR NO TE ALCANZA |
-| 5 | Mié 25 · 7 PM | Recordatorio "hoy 8 PM" | FAMOSO + AUTORIDAD (Donald Hebb) | HOY 8 PM: HACKEAMOS TU DINERO EN VIVO |
+| 5 | Mié 25 · 7 PM | Recordatorio "hoy 11 AM" | FAMOSO + AUTORIDAD (Donald Hebb) | HOY 11 AM: HACKEAMOS TU DINERO EN VIVO |
 
 **Cómo grabar en una sola tanda (aprox. 1 h 30 min):** misma ropa para los 5 (blusa blanca o blazer negro), luz de frente, cámara a la altura de los ojos. Cambia solo un detalle entre videos (aretes, pelo suelto o recogido, o lugar) para que no se vean iguales. Lee el hook **mirando a la cámara**, sin saludar. Lo que está entre [corchetes] lo dices tú con tu historia real.
 
 **Cierre fijo de los 5 (se dice igual, palabra por palabra):**
-> "Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al live gratis del miércoles 25 a las 8 PM."
+> "Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al live gratis del miércoles 25 a las 11 AM."
 > "Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA. Mabel Soriano · BNQ Method™."
 
 **Comentario fijado en los 5:** Mándame ABUNDANCIA por mensaje y te llega el link 💌
@@ -66,13 +66,13 @@ Cada problema se resuelve con una **Fórmula Cuántica** (de su libro). ⛔ Nunc
 "Y esto es solo un nivel. En el live te enseño los otros dos, y cómo se hackean los tres al mismo tiempo con una Fórmula Cuántica."
 
 **CIERRE FIJO:**
-"Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al live gratis del miércoles 25 a las 8 PM.
+"Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al live gratis del miércoles 25 a las 11 AM.
 Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA. Mabel Soriano · BNQ Method™."
 
 **Caption:**
 ¿Qué frase del dinero escuchabas en tu casa? 👇
 Tu subconsciente no nació con ella: la aprendió. Y lo aprendido se reprograma.
-Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al LIVE GRATIS · miércoles 25 · 8 PM (CDMX).
+Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al LIVE GRATIS · miércoles 25 · 11 AM (CDMX).
 Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA.
 Mabel Soriano · BNQ Method™
 
@@ -114,13 +114,13 @@ Mabel Soriano · BNQ Method™
 "Soy Mabel Soriano, creadora de BNQ Method™. Mi misión es activar tu consciencia, hackearla y reprogramarla con mi Método BNQ para que cambies de realidad."
 
 **CIERRE FIJO:**
-"Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al live gratis del miércoles 25 a las 8 PM.
+"Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al live gratis del miércoles 25 a las 11 AM.
 Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA. Mabel Soriano · BNQ Method™."
 
 **Caption:**
 Tu subconsciente lo aprendiste. Tu memoria celular, la heredaste. 🧬
 Por eso hay miedos al dinero que ni siquiera son tuyos.
-Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al LIVE GRATIS · miércoles 25 · 8 PM (CDMX).
+Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al LIVE GRATIS · miércoles 25 · 11 AM (CDMX).
 Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA.
 Mabel Soriano · BNQ Method™
 
@@ -159,13 +159,13 @@ Mabel Soriano · BNQ Method™
 "Pero ojo: si cambias tu energía y tu subconsciente sigue en escasez, se apaga. Por eso en el live los hackeamos en simultáneo."
 
 **CIERRE FIJO:**
-"Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al live gratis del miércoles 25 a las 8 PM.
+"Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al live gratis del miércoles 25 a las 11 AM.
 Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA. Mabel Soriano · BNQ Method™."
 
 **Caption:**
 Lo que aprendiste no lo elegiste. Lo que heredaste, tampoco. Pero tu energía es 100% tuya. ⚡
 ¿Cuál de las 3 fugas tienes tú? Te leo 👇
-Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al LIVE GRATIS · miércoles 25 · 8 PM (CDMX).
+Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al LIVE GRATIS · miércoles 25 · 11 AM (CDMX).
 Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA.
 Mabel Soriano · BNQ Method™
 
@@ -210,14 +210,14 @@ Mabel Soriano · BNQ Method™
 "Soy Mabel Soriano, creadora de BNQ Method™ y autora de Las Fórmulas Cuánticas para Hackear la Matrix. Mi misión es activar tu consciencia, hackearla y reprogramarla con mi Método BNQ para que cambies de realidad."
 
 **CIERRE FIJO:**
-"Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al live gratis del miércoles 25 a las 8 PM.
+"Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al live gratis del miércoles 25 a las 11 AM.
 Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA. Mabel Soriano · BNQ Method™."
 
 **Caption:**
 Subconsciente (lo aprendiste) + memoria celular (la heredaste) + energía (es 100% tuya).
 Si hackeas solo uno, los otros dos te regresan. Se hackean EN SIMULTÁNEO.
 Mañana te enseño cómo, en vivo y gratis.
-Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al LIVE GRATIS · miércoles 25 · 8 PM (CDMX).
+Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al LIVE GRATIS · miércoles 25 · 11 AM (CDMX).
 Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA.
 Mabel Soriano · BNQ Method™
 
@@ -228,12 +228,12 @@ Mabel Soriano · BNQ Method™
 
 ---
 
-## VIDEO 5 · Miércoles 25 · 7 PM · RECORDATORIO "HOY 8 PM"
+## VIDEO 5 · Miércoles 25 · 7 PM · RECORDATORIO "HOY 11 AM"
 **Formato:** FAMOSO + AUTORIDAD (corto y con urgencia real) · **Duración:** 60-75 s
 ⚠️ Sale a las 7 PM: el live es en 1 hora. Revisar ManyChat y mensajes en cuanto se publique.
 
 **TÍTULO EN PANTALLA:**
-**HOY 8 PM: HACKEAMOS TU DINERO EN VIVO**
+**HOY 11 AM: HACKEAMOS TU DINERO EN VIVO**
 
 **HOOK (1a frase):**
 "En una hora vamos a hackear tus bloqueos con el dinero, en vivo y gratis."
@@ -254,11 +254,11 @@ Mabel Soriano · BNQ Method™
 *Hoy me presento a mi abundancia. Hoy activo, hoy repito, hoy instalo.*"
 
 **CIERRE FIJO:**
-"Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al live gratis del miércoles 25 a las 8 PM.
+"Escríbeme ABUNDANCIA por mensaje y te mando tu lugar al live gratis del miércoles 25 a las 11 AM.
 Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA. Mabel Soriano · BNQ Method™."
 
 **Caption:**
-🔴 HOY · 8 PM (CDMX) · LIVE GRATIS
+🔴 HOY · 11 AM (CDMX) · LIVE GRATIS
 Hackea tus bloqueos con el dinero en simultáneo: subconsciente · memoria celular · energía.
 Escríbeme ABUNDANCIA por mensaje y te mando tu lugar. Solo entran las registradas.
 Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA.

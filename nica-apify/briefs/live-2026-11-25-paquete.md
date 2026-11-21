@@ -1,4 +1,4 @@
-# PAQUETE DEL LIVE GRATIS · miércoles 25 de noviembre · 8:00 PM
+# PAQUETE DEL LIVE GRATIS · miércoles 25 de noviembre · 11:00 AM
 **Campaña:** Hackeo Simultáneo (aprobada por Mabel, 20-nov 10:30)
 **Agente:** Embudos · 20-nov-2026 · **TODO ES BORRADOR** (nada enviado, nada publicado, nada creado en Brevo ni en ManyChat)
 **Revisión de textos:** pendiente del copywriter antes de publicar.
@@ -8,7 +8,7 @@
 | Dato | Valor |
 |---|---|
 | Live | **LIVE GRATIS · Hackea tus bloqueos con el dinero en simultáneo** |
-| Fecha y hora | **miércoles 25 de noviembre · 8:00 PM** (hora CDMX / Monterrey) |
+| Fecha y hora | **miércoles 25 de noviembre · 11:00 AM** (hora CDMX / Monterrey) |
 | Dónde | Zoom privado. El link de Zoom solo se manda por Avisos y en el grupo del live. |
 | Registro | **Entrar al grupo de WhatsApp del live:** https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm (dentro de la comunidad "Las Fórmulas Cuánticas · Comunidad BNQ") |
 | Regla del registro | **Nunca agregar personas a mano** (causa suspensiones). Siempre se manda el link por chat 1 a 1, ManyChat, Avisos o correo. **Nunca en el anuncio de Meta.** |
@@ -44,7 +44,7 @@ Huecos por llenar: `[LINK_ZOOM]` `[TESTIMONIO REAL]` `[LINK_REDES]`
 ### Descripción del grupo + mensaje fijado (bienvenida)
 ¡Bienvenida! Ya tienes tu lugar.
 Este grupo es para el LIVE GRATIS · Hackea tus bloqueos con el dinero en simultáneo.
-Miércoles 25 de noviembre · 8:00 PM (hora CDMX) · por Zoom privado.
+Miércoles 25 de noviembre · 11:00 AM (hora CDMX) · por Zoom privado.
 
 Vas a entender por qué tus bloqueos con el dinero no están en un solo lugar:
 - tu subconsciente, que aprendiste de niña;
@@ -67,7 +67,7 @@ Te acabo de escribir por mensaje. Revísalo.
 
 **Mensaje 1 (al instante, por DM):**
 Hola, {{first_name}}. Qué bueno que comentaste ABUNDANCIA.
-Este miércoles 25 de noviembre a las 8:00 PM (hora CDMX) hago un LIVE GRATIS por Zoom: "Hackea tus bloqueos con el dinero en simultáneo".
+Este miércoles 25 de noviembre a las 11:00 AM (hora CDMX) hago un LIVE GRATIS por Zoom: "Hackea tus bloqueos con el dinero en simultáneo".
 Tu lugar se aparta entrando al grupo de WhatsApp del live:
 https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm
 Ahí te mando el link de Zoom el mismo miércoles.
@@ -75,7 +75,7 @@ Ahí te mando el link de Zoom el mismo miércoles.
 **Mensaje 2 (recordatorio, SOLO si no dio clic):**
 > Ajuste técnico: Instagram solo deja escribir dentro de las 24 h después de su último mensaje. Programarlo a las **23 h**, no a las 24 h.
 
-{{first_name}}, ¿lo viste? El live es este miércoles 25 a las 8:00 PM (hora CDMX).
+{{first_name}}, ¿lo viste? El live es este miércoles 25 a las 11:00 AM (hora CDMX).
 Vas a ver por qué tus bloqueos con el dinero viven en 3 lugares al mismo tiempo, y cómo se hackean en simultáneo.
 Entra al grupo aquí para no perdértelo:
 https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm
@@ -106,7 +106,7 @@ Es porque tu bloqueo con el dinero vive en **3 lugares al mismo tiempo**:
 
 Si trabajas solo uno, los otros dos lo jalan de regreso. Por eso con el Método BNQ los hackeamos **en simultáneo**, y cada problema se resuelve con una Fórmula Cuántica.
 
-El **miércoles 25 de noviembre a las 8:00 PM (hora CDMX)** te lo enseño en un **LIVE GRATIS por Zoom**: "Hackea tus bloqueos con el dinero en simultáneo". Y vas a vivir conmigo una probadita.
+El **miércoles 25 de noviembre a las 11:00 AM (hora CDMX)** te lo enseño en un **LIVE GRATIS por Zoom**: "Hackea tus bloqueos con el dinero en simultáneo". Y vas a vivir conmigo una probadita.
 
 Tu lugar se aparta entrando al grupo de WhatsApp del live. Ahí te mando el link de Zoom el miércoles.
 **[Entrar al grupo del live]** → https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm
@@ -165,7 +165,7 @@ Todos cierran con la firma oficial. Del 21 al 25: **sin precio**. 26 y 27: con p
 
 ### Aviso 1 · sábado 21 · (sugerido 6:00 PM)
 Tengo algo para ti.
-El **miércoles 25 de noviembre a las 8:00 PM (hora CDMX)** hago un **LIVE GRATIS por Zoom: Hackea tus bloqueos con el dinero en simultáneo.**
+El **miércoles 25 de noviembre a las 11:00 AM (hora CDMX)** hago un **LIVE GRATIS por Zoom: Hackea tus bloqueos con el dinero en simultáneo.**
 
 Tu bloqueo con el dinero vive en 3 lugares a la vez: tu subconsciente (lo aprendiste de niña), tu memoria celular (esa sí se hereda) y tu energía (100% tuya). Si trabajas solo uno, los otros dos lo jalan de regreso.
 En el live te enseño a hackear los 3 al mismo tiempo.
@@ -180,7 +180,7 @@ Mabel Soriano · BNQ Method™
 Faltan 2 días.
 Una pregunta para ti: ¿cuántas veces has empezado de nuevo con el dinero y terminas en el mismo lugar?
 No es falta de ganas. Es que tu subconsciente, tu memoria celular y tu energía siguen jalando hacia lo de antes.
-Este **miércoles 25 a las 8:00 PM (hora CDMX)**, live gratis por Zoom, te enseño a hackear los 3 en simultáneo, con una Fórmula Cuántica.
+Este **miércoles 25 a las 11:00 AM (hora CDMX)**, live gratis por Zoom, te enseño a hackear los 3 en simultáneo, con una Fórmula Cuántica.
 
 Si todavía no estás en el grupo del live, entra aquí:
 https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm
@@ -190,7 +190,7 @@ Mabel Soriano · BNQ Method™
 
 ### Aviso 3 · miércoles 25 · 10:00 AM
 Hoy es el día.
-**A las 8:00 PM (hora CDMX)** nos vemos en Zoom: Hackea tus bloqueos con el dinero en simultáneo.
+**A las 11:00 AM (hora CDMX)** nos vemos en Zoom: Hackea tus bloqueos con el dinero en simultáneo.
 
 Ten lista:
 1. Una libreta y una pluma.
@@ -410,7 +410,7 @@ Soy Mabel Soriano · BNQ Method™."
 | 1 | Nombre del live igual en todas las piezas | LISTO | — |
 | 2 | Concepto Hackeo Simultáneo (subconsciente aprendido · memoria celular heredada · energía 100% tuya · Fórmula Cuántica) | LISTO | Revisión del copywriter |
 | 3 | Sin "Herencia Invisible" ni "3 programas heredados" | LISTO | — |
-| 4 | Fecha del live (mié 25 · 8 PM) igual en grupo, ManyChat, correo 1, Avisos 1-5 y guion | LISTO | — |
+| 4 | Fecha del live (mié 25 · 11 AM) igual en grupo, ManyChat, correo 1, Avisos 1-5 y guion | LISTO | — |
 | 5 | Cierre (vie 27 · 11:59 PM) y hipnosis (dom 29 · 11 AM) iguales en correos 2-3, Avisos 6-7 y guion | LISTO | — |
 | 6 | Link del grupo (registro) en ManyChat, correo 1, Avisos 1-3 y cierre fijo de correos | LISTO | Probar un clic (que abra el grupo correcto) |
 | 7 | Link oficial Hotmart en correos 2-3, Avisos 6-7 y guion | LISTO | Probar un clic (que salga $500) |

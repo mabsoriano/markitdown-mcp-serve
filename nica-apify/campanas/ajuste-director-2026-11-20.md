@@ -7,7 +7,7 @@
 3. **Domingo con compradoras:** la hipnosis completa SOLO se hace si hay compradoras de esa semana. Ahí se ofrece el siguiente escalón: **Membresía NeurohackersVIP · $555 al mes** (mabradiante.com/neurohackers, confirmar link de pago con Mabel). Los $7,500 (Recorrido) solo más adelante, a quien ya pasó por VIP.
 
 ## Lo que NO cambia
-- Campaña Hackeo Simultáneo: live gratis Zoom miércoles 25 · 8 PM para gente NUEVA, compra antes del vie 27 · 11:59 PM, hipnosis completa dom 29 · 11 AM solo compradoras. Palabra única: ABUNDANCIA. Link: https://pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10
+- Campaña Hackeo Simultáneo: live gratis Zoom miércoles 25 · 11 AM para gente NUEVA, compra antes del vie 27 · 11:59 PM, hipnosis completa dom 29 · 11 AM solo compradoras. Palabra única: ABUNDANCIA. Link: https://pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10
 - Nunca pedir el link de Zoom (Mabel lo comparte). Nunca encuestas. Sin precio en avisos de live.
 - Firma: "Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA." / Mabel Soriano · BNQ Method™
 - La pauta va a mujeres Y hombres.

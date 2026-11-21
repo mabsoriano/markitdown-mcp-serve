@@ -8,7 +8,7 @@ Mabel: todo esto es para copiar y pegar. Tú decides qué se manda y cuándo. Lo
 **Datos que usan estos mensajes (verificados en el brief del 20-nov):**
 - Link de compra (oficial): https://pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10 · $500 + impuestos · garantía Hotmart 7 días.
 - Grupo del live gratis Zoom (registro): https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm
-- Live gratis Zoom: miércoles 25 nov · 8 PM (Monterrey/CDMX). El link de Zoom lo compartes tú en el grupo.
+- Live gratis Zoom: miércoles 25 nov · 11 AM (Monterrey/CDMX). El link de Zoom lo compartes tú en el grupo.
 - Compra antes del viernes 27 nov · 11:59 PM → regalo: hipnosis completa en vivo el domingo 29 nov · 11 AM, solo compradoras.
 - TikTok LIVE: sábado 21 y martes 24 · 8:30 PM (propuesta del Director, falta tu OK).
 - Concepto: el subconsciente **se aprende** (lo que escuchaste en casa) · la memoria celular **se hereda** · la energía es **100% tuya**. El Método BNQ los hackea en simultáneo.
@@ -35,7 +35,7 @@ Mabel: todo esto es para copiar y pegar. Tú decides qué se manda y cuándo. Lo
 **Mensaje 3 (si dice que sí). Opción según lo que le dolió:**
 - Si habló de energía, cansancio o sentirse drenada → producto de chakras: "Corte de Fugas Energéticas y Activación de tus 7 Chakras" · $499 + impuestos · link: [LINK_CHAKRAS].
 - Si habló de dinero, deudas o "nunca me alcanza" → invitación al live gratis del miércoles 25:
-> Este miércoles 25 a las 8 PM hago un live gratis por Zoom: "Hackea tus bloqueos con el dinero en simultáneo". Vemos por qué el dinero se te escapa desde 3 lugares: lo que aprendiste de niña, lo que heredaste en tus células y tu energía, que es 100% tuya.
+> Este miércoles 25 a las 11 AM hago un live gratis por Zoom: "Hackea tus bloqueos con el dinero en simultáneo". Vemos por qué el dinero se te escapa desde 3 lugares: lo que aprendiste de niña, lo que heredaste en tus células y tu energía, que es 100% tuya.
 > Aquí entras al grupo y ahí te comparto todo: https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm
 
 **Si no contesta en 48 h:** no insistir. Se queda en la comunidad.
@@ -71,7 +71,7 @@ Nota: guarda cada audio con su permiso escrito (captura del chat). Solo esos se 
 | Cuentan su dolor ("nunca me alcanza", "todo se me va") | "No eres tú, es un programa. Ese programa se aprendió, y lo que se aprendió se puede reprogramar." |
 | "¿Cómo lo compro?" / "Yo quiero" | "Comenta ABUNDANCIA y te escribo por mensaje. El link también está en mi perfil." |
 | "¿Esto es hipnosis?" | "Es una activación con mi Método BNQ: trabajamos subconsciente, memoria celular y energía al mismo tiempo." |
-| "¿Hay repetición?" | "Hoy es en vivo. Este miércoles 25 a las 8 PM hago un live gratis por Zoom; comenta ABUNDANCIA y te mando el grupo." |
+| "¿Hay repetición?" | "Hoy es en vivo. Este miércoles 25 a las 11 AM hago un live gratis por Zoom; comenta ABUNDANCIA y te mando el grupo." |
 | Duda o burla | No discutir. "Aquí todas las preguntas son bienvenidas 💛" y seguir. |
 
 **B. A quien escribe ABUNDANCIA por DM:**
@@ -85,7 +85,7 @@ DM 1 (pregunta primero, sin link):
 DM 2 (cuando conteste). Dos caminos:
 - **Si todavía no está lista o quiere saber más → live gratis:**
 > Esa frase se te grabó en el subconsciente, y no es tu culpa: lo aprendiste antes de poder elegir.
-> El miércoles 25 a las 8 PM hago un live gratis por Zoom: "Hackea tus bloqueos con el dinero en simultáneo". Entra a este grupo y ahí te comparto todo: https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm
+> El miércoles 25 a las 11 AM hago un live gratis por Zoom: "Hackea tus bloqueos con el dinero en simultáneo". Entra a este grupo y ahí te comparto todo: https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm
 - **Si dice "quiero comprar" o "¿dónde lo pago?" → link de compra:**
 > Aquí está: Programa la Riqueza mientras Duermes · $500 + impuestos 👉 https://pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10
 > Tiene garantía de Hotmart de 7 días. Y si compras antes del viernes 27 a las 11:59 PM, te regalo la hipnosis completa en vivo el domingo 29 a las 11 AM, solo para compradoras.
@@ -98,7 +98,7 @@ DM 2 (cuando conteste). Dos caminos:
 
 **"No tengo dinero"**
 > Te entiendo, de verdad. Y fíjate: "no tengo dinero" es justo una de las frases que se graban en el subconsciente. No eres tú, es un programa.
-> Si hoy no es el momento, no pasa nada. Entra gratis al live del miércoles 25 a las 8 PM y empieza por ahí: https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm
+> Si hoy no es el momento, no pasa nada. Entra gratis al live del miércoles 25 a las 11 AM y empieza por ahí: https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm
 
 **"¿Sí funciona?"**
 > Es una pregunta muy válida. Yo no te puedo prometer resultados, porque cada persona trae su historia. Lo que sí te digo: trabajamos en simultáneo los 3 niveles (lo que aprendiste, lo que heredaste y tu energía), y lo que se repite se instala.

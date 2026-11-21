@@ -10,7 +10,7 @@ author: "NICA · Mabel Soriano · BNQ Method™"
 **Título del live:** Hackea tus bloqueos con el dinero en simultáneo.
 **Concepto (no se cambia):** subconsciente = se aprende (desde niña, en casa) · memoria celular = se hereda · energía = 100% tuya.
 **Reglas de estos avisos:** sin precio, sin @, palabra única ABUNDANCIA, firma completa en captions.
-**En el live:** "el link está en mi perfil" y "comenta ABUNDANCIA". También se invita al live de Zoom del miércoles 25 · 8 PM.
+**En el live:** "el link está en mi perfil" y "comenta ABUNDANCIA". También se invita al live de Zoom del miércoles 25 · 11 AM.
 
 **Horarios de los avisos (hora Monterrey / CDMX):**
 | Aviso | Sábado 21 | Martes 24 |
@@ -18,7 +18,7 @@ author: "NICA · Mabel Soriano · BNQ Method™"
 | Historia 3-4 h antes | 5:00 PM | 5:00 PM |
 | Video del día (ya programado, con cierre ajustado) | 7:00 PM | 7:00 PM |
 | Video aviso corto (12-15 s, con el arte) | 7:30 PM | 7:30 PM |
-| Historia 30 min antes | 8:00 PM | 8:00 PM |
+| Historia 30 min antes | 11:00 AM | 11:00 AM |
 | LIVE | 8:30 PM | 8:30 PM |
 
 Arte de aviso (muestra 9:16, sirve para los dos días porque dice "HOY"): `/home/user/TIKTOK-LIVE-AVISO-9x16.jpg` · generador `live/artes_tiktok_live_2026-11-21.py` (reutiliza el del live del 25).
@@ -37,7 +37,7 @@ Arte de aviso (muestra 9:16, sirve para los dos días porque dice "HOY"): `/home
 
 Sticker sugerido: cuenta regresiva "LIVE 8:30 PM" (Instagram) · en TikTok, texto encima.
 
-**Historia 30 min antes (8:00 PM)**
+**Historia 30 min antes (11:00 AM)**
 > En 30 minutos estoy EN VIVO en TikTok 🔴
 > Hoy hackeamos tus bloqueos con el dinero en los 3 niveles, al mismo tiempo.
 > Entra, saluda y comenta ABUNDANCIA.
@@ -59,7 +59,7 @@ Archivo: `guiones/2026-11-21_hackeo-simultaneo-5-videos.md`. Todo queda igual; *
 
 **CIERRE NUEVO (versión TikTok):**
 > "Comenta ABUNDANCIA, y hoy a las 8:30 PM te espero en vivo aquí en TikTok.
-> Y si quieres tu lugar al live gratis del miércoles 25 a las 8 PM, escríbeme ABUNDANCIA por mensaje.
+> Y si quieres tu lugar al live gratis del miércoles 25 a las 11 AM, escríbeme ABUNDANCIA por mensaje.
 > Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA. Mabel Soriano · BNQ Method™."
 
 **Versión Reels / Facebook / Shorts:** se usa el mismo cierre, cambiando "aquí en TikTok" por "en mi TikTok".
@@ -87,7 +87,7 @@ Archivo: `guiones/2026-11-21_hackeo-simultaneo-5-videos.md`. Todo queda igual; *
 > Porque tus bloqueos con el dinero viven en 3 niveles. Hoy los hackeamos en simultáneo.
 > Activa el recordatorio 💛
 
-**Historia 30 min antes (8:00 PM)**
+**Historia 30 min antes (11:00 AM)**
 > En 30 minutos estoy EN VIVO en TikTok 🔴
 > Subconsciente · memoria celular · energía, al mismo tiempo.
 > Entra y comenta ABUNDANCIA.
@@ -109,7 +109,7 @@ Todo queda igual; **solo cambia el CIERRE**.
 
 **CIERRE NUEVO (versión TikTok):**
 > "Comenta ABUNDANCIA, y hoy a las 8:30 PM te espero en vivo aquí en TikTok.
-> Y mañana miércoles 25 a las 8 PM es el live gratis: escríbeme ABUNDANCIA por mensaje y te mando tu lugar.
+> Y mañana miércoles 25 a las 11 AM es el live gratis: escríbeme ABUNDANCIA por mensaje y te mando tu lugar.
 > Lo que no se ACTIVA, no CAMBIA. Y lo que no se REPITE, no se INSTALA. Mabel Soriano · BNQ Method™."
 
 **Versión Reels / Facebook / Shorts:** mismo cierre, cambiando "aquí en TikTok" por "en mi TikTok".

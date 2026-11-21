@@ -13,7 +13,7 @@
 | Sorpresa al pagar | Activaciones Robóticas Millonarias · +$199 |
 | Garantía | 7 días de Hotmart |
 | Palabra única | **ABUNDANCIA** |
-| Invitación | LIVE GRATIS · Hackea tus bloqueos con el dinero en simultáneo · **miércoles 25 · 8:00 PM** |
+| Invitación | LIVE GRATIS · Hackea tus bloqueos con el dinero en simultáneo · **miércoles 25 · 11:00 AM** |
 
 ## Reglas de oro (pégalas junto al celular)
 1. **A los 20:00 va la oferta**, aunque vayas atrasada.
@@ -24,8 +24,8 @@
 6. Quien te ayude (o tú, con una captura de pantalla) anota los nombres de quienes comentan **ABUNDANCIA** para mandarles el mensaje privado al terminar.
 
 **Qué cambia entre los dos días:**
-- **Sábado 21:** "el live privado es **este miércoles 25** a las 8 de la noche".
-- **Martes 24:** "el live privado es **mañana miércoles** a las 8 de la noche".
+- **Sábado 21:** "el live privado es **este miércoles 25** a las 11 de la mañana".
+- **Martes 24:** "el live privado es **mañana miércoles** a las 11 de la mañana".
 
 ---
 
@@ -119,7 +119,7 @@ Y tienes **7 días de garantía** de Hotmart.
 **30:00 · Testimonio real:** "Te leo lo que me escribió una de las mujeres que ya lo vivió: [TESTIMONIO REAL CON PERMISO · nombre o iniciales]."
 
 **33:00 · INVITACIÓN AL LIVE PRIVADO DEL MIÉRCOLES 25:**
-"Y si todavía no estás lista, te invito a mi **live privado gratis** del miércoles [sábado: 'este miércoles 25' · martes: 'mañana miércoles'] a las **8 de la noche**: **Hackea tus bloqueos con el dinero en simultáneo**. Ahí vamos más a fondo con tus tres niveles.
+"Y si todavía no estás lista, te invito a mi **live privado gratis** del miércoles [sábado: 'este miércoles 25' · martes: 'mañana miércoles'] a las **11 de la mañana**: **Hackea tus bloqueos con el dinero en simultáneo**. Ahí vamos más a fondo con tus tres niveles.
 
 Para entrar, **comenta ABUNDANCIA** y te mando por mensaje cómo entrar. Sígueme, para que te llegue mi mensaje."
 
@@ -132,7 +132,7 @@ Para entrar, **comenta ABUNDANCIA** y te mando por mensaje cómo entrar. Síguem
 
 Dos caminos:
 Si ya quieres instalarlo: **el link está en mi perfil**, y nos vemos el domingo 29.
-Si quieres ver más primero: **comenta ABUNDANCIA** y nos vemos el miércoles a las 8 de la noche en mi live privado.
+Si quieres ver más primero: **comenta ABUNDANCIA** y nos vemos el miércoles a las 11 de la mañana en mi live privado.
 
 Gracias por estar aquí.
 
@@ -147,7 +147,7 @@ Soy Mabel Soriano · BNQ Method™."
 *(Se manda por mensaje privado 1 a 1. Nunca en público. Nunca agregar a nadie a mano al grupo.)*
 
 > Hola, [nombre]. Gracias por comentar ABUNDANCIA en mi live.
-> El miércoles 25 de noviembre a las 8:00 PM (hora CDMX) hago mi LIVE GRATIS: "Hackea tus bloqueos con el dinero en simultáneo".
+> El miércoles 25 de noviembre a las 11:00 AM (hora CDMX) hago mi LIVE GRATIS: "Hackea tus bloqueos con el dinero en simultáneo".
 > Tu lugar se aparta entrando al grupo del live:
 > https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm
 > Ahí te mando el link de Zoom el mismo miércoles.
@@ -165,7 +165,7 @@ Soy Mabel Soriano · BNQ Method™."
 | Oferta a los 20:00 con precio, cierre vie 27 11:59 PM, regalo dom 29 11 AM, order bump, garantía | LISTO |
 | "El link está en mi perfil" y "comenta ABUNDANCIA" (palabra única) | LISTO |
 | Link del grupo solo por mensaje privado (nunca dicho en el live) | LISTO |
-| Invitación al live del mié 25 · 8 PM (variante sábado y martes) | LISTO |
+| Invitación al live del mié 25 · 11 AM (variante sábado y martes) | LISTO |
 | Concepto BNQ y slogan completo | LISTO |
 | Confirmar fechas sáb 21 y mar 24 · 8:30 PM | FALTA · Mabel |
 | Link oficial de Hotmart en el perfil de TikTok (Linktree o bio) | FALTA · Mabel revisa que esté |

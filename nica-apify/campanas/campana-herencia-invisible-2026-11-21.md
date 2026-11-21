@@ -25,7 +25,7 @@
 5. **La gran idea** (copywriter): el Método BNQ hackea tus bloqueos con el dinero EN SIMULTÁNEO: subconsciente (lo que aprendiste desde niña), memoria celular (lo que heredaste) y energía (100% tuya), con una Fórmula Cuántica para cada problema. Y "La Reprogramación de Medianoche": 8 horas, 21 noches, mientras tu mente no discute.
 
 ## 3. El camino de la clienta (embudo)
-**Video/anuncio** → escribe **ABUNDANCIA** por mensaje (TikTok: ManyChat; IG: tú) → **se registra** al live gratis (formulario Brevo: nombre, correo, WhatsApp) → entra al **grupo de WhatsApp** → **LIVE miércoles 25 · 8 PM** ("Hackea tus bloqueos con el dinero en simultáneo", solo probadita) → **oferta** con fecha real → **checkout Hotmart** (landing nueva) → **seguimiento** a quien no compró → **hipnosis completa domingo 29** (compradoras) → **testimonios** nuevos.
+**Video/anuncio** → escribe **ABUNDANCIA** por mensaje (TikTok: ManyChat; IG: tú) → **se registra** al live gratis (formulario Brevo: nombre, correo, WhatsApp) → entra al **grupo de WhatsApp** → **LIVE miércoles 25 · 11 AM** ("Hackea tus bloqueos con el dinero en simultáneo", solo probadita) → **oferta** con fecha real → **checkout Hotmart** (landing nueva) → **seguimiento** a quien no compró → **hipnosis completa domingo 29** (compradoras) → **testimonios** nuevos.
 
 ## 4. Audiencia
 - **Caliente (primero, gratis):** tus 74K de TikTok, 1,123 correos, ~130 WhatsApp, personas del live del 10-nov.
@@ -64,7 +64,7 @@
 | **Lun 23** | Mensaje 1 a 1 a las 10 del live del 10-nov | WhatsApp | Texto listo | Closer | Mandar 10 mensajes | $0 |
 | **Mié 25 · 10 AM** | Recordatorio | Correo + WhatsApp | Correo 2 + WhatsApp | Embudos | OK | $0 |
 | **Mié 25 · 7 PM** | "Empezamos en 1 hora" | WhatsApp (+correo si apruebas) | Mensaje | Embudos | OK | $0 |
-| **Mié 25 · 8 PM** | 🔴 **LIVE** (probadita + oferta) | Zoom | Guion de cierre (palabras exactas) | Embudos + Copywriter | **Dar el live (45-60 min)** | $0 |
+| **Mié 25 · 11 AM** | 🔴 **LIVE** (probadita + oferta) | Zoom | Guion de cierre (palabras exactas) | Embudos + Copywriter | **Dar el live (45-60 min)** | $0 |
 | **Jue 26** | Testimonio + oferta / retargeting | Correo, WhatsApp, Meta | Correo 4 + arte testimonios | Embudos + Trafficker | OK | ~$72 |
 | **Jue 26 → Vie 27** | Mensaje 1 a 1 a asistentes y a quien llegó al pago sin comprar | WhatsApp, DM | Guiones | Closer | 30 min | $0 |
 | **Vie 27** | ⏰ Último día (11:59 PM) | Todo | Correo 5 + historias + video | Todos | Historia a cámara de 15 s | ~$72 |
