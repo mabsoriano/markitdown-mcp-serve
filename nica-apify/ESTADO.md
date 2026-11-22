@@ -1,9 +1,17 @@
 # 🧭 ESTADO DEL NEGOCIO · tablero compartido del equipo de Mabel
 > **Todos los agentes (NICA, estratega, productor) LEEN este archivo PRIMERO y lo ACTUALIZAN AL TERMINAR.**
 > Si algo aquí contradice un brief viejo, **manda este archivo**. Una sola fuente de verdad.
-> Última actualización: 16-nov-2026 · Estratega
+> Última actualización: 22-nov-2026 · NICA (estado que dio Mabel al 21-nov)
 
 ## 🎯 FOCO ACTUAL (no cambiar sin OK de Mabel)
+**LIVE GRATIS · miércoles 25 nov, 11:00 AM** (pauta Meta corriendo, $120/día).
+- Oferta del live: **por confirmar con Mabel** (qué se vende y a qué precio).
+- **Pendiente clave:** bono para las primeras 5 compradoras del live.
+- Comunidad (WhatsApp): Activaciones Robóticas con **cupón COMUNIDAD (20%)**. Checkout por armar.
+- Kundalini: se vende **por WhatsApp, sin precio en anuncios**. Pauta pendiente: video V1 listo; V2 cuando Mabel suba los videos de activados.
+- Riqueza mientras Duermes: cerró sáb 21 nov; hipnosis Zoom compradores dom 22, 11 AM. Ventas: s/d.
+
+## 🗄️ FOCO ANTERIOR (cerrado 21-nov)
 **Campaña activa: PROGRAMA LA RIQUEZA MIENTRAS DUERMES · Buen Fin extendido**
 - Producto: audio de activación de 8 h para dormir 21 noches + Fórmula CEI™ + Fórmula ADN + Fórmula para desbloquear la riqueza.
 - Precio: **$500 + impuestos (antes $1,200, precio real)**.
@@ -31,6 +39,10 @@
 - Siguiente paso DESPUÉS del 22 nov (no antes): siguiente LIVE con página de registro propia y oferta grande (por definir con Mabel).
 
 ## ⏳ PENDIENTES ABIERTOS (quién)
+0. **Mabel + NICA · Bono para las primeras 5 compradoras del live 25 nov** (y confirmar la oferta del live).
+0b. Mabel · Armar checkout de Robóticas con cupón COMUNIDAD (20%).
+0c. Mabel · Subir videos de activados → NICA arma V2 y se prende pauta Kundalini.
+0d. Mabel · Ventas de Riqueza mientras Duermes (Hotmart `src=meta_riqueza`).
 1. Mabel · Generar Arte 1 "El Linaje" en Grok (`briefs/artes-riqueza-grok-2026-11-16.md`).
 2. Mabel · Subir límite de gasto en Meta a $1,500.
 3. ~~Estratega · Brief semana 16-22 nov alineado a este foco.~~ ✅ Hecho 16-nov (`briefs/brief-semana-2026-11-16.md`).
@@ -46,6 +58,9 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **22-nov · NICA:** actualicé el tablero con el estado de Mabel al 21-nov: LIVE gratis mié 25, 11 AM (Meta $120/día),
+  Robóticas con cupón COMUNIDAD 20% (checkout pendiente), Kundalini por WhatsApp (pauta pendiente, V1 listo).
+  Siguiente: definir bono de las primeras 5 compradoras (falta confirmar la oferta del live).
 - **16-nov · Estratega:** brief 16-22 nov listo: `briefs/brief-semana-2026-11-16.md` y `.xlsx`. Foco SOLO Riqueza
   mientras Duermes ($500, cierre sáb 21 11:59 PM, hipnosis Zoom dom 22 11 AM); venta mar 17, jue 19 y sáb 21 (1 de 3 piezas).
   Plan 90 días solo como tabla "después del 22 nov, a definir con Mabel" (sin producto ni precio). LIVE propuesto: mar 8 dic.
