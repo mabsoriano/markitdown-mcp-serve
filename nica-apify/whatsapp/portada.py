@@ -13,7 +13,7 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 AQUI = Path(__file__).parent
-BASE = AQUI / "base-portada.jpg"
+BASE = AQUI.parent / "marca" / "base-portada-real.jpg"  # foto real de Mabel (aprobada 24-oct)
 SERIF = "/usr/share/fonts/truetype/liberation/LiberationSerif-Bold.ttf"
 N = 1024                       # se trabaja al tamaño de la base y se reduce a 800
 TOPE, PIE = 315, 700           # zona del título (0..TOPE) y del pie (PIE..N)
