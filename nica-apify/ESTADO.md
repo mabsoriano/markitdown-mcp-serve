@@ -1,10 +1,12 @@
 # 🧭 ESTADO DEL NEGOCIO · tablero compartido del equipo de Mabel
 > **Todos los agentes (NICA, estratega, productor) LEEN este archivo PRIMERO y lo ACTUALIZAN AL TERMINAR.**
 > Si algo aquí contradice un brief viejo, **manda este archivo**. Una sola fuente de verdad.
-> Última actualización: 22-nov-2026 · NICA (estado que dio Mabel al 21-nov)
+> Última actualización: 23-nov-2026 · NICA
 
 ## 🎯 FOCO ACTUAL (no cambiar sin OK de Mabel)
-**LIVE GRATIS · miércoles 25 nov, 11:00 AM** (pauta Meta corriendo, $120/día).
+**LIVE GRATIS · DOMINGO 29 nov, 11:00 AM** (antes mié 25; cambió 23-nov). Pauta Meta $120/día.
+- **Nuevo ritmo (Mabel, 23-nov):** LIVES siempre en **domingo 11 AM**. Se pauta toda la semana (lun-sáb) para juntar registros. Cada domingo también da la sesión en vivo a quienes compraron.
+- ⚠️ Artes y video en Meta dicen 25 nov: cambiar solo la fecha a "DOMINGO 29 NOV · 11 AM".
 - Oferta del live: **por confirmar con Mabel** (qué se vende y a qué precio).
 - **Pendiente clave:** bono para las primeras 5 compradoras del live.
 - Comunidad (WhatsApp): Activaciones Robóticas con **cupón COMUNIDAD (20%)**. Checkout por armar.
@@ -39,7 +41,8 @@
 - Siguiente paso DESPUÉS del 22 nov (no antes): siguiente LIVE con página de registro propia y oferta grande (por definir con Mabel).
 
 ## ⏳ PENDIENTES ABIERTOS (quién)
-0. **Mabel + NICA · Bono para las primeras 5 compradoras del live 25 nov** (y confirmar la oferta del live).
+0a. **Mabel · Cambiar fecha en artes (Grok) y video (CapCut) y reemplazarlos en Meta HOY** (la cuenta de mabradiante no la puede editar NICA: el conector de Meta aún no está liberado).
+0. **Mabel + NICA · Bono para las primeras 5 compradoras del live 29 nov** (y confirmar la oferta del live).
 0b. Mabel · Armar checkout de Robóticas con cupón COMUNIDAD (20%).
 0c. Mabel · Subir videos de activados → NICA arma V2 y se prende pauta Kundalini.
 0d. Mabel · Ventas de Riqueza mientras Duermes (Hotmart `src=meta_riqueza`).
@@ -58,6 +61,9 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **23-nov · NICA:** Mabel movió el LIVE al **dom 29 nov 11 AM** y fijó LIVES en domingo con pauta toda la semana.
+  Las artes y el video no están en el repo y la cuenta de Meta de mabradiante sigue bloqueada para el conector:
+  le di a Mabel el prompt de Grok y los textos para cambiar solo la fecha.
 - **22-nov · NICA:** actualicé el tablero con el estado de Mabel al 21-nov: LIVE gratis mié 25, 11 AM (Meta $120/día),
   Robóticas con cupón COMUNIDAD 20% (checkout pendiente), Kundalini por WhatsApp (pauta pendiente, V1 listo).
   Siguiente: definir bono de las primeras 5 compradoras (falta confirmar la oferta del live).
