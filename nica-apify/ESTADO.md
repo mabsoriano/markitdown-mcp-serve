@@ -57,6 +57,7 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **24-nov · Director:** los registros del formulario ahora también llegan como mensaje a la bandeja de Meta (Messenger/IG, "Respuestas de anuncios"). Se aprovecha: responder en menos de 24 h con el link del grupo del live (mensaje guardado o respuesta automática). Mabel ya está respondiendo "Entra al grupo de WhatsApp…".
 - **24-nov · Trafficker (Windsor, solo lectura):** "LIVE 29 NOV · Registro" campaña, conjunto y anuncio ACTIVOS; fin del conjunto dom 29 10:00 AM ✅. 23-nov: $88.26 · 19 registros · **$4.65 c/u** ✅. No se pudo verificar arte, copy, formulario ni página puente (Windsor no los lee): falta captura de Mabel. Decisión: no mover hasta mié 26.
 - **24-nov · Director (pendientes del otro chat "Carpeta nica-apify", consolidados aquí):**
   1) Cambiar a DOM 29 · 11 AM la fecha del formulario de Meta, la página puente (sites.google.com/view/registromabradiante), el guion/bloque de venta y el fin del conjunto. 2) Bono primeras 5 (propuesta: Matriz del Destino gratis). 3) Checkout Robóticas en Hotmart (4 imágenes galaxia + contador; comunidad $400 + imp, cierra dom 29 11:59 PM). 4) Kundalini: 2 pautas ($50/día en línea MX y $50/día presencial MTY) → WhatsApp; V2 con videos de activados; checkout sin precio en anuncio. 5) Videos de Rita Funes >10 MB: pedir texto o recortes. Tablero único = rama `claude/serene-fermi-8nuak2` (ya trae quirky-hawking y friendly-carson).
