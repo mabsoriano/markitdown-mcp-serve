@@ -14,6 +14,12 @@
   - Presentarla como mapa TRADICIONAL (numerología + arcanos), no como ciencia (regla de distinguir los mapas).
   - Por definir con Mabel: precio del diagnóstico, formato (PDF, audio, video o sesión corta), quién hace el cálculo y si se ofrece desde este live o desde el siguiente.
 
+- ✅ **PRODUCTO NUEVO (Mabel, 24-nov) · "Decodificación de tu Carta Natal + Matriz del Destino: Tu Mapa Cuántico"**
+  - **Paquete (PDF): $390 + impuestos** → Carta Natal + Matriz del Destino + Protocolo CEI™.
+  - **Sesión 1 a 1 con Mabel: $2,000 + impuestos** → lo mismo del paquete + 20 min de lectura en vivo, detección de bloqueos y fugas, diagnóstico y activación simultánea en vivo + acceso gratis a la comunidad VIP.
+  - Comunidad: 20% con cupón COMUNIDAD (regla fija) → PDF $312 · sesión $1,600 (+ imp). Confirmar con Mabel.
+  - Se vende en el cierre del live dom 29 (junto al Pack de Abundancia) y por WhatsApp/correo a la comunidad. Landing Hotmart: pendiente.
+  - ⚠️ Lo acordó Mabel en el chat de videos/avatar y NO se había subido al tablero. Regla: todo chat sube sus acuerdos a ESTADO.md al terminar.
 - ✅ **OFERTA DEL LIVE DOM 29 (confirmada por Mabel, 24-nov):** hipnosis en vivo (NO completa) y al cierre vende:
   1) **Pack de Abundancia** → https://pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10&bid=1795054263134
   2) **Producto nuevo: "Decodifica tu Matriz de Origen y Destino y obtén tu Mapa Cuántico"** (precio y link por confirmar).
@@ -23,7 +29,7 @@ Diagnóstico: la pauta SÍ funciona (registros a ~$4.8). Lives diarios de TikTok
 1. **HOY mar 24 · Secuencia del grupo de registrados (WhatsApp):** bienvenida + 5 guiones de video cortos de Mabel (mié bienvenida/por qué el hackeo simultáneo · jue testimonio · vie quién soy + productos · sáb indicaciones del domingo + invita a alguien · dom 9 AM "hoy es el día"). Estilo competencia (Rita Funes / María Montemayor).
 2. **HOY-MIÉ · Contenido semana en Hootsuite:** usar guiones ya hechos por el chat NAIA (`reels/semana-2026-11-24/`: BNQ, capas bio/neuro/quantum+Matriz, CEI, hoy live) + 1 YAPPING diario en TikTok (quién soy, curiosidad, comunidad) + activaciones muestra. Copy distinto cada día.
 3. **JUE 26 · Live listo:** guion + presentación con fecha dom 29 y la oferta (Pack de Abundancia + Matriz), links revisados, bono primeras 5.
-4. **JUE-VIE · Producto Matriz de Origen y Destino / Mapa Cuántico:** arte + mensaje a comunidad (WhatsApp y correo) con 2 precios (PDF y sesión 1 a 1). FALTA: precios e "incluye" de Mabel (no están en el repo).
+4. **JUE-VIE · Producto Matriz de Origen y Destino / Mapa Cuántico:** arte + mensaje a comunidad (WhatsApp y correo) con 2 precios (PDF y sesión 1 a 1). Precios ya definidos (ver PRODUCTO NUEVO arriba).
 5. **SÁB · Landing Hotmart del producto Matriz.**
 6. **DESPUÉS del live (lun 30+):** web mabradiante.com (incongruencias + productos nuevos).
 
