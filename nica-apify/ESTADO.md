@@ -23,7 +23,7 @@
   - ⚠️ Lo acordó Mabel en el chat de videos/avatar y NO se había subido al tablero. Regla: todo chat sube sus acuerdos a ESTADO.md al terminar.
 - ✅ **OFERTA DEL LIVE DOM 29 (confirmada por Mabel, 24-nov):** hipnosis en vivo (NO completa) y al cierre vende:
   1) **Pack de Abundancia** → https://pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10&bid=1795054263134
-  2) **Producto nuevo: "Decodifica tu Matriz de Origen y Destino y obtén tu Mapa Cuántico"** (precio y link por confirmar).
+  2) **Producto nuevo: "Decodifica tu Matriz de Origen y Destino y obtén tu Mapa Cuántico"**: PDF **$390 + impuestos** · sesión 1:1 **$2,000 + impuestos** (sin descuento; link de Hotmart pendiente).
 
 ## 🚦 PRIORIDADES DEL DIRECTOR · semana 24-29 nov (meta: que se inscriban y LLEGUEN al live dom 29 y compren)
 Diagnóstico: la pauta SÍ funciona (registros a ~$4.8). Lives diarios de TikTok NO (no llega nadie) → se cambian por YAPPING y comunidad. Ventas en 0: el hueco está entre registro → asistencia → compra. Por eso lo #1 es cuidar a los registrados.
