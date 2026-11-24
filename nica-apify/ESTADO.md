@@ -57,6 +57,7 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **24-nov 7 AM · Director:** Pauta LIVE 29 (Windsor): lun 23 $120.69 · 25 registros · **$4.83 c/u** ✅ (Riqueza Buen Fin apagada desde el 21). No mover hasta mié 26. Hootsuite: los 2 borradores de anoche ya no están en borradores (Mabel los programó o publicó); nuevo borrador VIDEO del otro chat (31 s, dom 29) + copy nuevo → TikTok + YouTube Short, hoy mar 24 · 6 PM. Copy de redes rotado (Mabel: "siempre es el mismo").
 - **24-nov · NICA:** 2 borradores en Hootsuite para el LIVE 29 (mar 24 · 12 PM MX): (a) arte 4x5 → IG mabradiante + IG bioneuroblueprint + FB MabRadiante + FB Acreditaciones; (b) video 9x16 → TikTok mabradiante + YouTube Short. CTA "Comenta ABUNDANCIA", sin precio. Mabel da "Programar".
 - **24-nov · Director:** los registros del formulario ahora también llegan como mensaje a la bandeja de Meta (Messenger/IG, "Respuestas de anuncios"). Se aprovecha: responder en menos de 24 h con el link del grupo del live (mensaje guardado o respuesta automática). Mabel ya está respondiendo "Entra al grupo de WhatsApp…".
 - **24-nov · Trafficker (Windsor, solo lectura):** "LIVE 29 NOV · Registro" campaña, conjunto y anuncio ACTIVOS; fin del conjunto dom 29 10:00 AM ✅. 23-nov: $88.26 · 19 registros · **$4.65 c/u** ✅. No se pudo verificar arte, copy, formulario ni página puente (Windsor no los lee): falta captura de Mabel. Decisión: no mover hasta mié 26.
