@@ -208,3 +208,4 @@ Diagnóstico: la pauta SÍ funciona (registros a ~$4.8). Lives diarios de TikTok
 - 21-nov · Kundalini presupuesto APROBADO: EN LÍNEA todo México $50/día + PRESENCIAL solo Monterrey $50/día. Se arman cuando lleguen los 3 clips de Grok. Flujo: WhatsApp → precio en chat → link Hotmart → agenda.
 - 21-nov · Video Kundalini V1 (43 s): 3 clips de Grok (dolor → tercer ojo → Kundalini) + testimonio del joven + cierre galaxia AGENDA ABIERTA, música. ANUNCIO-KUNDALINI-PINEAL 9x16 y 4x5. Drive carpeta 1uEjFLDpPDCAxyEmugb_LWMV1GEvxxQ39: Mabel sigue subiendo videos de 'activados' para la V2.
 - 22-nov 7:13 · Director (modo ahorro): pauta live 25 sin datos todavía; hoy bloque 2 de grabación 5 PM + TikTok LIVE 7 PM.
+- 24-nov · Video Kundalini V1b (55 s): cada clip normalizado (loudnorm -14 LUFS), silencios recortados, transiciones 0.2 s, música -20 dB; 3 testimonios. Medición por tramo: -13.1/-13.2/-14.0/-13.8 LUFS (±1 LU). Pendiente OK de Mabel antes de pautar.
