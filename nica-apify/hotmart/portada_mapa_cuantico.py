@@ -17,13 +17,18 @@ halo = Image.new("L", bg.size, 0); halo.paste(mk, (x0, y0)); bg.paste((255, 190,
 bg.paste(ft, (x0, y0), mk)
 d = ImageDraw.Draw(bg)
 m.atomo(d, 360, 70, 26); d.text((400, 50), "BNQ Method™ · Mabel Soriano", font=m.F(m.SB, 32), fill=m.BLANCO)
-m.centro_oro(bg, "Tu Mapa", m.F(m.SER, 120), 120); m.centro_oro(bg, "Cuántico", m.F(m.SER, 150), 245)
 d = ImageDraw.Draw(bg)
-m.centro(d, "Carta Natal + Matriz del Destino + Protocolo CEI™", m.F(m.SB, 36), 430, m.ORO)
+def solido(t, f, y):
+    x = (W - d.textlength(t, font=f)) / 2
+    d.text((x, y), t, font=f, fill=(255, 200, 60), stroke_width=4, stroke_fill=(70, 30, 10))
+solido("OBTÉN TU", m.F(m.SER, 96), 115)
+solido("MAPA CUÁNTICO", m.F(m.SER, 116), 220)
+m.centro(d, "Con tu Carta Natal + tu Matriz del Destino", m.F(m.SB, 40), 375, m.BLANCO)
+m.centro(d, "con Numerología", m.F(m.SB, 40), 425, m.BLANCO)
 d.multiline_text((70, 540), "Descubre con qué\nprograma llegaste…", font=m.F(m.SER, 54), fill=m.BLANCO, spacing=14)
 d.multiline_text((70, 700), "y cómo reescribirlo\nen simultáneo.", font=m.F(m.SER, 54), fill=m.ORO, spacing=14)
 y = 880
-for t in ("Tus talentos y tu misión", "Dónde se fuga tu dinero", "Qué Fórmula activar primero"):
+for t in ("Tus talentos y tu misión", "Dónde se fuga tu dinero", "Recibe tu PDF y diagnóstico"):
     d.ellipse((80, y + 14, 96, y + 30), fill=m.ORO); d.text((112, y), t, font=m.F(m.SB, 36), fill=m.BLANCO); y += 58
 m.caja(d, (60, 1080, 700, 1160), gold=True)
 d.text((95, 1097), "Decodificación personalizada", font=m.F(m.B, 40), fill=(60, 25, 90))
