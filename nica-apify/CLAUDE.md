@@ -547,3 +547,40 @@ NO decir que los 3 se heredan. El Método BNQ hackea tus bloqueos con el dinero 
 2. MEMORIA CELULAR: esta sí se hereda (generaciones).
 3. ENERGÍA: es 100% tuya.
 Cada problema se resuelve con una FÓRMULA CUÁNTICA (de su libro). Título del live 25-nov: 'Hackea tus bloqueos con el dinero en simultáneo'.
+
+## REGLA: SEGMENTAR ANTES DE MANDAR (20 nov 2026)
+- Comunidad de WhatsApp = gente que YA vio lives y no compró. No se le manda la misma invitación que a gente nueva. Se le propone OTRO MODELO de oferta (ver "LO QUE YA SE PROBÓ"), nunca encuesta.
+- Live gratis con registro = para gente NUEVA (TikTok, pauta, correos que nunca han ido).
+
+## ZOOM: NO PEDIR EL LINK (Mabel, 20-nov)
+El link de Zoom lo comparte Mabel: un día antes por la tarde-noche, la mañana del live y en el momento del live. NUNCA ponerlo como pendiente ni pedirlo.
+
+## LO QUE YA SE PROBÓ CON LA COMUNIDAD (Mabel, 20-nov) · NO REPETIR
+- Encuesta de tema (hace ~1 mes): SIEMPRE gana DINERO. No volver a proponer encuesta.
+- 3 lives de dinero (27-oct, 3-nov, 10-nov; los 2 últimos "Hipnosis para hackear tus bloqueos con el dinero") + 15-nov: SE LLENAN, NADIE COMPRA (15-nov: 62 inscritos → 25 entraron → 9 al final → 0). Títulos nuevos tampoco venden.
+- Conclusión: el problema NO es el tema ni el título; es el modelo (gratis + probadita + oferta al final). El Director debe proponer modelos y temas que vendan en la industria, no encuestas.
+
+## PRECIOS VIGENTES (Mabel, 21-nov) · SIEMPRE "+ impuestos"
+- Sesión de Activación Kundalini: NO se vende por Hotmart; se agenda por WhatsApp directo. El precio NUNCA va en anuncios, copys ni videos: se dice solo cuando la persona escribe. Precio $1,500, promoción $1,200 (comunidad: preguntar a Mabel).
+- Activaciones Robóticas Millonarias: público $500 + impuestos · comunidad 20% con cupón COMUNIDAD = $400 + impuestos. Regalo: entrada a NeurohackersVIP. Link: https://hotmart.com/es/marketplace/productos/activaciones-roboticas-millonarias-10-audios-para-recibir-dinero-con-facilidad/Q108030809L
+- Programa la Riqueza mientras Duermes: $500 + impuestos.
+Todo precio que se escriba lleva "+ impuestos".
+
+## FEED VARIADO (Mabel, 21-nov: "no me gusta que se vean todas las publicaciones iguales")
+- Nunca 2 publicaciones seguidas con el mismo tipo de portada. Rotar: (1) Mabel a cámara · (2) carrusel/testimonio real · (3) arte de producto (dorada/neón) · (4) foto lifestyle de Mabel · (5) faceless problema→solución (máx. 1 de cada 4) · (6) yapping.
+- La portada (primer cuadro) de cada video se elige a propósito: la mayoría con la CARA de Mabel y luz dorada, no gente triste.
+- Banco de material de Mabel en marca/banco-mabel/ (pedirle material nuevo cada domingo).
+
+## LÍNEA GRÁFICA DE PRODUCTOS Y CHECKOUT (Mabel, 21-nov: "revisa mi línea")
+Artes de producto, checkout y anuncios de venta = SU LÍNEA DE GROK: universo morado/azul con galaxia y partículas doradas, títulos serif DORADOS con brillo, texto blanco, su foto real con halo dorado, átomo dorado, botones dorados. NO fondo crema/amarillo/café (eso queda solo para láminas del live hechas por NICA si ella lo pide). Generador: landing/checkout_roboticas_galaxia.py.
+
+## REGLA COMUNIDAD = SIEMPRE 20% (Mabel, 21-nov)
+Todo producto que se le ofrezca a la comunidad lleva SIEMPRE 20% de descuento con el cupón COMUNIDAD (precio público − 20% + impuestos). El contador de cada oferta a la comunidad sí lleva fecha real de cierre.
+
+## MODELO DE VENTA DEFINIDO POR MABEL (21-nov) · manda sobre lo anterior
+1. GENTE NUEVA (pauta): live gratis "Hipnosis para hackear tus bloqueos con el dinero" → se les da el link del PACK DE ABUNDANCIA (Programa la Riqueza mientras Duermes, $500 + impuestos).
+2. COMPRADORAS: CADA DOMINGO 11 AM live de hipnosis en vivo para todas las que compraron esa semana; se van sumando las de las semanas siguientes. Cada compradora puede tomar la hipnosis hasta 5 domingos (máximo 5) para que se instale la programación. Es parte de la oferta: "5 hipnosis en vivo conmigo".
+3. COMUNIDAD (ya está en su chat): agenda semanal con herramientas de activación para su día a día (audios, decretos, hackeos) + UN PRODUCTO DISTINTO CADA SEMANA con 20% (cupón COMUNIDAD). Objetivo: que siempre estén comprando y se queden cautivos. Semana 23-29 nov: Activaciones Robóticas Millonarias.
+
+## SIEMPRE DESDE EL DOLOR Y EL BENEFICIO (Mabel, 21-nov)
+Todo copy y guion habla primero del DOLOR que quita y del BENEFICIO que da (qué le resuelve a la persona), no solo de qué "activa". Antes de escribir, buscar si Mabel ya tiene un copy aprobado de ese producto y REUTILIZARLO (ej. Kundalini/Pineal: campanas/kundalini-siempre-activa.md).
