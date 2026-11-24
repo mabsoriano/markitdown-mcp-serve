@@ -40,7 +40,7 @@ def partir(t, n=22):
     return r"\N".join(lineas)
 
 
-def main(guion, titulo, salida, geo="flor", fondo=FONDO):
+def main(guion, titulo, salida, geo="flor", fondo=FONDO, activar=None):
     geo_png = AQUI.parent / "marca" / f"geo-{geo}.png"
     tmp = Path(tempfile.mkdtemp())
     partes, eventos, t = [], [], 0.0
@@ -74,10 +74,12 @@ def main(guion, titulo, salida, geo="flor", fondo=FONDO):
            "Style: Titulo,Liberation Serif,74,&H0060D8F5,&H000000FF,&H00102040,&H80000000,1,0,0,0,100,100,1,0,1,5,3,8,60,60,130,1\n"
            "Style: Frase,DejaVu Sans,82,&H00FFFFFF,&H000000FF,&H00143C78,&H90000000,1,0,0,0,100,100,0,0,1,6,4,5,70,70,0,1\n"
            "Style: Firma,Liberation Serif,58,&H0060D8F5,&H000000FF,&H00102040,&H80000000,1,0,0,0,100,100,2,0,1,3,2,2,60,60,150,1\n"
+           "Style: Sub,DejaVu Sans,34,&H00FFFFFF,&H000000FF,&H00102040,&H80000000,0,0,0,0,100,100,0,0,1,2,1,2,60,60,110,1\n"
            "Style: Destello,DejaVu Sans,40,&H00A0E6FF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,0,0,0,1\n\n"
            "[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n")
     filas = [f"Dialogue: 1,{ts(0)},{ts(total)},Titulo,,0,0,0,,{ass_escape(partir(titulo.upper(), 20))}"]
-    filas.append(f"Dialogue: 1,{ts(0)},{ts(total)},Firma,,0,0,0,,@mabradiante")
+    filas.append(f"Dialogue: 1,{ts(0)},{ts(total)},Firma,,0,0,0,,{{\\pos(540,1700)}}@mabradiante")
+    filas.append(f"Dialogue: 1,{ts(0)},{ts(total)},Sub,,0,0,0,,Método BNQ™ · Las Fórmulas Cuánticas\\Npara Hackear tu Mente y la Matrix")
     # CTA fijo al final: compra en el link del perfil
     cta = r"{\an2\pos(540,1560)\fs76\c&H60D8F5&\3c&H102040&\bord5\fad(300,0)\t(0,600,\fscx108\fscy108)\t(600,1200,\fscx100\fscy100)}👉 VE AL LINK DE MI PERFIL"
     filas.append(f"Dialogue: 3,{ts(max(total - 9, 0))},{ts(total)},Frase,,0,0,0,,{cta}")
@@ -102,10 +104,17 @@ def main(guion, titulo, salida, geo="flor", fondo=FONDO):
                     "aecho=0.8:0.85:600|1200:0.35|0.25,lowpass=f=2500,afade=t=in:d=3,afade=t=out:st=%.2f:d=3,volume=0.55"
                     % max(total - 3, 0), "-ac", "2", "-c:a", "aac", "-b:a", "128k", musica], check=True)
     vf_bg, vf_ass = vf.split(",ass=")
+    act = ""
+    if activar is not None:  # ANTES gris y apagado -> destello -> ACTIVADO dorado
+        T = eventos[min(int(activar), len(eventos)-1)][0]
+        act = (f",eq=saturation=0:brightness=0.10:contrast=0.85:gamma=1.4:enable='lt(t,{T:.2f})'"
+               f",eq=saturation=1.35:brightness=0.04:enable='gte(t,{T:.2f})'"
+               f",drawbox=x=0:y=0:w=iw:h=ih:color=white@0.55:t=fill:enable='between(t,{T:.2f},{T+0.12:.2f})'"
+               f",drawbox=x=0:y=0:w=iw:h=ih:color=white@0.25:t=fill:enable='between(t,{T+0.12:.2f},{T+0.3:.2f})'")
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(fondo), "-i", wav, "-i", musica,
                     "-loop", "1", "-framerate", str(FPS), "-i", str(geo_png),
                     "-filter_complex", f"[0:v]{vf_bg}[bg];[3:v]format=rgba,scale=980:980,rotate=a='t*0.12':c=none:ow=980:oh=980[g];"
-                    f"[bg][g]overlay=x=(W-w)/2:y=(H-h)/2-60:shortest=1,ass={vf_ass}[v];[2:a]volume=0.35[m];[1:a][m]amix=inputs=2:duration=first:normalize=0[a]",
+                    f"[bg][g]overlay=x=(W-w)/2:y=(H-h)/2-60:shortest=1{act},ass={vf_ass}[v];[2:a]volume=0.35[m];[1:a][m]amix=inputs=2:duration=first:normalize=0[a]",
                     "-map", "[v]", "-map", "[a]", "-t", f"{total:.2f}", "-c:v", "libx264", "-preset", "veryfast",
                     "-pix_fmt", "yuv420p", "-r", str(FPS), "-c:a", "aac", "-b:a", "160k", "-movflags", "+faststart",
                     salida], check=True)
@@ -113,4 +122,5 @@ def main(guion, titulo, salida, geo="flor", fondo=FONDO):
 
 
 if __name__ == "__main__":
-    main(*sys.argv[1:5])  # guion titulo salida [geometria]
+    a = sys.argv[1:]
+    main(a[0], a[1], a[2], a[3] if len(a) > 3 else "flor", FONDO, a[4] if len(a) > 4 else None)  # guion titulo salida [geometria] [n_frase_activacion]
