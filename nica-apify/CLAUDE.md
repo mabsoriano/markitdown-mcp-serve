@@ -147,6 +147,10 @@ venderlos ya, igual que el Recorrido Completo: se liberan conforme se terminan.
   **DOMINGO** Mabel hace la activación/hipnosis en vivo para TODAS las que compraron en la semana. Así cada semana.
 - **Este chat (NAIA / videos 12 s) hace piezas DISTINTAS al otro chat de NICA; ambas se pautan.** No se descartan por parecerse.
 
+- **FORMATOS POR RED (Mabel, 24-nov-2026):** **YouTube** = activaciones faceless MORADAS de ~75 s
+  (`reels/reel_movimiento.py`, "repite conmigo", CTA link del perfil; en pantalla "@mabradiante", nunca "arroba").
+  **TikTok/Instagram** = videos de 12 s de Grok (dolor→solución con voz) + NAIA 15 s. Ya no morados en TikTok/IG.
+
 ## Las 10 Fórmulas (para COMUNICAR en el contenido)
 F·01 Coherencia Energética Integral (CEI™) · F·02 Programación y Elevación de
 Consciencia · F·03 Activación Glándula Pineal · F·04 Reprogramación y Control
