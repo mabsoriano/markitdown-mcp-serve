@@ -9,6 +9,7 @@
 - Artes y video con la fecha nueva: `live/artes/pauta-29/` (4x5, 9x16, 1x1 y video 9x16 de 20 s con voz). Generador: `live/arte_live_29_neon.py`.
 - Comunidad: Robóticas con cupón COMUNIDAD (20%), checkout por armar. Kundalini: pauta pendiente (V1 listo; V2 con videos de activados), se vende por WhatsApp sin precio.
 - Pendiente: bono para las primeras 5 compradoras del live.
+- 📲 **Registro al live (desde 24-nov, mientras grupos suspendidos):** botón de la página puente y respuesta guardada de Meta → WhatsApp directo del 2º número: https://wa.me/message/4NEU5THHY33GD1 (1 a 1, sin grupos).
 - 💡 **IDEA EN EVALUACIÓN (Mabel, 24-nov): MATRIZ DEL DESTINO como DIAGNÓSTICO.** Vender el diagnóstico (lectura de la Matriz con su fecha de nacimiento, foco en la zona de DINERO) → luego la oferta para desbloquearlo EN SIMULTÁNEO con el Método BNQ (subconsciente · memoria celular · energía). Bono propuesto: **las primeras 5 compradoras del live reciben su Matriz del Destino GRATIS.**
   - Cómo decirlo sin contradecir "somos creadoras de nuestra realidad": la Matriz NO es destino fijo; es el **"código de fábrica" / el programa con el que llegaste** (mapa del punto de partida). BNQ es el **hackeo** para reprogramarlo. "Tu Matriz te dice con qué programa llegaste. El Método BNQ te da el poder de reescribirlo." Nunca "tu destino ya está escrito".
   - Presentarla como mapa TRADICIONAL (numerología + arcanos), no como ciencia (regla de distinguir los mapas).
@@ -78,6 +79,7 @@ Diagnóstico: la pauta SÍ funciona (registros a ~$4.8). Lives diarios de TikTok
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **24-nov · Director:** link de registro vigente = https://wa.me/message/4NEU5THHY33GD1 (2º número, WhatsApp Business). Va en el botón de la página puente y en la respuesta guardada de Meta.
 - **24-nov · Director (corrección):** el 2º número NO está suspendido; lo suspendido son los grupos y Avisos. Plan: botón de la página puente → wa.me/<2º número>?text=QUIERO MI LUGAR. Mabel responde 1 a 1 con respuesta rápida y pide "guarda mi número". NO agregar a grupos a mano. Zoom del domingo por lista de difusión (solo llega a quien guardó el número) + correo de respaldo.
 - **24-nov · Director:** 🚨 El 2º número TAMBIÉN está suspendido → esta semana NO hay WhatsApp. Plan B live 29: registros por CORREO (Brevo, excepción a la regla de correo aprobada por necesidad) + DM de Instagram. Página puente y respuesta guardada de Meta sin link de WhatsApp ("te llega el acceso por correo"). Mabel pide revisión en la app en ambos números. Después del live: WhatsApp Business oficial (API) para leads de anuncios.
 - **24-nov · Director:** Mabel tiene un 2º número, admin de todos sus grupos. Plan: desde ese número copiar el link de invitación del grupo del live y ponerlo en el botón de la página puente y en la respuesta guardada de Meta. Cuidar el 2º número: CERO mensajes masivos (si lo suspenden, se queda sin grupos).
