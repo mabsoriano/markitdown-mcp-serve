@@ -18,6 +18,15 @@
   1) **Pack de Abundancia** → https://pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10&bid=1795054263134
   2) **Producto nuevo: "Decodifica tu Matriz de Origen y Destino y obtén tu Mapa Cuántico"** (precio y link por confirmar).
 
+## 🚦 PRIORIDADES DEL DIRECTOR · semana 24-29 nov (meta: que se inscriban y LLEGUEN al live dom 29 y compren)
+Diagnóstico: la pauta SÍ funciona (registros a ~$4.8). Lives diarios de TikTok NO (no llega nadie) → se cambian por YAPPING y comunidad. Ventas en 0: el hueco está entre registro → asistencia → compra. Por eso lo #1 es cuidar a los registrados.
+1. **HOY mar 24 · Secuencia del grupo de registrados (WhatsApp):** bienvenida + 5 guiones de video cortos de Mabel (mié bienvenida/por qué el hackeo simultáneo · jue testimonio · vie quién soy + productos · sáb indicaciones del domingo + invita a alguien · dom 9 AM "hoy es el día"). Estilo competencia (Rita Funes / María Montemayor).
+2. **HOY-MIÉ · Contenido semana en Hootsuite:** usar guiones ya hechos por el chat NAIA (`reels/semana-2026-11-24/`: BNQ, capas bio/neuro/quantum+Matriz, CEI, hoy live) + 1 YAPPING diario en TikTok (quién soy, curiosidad, comunidad) + activaciones muestra. Copy distinto cada día.
+3. **JUE 26 · Live listo:** guion + presentación con fecha dom 29 y la oferta (Pack de Abundancia + Matriz), links revisados, bono primeras 5.
+4. **JUE-VIE · Producto Matriz de Origen y Destino / Mapa Cuántico:** arte + mensaje a comunidad (WhatsApp y correo) con 2 precios (PDF y sesión 1 a 1). FALTA: precios e "incluye" de Mabel (no están en el repo).
+5. **SÁB · Landing Hotmart del producto Matriz.**
+6. **DESPUÉS del live (lun 30+):** web mabradiante.com (incongruencias + productos nuevos).
+
 ## 🗄️ FOCO ANTERIOR (cerrado)
 **Campaña activa: PROGRAMA LA RIQUEZA MIENTRAS DUERMES · Buen Fin extendido**
 - Producto: audio de activación de 8 h para dormir 21 noches + Fórmula CEI™ + Fórmula ADN + Fórmula para desbloquear la riqueza.
