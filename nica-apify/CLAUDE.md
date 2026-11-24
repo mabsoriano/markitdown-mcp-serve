@@ -586,6 +586,9 @@ Es el link para pauta, bio/Linktree, WhatsApp y correos. (Página armada por Mab
 ## HOOTSUITE: SIEMPRE INCLUIR FACEBOOK MabRadiante (Mabel, 19-nov)
 Todo borrador que vaya a IG mabradiante lleva TAMBIÉN el Facebook MabRadiante (socialProfileId 140515529, se reconectó el 19-nov; el viejo 140507774 ya no sirve). El compartir automático IG→FB no funciona con publicaciones de Hootsuite.
 
+## ⛔ WHATSAPP · NO MENSAJES MASIVOS (Mabel, 24-nov: suspensión de 24 h)
+Nunca el mismo mensaje a muchos grupos/chats a la vez. Masivo = solo canal de Avisos (1 mensaje). Grupos: máx. 2-3 por hora, texto distinto, sin links repetidos en serie.
+
 ## WHATSAPP: COMUNIDAD Y REGISTRO (Mabel, 20-nov)
 Comunidad 'Las Fórmulas Cuánticas · Comunidad BNQ'. Avisos = mensajes a todos (solo Mabel). NUNCA agregar personas a mano (suspensiones). Registro al live = link del grupo del live: https://chat.whatsapp.com/BvXnnKxwui6Am0Fnacs0gm (se manda por chat 1 a 1, ManyChat o correo; nunca en el anuncio de Meta).
 

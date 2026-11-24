@@ -54,6 +54,7 @@ Diagnóstico: la pauta SÍ funciona (registros a ~$4.8). Lives diarios de TikTok
 | Dom 22 | Hipnosis en vivo para compradores, 11 AM | Mabel |
 
 ## ✅ DECISIONES VIGENTES DE MABEL
+- ⛔ **REGLA WHATSAPP (Mabel, 24-nov, tras suspensión de 24 h):** NUNCA mandar el mismo mensaje a muchos grupos o chats a la vez. Avisos masivos SOLO por el canal de Avisos de la comunidad (1 mensaje). A grupos: máximo 2-3 por hora, con texto distinto, sin repetir links en serie. Nunca agregar personas a mano.
 - Puerta única **DINERO** por 90 días (16-nov → 14-feb-2027). Ver `briefs/acuerdo-agentes-como-vender-2026-11-16.md`.
 - Arte con fórmula de 6 pasos (foto real, gancho de identidad, palabra gigante, enemigo, número, flecha). Se hace en **Grok**.
 - Copy: Solución → Problema → CTA. Sin promesas de dinero/salud. Sin @. Firma "Mabel Soriano · BNQ Method™".
@@ -77,6 +78,7 @@ Diagnóstico: la pauta SÍ funciona (registros a ~$4.8). Lives diarios de TikTok
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **24-nov · Director:** 🚨 WhatsApp de Mabel SUSPENDIDO ~24 h (mandó el aviso a todos sus grupos a la vez); vuelve aprox. mié 25 tarde. Mientras: respuestas de formularios por la bandeja de Meta con la respuesta guardada; DMs de IG/TikTok para ABUNDANCIA/KUNDALINI. PAUSADO hasta jue 26: bienvenida del grupo, aviso Robóticas, mensajes Kundalini y pautas Kundalini (click a WhatsApp). Secuencia de registrados se recorre: jue 26 bienvenida + por qué en simultáneo · vie 27 testimonio + quién soy · sáb 28 indicaciones · dom 29 9 AM hoy es el día. Revisar botón final del formulario de Meta: si va al WhatsApp de Mabel, cambiar a la página puente hasta el miércoles.
 - **24-nov · NICA:** Kundalini V1b APROBADO por Mabel. 3 borradores Hootsuite hoy mar 24 · 7 PM MX: (a) IG mab + IG bnb + FB MabRadiante + FB Acreditaciones con el copy aprobado completo; (b) TikTok copy corto; (c) YouTube Short aparte con título en la 1a línea. YouTube: el MCP no fija título/privacidad (extendedInfo vacío) → probable causa de que no publique; Mabel debe poner Título y "Público" al dar Programar, o reconectar el canal en Hootsuite. Pautas Kundalini: pendientes de su OK de fecha.
 - **24-nov · Director:** ⛔ Video Kundalini V1 NO sale a pauta: testimonios con audio muy bajo y cortes despegados (Mabel). Encargado al chat "Carpeta nica-apify" (tiene los clips): normalizar volumen por clip, quitar silencios, transiciones cortas, Mabel aprueba ANTES de pautar.
 - **24-nov · Director:** revisé los otros chats. (1) Chat "videos y avatar": guiones a cámara mar-dom listos; jue/vie decían "Mapa desde $297" → precio correcto **$390 + imp** (Mabel); se le avisó. Falta link Hotmart del Mapa. (2) Robóticas: cupón COMUNIDAD 20% se queda hasta dom 29 (Mabel); AÚN NO se ha enviado a la comunidad. (3) Kundalini: V1 listo; faltan 2 pautas $50/día → WhatsApp y el V2 con videos de activados; Mabel recordó que sigue pendiente.
