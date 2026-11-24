@@ -79,6 +79,7 @@ Diagnóstico: la pauta SÍ funciona (registros a ~$4.8). Lives diarios de TikTok
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **24-nov · NICA:** textos de carrito abandonado Hotmart del Pack (1 h / 24 h / 48 h) → `campanas/carrito-abandonado-pack-dinero.md`.
 - **24-nov · NICA:** WhatsApp 2º número: configurar en la app (1) mensaje predeterminado del enlace corto "Hola Mabel, quiero inscribirme al LIVE GRATIS de Hipnosis del domingo 29 a las 11 AM 🙌", (2) mensaje de bienvenida automático con los datos del live, (3) respuesta rápida /live.
 - **24-nov · NICA:** portada Hotmart Mapa Cuántico v2 APROBADA (`hotmart/portada-mapa-cuantico-*.jpg`). Respuesta guardada de Messenger/IG para registros del live → link wa.me/message/4NEU5THHY33GD1.
 - **24-nov · Director:** link de registro vigente = https://wa.me/message/4NEU5THHY33GD1 (2º número, WhatsApp Business). Va en el botón de la página puente y en la respuesta guardada de Meta.
