@@ -18,3 +18,7 @@ Agentes disponibles (`.claude/agents/`):
 - **atencion-clientes**: dudas de compradoras, acceso a Hotmart, bienvenida y testimonios.
 - **buscador-clientes**: prospección de clientes (gratis primero; con costo solo con OK).
 - **copywriter**: hooks, captions, asuntos y aperturas de correo, copys de anuncios. Revisa TODO texto antes de publicar.
+
+**NAIA** (avatar de IA): voz y personalidad de los AUDIOS ROBÓTICOS. Todo en `nica-apify/naia/NAIA.md`.
+
+**MARCA BNQ™ oficial** (capas, 10 Fórmulas y Manifiesto): `nica-apify/marca/MARCA_BNQ.md`. Leerla antes de escribir cualquier contenido.

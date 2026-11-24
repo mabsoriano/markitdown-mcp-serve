@@ -14,6 +14,9 @@ pendientes.
 Siempre recomiendo lo que más resultado da, aunque cueste más dinero, pero
 **todo gasto lo autoriza Mabel antes**.
 
+## ⭐ MARCA OFICIAL
+Antes de escribir cualquier guion, copy o pantalla, lee `marca/MARCA_BNQ.md` (marca BNQ™, capas, 10 Fórmulas y Manifiesto). Se usa LITERAL y manda sobre cualquier otra descripción.
+
 ## Quién es Mabel
 - Terapeuta cuántica, neurohacker, autora y mentora. Monterrey, México.
 - Libro: *Las Fórmulas Cuánticas para Hackear la Matrix*.
@@ -153,6 +156,47 @@ interior, despierta tu subconsciente). Por definir con Mabel (1 o 2 fórmulas po
   aplican solo con su OK.** Nunca cambiar estilo, colores ni línea gráfica por mi cuenta.
 - Voz genérica de los audios: **pausada en momentos clave** (no lenta).
 - Tablero de números: el documento "2026-10-19" contiene en realidad la **semana 12–18 oct**.
+- **División NAIA / Mabel (decisión de Mabel, 29-oct-2026):** NAIA hace SOLO las frases de
+  activación robóticas cortas, **2 a la semana**. TODO lo demás (contenido estratégico del mes,
+  con los objetivos de cada semana, y la campaña de 2 veces por semana para los LIVES de
+  "Hipnosis para hackear los bloqueos con el dinero") es contenido con **Mabel real**.
+- **🤖 AUDIOS ROBÓTICOS = VOZ Y PERSONALIDAD DE NAIA (aprobado 28-oct-2026).** Antes de
+  escribir uno, lee `naia/NAIA.md` completo. Estructura, frases literales y cierre
+  "Lo que no se activa, no cambia y se transforma. Yo soy NAIA. Y esto es @mabradiante."
+  (en audio: "Mabradiante"). Generar: `python3 whatsapp/audio.py guion.txt salida.mp3 naia`.
+
+- **REGLA (30-oct-2026): todo video que entregue lleva SU COPY listo para pegar, SIEMPRE con
+  CTA al link del perfil** (ahí están todos los productos).
+
+- **REGLA (3-nov-2026): toda miniatura de YouTube lleva la firma literal "BNQ Method - Fórmulas Cuánticas para hackear tu mente y la Matrix by @mabradiante".**
+
+- **REGLA DE MABEL (11-nov-2026) · CALENDARIO DE VIDEOS:**
+  - **NAIA (hackeo): 2 por semana, MARTES y VIERNES.**
+  - **Videos diarios faceless de ~1 min** (estilo @coherenciacardiaca, análisis en la rama quirky-hawking
+    `briefs/analisis-faceless-coherenciacardiaca-2026-11-07.md`): **1 diario**, para FOMENTAR LA COMPRA en el link
+    del perfil del **producto que se esté vendiendo esa semana**. Se hacen con `reels/reel_movimiento.py` ($0).
+  - Semana del 11 nov: producto = **Hipnosis para hackear tus bloqueos con el dinero** (live jueves 12 nov →
+    Activación Simultánea $500).
+  - Mabel quiere VER cada video antes de decidir cambios: siempre mandarle una muestra antes de producir el resto.
+
+- **REGLA DE MABEL (17-nov-2026) · VIDEOS DE 12 s (dolor → solución → CTA):** 2 clips de Grok de 6 s
+  (dolor / resultado, protagonista mexicana o latina de 40 años), textos y firma encima (`doce/armar12.py`).
+  **Publicación opción B:** TikTok e Instagram los publica Mabel desde la app con CANCIÓN DE MODA (versión sin audio);
+  Facebook y YouTube Shorts van por Hootsuite con música gratis incluida (`doce/musica12.sh`, versión _MUSICA).
+- **ANTES de entregar cualquier prompt de Grok: pasar `doce/CHECKLIST_GROK.md` completo (cada corrección le cuesta uso a Mabel).**
+- **(17-nov) Los videos de 12 s se hacen COMPLETOS en Grok:** texto en pantalla + VOZ en español mexicano que dice
+  EXACTAMENTE lo mismo que el título + música de fondo baja. Texto corto en pantalla; la fórmula completa va en el copy.
+  NICA da los 2 prompts (dolor / solución+CTA) y el copy; solo une los clips si Grok no los junta.
+- **NAIA presenta productos en 15 s:** dolor → solución → CTA "Con 10 Fórmulas Cuánticas hackeas y reprogramas
+  [problema] en simultáneo en 3 niveles: subconsciente, memoria celular y energía, con BNQ Method de @mabradiante".
+
+- **CICLO SEMANAL DE VENTA (decisión de Mabel, 17-nov-2026):** se vende de lunes a **SÁBADO (cierre sáb 11:59 PM)** y el
+  **DOMINGO** Mabel hace la activación/hipnosis en vivo para TODAS las que compraron en la semana. Así cada semana.
+- **Este chat (NAIA / videos 12 s) hace piezas DISTINTAS al otro chat de NICA; ambas se pautan.** No se descartan por parecerse.
+
+- **FORMATOS POR RED (Mabel, 24-nov-2026):** **YouTube** = activaciones faceless MORADAS de ~75 s
+  (`reels/reel_movimiento.py`, "repite conmigo", CTA link del perfil; en pantalla "@mabradiante", nunca "arroba").
+  **TikTok/Instagram** = videos de 12 s de Grok (dolor→solución con voz) + NAIA 15 s. Ya no morados en TikTok/IG.
 
 ## Las 10 Fórmulas (para COMUNICAR en el contenido)
 F·01 Coherencia Energética Integral (CEI™) · F·02 Programación y Elevación de
@@ -303,6 +347,8 @@ Cuando Mabel diga **el tema del día** (ej. "abundancia", "soltar el miedo"):
    (una frase por línea; número solo = pausa en segundos, 1.5 a 1.8 para que repitan) y
    `python3 whatsapp/audio.py guion.txt salida.mp3` → MP3 con voz de mujer en español latino
    (Google, gratis). Meta: 30 s a 1 min. En la firma escribir "arroba mabradiante".
+   **Si es un AUDIO ROBÓTICO, lo dice NAIA:** guion y cierre de `naia/NAIA.md` y agregar
+   `naia` al final del comando.
 
 ## Cuentas que estudiamos
 | Red | Cuenta | Herramienta de Apify |
@@ -311,6 +357,7 @@ Cuando Mabel diga **el tema del día** (ej. "abundancia", "soltar el miedo"):
 | TikTok | @transformacion_acelerada | clockworks/tiktok-scraper |
 | TikTok | @soylizadebri | clockworks/tiktok-scraper |
 | TikTok | @manifestadoras | clockworks/tiktok-scraper |
+| TikTok | @subliminal946 (afirmaciones robóticas, referencia de NAIA; agregada 2-nov-2026) | clockworks/tiktok-scraper |
 | Instagram | @danielacorreaup | apify/instagram-scraper y apify/instagram-reel-scraper |
 | Instagram | @paola.a.botto (restringida +18: no se puede leer) | — |
 | Instagram | @quantumquip | apify/instagram-scraper y apify/instagram-reel-scraper |
@@ -424,7 +471,8 @@ Ramón (@quantum_gdl), Carlos Crespo, Abundantemente.org y Neurohacking Method.
 ## Recordatorios para Mabel (cuando sea oportuno)
 - **Meta Ads ($300 al día):** mandarlos a NAIA, cuando NAIA y los 5 niveles
   estén listos.
-- **NAIA:** se ajusta al final, con los 5 niveles terminados.
+- **NAIA:** ya es la voz y personalidad de los audios robóticos (`naia/NAIA.md`). El resto
+  (web, anuncios) se ajusta al final, con los 5 niveles terminados.
 - **Recorrido Completo:** ¿sacarlo de la venta o venderlo en preventa?
 - **Web:** producto principal (hoy dice MENTOR BNQ), VIP en siembra o ya a la
   venta, y quitar "física cuántica real".
