@@ -1,7 +1,7 @@
 # 🧭 ESTADO DEL NEGOCIO · tablero compartido del equipo de Mabel
 > **Todos los agentes (NICA, estratega, productor) LEEN este archivo PRIMERO y lo ACTUALIZAN AL TERMINAR.**
 > Si algo aquí contradice un brief viejo, **manda este archivo**. Una sola fuente de verdad.
-> Última actualización: 23-nov-2026 · NICA
+> Última actualización: 24-nov-2026 · Director/NICA
 
 ## 🎯 FOCO ACTUAL (no cambiar sin OK de Mabel)
 **LIVE GRATIS · DOMINGO 29 nov · 11:00 AM** (Mabel lo movió el 23-nov; antes mié 25). Pauta Meta $120/día toda la semana.
@@ -9,6 +9,10 @@
 - Artes y video con la fecha nueva: `live/artes/pauta-29/` (4x5, 9x16, 1x1 y video 9x16 de 20 s con voz). Generador: `live/arte_live_29_neon.py`.
 - Comunidad: Robóticas con cupón COMUNIDAD (20%), checkout por armar. Kundalini: pauta pendiente (V1 listo; V2 con videos de activados), se vende por WhatsApp sin precio.
 - Pendiente: bono para las primeras 5 compradoras del live.
+- 💡 **IDEA EN EVALUACIÓN (Mabel, 24-nov): MATRIZ DEL DESTINO como DIAGNÓSTICO.** Vender el diagnóstico (lectura de la Matriz con su fecha de nacimiento, foco en la zona de DINERO) → luego la oferta para desbloquearlo EN SIMULTÁNEO con el Método BNQ (subconsciente · memoria celular · energía). Bono propuesto: **las primeras 5 compradoras del live reciben su Matriz del Destino GRATIS.**
+  - Cómo decirlo sin contradecir "somos creadoras de nuestra realidad": la Matriz NO es destino fijo; es el **"código de fábrica" / el programa con el que llegaste** (mapa del punto de partida). BNQ es el **hackeo** para reprogramarlo. "Tu Matriz te dice con qué programa llegaste. El Método BNQ te da el poder de reescribirlo." Nunca "tu destino ya está escrito".
+  - Presentarla como mapa TRADICIONAL (numerología + arcanos), no como ciencia (regla de distinguir los mapas).
+  - Por definir con Mabel: precio del diagnóstico, formato (PDF, audio, video o sesión corta), quién hace el cálculo y si se ofrece desde este live o desde el siguiente.
 
 ## 🗄️ FOCO ANTERIOR (cerrado)
 **Campaña activa: PROGRAMA LA RIQUEZA MIENTRAS DUERMES · Buen Fin extendido**
@@ -53,6 +57,7 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **24-nov · Director/NICA (resumen del chat 22-24 nov para el chat nuevo):** (1) Tablero al día con el estado del 21-nov. (2) LIVE movido a **dom 29 nov 11 AM**; regla: lives siempre en domingo y pauta toda la semana. (3) Arte neón con fecha nueva + video 9x16 entregados (`live/artes/pauta-29/`), con copy ganador actualizado al domingo 29. (4) Matriz del Destino: Mabel la quiere VENDER como diagnóstico → oferta BNQ; bono = Matriz gratis a las primeras 5 (ver FOCO). **Siguiente en el chat nuevo:** definir precio y formato del diagnóstico y cerrar la oferta del live del 29 (qué se vende y a qué precio).
 - **24-nov · NICA (pauta LIVE 29):** campaña "LIVE 29 NOV · Registro" (Clientes potenciales) lun 23: $87.28 · 18 registros a $4.85 · 33 clics. En rango (mejor histórico $2.37 el 3-nov; 15-nov $5.59). No mover. Revisar mié 26. Riqueza Buen Fin cerrada (pausada, último gasto 20-nov).
 - **24-nov · NICA:** rama friendly-carson unida con quirky-hawking y serene-fermi (tablero único = el de serene-fermi + esta línea).
 - **23-nov · NICA:** live movido a DOMINGO 29 nov 11 AM. Arte neón con fecha nueva en 4x5, 9x16 y 1x1 + video 9x16 (20 s, voz Google + música) en `live/artes/pauta-29/`. Falta: Mabel reemplaza artes, video y fechas del copy/formulario en Meta (la cuenta 416436663729290 no la puede editar el conector).
