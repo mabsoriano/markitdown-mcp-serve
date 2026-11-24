@@ -622,7 +622,7 @@ Todo precio que se escriba lleva "+ impuestos".
 ## LÍNEA GRÁFICA DE PRODUCTOS Y CHECKOUT (Mabel, 21-nov: "revisa mi línea")
 Artes de producto, checkout y anuncios de venta = SU LÍNEA DE GROK: universo morado/azul con galaxia y partículas doradas, títulos serif DORADOS con brillo, texto blanco, su foto real con halo dorado, átomo dorado, botones dorados. NO fondo crema/amarillo/café (eso queda solo para láminas del live hechas por NICA si ella lo pide). Generador: landing/checkout_roboticas_galaxia.py.
 
-## REGLA COMUNIDAD = SIEMPRE 20% (Mabel, 21-nov)
+## REGLA COMUNIDAD = SIEMPRE 20% (Mabel, 21-nov) · ⛔ REEMPLAZADA 24-nov: descuentos SOLO para la comunidad VIP (compradoras / BioNeurohackers VIP). La comunidad normal (chats y grupos que aún no compran) paga precio completo.
 Todo producto que se le ofrezca a la comunidad lleva SIEMPRE 20% de descuento con el cupón COMUNIDAD (precio público − 20% + impuestos). El contador de cada oferta a la comunidad sí lleva fecha real de cierre.
 
 ## MODELO DE VENTA DEFINIDO POR MABEL (21-nov) · manda sobre lo anterior

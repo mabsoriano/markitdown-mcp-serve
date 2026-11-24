@@ -14,10 +14,11 @@
   - Presentarla como mapa TRADICIONAL (numerología + arcanos), no como ciencia (regla de distinguir los mapas).
   - Por definir con Mabel: precio del diagnóstico, formato (PDF, audio, video o sesión corta), quién hace el cálculo y si se ofrece desde este live o desde el siguiente.
 
+- ⛔ **REGLA DE DESCUENTOS (Mabel, 24-nov, manda sobre 'Comunidad = siempre 20%'):** los descuentos son SOLO para la comunidad VIP (compradoras / BioNeurohackers VIP). Los chats y grupos de WhatsApp son gente que aún no compra: comunidad normal, SIN descuento. ⚠️ Revisar con Mabel el cupón COMUNIDAD 20% de Robóticas de esta semana.
 - ✅ **PRODUCTO NUEVO (Mabel, 24-nov) · "Decodificación de tu Carta Natal + Matriz del Destino: Tu Mapa Cuántico"**
   - **Paquete (PDF): $390 + impuestos** → Carta Natal + Matriz del Destino + Protocolo CEI™.
   - **Sesión 1 a 1 con Mabel: $2,000 + impuestos** → lo mismo del paquete + 20 min de lectura en vivo, detección de bloqueos y fugas, diagnóstico y activación simultánea en vivo + acceso gratis a la comunidad VIP.
-  - Comunidad: 20% con cupón COMUNIDAD (regla fija) → PDF $312 · sesión $1,600 (+ imp). Confirmar con Mabel.
+  - **SIN descuento** (Mabel, 24-nov): precio único $390 y $2,000 (+ imp). El precio de oferta es SOLO para la comunidad VIP (quienes ya compraron / BioNeurohackers VIP), que todavía no existe.
   - Se vende en el cierre del live dom 29 (junto al Pack de Abundancia) y por WhatsApp/correo a la comunidad. Landing Hotmart: pendiente.
   - ⚠️ Lo acordó Mabel en el chat de videos/avatar y NO se había subido al tablero. Regla: todo chat sube sus acuerdos a ESTADO.md al terminar.
 - ✅ **OFERTA DEL LIVE DOM 29 (confirmada por Mabel, 24-nov):** hipnosis en vivo (NO completa) y al cierre vende:
