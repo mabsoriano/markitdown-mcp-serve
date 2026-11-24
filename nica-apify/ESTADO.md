@@ -79,6 +79,7 @@ Diagnóstico: la pauta SÍ funciona (registros a ~$4.8). Lives diarios de TikTok
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **24-nov · NICA:** WhatsApp 2º número: configurar en la app (1) mensaje predeterminado del enlace corto "Hola Mabel, quiero inscribirme al LIVE GRATIS de Hipnosis del domingo 29 a las 11 AM 🙌", (2) mensaje de bienvenida automático con los datos del live, (3) respuesta rápida /live.
 - **24-nov · NICA:** portada Hotmart Mapa Cuántico v2 APROBADA (`hotmart/portada-mapa-cuantico-*.jpg`). Respuesta guardada de Messenger/IG para registros del live → link wa.me/message/4NEU5THHY33GD1.
 - **24-nov · Director:** link de registro vigente = https://wa.me/message/4NEU5THHY33GD1 (2º número, WhatsApp Business). Va en el botón de la página puente y en la respuesta guardada de Meta.
 - **24-nov · Director (corrección):** el 2º número NO está suspendido; lo suspendido son los grupos y Avisos. Plan: botón de la página puente → wa.me/<2º número>?text=QUIERO MI LUGAR. Mabel responde 1 a 1 con respuesta rápida y pide "guarda mi número". NO agregar a grupos a mano. Zoom del domingo por lista de difusión (solo llega a quien guardó el número) + correo de respaldo.
