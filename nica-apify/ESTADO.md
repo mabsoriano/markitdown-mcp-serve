@@ -16,7 +16,7 @@
 
 - ✅ **OFERTA DEL LIVE DOM 29 (confirmada por Mabel, 24-nov):** hipnosis en vivo (NO completa) y al cierre vende:
   1) **Pack de Abundancia** → https://pay.hotmart.com/U104269730G?off=dwbelu1i&checkoutMode=10&bid=1795054263134
-  2) **Producto nuevo: "Decodifica tu Matriz de Origen y Destino y obtén tu Mapa Cuántico"** (precio y link por confirmar).
+  2) **Producto nuevo: "Decodifica tu Matriz de Origen y Destino y obtén tu Mapa Cuántico"**: PDF **$390 + impuestos** · sesión 1:1 **$2,000 + impuestos** (sin descuento; link de Hotmart pendiente).
 
 ## 🗄️ FOCO ANTERIOR (cerrado)
 **Campaña activa: PROGRAMA LA RIQUEZA MIENTRAS DUERMES · Buen Fin extendido**

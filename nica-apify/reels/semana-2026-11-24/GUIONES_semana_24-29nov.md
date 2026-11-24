@@ -42,7 +42,7 @@
 - Merezco recibir.
 - Merezco recibir.
 - Merezco recibir.
-- ¿Quieres saber con qué programa llegaste? Tu Mapa Cuántico está en el link de mi perfil, desde 297 pesos. Comenta MAPA.
+- ¿Quieres saber con qué programa llegaste? Tu Mapa Cuántico está en el link de mi perfil, desde 390 pesos más impuestos. Comenta MAPA.
 - Este domingo 29, a las 11 de la mañana, te hipnotizo en vivo, gratis.
 - Lo que no se activa, no cambia. Y lo que no se repite, no se instala. Mabel Soriano, BNQ Method.
 
@@ -57,7 +57,7 @@
 - Soy la creadora de mi realidad.
 - Soy la creadora de mi realidad.
 - Soy la creadora de mi realidad.
-- Decodifica tu Matriz y obtén tu Mapa Cuántico desde 297 pesos, o en sesión uno a uno conmigo. Link en mi perfil. Comenta MAPA.
+- Decodifica tu Matriz y obtén tu Mapa Cuántico desde 390 pesos más impuestos, o en sesión uno a uno conmigo. Link en mi perfil. Comenta MAPA.
 - Este domingo 29, a las 11 de la mañana, te hipnotizo en vivo, gratis.
 - Lo que no se activa, no cambia. Y lo que no se repite, no se instala. Mabel Soriano, BNQ Method.
 
