@@ -57,6 +57,7 @@
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **24-nov · NICA:** 2 borradores en Hootsuite para el LIVE 29 (mar 24 · 12 PM MX): (a) arte 4x5 → IG mabradiante + IG bioneuroblueprint + FB MabRadiante + FB Acreditaciones; (b) video 9x16 → TikTok mabradiante + YouTube Short. CTA "Comenta ABUNDANCIA", sin precio. Mabel da "Programar".
 - **24-nov · Director:** los registros del formulario ahora también llegan como mensaje a la bandeja de Meta (Messenger/IG, "Respuestas de anuncios"). Se aprovecha: responder en menos de 24 h con el link del grupo del live (mensaje guardado o respuesta automática). Mabel ya está respondiendo "Entra al grupo de WhatsApp…".
 - **24-nov · Trafficker (Windsor, solo lectura):** "LIVE 29 NOV · Registro" campaña, conjunto y anuncio ACTIVOS; fin del conjunto dom 29 10:00 AM ✅. 23-nov: $88.26 · 19 registros · **$4.65 c/u** ✅. No se pudo verificar arte, copy, formulario ni página puente (Windsor no los lee): falta captura de Mabel. Decisión: no mover hasta mié 26.
 - **24-nov · Director (pendientes del otro chat "Carpeta nica-apify", consolidados aquí):**
