@@ -80,6 +80,7 @@ Diagnóstico: la pauta SÍ funciona (registros a ~$4.8). Lives diarios de TikTok
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **25-nov · NICA (correos LIVE 29):** 3 correos para los 67 registros (hoy confirmación + link, sáb 7 PM recordatorio, dom 10:45 AM "empezamos") con el Zoom real de Mabel → `correos/live-29-nov-registros-2026-11-25.md/.docx`. Excepción a la regla de correo del 14-nov porque WhatsApp está suspendido (plan B del Director). Falta: CSV de Meta y OK de Mabel para cargarlos en Brevo como borrador.
 - **25-nov · NICA (pauta):** Mabel decidió DETENER la pauta LIVE 29. PAUSADA vía Windsor (reversible). Total 23-25 nov: **$320.59 · 67 registros · $4.78 c/u**. WhatsApp suspendido → solo tenemos su CORREO. Siguiente: descargar registros de Meta (Clientes potenciales → CSV) y mandar invitación al LIVE por correo (Brevo, plan B del Director). Sin mensajes masivos por WhatsApp.
 - **25-nov · NICA:** Mapa Cuántico dado de alta en Hotmart (2 ofertas) + formulario de Google. Hecho el PDF de bienvenida con botón al formulario para subir como entregable del eBook.
 - **25-nov 7 AM · Director:** Pauta LIVE 29 (Windsor): lun 23 $121.07 · 25 reg ($4.84) · mar 24 $142.25 · 30 reg ($4.74) · acumulado $263.32 · 55 registros a $4.79 ✅ (no se mueve).
