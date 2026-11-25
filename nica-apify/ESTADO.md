@@ -20,6 +20,7 @@
   - **Paquete (PDF): $390 + impuestos** → Carta Natal + Matriz del Destino + Protocolo CEI™.
   - **Sesión 1 a 1 con Mabel: $2,000 + impuestos** → lo mismo del paquete + 20 min de lectura en vivo, detección de bloqueos y fugas, diagnóstico y activación simultánea en vivo + acceso gratis a la comunidad VIP.
   - **SIN descuento** (Mabel, 24-nov): precio único $390 y $2,000 (+ imp). El precio de oferta es SOLO para la comunidad VIP (quienes ya compraron / BioNeurohackers VIP), que todavía no existe.
+  - **Links Hotmart (eBook S108650327P):** https://pay.hotmart.com/S108650327P?off=s7v29040&checkoutMode=10 · https://pay.hotmart.com/S108650327P?off=cjl8igte&checkoutMode=10 (falta confirmar cuál es PDF y cuál sesión). Formulario: https://docs.google.com/forms/d/e/1FAIpQLScNF6hY-jTNJXgc5p8XUPUl02XdktFJdB4xoszE0KvdHbFP_A/viewform. PDF de bienvenida: `productos/mapa-cuantico/MAPA-CUANTICO-BIENVENIDA.pdf`.
   - Se vende en el cierre del live dom 29 (junto al Pack de Abundancia) y por WhatsApp/correo a la comunidad. Landing Hotmart: pendiente.
   - ⚠️ Lo acordó Mabel en el chat de videos/avatar y NO se había subido al tablero. Regla: todo chat sube sus acuerdos a ESTADO.md al terminar.
 - ✅ **OFERTA DEL LIVE DOM 29 (confirmada por Mabel, 24-nov):** hipnosis en vivo (NO completa) y al cierre vende:
@@ -79,6 +80,7 @@ Diagnóstico: la pauta SÍ funciona (registros a ~$4.8). Lives diarios de TikTok
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **25-nov · NICA:** Mapa Cuántico dado de alta en Hotmart (2 ofertas) + formulario de Google. Hecho el PDF de bienvenida con botón al formulario para subir como entregable del eBook.
 - **25-nov 7 AM · Director:** Pauta LIVE 29 (Windsor): lun 23 $121.07 · 25 reg ($4.84) · mar 24 $142.25 · 30 reg ($4.74) · acumulado $263.32 · 55 registros a $4.79 ✅ (no se mueve).
 - **25-nov · Hoy:** revisar pauta mié 26; Mabel arma el formulario de Google del Mapa y da de alta el eBook en Hotmart (2 ofertas) → links; secuencia de bienvenida por WhatsApp 1 a 1 desde jue 26, sin envíos masivos.
 - **24-nov · NICA:** arte de redes Mapa Cuántico con 2 opciones (PDF $390 / sesión 1 a 1 $2,000, + imp) en 4:5 y 9:16 → `hotmart/redes/` (muestra para OK). CTA "Comenta MAPA".
