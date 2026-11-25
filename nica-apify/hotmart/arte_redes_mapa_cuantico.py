@@ -6,7 +6,7 @@ src = Path("landing/checkout_roboticas_galaxia.py").read_text().split("# 1 HERO"
 m = types.ModuleType("g"); sys.argv = ["x", "/tmp/_g"]; exec(src, m.__dict__)
 ORO = (255, 200, 60); CAFE = (70, 30, 10); MOR = (60, 25, 90)
 
-def arte(W, H, out):
+def arte(W, H, out, cta="Comenta MAPA y te mando el link"):
     m.W = W
     bg = m.galaxia(W, H, 9)
     geo = Image.open("marca/geo-metatron.png").convert("RGBA").resize((820, 820))
@@ -43,7 +43,7 @@ def arte(W, H, out):
     y = tarjeta(y, "OPCIÓN 1", "TU MAPA EN PDF", ["Carta Natal", "Matriz del Destino", "Tu diagnóstico personal"], "$390 + impuestos", False) + 28
     y = tarjeta(y, "OPCIÓN 2", "SESIÓN 1 A 1 CONMIGO", ["Tu Mapa en PDF", "20 min de lectura en vivo", "Activación simultánea", "Acceso a mi comunidad VIP"], "$2,000 + impuestos", True) + 34
     # CTA
-    t = "Comenta MAPA y te mando el link"; f = m.F(m.B, 40); tw = d.textlength(t, font=f)
+    t = cta; f = m.F(m.B, 36 if len(cta) > 34 else 40); tw = d.textlength(t, font=f)
     d.rounded_rectangle(((W - tw) / 2 - 40, y, (W + tw) / 2 + 40, y + 76), 38, fill=ORO)
     d.text(((W - tw) / 2, y + 14), t, font=f, fill=MOR)
     bg.save(out, quality=93)
@@ -51,4 +51,5 @@ def arte(W, H, out):
 Path("hotmart/redes").mkdir(exist_ok=True)
 arte(1080, 1350, "hotmart/redes/MAPA-CUANTICO-4x5.jpg")
 arte(1080, 1920, "hotmart/redes/MAPA-CUANTICO-9x16.jpg")
+arte(1080, 1350, "hotmart/redes/MAPA-CUANTICO-MENSAJE-4x5.jpg", "Elige tu opción · el link va en el mensaje")
 print("ok")
