@@ -188,3 +188,4 @@
 - 21-nov · Kundalini presupuesto APROBADO: EN LÍNEA todo México $50/día + PRESENCIAL solo Monterrey $50/día. Se arman cuando lleguen los 3 clips de Grok. Flujo: WhatsApp → precio en chat → link Hotmart → agenda.
 - 21-nov · Video Kundalini V1 (43 s): 3 clips de Grok (dolor → tercer ojo → Kundalini) + testimonio del joven + cierre galaxia AGENDA ABIERTA, música. ANUNCIO-KUNDALINI-PINEAL 9x16 y 4x5. Drive carpeta 1uEjFLDpPDCAxyEmugb_LWMV1GEvxxQ39: Mabel sigue subiendo videos de 'activados' para la V2.
 - 22-nov 7:13 · Director (modo ahorro): pauta live 25 sin datos todavía; hoy bloque 2 de grabación 5 PM + TikTok LIVE 7 PM.
+- 25-nov · NICA: 6 videos REDES (problema→solución, clips nuevos de Drive 24-nov) + copys en reels/semana-2026-11-24/videos/ (COPYS_REDES.md). También 6 versión YouTube. Pendiente OK de Mabel.
