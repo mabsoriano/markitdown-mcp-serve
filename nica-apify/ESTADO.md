@@ -79,6 +79,8 @@ Diagnóstico: la pauta SÍ funciona (registros a ~$4.8). Lives diarios de TikTok
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **25-nov 7 AM · Director:** Pauta LIVE 29 (Windsor): lun 23 $121.07 · 25 reg ($4.84) · mar 24 $142.25 · 30 reg ($4.74) · acumulado $263.32 · 55 registros a $4.79 ✅ (no se mueve).
+- **25-nov · Hoy:** revisar pauta mié 26; Mabel arma el formulario de Google del Mapa y da de alta el eBook en Hotmart (2 ofertas) → links; secuencia de bienvenida por WhatsApp 1 a 1 desde jue 26, sin envíos masivos.
 - **24-nov · NICA:** arte de redes Mapa Cuántico con 2 opciones (PDF $390 / sesión 1 a 1 $2,000, + imp) en 4:5 y 9:16 → `hotmart/redes/` (muestra para OK). CTA "Comenta MAPA".
 - **24-nov · NICA:** texto de la página Hotmart del Mapa Cuántico entregado (`productos/mapa-cuantico/hotmart-pagina.md`). Por confirmar: tiempo de entrega del PDF (propuesta 72 h hábiles).
 - **24-nov · NICA:** textos de carrito abandonado Hotmart del Pack (1 h / 24 h / 48 h) → `campanas/carrito-abandonado-pack-dinero.md`.
