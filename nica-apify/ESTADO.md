@@ -80,6 +80,8 @@ Diagnóstico: la pauta SÍ funciona (registros a ~$4.8). Lives diarios de TikTok
 | 16-22 nov | (Riqueza) | — | — | — | Hotmart `src=meta_riqueza` |
 
 ## 🤝 BITÁCORA DEL EQUIPO (el más reciente arriba · cada agente agrega 2-3 líneas al terminar)
+- **26-nov 7 AM · Director:** Pauta LIVE 29 (Windsor): mié 25 $148.02 · 29 reg ($5.10). Acumulado 23-25 nov: $411.92 · 84 registros a $4.90 ✅ (sin cambios; Windsor aún sin datos del 26).
+- **26-nov · Hoy:** bienvenida 1 a 1 a registrados por WhatsApp (sin masivos) + videos jue (testimonio / capa neuro con Mapa $390); subir PDF de bienvenida al eBook en Hotmart; mensaje "/mapa" con los 2 links.
 - **25-nov · NICA:** Mapa Cuántico dado de alta en Hotmart (2 ofertas) + formulario de Google. Hecho el PDF de bienvenida con botón al formulario para subir como entregable del eBook.
 - **25-nov 7 AM · Director:** Pauta LIVE 29 (Windsor): lun 23 $121.07 · 25 reg ($4.84) · mar 24 $142.25 · 30 reg ($4.74) · acumulado $263.32 · 55 registros a $4.79 ✅ (no se mueve).
 - **25-nov · Hoy:** revisar pauta mié 26; Mabel arma el formulario de Google del Mapa y da de alta el eBook en Hotmart (2 ofertas) → links; secuencia de bienvenida por WhatsApp 1 a 1 desde jue 26, sin envíos masivos.
